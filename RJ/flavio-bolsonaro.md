@@ -7765,3 +7765,6 @@
 - **[2026-10-22 13:44 UTC]** Alckmin acusa Flávio Bolsonaro de dar desculpas para não abrir sigilos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alckmin-acusa-flavio-bolsonaro-desculpas-para-nao-abrir-sigilos/)_
 
+- **[2026-10-22 12:41 UTC]** Equipe de Lula entrega ao TSE resposta que aceita desafio de Flávio sobre sigilos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/equipe-lula-entrega-tse-resposta-aceita-desafio-flavio-sigilos/)_
+
