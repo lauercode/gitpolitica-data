@@ -7729,3 +7729,6 @@
 - **[2026-10-22 13:13 UTC]** Grupo propõe a Lula e Flávio medidas para derrubar a taxa Selic a 7,5% em 2027
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/grupo-propoe-a-lula-e-flavio-medidas-para-derrubar-a-taxa-selic-a-75-em-2027.shtml)_
 
+- **[2026-10-22 13:00 UTC]** Lula estaria de mãos atadas com novo Congresso, e Flávio Bolsonaro não teria vida tão fácil, diz especialista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-estaria-de-maos-atadas-com-novo-congresso-e-flavio-bolsonaro-nao-teria-vida-tao-facil-diz-especialista.shtml)_
+
