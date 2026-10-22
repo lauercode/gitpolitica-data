@@ -1565,3 +1565,6 @@
 - **[2026-10-22 15:47 UTC]** Flávio escala Dallagnol para analisar sigilos de Lula e pessoas próximas ao presidente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-escala-dallagnol-analisar-sigilos-lula-pessoas-proximas/)_
 
+- **[2026-10-22 14:03 UTC]** Abertura da caixa-preta: Flávio Bolsonaro faz novas exigências a Lula em guerra dos sigilos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/abertura-da-caixa-preta-flavio-bolsonaro-faz-novas-exigencias-a-lula-em-guerra-dos-sigilos/)_
+
