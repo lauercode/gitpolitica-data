@@ -104,3 +104,6 @@
 - **[2026-10-22 15:00 UTC]** Mudança de hábitos ajuda a diminuir probabilidade de Alzheimer, mesmo com risco genético
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/mudanca-de-habitos-ajuda-a-diminuir-probabilidade-de-alzheimer-mesmo-com-risco-genetico.shtml)_
 
+- **[2026-10-22 20:01 UTC]** Mudança climática levou a 32 mil mortes em ondas de calor no verão europeu
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/mudanca-climatica-levou-a-32-mil-mortes-em-ondas-de-calor-no-verao-europeu.shtml)_
+
