@@ -23,3 +23,6 @@
 - **[2026-10-20 23:33 UTC]** Milton Cunha pede desculpas a Pabllo Vittar após fala sobre cantora: 'Erro grosseiro'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/milton-cunha-pede-desculpas-a-pabllo-vittar-apos-fala-sobre-cantora-erro-grosseiro.shtml)_
 
+- **[2026-10-22 09:14 UTC]** Palco de resistência, Theatro São Pedro celebra o legado de Milton Nascimento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musica-em-letras/2026/10/palco-de-resistencia-theatro-sao-pedro-celebra-o-legado-de-milton-nascimento.shtml)_
+
