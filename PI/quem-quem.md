@@ -494,3 +494,6 @@
 - **[2026-10-22 08:05 UTC]** STJ usa 'Quem Ama Cuida' para explicar como a condenação definitiva pode ser revista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/stj-usa-quem-ama-cuida-para-explicar-como-a-condenacao-definitiva-pode-ser-revista.shtml)_
 
+- **[2026-10-22 16:44 UTC]** 'Quem Ama Cuida': Ulisses confronta Fábia após descobrir traição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/quem-ama-cuida-ulisses-confronta-fabia-apos-descobrir-traicao.shtml)_
+
