@@ -7684,3 +7684,6 @@
 - **[2026-10-22 06:00 UTC]** Qual o futuro dos concursos públicos? Veja o que propõem Lula e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/22/qual-o-futuro-dos-concursos-publicos-veja-o-que-propoem-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-22 04:00 UTC]** CNBB defende Constituição e pede intercessão de Nossa Senhora após embate com Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cnbb-defende-constituicao-e-pede-intercessao-de-nossa-senhora-apos-embate-com-flavio-bolsonaro.shtml)_
+
