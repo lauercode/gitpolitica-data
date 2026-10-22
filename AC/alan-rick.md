@@ -581,3 +581,6 @@
 - **[2026-10-21 08:00 UTC]** Eleitores do Acre escolhem entre Mailza Assis e Alan Rick para governo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-do-acre-voltam-urnas-no-domingo-para-escolher-entre-mailza-assis-e-alan-rick-para%20governar-estado)_
 
+- **[2026-10-22 09:30 UTC]** Viúva de Rick Sollo desabafa um mês após morte do cantor: 'Já não sou a mesma pessoa'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/viuva-de-rick-sollo-desabafa-um-mes-apos-morte-do-cantor-ja-nao-sou-a-mesma-pessoa.shtml)_
+
