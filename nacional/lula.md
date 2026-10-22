@@ -1577,3 +1577,6 @@
 - **[2026-10-22 12:22 UTC]** Como será o debate da TV Globo entre Lula e Flávio a dois dias da votação
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-sera-debate-tv-globo-entre-lula-e-flavio-segundo-turno/)_
 
+- **[2026-10-22 16:26 UTC]** As propostas de Lula e Flávio Bolsonaro sobre CLT e relações trabalhistas
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmn8w4q5x9l2o?at_medium=RSS&at_campaign=rss)_
+
