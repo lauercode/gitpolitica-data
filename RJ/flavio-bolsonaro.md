@@ -7726,3 +7726,6 @@
 - **[2026-10-22 13:28 UTC]** Debate da Globo entre Lula e Flávio Bolsonaro não terá checagem ao vivo na TV; serviço será feito no g1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/debate-da-globo-entre-lula-e-flavio-bolsonaro-nao-tera-checagem-ao-vivo-na-tv-servico-sera-feito-no-g1.shtml)_
 
+- **[2026-10-22 13:13 UTC]** Grupo propõe a Lula e Flávio medidas para derrubar a taxa Selic a 7,5% em 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/grupo-propoe-a-lula-e-flavio-medidas-para-derrubar-a-taxa-selic-a-75-em-2027.shtml)_
+
