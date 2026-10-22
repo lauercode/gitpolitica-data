@@ -89,3 +89,6 @@
 - **[2026-09-11 19:10 UTC]** Ministério Público investiga prefeito no TO por suspeita de nepotismo após nomeação da esposa e de seis sobrinhos
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/11/mpto-investiga-prefeito-no-to-por-suspeita-de-nepotismo-apos-nomeacao-da-esposa-e-de-seis-sobrinhos.ghtml)_
 
+- **[2026-10-22 15:20 UTC]** Prefeito socialista de Nova York elogia Lula por fim da escala 6×1
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/prefeito-socialista-nova-york-elogia-lula-fim-escala-6x1/)_
+
