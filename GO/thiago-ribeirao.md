@@ -11,3 +11,6 @@
 - **[2026-09-05 23:59 UTC]** Ribeirão Preto, que cresceu com a ferrovia, se aproxima de 30 anos sem trens de passageiros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/09/ribeirao-preto-que-cresceu-com-a-ferrovia-se-aproxima-de-30-anos-sem-trens-de-passageiros.shtml)_
 
+- **[2026-10-21 20:43 UTC]** Polícia mata dois homens apontados como lideranças do PCC em Ribeirão Preto (SP)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-mata-dois-homens-apontados-como-liderancas-do-pcc-em-ribeirao-preto-sp.shtml)_
+
