@@ -7618,3 +7618,6 @@
 - **[2026-10-21 15:12 UTC]** Flávio Bolsonaro diz que só abre sigilo se Lula abrir o de ex-assessor, e petista afirma aceitar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-abre-sigilo-se-lula-abrir-o-de-marcola-e-critica-ministros-do-stf.shtml)_
 
+- **[2026-10-21 23:28 UTC]** Lula aceita condições de Flávio para quebra de sigilo: “Ele trucou, mas não tem carta boa”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-aceita-condicoes-de-flavio-para-quebra-de-sigilo-ele-trucou-mas-nao-tem-carta-boa/)_
+
