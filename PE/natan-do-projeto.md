@@ -344,3 +344,6 @@
 - **[2026-10-20 10:00 UTC]** Projeto defendido por Flávio vai contra recomendação da ONU para prevenir desvio e tráfico de armas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/projeto-defendido-por-flavio-vai-contra-recomendacao-da-onu-para-prevenir-desvio-e-trafico-de-armas.shtml)_
 
+- **[2026-10-21 22:37 UTC]** Projeto em presídio do Paraná ensina artesanato e empreendedorismo a mulheres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/projeto-em-presidio-do-parana-ensina-artesanato-e-empreendedorismo-a-mulheres.shtml)_
+
