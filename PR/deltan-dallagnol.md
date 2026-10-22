@@ -119,3 +119,6 @@
 - **[2026-10-08 16:01 UTC]** TSE adia julgamento sobre validade da candidatura de Deltan Dallagnol ao Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/tse-adia-julgamento-sobre-validade-da-candidatura-de-deltan-dallagnol-ao-senado.ghtml)_
 
+- **[2026-10-22 10:56 UTC]** Campanha de Flávio Bolsonaro escala Deltan Dallagnol para analisar documentos de quebra de sigilo de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/campanha-de-flavio-escala-deltan-dallagnol-para-analisar-documentos-de-quebra-de-sigilo-de-lula.shtml)_
+
