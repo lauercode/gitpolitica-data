@@ -122,3 +122,6 @@
 - **[2026-10-21 16:57 UTC]** Alunos da Belas Artes marcam protesto em SP após reitor usar email para criticar Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/alunos-da-belas-artes-marcam-protesto-em-sp-apos-reitor-usar-email-para-criticar-lula.shtml)_
 
+- **[2026-10-22 06:00 UTC]** PM-SP acusa campanha de Lula e governo de ameaça e descumprimento de ordem judicial na Paulista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pm-sp-acusa-campanha-de-lula-e-governo-de-ameaca-e-descumprimento-de-ordem-judicial-na-paulista.shtml)_
+
