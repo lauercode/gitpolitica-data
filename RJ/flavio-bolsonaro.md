@@ -7609,3 +7609,6 @@
 - **[2026-10-21 19:30 UTC]** Deputado pede quebra de sigilos de Flávio Bolsonaro e Willer Tomaz
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/deputado-pede-quebra-de-sigilos-de-flavio-bolsonaro-e-willer-tomaz.shtml)_
 
+- **[2026-10-21 19:06 UTC]** Último ato de Flávio em São Paulo tem orações, funk eleitoral e pipoca verde e amarela
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ultimo-ato-de-flavio-em-sao-paulo-tem-oracoes-funk-eleitoral-e-pipoca-verde-e-amarela.shtml)_
+
