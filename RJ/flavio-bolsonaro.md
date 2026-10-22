@@ -7756,3 +7756,6 @@
 - **[2026-10-22 15:38 UTC]** Boulos e Camilo entregam sigilos de Lula ao TSE e desafiam Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/boulos-camilo-entregam-sigilos-lula-tse-desafiam-flavio/)_
 
+- **[2026-10-22 15:47 UTC]** Flávio escala Dallagnol para analisar sigilos de Lula e pessoas próximas ao presidente
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-escala-dallagnol-analisar-sigilos-lula-pessoas-proximas/)_
+
