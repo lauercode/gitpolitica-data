@@ -7669,3 +7669,6 @@
 - **[2026-10-22 02:13 UTC]** Campanha de Lula usa suposto favorecimento da Meta para pedir cassação da chapa de Flávio no TSE
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-de-lula-usa-suposto-favorecimento-da-meta-para-pedir-cassacao-da-chapa-de-flavio-no-tse/)_
 
+- **[2026-10-22 01:59 UTC]** Flávio amplia exigências para abrir sigilos e cobra dados de aliados de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-amplia-exigencias-para-abrir-sigilos-e-cobra-dados-de-aliados-de-lula/)_
+
