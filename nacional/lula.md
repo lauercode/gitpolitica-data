@@ -1640,3 +1640,6 @@
 - **[2026-10-22 18:22 UTC]** Guerra de sigilos: veja as propostas e condições de Lula e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/guerra-de-sigilos-veja-tudo-o-que-lula-e-flavio-colocaram-nas-maos-de-mendonca/)_
 
+- **[2026-10-22 23:06 UTC]** Flávio x Lula: o grupo de eleitores que pode decidir a eleição para presidente
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj62yn475xrwo?at_medium=RSS&at_campaign=rss)_
+
