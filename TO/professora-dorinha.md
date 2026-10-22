@@ -56,3 +56,6 @@
 - **[2026-10-16 00:15 UTC]** Professora Dorinha (União) participa de entrevista no JA2; veja a íntegra e os temas abordados
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/15/professora-dorinha-uniao-participa-de-entrevista-no-ja2-veja-a-integra-e-os-temas-abordados.ghtml)_
 
+- **[2026-10-22 08:00 UTC]** TO: eleitores escolherão entre Professora Dorinha e Vicentinho Júnior
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-escolherao-entre-professora-dorinha-e-vicentinho-junior)_
+
