@@ -1481,3 +1481,6 @@
 - **[2026-10-21 22:26 UTC]** Quebra de sigilo: Lula diz que Flávio Bolsonaro trucou e que 'não tem nenhuma carta boa, só tem mentira'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/quebra-de-sigilo-lula-diz-que-flavio-trucou-mas-nao-tem-nenhuma-carta-boa-so-tem-mentira.ghtml)_
 
+- **[2026-10-21 15:12 UTC]** Flávio Bolsonaro diz que só abre sigilo se Lula abrir o de ex-assessor, e petista afirma aceitar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-abre-sigilo-se-lula-abrir-o-de-marcola-e-critica-ministros-do-stf.shtml)_
+
