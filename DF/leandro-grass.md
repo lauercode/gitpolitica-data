@@ -83,3 +83,6 @@
 - **[2026-10-21 17:35 UTC]** Quaest: Celina Leão tem 50%, e Leandro Grass, 35% em disputa para Governo do DF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-celina-leao-tem-50-e-leandro-grass-35-em-disputa-para-governo-do-df.shtml)_
 
+- **[2026-10-22 20:04 UTC]** Datafolha no DF, 2º turno: Celina Leão, 54%; Leandro Grass, 37%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/datafolha-df-governador-segundo-turno-22-outubro.ghtml)_
+
