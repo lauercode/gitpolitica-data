@@ -104,3 +104,6 @@
 - **[2026-10-21 03:27 UTC]** Gilmar Mendes e Hugo Motta reforçam defesa das instituições antes do 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/gilmar-mendes-e-hugo-motta-reforcam-defesa-das-instituicoes-antes-do-2o-turno/)_
 
+- **[2026-10-21 23:25 UTC]** Gilmar Mendes critica atropelo da Justiça sobre criação de cursos de medicina e pede novo julgamento
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/21/gilmar-mendes-critica-atropelo-da-justica-sobre-criacao-de-cursos-de-medicina-e-pede-novo-julgamento.ghtml)_
+
