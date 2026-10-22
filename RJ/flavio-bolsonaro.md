@@ -7642,3 +7642,6 @@
 - **[2026-10-21 23:53 UTC]** PF encontra sala secreta para guardar dinheiro em hangar usado por amigo de Flávio Bolsonaro, diz jornal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/pf-encontra-sala-secreta-para-guardar-dinheiro-em-hangar-usado-por-amigo-de-flavio-bolsonaro-diz-jornal.shtml)_
 
+- **[2026-10-21 23:16 UTC]** Flávio Bolsonaro fez festa em lancha com lobistas e prostitutas durante a pandemia, diz revista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-fez-festa-em-lancha-com-lobistas-e-prostitutas-durante-a-pandemia-diz-revista.shtml)_
+
