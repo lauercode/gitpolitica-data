@@ -269,3 +269,6 @@
 - **[2026-10-22 04:00 UTC]** Justiça do Trabalho fecha acordo ou acolhe pedido em 79% das ações sobre assédio eleitoral em 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/justica-do-trabalho-fecha-acordo-ou-acolhe-pedido-em-79-das-acoes-sobre-assedio-eleitoral-em-2026.shtml)_
 
+- **[2026-10-22 04:00 UTC]** Justiça do Trabalho fecha acordo ou acolhe pedido em 79% das ações de assédio eleitoral em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/justica-do-trabalho-fecha-acordo-ou-acolhe-pedido-em-79-das-acoes-sobre-assedio-eleitoral-em-2026.shtml)_
+
