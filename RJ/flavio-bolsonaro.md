@@ -7831,3 +7831,6 @@
 - **[2026-10-22 20:01 UTC]** Bispos católicos afirmam em carta que Flávio Bolsonaro representa ameaça à democracia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/bispos-catolicos-afirmam-em-carta-que-flavio-bolsonaro-representa-ameaca-a-democracia.shtml)_
 
+- **[2026-10-22 19:06 UTC]** Datafolha: 46% rejeitam só Flávio Bolsonaro, e 45%, só Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-48-rejeitam-lula-e-flavio-bolsonaro.shtml)_
+
