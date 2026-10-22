@@ -1634,3 +1634,6 @@
 - **[2026-10-22 22:37 UTC]** Mendonça diz que Lula e Flávio podem abrir sigilos sem aval do TSE
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-diz-que-lula-e-flavio-podem-abrir-sigilos-sem-aval-do-tse/)_
 
+- **[2026-10-22 21:41 UTC]** Corregedor do TSE nega pedido de Flávio para suspender mensagens do governo Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/corregedor-do-tse-nega-pedido-de-flavio-para-suspender-mensagens-do-governo-lula/)_
+
