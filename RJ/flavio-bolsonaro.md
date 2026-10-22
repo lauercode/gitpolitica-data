@@ -7585,3 +7585,6 @@
 - **[2026-10-21 21:46 UTC]** Flávio dobra a aposta e Lula diz que vai quebrar sigilo de Marcola
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/ultima-analise/flavio-dobra-a-aposta-e-lula-diz-que-vai-quebrar-sigilo-de-marcola/)_
 
+- **[2026-10-21 19:45 UTC]** Lula aceita proposta de Flávio para quebra de sigilo bancário
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-aceita-proposta-de-flavio-para-quebra-de-sigilo-bancario)_
+
