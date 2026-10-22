@@ -125,3 +125,6 @@
 - **[2026-10-22 12:34 UTC]** Terremoto de magnitude 7 atinge região do Tibete, na China
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/terremoto-de-magnitude-7-atinge-regiao-do-tibete-na-china.shtml)_
 
+- **[2026-10-22 16:48 UTC]** Hermès é pressionada por cenário econômico na China e no Oriente Médio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/hermes-e-pressionada-por-cenario-economico-na-china-e-no-oriente-medio.shtml)_
+
