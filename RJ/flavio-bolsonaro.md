@@ -7621,3 +7621,6 @@
 - **[2026-10-21 23:28 UTC]** Lula aceita condições de Flávio para quebra de sigilo: “Ele trucou, mas não tem carta boa”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-aceita-condicoes-de-flavio-para-quebra-de-sigilo-ele-trucou-mas-nao-tem-carta-boa/)_
 
+- **[2026-10-21 22:06 UTC]** TSE suspende propaganda de Flávio que associa Lula a “saidinha”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tse-suspende-propaganda-de-flavio-que-associa-lula-a-saidinha/)_
+
