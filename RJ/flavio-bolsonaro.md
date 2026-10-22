@@ -7747,3 +7747,6 @@
 - **[2026-10-22 10:00 UTC]** Willer Tomaz, amigo de Flávio Bolsonaro, preferia cassinos online e apostou R$ 1,3 bilhão em 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/willer-tomaz-amigo-de-flavio-bolsonaro-preferia-cassinos-online-e-apostou-r-13-bilhao-em-2026.shtml)_
 
+- **[2026-10-22 08:54 UTC]** Investigados por lavagem com bets, Willer e Flávio dividem endereços, voos e parceiros comerciais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/investigados-por-lavagem-com-bets-willer-e-flavio-dividem-enderecos-voos-e-parceiros-comerciais.shtml)_
+
