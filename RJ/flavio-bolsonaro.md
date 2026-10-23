@@ -7885,3 +7885,6 @@
 - **[2026-10-22 23:00 UTC]** Eleição de Flávio seria um risco econômico a curto e longo prazo, diz Nobel de Economia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/eleicao-de-flavio-seria-um-risco-economico-a-curto-e-longo-prazo-diz-nobel-de-economia.shtml)_
 
+- **[2026-10-22 23:00 UTC]** Fim da marcação de munições e à progressão de pena; veja o que Flávio defende na segurança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/fim-da-marcacao-de-municoes-e-a-progressao-de-pena-veja-o-que-flavio-defende-na-seguranca.shtml)_
+
