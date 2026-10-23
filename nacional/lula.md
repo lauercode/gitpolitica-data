@@ -1661,3 +1661,6 @@
 - **[2026-10-23 00:30 UTC]** Eleições 2026: Veja os números de Flávio Bolsonaro e Lula nas urnas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicoes-2026-veja-os-numeros-de-flavio-bolsonaro-e-lula-nas-urnas.shtml)_
 
+- **[2026-10-22 23:00 UTC]** Apoiadores de Lula e de Flávio Bolsonaro se engajam para tentar virar votos de indecisos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-e-de-flavio-bolsonaro-se-engajam-para-tentar-virar-votos-de-indecisos.shtml)_
+
