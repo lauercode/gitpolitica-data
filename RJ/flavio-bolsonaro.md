@@ -7921,3 +7921,6 @@
 - **[2026-10-22 21:17 UTC]** Live de Lula tem 'urgente' de Janones, celebração de Datafolha, críticas a Flávio e participação de artistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/live-de-lula-tem-urgente-de-janones-celebracao-de-datafolha-criticas-a-flavio-e-participacao-de-artistas.shtml)_
 
+- **[2026-10-22 21:03 UTC]** Flávio Bolsonaro cancela live, e equipe cita aniversário da esposa como motivo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-cancela-live-e-equipe-cita-aniversario-da-esposa-como-motivo.shtml)_
+
