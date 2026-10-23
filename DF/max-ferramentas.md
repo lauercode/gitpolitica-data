@@ -26,3 +26,6 @@
 - **[2026-09-09 17:28 UTC]** Quais países têm os melhores resultados em ferramentas computacionais no Pisa 2025?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/quais-paises-tem-os-melhores-resultados-em-ferramentas-computacionais-no-pisa-2025.shtml)_
 
+- **[2026-10-23 19:00 UTC]** Ferramentas de mapeamento ajudam a localizar crianças sem vacina no mundo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/ferramentas-de-mapeamento-ajudam-a-localizar-criancas-sem-vacina-no-mundo.shtml)_
+
