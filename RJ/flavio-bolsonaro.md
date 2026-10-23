@@ -8023,3 +8023,6 @@
 - **[2026-10-23 13:56 UTC]** Amigo de Flávio Bolsonaro tenta direito de resposta no JN antes das eleições, mas Justiça nega
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/amigo-de-flavio-bolsonaro-tenta-direito-de-resposta-no-jn-antes-das-eleicoes-mas-justica-nega.shtml)_
 
+- **[2026-10-23 13:00 UTC]** Vitória de Flávio pode levar conselheiro do TCE-SP para o TCU
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/vitoria-de-flavio-pode-levar-conselheiro-do-tce-sp-para-o-tcu.shtml)_
+
