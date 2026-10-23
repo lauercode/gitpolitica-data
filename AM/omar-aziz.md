@@ -164,3 +164,6 @@
 - **[2026-10-21 08:00 UTC]** No Amazonas, eleitores vão escolher entre Aziz e Maria do Carmo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/no-amazonas-eleitores-vao-escolher-entre-aziz-e-maria-do-carmo)_
 
+- **[2026-10-23 00:30 UTC]** Veja os números de Omar Aziz e Maria do Carmo, candidatos ao governo do Amazonas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-de-omar-aziz-e-maria-do-carmo-candidatos-ao-governo-do-amazonas.shtml)_
+
