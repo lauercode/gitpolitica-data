@@ -7942,3 +7942,6 @@
 - **[2026-10-23 04:00 UTC]** Proposta de Flávio Bolsonaro para transformar SUS em Einstein é fantasiosa e acena para privatizações, afirmam especialistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/proposta-de-flavio-bolsonaro-para-transformar-sus-em-einstein-e-fantasiosa-e-acena-para-privatizacoes-afirmam-especialistas.shtml)_
 
+- **[2026-10-22 21:50 UTC]** Campanha de Lula recorre a Mendonça por mediação do TSE nas quebras de sigilo; Flávio entrega autorizações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/campanha-de-lula-recorre-a-mendonca-por-mediacao-do-tse-e-pressiona-flavio-por-quebras-de-sigilo.shtml)_
+
