@@ -7906,3 +7906,6 @@
 - **[2026-10-22 22:02 UTC]** Datafolha: Veja intenção de voto em Lula e Flávio Bolsonaro por gênero, idade, renda e religião
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-veja-intencao-de-voto-em-lula-e-flavio-bolsonaro-por-genero-idade-renda-e-religiao.shtml)_
 
+- **[2026-10-22 22:00 UTC]** 'A moral e os bons costumes só valem nos discursos', diz leitora sobre festa de Flávio Bolsonaro durante a pandemia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/a-moral-e-os-bons-costumes-so-valem-nos-discursos-diz-leitora-sobre-festa-de-flavio-bolsonaro-durante-a-pandemia.shtml)_
+
