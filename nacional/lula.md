@@ -1739,3 +1739,6 @@
 - **[2026-10-23 14:04 UTC]** 'Brasil dividido', 'batalha pela Amazônia' e vídeos de IA: imprensa mundial repercute disputa entre Flávio e Lula
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/23/repercussao-internacional-2o-turno-flavio-bolsonaro-lula.ghtml)_
 
+- **[2026-10-23 18:01 UTC]** “Exércitos” de Lula e Flávio chegam ao 2º turno na tentativa de vencer a batalha da rejeição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-chegam-segundo-turno-tentativa-vencer-batalha-rejeicao/)_
+
