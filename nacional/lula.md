@@ -1769,3 +1769,6 @@
 - **[2026-10-23 20:24 UTC]** Eduardo Bolsonaro defende que Flávio deixe o Brasil se for derrotado por Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/eduardo-bolsonaro-defende-que-flavio-deixe-o-brasil-se-for-derrotado-por-lula/)_
 
+- **[2026-10-23 21:34 UTC]** Mendonça descarta ser “árbitro” de sigilos de Lula e Flávio e diz que TSE não fiscaliza “desafios”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/medonca-descarta-ser-arbitro-de-sigilos-de-lula-e-flavio-e-diz-que-tse-nao-fiscaliza-desafios/)_
+
