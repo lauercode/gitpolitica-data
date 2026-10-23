@@ -7987,3 +7987,6 @@
 - **[2026-10-23 08:07 UTC]** Os sinais preocupantes da economia em 2027 e o que Flávio e Lula propõem para eles
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm20v1y71kweo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-23 14:51 UTC]** TSE pede explicações à Meta e ao X, Flávio e Lula na Globo; as últimas notícias antes do 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
+
