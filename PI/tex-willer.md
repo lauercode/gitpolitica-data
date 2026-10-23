@@ -50,3 +50,6 @@
 - **[2026-10-22 23:00 UTC]** Carreira de Flávio Bolsonaro como advogado só decola no Senado, com Willer Tomaz e foco no STJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carreira-de-flavio-bolsonaro-como-advogado-so-decola-no-senado-com-willer-tomaz-e-foco-no-stj.shtml)_
 
+- **[2026-10-23 05:00 UTC]** Podcast explica ligações entre Willer Tomaz e Flávio Bolsonaro e suspeitas contra eles
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-explica-ligacoes-entre-willer-tomaz-e-flavio-bolsonaro-e-suspeitas-contra-eles.shtml)_
+
