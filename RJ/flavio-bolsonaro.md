@@ -7957,3 +7957,6 @@
 - **[2026-10-23 09:33 UTC]** Flávio propõe retomada de privatizações; Lula quer fortalecer empresas
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-propoe-retomada-de-privatizacoes-lula-quer-fortalecer-empresas)_
 
+- **[2026-10-23 14:04 UTC]** 'Brasil dividido', 'batalha pela Amazônia' e vídeos de IA: imprensa mundial repercute disputa entre Flávio Bolsonaro e Lula no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/23/repercussao-internacional-2o-turno-flavio-bolsonaro-lula.ghtml)_
+
