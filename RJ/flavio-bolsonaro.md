@@ -8071,3 +8071,6 @@
 - **[2026-10-23 18:30 UTC]** Candidato ao governo do ES denuncia ligações que simulam pesquisas e o criticam e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/candidato-ao-governo-do-es-denuncia-ligacoes-que-simulam-pesquisas-e-criticam-ele-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-23 18:27 UTC]** Flávio Bolsonaro advogou durante campanha para cliente de Willer e peticionou em dia da votação da 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-advogou-durante-campanha-para-cliente-de-willer-e-peticionou-em-dia-da-votacao-da-6x1.shtml)_
+
