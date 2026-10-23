@@ -1727,3 +1727,6 @@
 - **[2026-10-23 14:51 UTC]** TSE pede explicações à Meta e ao X, Flávio e Lula na Globo; as últimas notícias antes do 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-23 18:53 UTC]** Após novas manifestações, Mendonça reitera que Lula e Flávio podem abrir sigilos por conta própria e que TSE não fiscaliza 'desafios'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-novas-manifestacoes-mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-conta-propria-e-que-tse-nao-fiscaliza-desafios.ghtml)_
+
