@@ -7984,3 +7984,6 @@
 - **[2026-10-23 13:23 UTC]** 2 dias da eleição: o “vale- tudo” de Flávio e Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/2-dias-da-eleicao-o-vale-tudo-de-flavio-e-lula/)_
 
+- **[2026-10-23 08:07 UTC]** Os sinais preocupantes da economia em 2027 e o que Flávio e Lula propõem para eles
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm20v1y71kweo?at_medium=RSS&at_campaign=rss)_
+
