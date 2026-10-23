@@ -1646,3 +1646,6 @@
 - **[2026-10-23 03:30 UTC]** Lula x Flávio Bolsonaro: o que vai decidir a eleição mais acirrada da história - O Assunto #1831
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/10/23/lula-x-flavio-bolsonaro-o-que-vai-decidir-a-eleicao-mais-acirrada-da-historia-o-assunto-1831.ghtml)_
 
+- **[2026-10-23 03:00 UTC]** 34% dos doadores da campanha de Flávio Bolsonaro financiaram também Jair em 2022; Lula teve 1,4% de recorrência nas duas eleições
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/doadores-recorrentes-campanhas-2022-2026-flavio-bolsonaro-lula.ghtml)_
+
