@@ -119,3 +119,6 @@
 - **[2026-10-22 23:00 UTC]** Saúde ganha novidades e reforça sua vocação gastronômica na zona sul de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/10/saude-ganha-novidades-e-reforca-sua-vocacao-gastronomica-na-zona-sul-de-sao-paulo.shtml)_
 
+- **[2026-10-22 23:00 UTC]** Chega a 13 o número de corpos encontrados em vias de São Paulo, sem conclusão sobre motivações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/chega-a-12-o-numero-de-corpos-encontrados-em-vias-de-sao-paulo-sem-conclusao-sobre-motivacoes.shtml)_
+
