@@ -194,3 +194,6 @@
 - **[2026-09-11 22:43 UTC]** Relatório aponta que credenciais de servidora do MPF do MA foram usadas ao menos cinco vezes por grupo ligado a Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/ma/maranhao/noticia/2026/09/11/relatorio-aponta-que-credenciais-de-servidora-do-mpf-do-ma-foram-usadas-ao-menos-cinco-vezes-por-grupo-ligado-a-vorcaro.ghtml)_
 
+- **[2026-10-23 07:00 UTC]** Cinco vinhos para vencer a tensão desta semana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/isabelle-moreira-lima/2026/10/cinco-vinhos-para-vencer-a-tensao-desta-semana.shtml)_
+
