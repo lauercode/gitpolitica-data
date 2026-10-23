@@ -53,3 +53,6 @@
 - **[2026-10-20 12:44 UTC]** Recife abrirá 136 creches no 2º turno para facilitar voto dos pais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/recife-abrira-136-creches-no-2o-turno-para-facilitar-voto-de-maes.shtml)_
 
+- **[2026-10-22 22:28 UTC]** Apoiadores de Flávio Bolsonaro promovem atos em Maceió e no Recife
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-promovem-atos-em-maceio-e-no-recife.shtml)_
+
