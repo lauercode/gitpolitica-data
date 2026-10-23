@@ -140,3 +140,6 @@
 - **[2026-10-23 13:00 UTC]** Filme na Mostra de São Paulo expõe as ruínas sociais da Venezuela
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/filme-na-mostra-de-sao-paulo-expoe-as-ruinas-sociais-da-venezuela.shtml)_
 
+- **[2026-10-23 19:30 UTC]** Bernardo Carvalho lança 'Xilocosmos' em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/bernardo-carvalho-lanca-xilocosmos-em-sao-paulo.shtml)_
+
