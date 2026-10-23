@@ -350,3 +350,6 @@
 - **[2026-10-22 15:00 UTC]** Projeto limita doações eleitorais de pessoas físicas a dez salários mínimos
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1311996-projeto-limita-doacoes-eleitorais-de-pessoas-fisicas-a-dez-salarios-minimos)_
 
+- **[2026-10-23 13:43 UTC]** Projeto amplia para 60 dias o período de propaganda eleitoral
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1311968-projeto-amplia-para-60-dias-o-periodo-de-propaganda-eleitoral)_
+
