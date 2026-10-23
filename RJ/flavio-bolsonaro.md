@@ -7993,3 +7993,6 @@
 - **[2026-10-23 14:22 UTC]** Nem Lula, nem Flávio Bolsonaro 'têm estômago' para reforma que Brasil precisa, diz Economist
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cwzd6gynz1r2o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-23 18:53 UTC]** Após novas manifestações, Mendonça reitera que Lula e Flávio podem abrir sigilos por conta própria e que TSE não fiscaliza 'desafios'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-novas-manifestacoes-mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-conta-propria-e-que-tse-nao-fiscaliza-desafios.ghtml)_
+
