@@ -8029,3 +8029,6 @@
 - **[2026-10-23 12:22 UTC]** Governo Lula promete alívio a bares e restaurantes impactados pelo fim da 6x1 em reação a Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-quer-perdoar-dividas-para-o-setor-de-eventos-apos-flavio-prometer-programa-para-o-segmento.shtml)_
 
+- **[2026-10-23 12:22 UTC]** Para empresários brasileiros, vitória de Flávio Bolsonaro facilitaria aval dos EUA para investir na Venezuela
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/para-empresarios-brasileiros-vitoria-de-flavio-facilitaria-aval-dos-eua-para-investir-na-venezuela.shtml)_
+
