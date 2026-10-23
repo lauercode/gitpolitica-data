@@ -53,3 +53,6 @@
 - **[2026-10-23 05:00 UTC]** Podcast explica ligações entre Willer Tomaz e Flávio Bolsonaro e suspeitas contra eles
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-explica-ligacoes-entre-willer-tomaz-e-flavio-bolsonaro-e-suspeitas-contra-eles.shtml)_
 
+- **[2026-10-22 11:46 UTC]** Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio Bolsonaro?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss)_
+
