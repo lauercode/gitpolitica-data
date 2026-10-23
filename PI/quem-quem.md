@@ -506,3 +506,6 @@
 - **[2026-10-23 06:00 UTC]** Quem é o pai do Bolsa Família? Veja a história do programa que tirou o Brasil do Mapa da Fome
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/quem-e-o-pai-do-bolsa-familia-veja-a-historia-do-programa-que-tirou-o-brasil-do-mapa-da-fome.shtml)_
 
+- **[2026-10-23 07:00 UTC]** Quem foi a primeira mulher a ter função administrativa num banco em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/andancas-na-metropole/2026/10/quem-foi-a-primeira-mulher-a-ter-funcao-administrativa-num-banco-em-sao-paulo.shtml)_
+
