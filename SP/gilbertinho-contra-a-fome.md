@@ -11,3 +11,6 @@
 - **[2026-09-08 12:50 UTC]** Candidata democrata ao Congresso nos EUA vê 'fome de uma nova visão'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/denise-mota/2026/09/candidata-democrata-ao-congresso-nos-eua-ve-fome-de-uma-nova-visao.shtml)_
 
+- **[2026-10-23 06:00 UTC]** Quem é o pai do Bolsa Família? Veja a história do programa que tirou o Brasil do Mapa da Fome
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/quem-e-o-pai-do-bolsa-familia-veja-a-historia-do-programa-que-tirou-o-brasil-do-mapa-da-fome.shtml)_
+
