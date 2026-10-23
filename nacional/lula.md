@@ -1688,3 +1688,6 @@
 - **[2026-10-23 01:54 UTC]** Lula pede que Mendonça seja “árbitro” da divulgação de sigilos e pressiona Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-pede-que-mendonca-seja-arbitro-da-divulgacao-de-sigilos-e-pressiona-flavio/)_
 
+- **[2026-10-23 06:00 UTC]** Negociar com patrão, mudar jornadas e regular apps: o que Lula e Flávio propõem aos trabalhadores
+  _fonte: [G1 - Política:](https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/23/negociar-com-patrao-mudar-jornadas-e-regular-apps-o-que-lula-e-flavio-propoem-aos-trabalhadores.ghtml)_
+
