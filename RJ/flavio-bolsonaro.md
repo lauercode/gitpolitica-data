@@ -7927,3 +7927,6 @@
 - **[2026-10-23 02:46 UTC]** Corregedor do TSE manda Meta e X explicarem em 24h suposto favorecimento a Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/corregedor-do-tse-manda-meta-e-x-explicarem-em-24h-suposto-favorecimento-a-flavio/)_
 
+- **[2026-10-23 01:54 UTC]** Lula pede que Mendonça seja “árbitro” da divulgação de sigilos e pressiona Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-pede-que-mendonca-seja-arbitro-da-divulgacao-de-sigilos-e-pressiona-flavio/)_
+
