@@ -65,3 +65,6 @@
 - **[2026-10-22 08:00 UTC]** TO: eleitores escolherão entre Professora Dorinha e Vicentinho Júnior
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-escolherao-entre-professora-dorinha-e-vicentinho-junior)_
 
+- **[2026-10-23 00:30 UTC]** Veja os números de Dorinha e Vicentinho Júnior, candidatos ao governo do Tocantins
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-de-dorinha-e-vicentinho-junior-candidatos-ao-governo-do-tocantins.shtml)_
+
