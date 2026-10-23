@@ -101,3 +101,6 @@
 - **[2026-10-16 18:36 UTC]** Derrite desponta como favorito para Segurança Pública em eventual governo Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/derrite-desponta-como-favorito-para-seguranca-publica-em-eventual-governo-flavio-bolsonaro.shtml)_
 
+- **[2026-10-23 19:24 UTC]** Derrite diz desconfiar de relato de mãe e afirma ser temerário julgar se PM obrigou detidos a vestir camisa do PT
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/derrite-diz-desconfiar-de-relato-de-mae-e-afirma-ser-temerario-julgar-se-pm-obrigou-detidos-a-vestir-camisa-do-pt.shtml)_
+
