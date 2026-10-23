@@ -392,3 +392,6 @@
 - **[2026-09-11 16:38 UTC]** Amazonas confirma três casos de sarampo; outros dois são investigados
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/amazonas-confirma-tres-casos-de-sarampo-outros-dois-sao-investigados)_
 
+- **[2026-10-22 23:26 UTC]** Dois jovens são baleados por delegado em tentativa de abordagem em Guarulhos (SP)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/dois-jovens-sao-baleados-por-delegado-em-tentativa-abordagem-em-guarulhos-sp.shtml)_
+
