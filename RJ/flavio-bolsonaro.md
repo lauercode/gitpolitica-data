@@ -7978,3 +7978,6 @@
 - **[2026-10-23 07:37 UTC]** TSE dá 24 horas para Meta e X explicarem tratamento que beneficiaria Flávio contra Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-da-24-horas-para-meta-e-x-explicarem-tratamento-desigual-a-flavio-contra-lula.shtml)_
 
+- **[2026-10-23 14:06 UTC]** Flávio Bolsonaro abre sigilos ao TSE e cobra Lula a revelar gastos do cartão corporativo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-abre-sigilos-tse-cobra-lula-gastos-cartao-corporativo/)_
+
