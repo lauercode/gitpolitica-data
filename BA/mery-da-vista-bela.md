@@ -14,3 +14,6 @@
 - **[2026-09-03 14:07 UTC]** 'Por Você': Peixe afirma a Bela que ele e seus irmãos não ficarão por muito tempo em seu prédio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/08/10/6557-por-voce-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post466790)_
 
+- **[2026-10-23 18:11 UTC]** 'Por Você': Peixe confronta Bela sobre o possível diagnóstico de Samuca
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/08/10/6557-por-voce-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post467527)_
+
