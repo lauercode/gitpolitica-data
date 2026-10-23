@@ -23,3 +23,6 @@
 - **[2026-10-23 12:30 UTC]** Bancada evangélica cresce puxada por influenciadores como Nikolas e Pavanato
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bancada-evangelica-cresce-puxada-por-influenciadores-como-nikolas-e-pavanato.shtml)_
 
+- **[2026-10-23 12:30 UTC]** Bancada da bala mira redução da maioridade e penas mais duras após sair fortalecida das urnas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bancada-da-bala-mira-reducao-da-maioridade-e-penas-mais-duras-apos-sair-fortalecida-das-urnas.shtml)_
+
