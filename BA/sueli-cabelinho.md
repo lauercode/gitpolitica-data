@@ -14,3 +14,6 @@
 - **[2026-10-22 21:39 UTC]** Quem é MC Cabelinho, cantor que teve vídeo derrubado pela Meta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/quem-e-mc-cabelinho-cantor-que-teve-video-derrubado-pela-meta.shtml)_
 
+- **[2026-10-23 11:54 UTC]** Ministro do TSE manda Meta revisar retirada de vídeo de MC Cabelinho contra Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/ministro-do-tse-manda-meta-revisar-retirada-de-video-de-mc-cabelinho-contra-flavio-bolsonaro.ghtml)_
+
