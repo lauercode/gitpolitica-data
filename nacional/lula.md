@@ -1736,3 +1736,6 @@
 - **[2026-10-23 16:03 UTC]** 'Desafio dos sigilos': em novo ato, Flávio cobra de Lula dados de cartão corporativo; Petista já disse estar disposto a divulgar
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/23/desafio-dos-sigilos-em-novo-ato-flavio-cobra-de-lula-dados-de-cartao-corporativo-lula-ja-disse-estar-disposto-a-divulgar.ghtml)_
 
+- **[2026-10-23 14:04 UTC]** 'Brasil dividido', 'batalha pela Amazônia' e vídeos de IA: imprensa mundial repercute disputa entre Flávio e Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/23/repercussao-internacional-2o-turno-flavio-bolsonaro-lula.ghtml)_
+
