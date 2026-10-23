@@ -7924,3 +7924,6 @@
 - **[2026-10-22 21:03 UTC]** Flávio Bolsonaro cancela live, e equipe cita aniversário da esposa como motivo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-cancela-live-e-equipe-cita-aniversario-da-esposa-como-motivo.shtml)_
 
+- **[2026-10-23 02:46 UTC]** Corregedor do TSE manda Meta e X explicarem em 24h suposto favorecimento a Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/corregedor-do-tse-manda-meta-e-x-explicarem-em-24h-suposto-favorecimento-a-flavio/)_
+
