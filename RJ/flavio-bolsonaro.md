@@ -8014,3 +8014,6 @@
 - **[2026-10-23 14:04 UTC]** 'Brasil dividido', 'batalha pela Amazônia' e vídeos de IA: imprensa mundial repercute disputa entre Flávio e Lula
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/23/repercussao-internacional-2o-turno-flavio-bolsonaro-lula.ghtml)_
 
+- **[2026-10-23 11:23 UTC]** Sem citar Flávio Bolsonaro, 64 bispos católicos divulgam carta sobre 2º turno e criticam 'políticas de devastação que caracterizaram o Governo de seu pai'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/bispos-catolicos-carta-segundo-turno-eleicoes-2026.ghtml)_
+
