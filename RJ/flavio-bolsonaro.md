@@ -8044,3 +8044,6 @@
 - **[2026-10-23 16:58 UTC]** Gilmar reconhece imunidade parlamentar e rejeita ação de Lindbergh contra vice de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-reconhece-imunidade-parlamentar-e-rejeita-acao-de-lindbergh-contra-vice-de-flavio/)_
 
+- **[2026-10-23 14:58 UTC]** Cientistas ambientais rejeitam Flávio enquanto frente do agro mantém apoio
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/eleicoes/2026/cientistas-ambientais-rejeitam-flavio-enquanto-frente-do-agro-mantem-apoio/)_
+
