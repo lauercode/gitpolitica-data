@@ -98,3 +98,6 @@
 - **[2026-10-22 13:53 UTC]** Meta derruba áudio de vídeo de Nikolas Ferreira com música de Rubel por direitos autorais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/meta-derruba-audio-de-video-de-nikolas-ferreira-com-musica-de-rubel-por-direitos-autorais.ghtml)_
 
+- **[2026-10-23 15:37 UTC]** Neymar publica foto com Nikolas Ferreira após polêmica: '01'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/neymar-publica-foto-com-nikolas-ferreira-apos-polemica-01.shtml)_
+
