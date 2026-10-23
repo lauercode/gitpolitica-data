@@ -7996,3 +7996,6 @@
 - **[2026-10-23 18:53 UTC]** Após novas manifestações, Mendonça reitera que Lula e Flávio podem abrir sigilos por conta própria e que TSE não fiscaliza 'desafios'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-novas-manifestacoes-mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-conta-propria-e-que-tse-nao-fiscaliza-desafios.ghtml)_
 
+- **[2026-10-23 16:57 UTC]** Gilmar cita imunidade e rejeita queixa de vice de Flávio contra parlamentares que mencionaram acusação de estupro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/gilmar-cita-imunidade-parlamentar-e-rejeita-queixa-de-vice-de-flavio-contra-congressistas-que-mencionaram-acusacao-de-estupro.ghtml)_
+
