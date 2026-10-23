@@ -8032,3 +8032,6 @@
 - **[2026-10-23 12:22 UTC]** Para empresários brasileiros, vitória de Flávio Bolsonaro facilitaria aval dos EUA para investir na Venezuela
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/para-empresarios-brasileiros-vitoria-de-flavio-facilitaria-aval-dos-eua-para-investir-na-venezuela.shtml)_
 
+- **[2026-10-23 18:02 UTC]** Juiz manda X remover post de Erika sobre acusação contra vice de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiz-manda-x-remover-postagem-de-erika-hilton-contra-vice-de-flavio/)_
+
