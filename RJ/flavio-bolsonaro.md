@@ -8080,3 +8080,6 @@
 - **[2026-10-23 16:29 UTC]** Esqueletos no armário revelam os crimes de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/10/esqueletos-no-armario-revelam-os-crimes-de-flavio.shtml)_
 
+- **[2026-10-23 22:22 UTC]** Como Lula e Flávio Bolsonaro se prepararam para o debate da TV Globo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/como-lula-e-flavio-bolsonaro-se-prepararam-para-o-debate-da-tv-globo/)_
+
