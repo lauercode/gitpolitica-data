@@ -7891,3 +7891,6 @@
 - **[2026-10-22 23:00 UTC]** Flávio Bolsonaro se alinhou ao pai e reproduziu narrativas em momentos críticos; relembre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-se-alinhou-ao-pai-e-reproduziu-narrativas-em-momentos-criticos-relembre.shtml)_
 
+- **[2026-10-22 23:00 UTC]** Por que Lula se uniu a fãs de divas pop, e Flávio teve de cobrar apoio dos sertanejos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/por-que-lula-se-uniu-a-fas-de-divas-pop-e-flavio-teve-de-cobrar-apoio-dos-sertanejos.shtml)_
+
