@@ -1643,3 +1643,6 @@
 - **[2026-10-22 23:06 UTC]** Flávio x Lula: o grupo de eleitores que pode decidir a eleição para presidente
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj62yn475xrwo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-23 03:30 UTC]** Lula x Flávio Bolsonaro: o que vai decidir a eleição mais acirrada da história - O Assunto #1831
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/10/23/lula-x-flavio-bolsonaro-o-que-vai-decidir-a-eleicao-mais-acirrada-da-historia-o-assunto-1831.ghtml)_
+
