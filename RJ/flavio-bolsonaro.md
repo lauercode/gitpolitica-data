@@ -7858,3 +7858,6 @@
 - **[2026-10-23 03:00 UTC]** 34% dos doadores da campanha de Flávio Bolsonaro financiaram também Jair em 2022; Lula teve 1,4% de recorrência nas duas eleições
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/doadores-recorrentes-campanhas-2022-2026-flavio-bolsonaro-lula.ghtml)_
 
+- **[2026-10-23 03:00 UTC]** Flávio Bolsonaro é orientado a baixar o tom, e Lula, a evitar provocações no debate da Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-estrategias-flavio-bolsonaro-e-lula.ghtml)_
+
