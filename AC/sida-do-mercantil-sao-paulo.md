@@ -149,3 +149,6 @@
 - **[2026-10-23 16:19 UTC]** Museu das Favelas adia concurso de sósias da cantora Alcione em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/10/concurso-de-sosias-de-alcione-em-sp-da-ingressos-para-musical-e-show-da-cantora-aos-vencedores.shtml)_
 
+- **[2026-10-23 16:00 UTC]** Boots Riley filma revolução em longa na Mostra de São Paulo e fala sobre as eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/boots-riley-filma-revolucao-em-longa-na-mostra-de-sao-paulo-e-fala-sobre-as-eleicoes.shtml)_
+
