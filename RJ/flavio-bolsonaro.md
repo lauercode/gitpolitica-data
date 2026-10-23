@@ -7888,3 +7888,6 @@
 - **[2026-10-22 23:00 UTC]** Fim da marcação de munições e à progressão de pena; veja o que Flávio defende na segurança
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/fim-da-marcacao-de-municoes-e-a-progressao-de-pena-veja-o-que-flavio-defende-na-seguranca.shtml)_
 
+- **[2026-10-22 23:00 UTC]** Flávio Bolsonaro se alinhou ao pai e reproduziu narrativas em momentos críticos; relembre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-se-alinhou-ao-pai-e-reproduziu-narrativas-em-momentos-criticos-relembre.shtml)_
+
