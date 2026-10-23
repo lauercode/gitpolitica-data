@@ -1754,3 +1754,6 @@
 - **[2026-10-23 19:16 UTC]** Renan Santos volta a negar apoio a Lula ou Flávio e diz que vai justificar o voto no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-santos-volta-a-negar-apoio-a-lula-ou-flavio-e-diz-que-vai-justificar-o-voto-no-2o-turno.shtml)_
 
+- **[2026-10-23 19:09 UTC]** Lula segue líder em popularidade digital, mas distância para Flávio Bolsonaro diminui
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-segue-lider-em-popularidade-digital-mas-distancia-para-flavio-bolsonaro-diminui.shtml)_
+
