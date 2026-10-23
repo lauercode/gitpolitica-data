@@ -7897,3 +7897,6 @@
 - **[2026-10-22 23:00 UTC]** Empresa que teria feito festa para Flávio deve R$ 4 milhões à União por fraude em vacina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/empresa-que-teria-feito-festa-para-flavio-deve-r-4-milhoes-a-uniao-por-fraude-em-vacina.shtml)_
 
+- **[2026-10-22 22:28 UTC]** Apoiadores de Flávio Bolsonaro promovem atos em Maceió e no Recife
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-promovem-atos-em-maceio-e-no-recife.shtml)_
+
