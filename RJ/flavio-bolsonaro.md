@@ -7879,3 +7879,6 @@
 - **[2026-10-22 23:00 UTC]** Setor audiovisual teme retaliações em eventual governo de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/setor-audiovisual-teme-retaliacoes-em-eventual-governo-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-22 23:00 UTC]** Carreira de Flávio Bolsonaro como advogado só decola no Senado, com Willer Tomaz e foco no STJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carreira-de-flavio-bolsonaro-como-advogado-so-decola-no-senado-com-willer-tomaz-e-foco-no-stj.shtml)_
+
