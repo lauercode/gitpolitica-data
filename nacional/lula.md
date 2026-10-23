@@ -1751,3 +1751,6 @@
 - **[2026-10-23 20:02 UTC]** Datafolha no DF, 2º turno: Flávio Bolsonaro, 51%; Lula, 42%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/23/datafolha-df-presidente-segundo-turno-23-outubro.ghtml)_
 
+- **[2026-10-23 19:16 UTC]** Renan Santos volta a negar apoio a Lula ou Flávio e diz que vai justificar o voto no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-santos-volta-a-negar-apoio-a-lula-ou-flavio-e-diz-que-vai-justificar-o-voto-no-2o-turno.shtml)_
+
