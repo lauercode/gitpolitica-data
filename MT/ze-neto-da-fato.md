@@ -122,3 +122,6 @@
 - **[2026-10-23 00:35 UTC]** Fato ou Fake: entenda como funcionam as checagens e o trabalho da equipe
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/10/22/fato-ou-fake-entenda-como-funcionam-as-checagens-e-o-trabalho-da-equipe.ghtml)_
 
+- **[2026-10-23 15:29 UTC]** Fato ou Fake existe desde 2018; conheça o histórico do serviço de checagens do Grupo Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/10/23/fato-ou-fake-existe-desde-2018-conheca-o-historico-do-servico-de-checagens-do-grupo-globo.ghtml)_
+
