@@ -7873,3 +7873,6 @@
 - **[2026-10-23 00:09 UTC]** Brazil Journal anuncia afastamento do sócio Flávio Carneiro após revelação de diálogos com Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/brazil-journal-anuncia-afastamento-do-socio-flavio-carneiro-apos-revelacao-de-dialogos-com-vorcaro.shtml)_
 
+- **[2026-10-22 23:00 UTC]** Apoiadores de Lula e de Flávio Bolsonaro se engajam para tentar virar votos de indecisos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-e-de-flavio-bolsonaro-se-engajam-para-tentar-virar-votos-de-indecisos.shtml)_
+
