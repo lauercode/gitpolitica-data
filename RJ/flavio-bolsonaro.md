@@ -7972,3 +7972,6 @@
 - **[2026-10-23 10:00 UTC]** Ipespe/Abrapel: Flávio Bolsonaro tem 50,5% dos votos válidos no 2º turno, e Lula, 49,5%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ipespeabrapel-flavio-bolsonaro-tem-505-dos-votos-validos-no-2o-turno-e-lula-495.shtml)_
 
+- **[2026-10-23 09:16 UTC]** João Doria diz nos bastidores que apoia eleição de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/joao-doria-diz-nos-bastidores-que-apoia-eleicao-de-flavio-bolsonaro.shtml)_
+
