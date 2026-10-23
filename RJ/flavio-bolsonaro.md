@@ -8017,3 +8017,6 @@
 - **[2026-10-23 11:23 UTC]** Sem citar Flávio Bolsonaro, 64 bispos católicos divulgam carta sobre 2º turno e criticam 'políticas de devastação que caracterizaram o Governo de seu pai'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/bispos-catolicos-carta-segundo-turno-eleicoes-2026.ghtml)_
 
+- **[2026-10-23 15:05 UTC]** Anotações de Flávio para debate revelam estratégia de 'falar para elas' e esforço por imagem de 'estadista'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/anotacoes-de-flavio-para-debate-revelam-estrategia-de-falar-para-elas-e-esforco-por-imagem-de-estadista.shtml)_
+
