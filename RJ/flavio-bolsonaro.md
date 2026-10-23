@@ -7975,3 +7975,6 @@
 - **[2026-10-23 09:16 UTC]** João Doria diz nos bastidores que apoia eleição de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/joao-doria-diz-nos-bastidores-que-apoia-eleicao-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-23 07:37 UTC]** TSE dá 24 horas para Meta e X explicarem tratamento que beneficiaria Flávio contra Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-da-24-horas-para-meta-e-x-explicarem-tratamento-desigual-a-flavio-contra-lula.shtml)_
+
