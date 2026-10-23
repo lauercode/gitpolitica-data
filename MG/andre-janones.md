@@ -176,3 +176,6 @@
 - **[2026-10-22 21:17 UTC]** Live de Lula tem 'urgente' de Janones, celebração de Datafolha, críticas a Flávio e participação de artistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/live-de-lula-tem-urgente-de-janones-celebracao-de-datafolha-criticas-a-flavio-e-participacao-de-artistas.shtml)_
 
+- **[2026-10-23 17:13 UTC]** Limitação técnica da Meta impede live de 24 h como anunciada por Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/meta-diz-que-janones-nao-podera-fazer-live-de-24h-ininterruptamente-por-questao-tecnica.shtml)_
+
