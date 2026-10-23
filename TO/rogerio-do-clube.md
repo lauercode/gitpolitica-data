@@ -59,3 +59,6 @@
 - **[2026-09-11 19:26 UTC]** Madame Satã, clube onde Daniel Vorcaro deu festa, mantém viva cena gótica
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/madame-sata-clube-onde-daniel-vorcaro-deu-festa-mantem-viva-cena-gotica.shtml)_
 
+- **[2026-10-23 19:22 UTC]** Memorial do Clube da Esquina é vandalizado com tinta em Belo Horizonte
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/memorial-do-clube-da-esquina-e-vandalizado-com-tinta-em-belo-horizonte.shtml)_
+
