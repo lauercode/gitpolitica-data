@@ -83,3 +83,6 @@
 - **[2026-10-06 17:20 UTC]** MAPA: veja o resultado das eleições 2026 em Palmas por local de votação e seção eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/mapa-veja-o-resultado-das-eleicoes-2026-em-palmas-por-local-de-votacao-e-secao-eleitoral.ghtml)_
 
+- **[2026-10-23 06:00 UTC]** Quem é o pai do Bolsa Família? Veja a história do programa que tirou o Brasil do Mapa da Fome
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/quem-e-o-pai-do-bolsa-familia-veja-a-historia-do-programa-que-tirou-o-brasil-do-mapa-da-fome.shtml)_
+
