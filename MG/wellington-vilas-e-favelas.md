@@ -17,3 +17,6 @@
 - **[2026-09-10 07:02 UTC]** Educação é prioridade para moradores de favelas do Rio nas eleições
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/educacao-e-prioridade-para-moradores-de-favelas-do-rio-nas-eleicoes)_
 
+- **[2026-10-23 16:19 UTC]** Museu das Favelas adia concurso de sósias da cantora Alcione em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/10/concurso-de-sosias-de-alcione-em-sp-da-ingressos-para-musical-e-show-da-cantora-aos-vencedores.shtml)_
+
