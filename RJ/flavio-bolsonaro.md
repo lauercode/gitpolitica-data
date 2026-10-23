@@ -8050,3 +8050,6 @@
 - **[2026-10-23 17:32 UTC]** O número que pode definir vitória de Lula ou de Flávio Bolsonaro no 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8wy9k5640xdo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-23 20:02 UTC]** Datafolha no DF, 2º turno: Flávio Bolsonaro, 51%; Lula, 42%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/23/datafolha-df-presidente-segundo-turno-23-outubro.ghtml)_
+
