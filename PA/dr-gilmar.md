@@ -107,3 +107,6 @@
 - **[2026-10-21 23:25 UTC]** Gilmar Mendes critica atropelo da Justiça sobre criação de cursos de medicina e pede novo julgamento
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/21/gilmar-mendes-critica-atropelo-da-justica-sobre-criacao-de-cursos-de-medicina-e-pede-novo-julgamento.ghtml)_
 
+- **[2026-10-23 12:45 UTC]** Gilmar recebe ação do PDT que pode mudar cálculo de cadeiras na Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/gilmar-recebe-acao-do-pdt-que-pode-mudar-calculo-de-cadeiras-na-camara/)_
+
