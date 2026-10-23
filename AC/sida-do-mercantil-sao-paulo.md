@@ -116,3 +116,6 @@
 - **[2026-10-22 23:00 UTC]** Novos filmes chegam para os últimos dias da 50ª Mostra de Cinema de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/10/novos-filmes-chegam-para-os-ultimos-dias-da-50a-mostra-de-cinema-de-sao-paulo.shtml)_
 
+- **[2026-10-22 23:00 UTC]** Saúde ganha novidades e reforça sua vocação gastronômica na zona sul de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/10/saude-ganha-novidades-e-reforca-sua-vocacao-gastronomica-na-zona-sul-de-sao-paulo.shtml)_
+
