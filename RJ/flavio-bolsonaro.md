@@ -7939,3 +7939,6 @@
 - **[2026-10-23 05:00 UTC]** Podcast explica ligações entre Willer Tomaz e Flávio Bolsonaro e suspeitas contra eles
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-explica-ligacoes-entre-willer-tomaz-e-flavio-bolsonaro-e-suspeitas-contra-eles.shtml)_
 
+- **[2026-10-23 04:00 UTC]** Proposta de Flávio Bolsonaro para transformar SUS em Einstein é fantasiosa e acena para privatizações, afirmam especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/proposta-de-flavio-bolsonaro-para-transformar-sus-em-einstein-e-fantasiosa-e-acena-para-privatizacoes-afirmam-especialistas.shtml)_
+
