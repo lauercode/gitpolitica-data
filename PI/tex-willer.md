@@ -56,3 +56,6 @@
 - **[2026-10-22 11:46 UTC]** Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio Bolsonaro?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-23 18:27 UTC]** Flávio Bolsonaro advogou durante campanha para cliente de Willer e peticionou em dia da votação da 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-advogou-durante-campanha-para-cliente-de-willer-e-peticionou-em-dia-da-votacao-da-6x1.shtml)_
+
