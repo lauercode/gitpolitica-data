@@ -122,3 +122,6 @@
 - **[2026-10-22 23:00 UTC]** Chega a 13 o número de corpos encontrados em vias de São Paulo, sem conclusão sobre motivações
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/chega-a-12-o-numero-de-corpos-encontrados-em-vias-de-sao-paulo-sem-conclusao-sobre-motivacoes.shtml)_
 
+- **[2026-10-23 11:04 UTC]** Galvão Bueno, Ratinho e família Abravanel vão a evento comercial do SBT em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/galvao-bueno-ratinho-e-familia-abravanel-vao-a-evento-comercial-do-sbt-em-sao-paulo.shtml)_
+
