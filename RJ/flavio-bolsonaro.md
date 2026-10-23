@@ -7936,3 +7936,6 @@
 - **[2026-10-23 05:00 UTC]** Flávio Bolsonaro promete ampliar irrigação no cerrado, onde sistema faz rios minguarem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/flavio-bolsonaro-promete-ampliar-irrigacao-no-cerrado-onde-sistema-faz-rios-minguarem.shtml)_
 
+- **[2026-10-23 05:00 UTC]** Podcast explica ligações entre Willer Tomaz e Flávio Bolsonaro e suspeitas contra eles
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-explica-ligacoes-entre-willer-tomaz-e-flavio-bolsonaro-e-suspeitas-contra-eles.shtml)_
+
