@@ -8035,3 +8035,6 @@
 - **[2026-10-23 18:02 UTC]** Juiz manda X remover post de Erika sobre acusação contra vice de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiz-manda-x-remover-postagem-de-erika-hilton-contra-vice-de-flavio/)_
 
+- **[2026-10-23 18:01 UTC]** “Exércitos” de Lula e Flávio chegam ao 2º turno na tentativa de vencer a batalha da rejeição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-chegam-segundo-turno-tentativa-vencer-batalha-rejeicao/)_
+
