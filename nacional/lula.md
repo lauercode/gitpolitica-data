@@ -1670,3 +1670,6 @@
 - **[2026-10-22 22:05 UTC]** Datafolha: PT fala em onda pró-Lula, e aliados de Flávio citam força da direita na véspera de eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-pt-fala-em-onda-pro-lula-e-aliados-de-flavio-citam-forca-da-direita-na-vespera-de-eleicoes.shtml)_
 
+- **[2026-10-22 22:02 UTC]** Datafolha: Veja intenção de voto em Lula e Flávio Bolsonaro por gênero, idade, renda e religião
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-veja-intencao-de-voto-em-lula-e-flavio-bolsonaro-por-genero-idade-renda-e-religiao.shtml)_
+
