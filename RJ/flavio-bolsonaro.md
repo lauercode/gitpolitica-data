@@ -7915,3 +7915,6 @@
 - **[2026-10-22 22:00 UTC]** Flávio Bolsonaro muda estratégia em debate para conter rejeição, e Lula tenta evitar provocações
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-muda-estrategia-em-debate-para-conter-rejeicao-e-lula-tenta-evitar-provocacoes.shtml)_
 
+- **[2026-10-22 21:50 UTC]** Campanha de Lula recorre a Mendonça por mediação do TSE e pressiona Flávio por quebras de sigilo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/campanha-de-lula-recorre-a-mendonca-por-mediacao-do-tse-e-pressiona-flavio-por-quebras-de-sigilo.shtml)_
+
