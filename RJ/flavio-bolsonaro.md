@@ -8008,3 +8008,6 @@
 - **[2026-10-23 16:03 UTC]** 'Desafio dos sigilos': em novo ato, Flávio cobra de Lula dados de cartão corporativo; Petista já disse estar disposto a divulgar
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/23/desafio-dos-sigilos-em-novo-ato-flavio-cobra-de-lula-dados-de-cartao-corporativo-lula-ja-disse-estar-disposto-a-divulgar.ghtml)_
 
+- **[2026-10-23 15:01 UTC]** Aliados de Flávio criticam erros de Nikolas em vídeos sobre Nordeste e temem reflexos negativos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/23/aliados-de-flavio-criticam-erros-de-nikolas-em-videos-sobre-nordeste-e-temem-reflexos-negativos-na-regiao.ghtml)_
+
