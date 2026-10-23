@@ -7981,3 +7981,6 @@
 - **[2026-10-23 14:06 UTC]** Flávio Bolsonaro abre sigilos ao TSE e cobra Lula a revelar gastos do cartão corporativo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-abre-sigilos-tse-cobra-lula-gastos-cartao-corporativo/)_
 
+- **[2026-10-23 13:23 UTC]** 2 dias da eleição: o “vale- tudo” de Flávio e Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/2-dias-da-eleicao-o-vale-tudo-de-flavio-e-lula/)_
+
