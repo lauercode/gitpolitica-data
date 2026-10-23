@@ -116,3 +116,6 @@
 - **[2026-10-23 16:58 UTC]** Gilmar reconhece imunidade parlamentar e rejeita ação de Lindbergh contra vice de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-reconhece-imunidade-parlamentar-e-rejeita-acao-de-lindbergh-contra-vice-de-flavio/)_
 
+- **[2026-10-23 20:58 UTC]** Gilmar Mendes barra processo de Lindbergh contra vice de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-barra-processo-de-lindbergh-contra-vice-de-flavio-bolsonaro/)_
+
