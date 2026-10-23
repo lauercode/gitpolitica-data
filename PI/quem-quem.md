@@ -512,3 +512,6 @@
 - **[2026-10-23 10:15 UTC]** Quem não votou no primeiro turno pode votar no segundo?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c875pvze4w6zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-23 18:17 UTC]** 'Quem Ama Cuida': Adriana conclui que foi Pilar quem encomendou a agressão que sofreu na cadeia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post467528)_
+
