@@ -1652,3 +1652,6 @@
 - **[2026-10-23 03:00 UTC]** Flávio Bolsonaro é orientado a baixar o tom, e Lula, a evitar provocações no debate da Globo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-estrategias-flavio-bolsonaro-e-lula.ghtml)_
 
+- **[2026-10-23 00:33 UTC]** Quaest: maioria diz que Flávio Bolsonaro tem maior chance de reduzir impostos, e Lula, de manter programas sociais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/quaest-candidatos-potencial.ghtml)_
+
