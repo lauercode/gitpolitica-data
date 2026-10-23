@@ -1763,3 +1763,6 @@
 - **[2026-10-23 18:39 UTC]** Cleitinho reafirma apoio a Flávio Bolsonaro após recado de Lula, mas mantém discrição no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cleitinho-reafirma-apoio-a-flavio-bolsonaro-apos-recado-de-lula-mas-mantem-discricao-no-2o-turno.shtml)_
 
+- **[2026-10-23 21:07 UTC]** Lula e Flávio encerram campanha de rua em estados que concentram 40% do eleitorado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-agenda-sabado-vespera-segundo-turno/)_
+
