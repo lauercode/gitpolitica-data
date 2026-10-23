@@ -7909,3 +7909,6 @@
 - **[2026-10-22 22:00 UTC]** 'A moral e os bons costumes só valem nos discursos', diz leitora sobre festa de Flávio Bolsonaro durante a pandemia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/a-moral-e-os-bons-costumes-so-valem-nos-discursos-diz-leitora-sobre-festa-de-flavio-bolsonaro-durante-a-pandemia.shtml)_
 
+- **[2026-10-22 22:00 UTC]** Empate no Datafolha enterra esperança de debate propositivo na Globo, dizem aliados de Flávio e Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/empate-no-datafolha-enterra-esperanca-de-debate-propositivo-na-globo-dizem-aliados-de-flavio-e-lula.shtml)_
+
