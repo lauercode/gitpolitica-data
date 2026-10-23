@@ -170,3 +170,6 @@
 - **[2026-10-22 17:45 UTC]** Lula convoca “Exército” de Janones para live no mesmo horário da de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-convoca-exercito-janones-live-mesmo-horario-de-flavio/)_
 
+- **[2026-10-22 23:27 UTC]** Janones anuncia live de 24 h do 'Exército do Lula' após debate na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-anuncia-live-de-24-h-do-exercito-do-lula-apos-debate-na-globo.shtml)_
+
