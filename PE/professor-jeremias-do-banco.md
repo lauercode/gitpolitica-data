@@ -14,3 +14,6 @@
 - **[2026-10-20 22:08 UTC]** TCU recua e aprova contas do BC, tribunal tinha condicionado análise à conclusão da avaliação da liquidação do Banco Master
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/20/tcu-recua-e-aprova-contas-do-bc-tribunal-tinha-condicionado-analise-a-conclusao-da-avaliacao-da-liquidacao-do-banco-master.ghtml)_
 
+- **[2026-10-23 16:23 UTC]** Banco BV entra no setor pet com oferta de planos de saúde
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/banco-bv-entra-no-setor-pet-com-oferta-de-planos-de-saude.shtml)_
+
