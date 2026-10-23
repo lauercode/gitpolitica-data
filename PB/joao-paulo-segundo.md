@@ -233,3 +233,6 @@
 - **[2026-10-05 03:01 UTC]** Eleições 2026: João Paulo Segundo (PP) é eleito deputado estadual pela Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-joao-paulo-segundo-pp-e-eleito-deputado-estadual-pela-paraiba.ghtml)_
 
+- **[2026-10-23 11:05 UTC]** Segundo turno: saiba como consultar local de votação para domingo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/segundo-turno-saiba-como-consultar-local-de-votacao-para-domingo)_
+
