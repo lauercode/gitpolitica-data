@@ -1712,3 +1712,6 @@
 - **[2026-10-23 10:00 UTC]** Ipespe/Abrapel: Flávio Bolsonaro tem 50,5% dos votos válidos no 2º turno, e Lula, 49,5%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ipespeabrapel-flavio-bolsonaro-tem-505-dos-votos-validos-no-2o-turno-e-lula-495.shtml)_
 
+- **[2026-10-23 07:37 UTC]** TSE dá 24 horas para Meta e X explicarem tratamento que beneficiaria Flávio contra Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-da-24-horas-para-meta-e-x-explicarem-tratamento-desigual-a-flavio-contra-lula.shtml)_
+
