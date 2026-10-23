@@ -38,3 +38,6 @@
 - **[2026-10-07 02:02 UTC]** Resultado das eleições 2026 em Araguaína (TO): votação para presidente no Centro de Ensino Medio Castelo Branco, na 1ª zona eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-araguaina-to-votacao-para-presidente-no-centro-de-ensino-medio-castelo-branco-na-1a-zona-eleitoral.ghtml)_
 
+- **[2026-10-23 16:24 UTC]** Fernando Castelo Branco recebe Michel Temer em lançamento de livro em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/fernando-castelo-branco-recebe-michel-temer-em-lancamento-de-livro-em-sp.shtml)_
+
