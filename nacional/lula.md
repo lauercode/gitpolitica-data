@@ -1730,3 +1730,6 @@
 - **[2026-10-23 18:53 UTC]** Após novas manifestações, Mendonça reitera que Lula e Flávio podem abrir sigilos por conta própria e que TSE não fiscaliza 'desafios'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-novas-manifestacoes-mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-conta-propria-e-que-tse-nao-fiscaliza-desafios.ghtml)_
 
+- **[2026-10-23 16:16 UTC]** No último dia de propaganda eleitoral na TV, Lula diz que Brasil está melhor e Flávio Bolsonaro pede mudança
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/horario-eleitoral-presidente-23-de-outubro-lula-flavio-bolsonaro.ghtml)_
+
