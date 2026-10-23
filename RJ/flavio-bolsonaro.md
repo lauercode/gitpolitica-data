@@ -8038,3 +8038,6 @@
 - **[2026-10-23 18:01 UTC]** “Exércitos” de Lula e Flávio chegam ao 2º turno na tentativa de vencer a batalha da rejeição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-chegam-segundo-turno-tentativa-vencer-batalha-rejeicao/)_
 
+- **[2026-10-23 17:53 UTC]** Campanha de Lula acusa Flávio Bolsonaro de não abrir sigilos após acordo no TSE
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-lula-acusa-flavio-bolsonaro-nao-abrir-sigilos-acordo-tse/)_
+
