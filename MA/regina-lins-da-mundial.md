@@ -98,3 +98,6 @@
 - **[2026-10-22 13:44 UTC]** EUA sediarão primeiro Mundial de Clubes feminino em 2028
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/eua-sediarao-primeiro-mundial-de-clubes-feminino-em-2028.shtml)_
 
+- **[2026-10-23 16:50 UTC]** Flávia Saraiva é a 12ª na final do individual geral no Mundial; Lorrane Oliveira fica na 21ª colocação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/flavia-saraiva-e-a-12a-na-final-do-individual-geral-no-mundial-lorrane-oliveira-fica-na-21a-colocacao.shtml)_
+
