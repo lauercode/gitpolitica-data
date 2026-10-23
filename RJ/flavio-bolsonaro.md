@@ -8086,3 +8086,6 @@
 - **[2026-10-23 21:07 UTC]** Lula e Flávio encerram campanha de rua em estados que concentram 40% do eleitorado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-agenda-sabado-vespera-segundo-turno/)_
 
+- **[2026-10-23 20:58 UTC]** Gilmar Mendes barra processo de Lindbergh contra vice de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-barra-processo-de-lindbergh-contra-vice-de-flavio-bolsonaro/)_
+
