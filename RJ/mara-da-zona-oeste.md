@@ -44,3 +44,6 @@
 - **[2026-09-10 13:48 UTC]** Homem de 54 anos é preso sob suspeita de estuprar adolescente por três dias na zona oeste do RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/homem-de-54-anos-e-preso-sob-suspeita-de-estuprar-adolescente-por-tres-dias-na-zona-oeste-do-rj.shtml)_
 
+- **[2026-10-23 05:00 UTC]** Domingo (25) de eleições tem previsão de temporais no Sul, no Sudeste e em parte do Centro-Oeste
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/domingo-25-de-eleicoes-tem-previsao-de-temporais-no-sul-no-sudeste-e-em-parte-do-centro-oeste.shtml)_
+
