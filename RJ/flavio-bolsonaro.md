@@ -7966,3 +7966,6 @@
 - **[2026-10-23 11:23 UTC]** Sem citar Flávio Bolsonaro, 47 bispos católicos divulgam carta sobre 2º turno e criticam 'políticas de devastação que caracterizaram o Governo de seu pai'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/bispos-catolicos-carta-segundo-turno-eleicoes-2026.ghtml)_
 
+- **[2026-10-23 11:19 UTC]** Entenda a disputa entre Richarlison e Flávio Bolsonaro sobre propriedade de luxo em Angra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/entenda-a-disputa-entre-richarlison-e-flavio-bolsonaro-sobre-propriedade-de-luxo-em-angra.shtml)_
+
