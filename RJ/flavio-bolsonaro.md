@@ -8098,3 +8098,6 @@
 - **[2026-10-23 22:33 UTC]** Debate na Globo: Lula e Flávio Bolsonaro se enfrentam antes do 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cwrkylzdlpr3t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-23 18:48 UTC]** O que pesa contra Flávio Bolsonaro na eleição?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm0ld9kpnwk2o?at_medium=RSS&at_campaign=rss)_
+
