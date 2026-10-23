@@ -113,3 +113,6 @@
 - **[2026-10-22 18:28 UTC]** Tentativa de roubo termina com vítima baleada na cabeça na zona oeste de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/motoqueiro-e-baleado-na-cabeca-durante-roubo-na-zona-oeste-de-sao-paulo.shtml)_
 
+- **[2026-10-22 23:00 UTC]** Novos filmes chegam para os últimos dias da 50ª Mostra de Cinema de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/10/novos-filmes-chegam-para-os-ultimos-dias-da-50a-mostra-de-cinema-de-sao-paulo.shtml)_
+
