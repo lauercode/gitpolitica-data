@@ -92,3 +92,6 @@
 - **[2026-10-19 18:00 UTC]** Quer dormir melhor? Diretora do Instituto do Sono tira dúvidas em live da CasaFolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/quer-dormir-melhor-diretora-do-instituto-do-sono-tira-duvidas-em-live-da-casafolha.shtml)_
 
+- **[2026-10-22 21:06 UTC]** Instituto Federal de SP é esvaziado e aulas são suspensas após ameaça de atentado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/instituto-federal-de-sp-e-esvaziado-e-aulas-sao-suspensas-apos-ameaca-de-atentado.shtml)_
+
