@@ -143,3 +143,6 @@
 - **[2026-10-23 19:30 UTC]** Bernardo Carvalho lança 'Xilocosmos' em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/bernardo-carvalho-lanca-xilocosmos-em-sao-paulo.shtml)_
 
+- **[2026-10-23 17:00 UTC]** 1926: Trens em São Paulo deixam de trafegar devido à falta de carvão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/10/1926-trens-em-sao-paulo-deixam-de-trafegar-devido-a-falta-de-carvao.shtml)_
+
