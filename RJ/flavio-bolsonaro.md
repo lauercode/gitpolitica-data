@@ -7999,3 +7999,6 @@
 - **[2026-10-23 16:57 UTC]** Gilmar cita imunidade e rejeita queixa de vice de Flávio contra parlamentares que mencionaram acusação de estupro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/gilmar-cita-imunidade-parlamentar-e-rejeita-queixa-de-vice-de-flavio-contra-congressistas-que-mencionaram-acusacao-de-estupro.ghtml)_
 
+- **[2026-10-23 16:16 UTC]** No último dia de propaganda eleitoral na TV, Lula diz que Brasil está melhor e Flávio Bolsonaro pede mudança
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/horario-eleitoral-presidente-23-de-outubro-lula-flavio-bolsonaro.ghtml)_
+
