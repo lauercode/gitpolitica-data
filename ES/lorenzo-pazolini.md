@@ -26,3 +26,6 @@
 - **[2026-10-22 08:00 UTC]** Eleitores do ES definem disputa para governo entre Ferraço e Pazolini
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-do-es-definem-disputa-para-governo-entre-ferraco-e-pazolini)_
 
+- **[2026-10-23 00:30 UTC]** Veja os números de Lorenzo Pazolini e Ricardo Ferraço, candidatos ao governo do Espírito Santo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-de-lorenzo-pazolini-e-ricardo-ferraco-candidatos-ao-governo-do-espirito-santo.shtml)_
+
