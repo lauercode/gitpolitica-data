@@ -119,3 +119,6 @@
 - **[2026-10-22 16:58 UTC]** Fato ou Fake: reveja as checagens das entrevistas de Flávio Bolsonaro e Lula e do debate da Band
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/22/fato-ou-fake-reveja-as-checagens-das-entrevistas-de-flavio-bolsonaro-e-lula-e-do-debate-da-band.ghtml)_
 
+- **[2026-10-23 00:35 UTC]** Fato ou Fake: entenda como funcionam as checagens e o trabalho da equipe
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/10/22/fato-ou-fake-entenda-como-funcionam-as-checagens-e-o-trabalho-da-equipe.ghtml)_
+
