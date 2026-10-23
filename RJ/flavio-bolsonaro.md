@@ -7933,3 +7933,6 @@
 - **[2026-10-23 06:00 UTC]** Negociar com patrão, mudar jornadas e regular apps: o que Lula e Flávio propõem aos trabalhadores
   _fonte: [G1 - Política:](https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/23/negociar-com-patrao-mudar-jornadas-e-regular-apps-o-que-lula-e-flavio-propoem-aos-trabalhadores.ghtml)_
 
+- **[2026-10-23 05:00 UTC]** Flávio Bolsonaro promete ampliar irrigação no cerrado, onde sistema faz rios minguarem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/flavio-bolsonaro-promete-ampliar-irrigacao-no-cerrado-onde-sistema-faz-rios-minguarem.shtml)_
+
