@@ -7963,3 +7963,6 @@
 - **[2026-10-23 11:54 UTC]** Ministro do TSE manda Meta revisar retirada de vídeo de MC Cabelinho contra Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/ministro-do-tse-manda-meta-revisar-retirada-de-video-de-mc-cabelinho-contra-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-23 11:23 UTC]** Sem citar Flávio Bolsonaro, 47 bispos católicos divulgam carta sobre 2º turno e criticam 'políticas de devastação que caracterizaram o Governo de seu pai'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/bispos-catolicos-carta-segundo-turno-eleicoes-2026.ghtml)_
+
