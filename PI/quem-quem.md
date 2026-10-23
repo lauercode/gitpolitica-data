@@ -497,3 +497,6 @@
 - **[2026-10-22 16:44 UTC]** 'Quem Ama Cuida': Ulisses confronta Fábia após descobrir traição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/quem-ama-cuida-ulisses-confronta-fabia-apos-descobrir-traicao.shtml)_
 
+- **[2026-10-22 21:39 UTC]** Quem é MC Cabelinho, cantor que teve vídeo derrubado pela Meta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/quem-e-mc-cabelinho-cantor-que-teve-video-derrubado-pela-meta.shtml)_
+
