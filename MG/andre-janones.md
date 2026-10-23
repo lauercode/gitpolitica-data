@@ -173,3 +173,6 @@
 - **[2026-10-22 23:27 UTC]** Janones anuncia live de 24 h do 'Exército do Lula' após debate na Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-anuncia-live-de-24-h-do-exercito-do-lula-apos-debate-na-globo.shtml)_
 
+- **[2026-10-22 21:17 UTC]** Live de Lula tem 'urgente' de Janones, celebração de Datafolha, críticas a Flávio e participação de artistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/live-de-lula-tem-urgente-de-janones-celebracao-de-datafolha-criticas-a-flavio-e-participacao-de-artistas.shtml)_
+
