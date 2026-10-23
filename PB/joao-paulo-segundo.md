@@ -236,3 +236,6 @@
 - **[2026-10-23 11:05 UTC]** Segundo turno: saiba como consultar local de votação para domingo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/segundo-turno-saiba-como-consultar-local-de-votacao-para-domingo)_
 
+- **[2026-10-23 15:42 UTC]** Segundo turno: acesso à Esplanada será controlado no domingo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/segundo-turno-acesso-esplanada-sera-controlado-no-domingo)_
+
