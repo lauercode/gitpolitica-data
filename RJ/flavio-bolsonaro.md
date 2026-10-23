@@ -7945,3 +7945,6 @@
 - **[2026-10-22 21:50 UTC]** Campanha de Lula recorre a Mendonça por mediação do TSE nas quebras de sigilo; Flávio entrega autorizações
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/campanha-de-lula-recorre-a-mendonca-por-mediacao-do-tse-e-pressiona-flavio-por-quebras-de-sigilo.shtml)_
 
+- **[2026-10-23 08:07 UTC]** Os sinais vermelhos da economia em 2027 e o que Flávio e Lula propõem para eles
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm20v1y71kweo?at_medium=RSS&at_campaign=rss)_
+
