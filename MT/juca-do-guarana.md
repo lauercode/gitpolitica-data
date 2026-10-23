@@ -8,3 +8,6 @@
 - **[2026-09-09 09:40 UTC]** Hailey Bieber posa com guaraná e marca de biquíni de fita em capa de revista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/hailey-bieber-posa-com-guarana-e-marca-de-biquini-de-fita-em-capa-de-revista.shtml)_
 
+- **[2026-10-23 14:10 UTC]** Justiça proíbe Guaraná Poty de fazer propaganda política a funcionários
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/justica-proibe-guarana-poty-de-fazer-propaganda-politica-a-funcionarios.shtml)_
+
