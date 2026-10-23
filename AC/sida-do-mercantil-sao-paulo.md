@@ -134,3 +134,6 @@
 - **[2026-10-23 07:35 UTC]** Falha de sinalização reduz velocidade da linha 11-coral da CPTM, em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/falha-de-sinalizacao-reduz-velocidade-da-linha-11-coral-da-cptm-em-sao-paulo.shtml)_
 
+- **[2026-10-23 07:00 UTC]** Quem foi a primeira mulher a ter função administrativa num banco em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/andancas-na-metropole/2026/10/quem-foi-a-primeira-mulher-a-ter-funcao-administrativa-num-banco-em-sao-paulo.shtml)_
+
