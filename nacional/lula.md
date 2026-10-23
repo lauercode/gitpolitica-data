@@ -1700,3 +1700,6 @@
 - **[2026-10-22 19:40 UTC]** Debate da Globo: regras, horário e checagem do último embate entre Lula e Flávio
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx8dzrn1j54po?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-22 14:57 UTC]** Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss)_
+
