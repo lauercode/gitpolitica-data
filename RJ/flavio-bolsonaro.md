@@ -8047,3 +8047,6 @@
 - **[2026-10-23 14:58 UTC]** Cientistas ambientais rejeitam Flávio enquanto frente do agro mantém apoio
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/eleicoes/2026/cientistas-ambientais-rejeitam-flavio-enquanto-frente-do-agro-mantem-apoio/)_
 
+- **[2026-10-23 17:32 UTC]** O número que pode definir vitória de Lula ou de Flávio Bolsonaro no 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8wy9k5640xdo?at_medium=RSS&at_campaign=rss)_
+
