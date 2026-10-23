@@ -8002,3 +8002,6 @@
 - **[2026-10-23 16:16 UTC]** No último dia de propaganda eleitoral na TV, Lula diz que Brasil está melhor e Flávio Bolsonaro pede mudança
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/horario-eleitoral-presidente-23-de-outubro-lula-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-23 16:09 UTC]** Ministro da Fazenda fala em ajuste das contas públicas sem 'dar cavalo de pau' ou 'fazer loucuras'; Flávio tem prometido 'tesouraço'
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/10/23/ministro-da-fazenda-fala-em-ajuste-das-contas-publicas-sem-dar-cavalo-de-pau-ou-fazer-loucuras-flavio-tem-prometido-tesouraco.ghtml)_
+
