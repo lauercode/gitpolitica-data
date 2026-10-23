@@ -7870,3 +7870,6 @@
 - **[2026-10-23 00:30 UTC]** Eleições 2026: Veja os números de Flávio Bolsonaro e Lula nas urnas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicoes-2026-veja-os-numeros-de-flavio-bolsonaro-e-lula-nas-urnas.shtml)_
 
+- **[2026-10-23 00:09 UTC]** Brazil Journal anuncia afastamento do sócio Flávio Carneiro após revelação de diálogos com Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/brazil-journal-anuncia-afastamento-do-socio-flavio-carneiro-apos-revelacao-de-dialogos-com-vorcaro.shtml)_
+
