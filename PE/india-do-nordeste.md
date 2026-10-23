@@ -83,3 +83,6 @@
 - **[2026-10-22 14:39 UTC]** Tese examina implicações de rankings na gestão de universidades do Nordeste
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://ruf.folha.uol.com.br/2026/noticias/tese-examina-implicacoes-de-rankings-na-gestao-de-universidades-do-nordeste.shtml)_
 
+- **[2026-10-23 15:01 UTC]** Aliados de Flávio criticam erros de Nikolas em vídeos sobre Nordeste e temem reflexos negativos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/23/aliados-de-flavio-criticam-erros-de-nikolas-em-videos-sobre-nordeste-e-temem-reflexos-negativos-na-regiao.ghtml)_
+
