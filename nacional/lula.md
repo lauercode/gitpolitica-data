@@ -1667,3 +1667,6 @@
 - **[2026-10-22 23:00 UTC]** Por que Lula se uniu a fãs de divas pop, e Flávio teve de cobrar apoio dos sertanejos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/por-que-lula-se-uniu-a-fas-de-divas-pop-e-flavio-teve-de-cobrar-apoio-dos-sertanejos.shtml)_
 
+- **[2026-10-22 22:05 UTC]** Datafolha: PT fala em onda pró-Lula, e aliados de Flávio citam força da direita na véspera de eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-pt-fala-em-onda-pro-lula-e-aliados-de-flavio-citam-forca-da-direita-na-vespera-de-eleicoes.shtml)_
+
