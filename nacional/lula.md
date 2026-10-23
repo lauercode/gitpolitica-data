@@ -1766,3 +1766,6 @@
 - **[2026-10-23 21:07 UTC]** Lula e Flávio encerram campanha de rua em estados que concentram 40% do eleitorado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-agenda-sabado-vespera-segundo-turno/)_
 
+- **[2026-10-23 20:24 UTC]** Eduardo Bolsonaro defende que Flávio deixe o Brasil se for derrotado por Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/eduardo-bolsonaro-defende-que-flavio-deixe-o-brasil-se-for-derrotado-por-lula/)_
+
