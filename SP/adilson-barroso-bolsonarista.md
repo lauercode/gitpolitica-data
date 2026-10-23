@@ -8,3 +8,6 @@
 - **[2026-08-31 04:00 UTC]** Lula reclama de falta de controle na PF e atribui vazamentos a 'ala bolsonarista'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/lula-reclama-de-falta-de-controle-na-pf-e-atribui-vazamentos-a-ala-bolsonarista.shtml)_
 
+- **[2026-10-23 13:26 UTC]** Bolsonarista divulga boato já desmentido sobre voto de mesários em Lula e pede fiscalização
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/bolsonarista-divulga-boato-ja-desmentido-sobre-voto-de-mesarios-em-lula-e-pede-fiscalizacao.shtml)_
+
