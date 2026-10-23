@@ -128,3 +128,6 @@
 - **[2026-10-23 09:00 UTC]** Novo livro de Caio Túlio Costa reúne jornalistas em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/novo-livro-de-caio-tulio-costa-reune-jornalistas-em-sao-paulo.shtml)_
 
+- **[2026-10-23 08:00 UTC]** Uma nova lei torna São Paulo mais sustentável
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/10/uma-nova-lei-torna-sao-paulo-mais-sustentavel.shtml)_
+
