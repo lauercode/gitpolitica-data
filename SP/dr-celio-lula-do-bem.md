@@ -125,3 +125,6 @@
 - **[2026-10-22 06:00 UTC]** PM-SP acusa campanha de Lula e governo de ameaça e descumprimento de ordem judicial na Paulista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pm-sp-acusa-campanha-de-lula-e-governo-de-ameaca-e-descumprimento-de-ordem-judicial-na-paulista.shtml)_
 
+- **[2026-10-22 21:14 UTC]** Ato pró-Lula em SP comemora resultado do Datafolha, e Dirceu fala em não sair das ruas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-pro-lula-em-sp-comemora-resultado-do-datafolha-e-dirceu-fala-em-nao-sair-das-ruas.shtml)_
+
