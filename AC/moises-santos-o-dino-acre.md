@@ -497,3 +497,6 @@
 - **[2026-10-21 08:00 UTC]** Eleitores do Acre escolhem entre Mailza Assis e Alan Rick para governo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-do-acre-voltam-urnas-no-domingo-para-escolher-entre-mailza-assis-e-alan-rick-para%20governar-estado)_
 
+- **[2026-10-23 00:30 UTC]** Veja os números de Mailza Assis e Alan Rick, candidatos ao governo do Acre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-de-mailza-assis-e-alan-rick-candidatos-ao-governo-do-acre.shtml)_
+
