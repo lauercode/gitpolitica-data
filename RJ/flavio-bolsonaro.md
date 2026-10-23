@@ -7951,3 +7951,6 @@
 - **[2026-10-22 19:40 UTC]** Debate da Globo: regras, horário e checagem do último embate entre Lula e Flávio
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx8dzrn1j54po?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-22 11:46 UTC]** Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio Bolsonaro?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss)_
+
