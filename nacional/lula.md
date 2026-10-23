@@ -1691,3 +1691,6 @@
 - **[2026-10-23 06:00 UTC]** Negociar com patrão, mudar jornadas e regular apps: o que Lula e Flávio propõem aos trabalhadores
   _fonte: [G1 - Política:](https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/23/negociar-com-patrao-mudar-jornadas-e-regular-apps-o-que-lula-e-flavio-propoem-aos-trabalhadores.ghtml)_
 
+- **[2026-10-22 21:50 UTC]** Campanha de Lula recorre a Mendonça por mediação do TSE nas quebras de sigilo; Flávio entrega autorizações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/campanha-de-lula-recorre-a-mendonca-por-mediacao-do-tse-e-pressiona-flavio-por-quebras-de-sigilo.shtml)_
+
