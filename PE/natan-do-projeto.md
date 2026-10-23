@@ -353,3 +353,6 @@
 - **[2026-10-23 13:43 UTC]** Projeto amplia para 60 dias o período de propaganda eleitoral
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1311968-projeto-amplia-para-60-dias-o-periodo-de-propaganda-eleitoral)_
 
+- **[2026-10-23 12:00 UTC]** Libertinagem é o maior ato político que existe, diz criador do Projeto Luxúria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/libertinagem-e-o-maior-ato-politico-que-existe-diz-criador-do-projeto-luxuria.shtml)_
+
