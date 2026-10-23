@@ -1772,3 +1772,6 @@
 - **[2026-10-23 21:34 UTC]** Mendonça descarta ser “árbitro” de sigilos de Lula e Flávio e diz que TSE não fiscaliza “desafios”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/medonca-descarta-ser-arbitro-de-sigilos-de-lula-e-flavio-e-diz-que-tse-nao-fiscaliza-desafios/)_
 
+- **[2026-10-23 22:33 UTC]** Debate na Globo: Lula e Flávio Bolsonaro se enfrentam antes do 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cwrkylzdlpr3t?at_medium=RSS&at_campaign=rss)_
+
