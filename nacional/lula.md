@@ -1745,3 +1745,6 @@
 - **[2026-10-23 17:53 UTC]** Campanha de Lula acusa Flávio Bolsonaro de não abrir sigilos após acordo no TSE
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-lula-acusa-flavio-bolsonaro-nao-abrir-sigilos-acordo-tse/)_
 
+- **[2026-10-23 17:32 UTC]** O número que pode definir vitória de Lula ou de Flávio Bolsonaro no 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c8wy9k5640xdo?at_medium=RSS&at_campaign=rss)_
+
