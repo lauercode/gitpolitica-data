@@ -23,3 +23,6 @@
 - **[2026-10-20 23:00 UTC]** Importação de máquinas agrícolas sobe 144%, puxada por China e Índia, e sufoca indústria no Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/importacao-de-maquinas-agricolas-sobe-144-puxada-por-china-e-india-e-sufoca-industria-no-brasil.shtml)_
 
+- **[2026-10-23 09:00 UTC]** Calendário Pirelli mergulha na história da Índia em busca da beleza no caos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/calendario-pirelli-mergulha-na-historia-da-india-em-busca-da-beleza-no-caos.shtml)_
+
