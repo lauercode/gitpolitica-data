@@ -7954,3 +7954,6 @@
 - **[2026-10-22 11:46 UTC]** Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio Bolsonaro?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-23 09:33 UTC]** Flávio propõe retomada de privatizações; Lula quer fortalecer empresas
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-propoe-retomada-de-privatizacoes-lula-quer-fortalecer-empresas)_
+
