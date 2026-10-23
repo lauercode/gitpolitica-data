@@ -35,3 +35,6 @@
 - **[2026-09-09 04:00 UTC]** MAM de São Paulo reabre com espaços renovados e comunicação visual atual
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/mam-de-sao-paulo-reabre-com-espacos-renovados-e-comunicacao-visual-atual.shtml)_
 
+- **[2026-10-23 09:45 UTC]** Atual campeã mundial da maratona é suspensa provisoriamente por doping
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/atual-campea-mundial-da-maratona-e-suspensa-provisoriamente-por-doping.shtml)_
+
