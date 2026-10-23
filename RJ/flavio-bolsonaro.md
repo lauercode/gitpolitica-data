@@ -7876,3 +7876,6 @@
 - **[2026-10-22 23:00 UTC]** Apoiadores de Lula e de Flávio Bolsonaro se engajam para tentar virar votos de indecisos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-e-de-flavio-bolsonaro-se-engajam-para-tentar-virar-votos-de-indecisos.shtml)_
 
+- **[2026-10-22 23:00 UTC]** Setor audiovisual teme retaliações em eventual governo de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/setor-audiovisual-teme-retaliacoes-em-eventual-governo-de-flavio-bolsonaro.shtml)_
+
