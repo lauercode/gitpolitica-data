@@ -89,3 +89,6 @@
 - **[2026-09-09 21:06 UTC]** Eleições 2026: Delegado André David e André Moura cancelam participação em entrevista na FM Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-cancelamento-entrevista-fm-sergipe.ghtml)_
 
+- **[2026-10-23 08:00 UTC]** Delegado demitido sob acusação de tortura e 'rinha de presos' é eleito deputado federal pelo PL
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/delegado-demitido-sob-acusacao-de-tortura-e-rinha-de-presos-e-eleito-deputado-federal-pelo-pl.shtml)_
+
