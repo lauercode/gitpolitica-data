@@ -8053,3 +8053,6 @@
 - **[2026-10-23 20:02 UTC]** Datafolha no DF, 2º turno: Flávio Bolsonaro, 51%; Lula, 42%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/23/datafolha-df-presidente-segundo-turno-23-outubro.ghtml)_
 
+- **[2026-10-23 19:14 UTC]** Eduardo Bolsonaro diz em podcast dos EUA que urnas brasileiras podem ser fraudadas e defende que Flávio deixe país se perder eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/eduardo-bolsonaro-diz-em-podcast-dos-eua-que-urnas-brasileiras-podem-ser-fraudadas-e-defende-que-flavio-deixe-o-pais-se-perder-eleicao.ghtml)_
+
