@@ -1685,3 +1685,6 @@
 - **[2026-10-22 21:17 UTC]** Live de Lula tem 'urgente' de Janones, celebração de Datafolha, críticas a Flávio e participação de artistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/live-de-lula-tem-urgente-de-janones-celebracao-de-datafolha-criticas-a-flavio-e-participacao-de-artistas.shtml)_
 
+- **[2026-10-23 01:54 UTC]** Lula pede que Mendonça seja “árbitro” da divulgação de sigilos e pressiona Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-pede-que-mendonca-seja-arbitro-da-divulgacao-de-sigilos-e-pressiona-flavio/)_
+
