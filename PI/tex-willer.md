@@ -47,3 +47,6 @@
 - **[2026-10-22 08:54 UTC]** Investigados por lavagem com bets, Willer e Flávio dividem endereços, voos e parceiros comerciais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/investigados-por-lavagem-com-bets-willer-e-flavio-dividem-enderecos-voos-e-parceiros-comerciais.shtml)_
 
+- **[2026-10-22 23:00 UTC]** Carreira de Flávio Bolsonaro como advogado só decola no Senado, com Willer Tomaz e foco no STJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carreira-de-flavio-bolsonaro-como-advogado-so-decola-no-senado-com-willer-tomaz-e-foco-no-stj.shtml)_
+
