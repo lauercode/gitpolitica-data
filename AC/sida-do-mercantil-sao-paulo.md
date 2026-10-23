@@ -146,3 +146,6 @@
 - **[2026-10-23 17:00 UTC]** 1926: Trens em São Paulo deixam de trafegar devido à falta de carvão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/10/1926-trens-em-sao-paulo-deixam-de-trafegar-devido-a-falta-de-carvao.shtml)_
 
+- **[2026-10-23 16:19 UTC]** Museu das Favelas adia concurso de sósias da cantora Alcione em São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/passeios/2026/10/concurso-de-sosias-de-alcione-em-sp-da-ingressos-para-musical-e-show-da-cantora-aos-vencedores.shtml)_
+
