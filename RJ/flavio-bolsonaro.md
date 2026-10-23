@@ -8026,3 +8026,6 @@
 - **[2026-10-23 13:00 UTC]** Vitória de Flávio pode levar conselheiro do TCE-SP para o TCU
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/vitoria-de-flavio-pode-levar-conselheiro-do-tce-sp-para-o-tcu.shtml)_
 
+- **[2026-10-23 12:22 UTC]** Governo Lula promete alívio a bares e restaurantes impactados pelo fim da 6x1 em reação a Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-quer-perdoar-dividas-para-o-setor-de-eventos-apos-flavio-prometer-programa-para-o-segmento.shtml)_
+
