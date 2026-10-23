@@ -275,3 +275,6 @@ plenário do STF analise mensagens entre Moraes e Vorcaro
 - **[2026-10-20 21:19 UTC]** Mensagens de Vorcaro mostram comparação entre banqueiro e Epstein: 'Jeff tá amador'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck4g18721rv2o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-23 15:48 UTC]** Mensagens de Vorcaro indicam que Lula foi presenteado com whisky de R$ 500 mil, diz revista
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mensagens-de-vorcaro-indicam-que-lula-foi-presenteado-com-whisky-de-r-500-mil-diz-revista/)_
+
