@@ -7867,3 +7867,6 @@
 - **[2026-10-23 00:21 UTC]** Campanha de Lula pede que TSE execute acordo de quebra de sigilo com Flávio Bolsonaro como um intermediador imparcial
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/campanha-de-lula-pede-que-tse-execute-acordo-de-quebra-de-sigilo-com-flavio-bolsonaro-como-um-intermediador.ghtml)_
 
+- **[2026-10-23 00:30 UTC]** Eleições 2026: Veja os números de Flávio Bolsonaro e Lula nas urnas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicoes-2026-veja-os-numeros-de-flavio-bolsonaro-e-lula-nas-urnas.shtml)_
+
