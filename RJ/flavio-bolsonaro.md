@@ -8041,3 +8041,6 @@
 - **[2026-10-23 17:53 UTC]** Campanha de Lula acusa Flávio Bolsonaro de não abrir sigilos após acordo no TSE
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/campanha-lula-acusa-flavio-bolsonaro-nao-abrir-sigilos-acordo-tse/)_
 
+- **[2026-10-23 16:58 UTC]** Gilmar reconhece imunidade parlamentar e rejeita ação de Lindbergh contra vice de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-reconhece-imunidade-parlamentar-e-rejeita-acao-de-lindbergh-contra-vice-de-flavio/)_
+
