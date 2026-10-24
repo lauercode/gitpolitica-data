@@ -8410,3 +8410,6 @@
 - **[2026-10-24 20:23 UTC]** Apoiadores de Lula e Flávio vão às ruas em 25 capitais no último dia de campanha para o 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/atos-no-brasil.ghtml)_
 
+- **[2026-10-24 19:58 UTC]** Flávio Bolsonaro encerra campanha em ato no RJ com Nikolas e Douglas Ruas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-encerra-campanha-em-ato-no-rj-com-nikolas-e-douglas-ruas.shtml)_
+
