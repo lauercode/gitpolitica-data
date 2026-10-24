@@ -1982,3 +1982,6 @@
 - **[2026-10-24 21:02 UTC]** Datafolha para presidente no DF, votos válidos: Flávio Bolsonaro, 56%; Lula, 44%
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/datafolha-df-presidente-segundo-turno-24-outubro.ghtml)_
 
+- **[2026-10-24 20:23 UTC]** Apoiadores de Lula e Flávio vão às ruas em 25 capitais no último dia de campanha para o 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/atos-no-brasil.ghtml)_
+
