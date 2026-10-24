@@ -8374,3 +8374,6 @@
 - **[2026-10-24 20:08 UTC]** Debate na Globo: a reação da mãe de Ana Clara quando Flávio Bolsonaro respondeu sobre a morte da menina em Niteroi
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/natuza-nery/post/2026/10/24/debate-na-globo-a-reacao-da-mae-de-ana-clara-quando-flavio-bolsonaro-respondeu-sobre-a-morte-da-menina-em-niteroi.ghtml)_
 
+- **[2026-10-24 16:12 UTC]** Lula e Flávio mobilizam multidões em atos em capitais na véspera do 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/atos-da-direita-e-da-esquerda-mobilizam-capitais-na-vespera-do-segundo-turno.shtml)_
+
