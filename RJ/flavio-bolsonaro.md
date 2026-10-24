@@ -8149,3 +8149,6 @@
 - **[2026-10-24 02:59 UTC]** Em entrevista após debate, Flávio Bolsonaro diz que vai zerar o desmatamento ilegal e quer órgãos ambientais sem 'travas ideológicas'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/flavio-bolsonaro-entrevista-debate-lula-tv-globo.ghtml)_
 
+- **[2026-10-24 02:35 UTC]** Debate na Globo: Flávio Bolsonaro pergunta a Lula sobre retomada de territórios; VÍDEO
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-flavio-bolsonaro-pergunta-a-lula-sobre-retomada-de-territorios-video-1.ghtml)_
+
