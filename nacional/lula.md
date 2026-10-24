@@ -1775,3 +1775,6 @@
 - **[2026-10-23 22:33 UTC]** Debate na Globo: Lula e Flávio Bolsonaro se enfrentam antes do 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cwrkylzdlpr3t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-23 22:23 UTC]** Lula defende políticas sociais, e Flávio Bolsonaro diz que petista tira com '9 dedos' dinheiro da população
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-defende-politicas-sociais-e-flavio-bolsonaro-diz-que-petista-tira-com-9-dedos-dinheiro-da-populacao.shtml)_
+
