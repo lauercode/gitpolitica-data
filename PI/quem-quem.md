@@ -527,3 +527,6 @@
 - **[2026-10-24 08:30 UTC]** Quem quer ver o Brasil pegar fogo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/10/quem-quer-ver-o-brasil-pegar-fogo.shtml)_
 
+- **[2026-10-24 20:19 UTC]** Quem vai ganhar o troféu abacaxi?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/quem-vai-ganhar-o-trofeu-abacaxi.shtml)_
+
