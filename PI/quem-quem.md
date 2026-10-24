@@ -524,3 +524,6 @@
 - **[2026-10-24 10:43 UTC]** Quem ganhou e quem perdeu no último debate entre Lula e Flávio Bolsonaro?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmx2351xpe2lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 08:30 UTC]** Quem quer ver o Brasil pegar fogo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/10/quem-quer-ver-o-brasil-pegar-fogo.shtml)_
+
