@@ -518,3 +518,6 @@
 - **[2026-10-23 20:45 UTC]** Quem vota em extremistas só quer viver como um burguês
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2026/10/quem-vota-em-extremistas-so-quer-viver-como-um-burgues.shtml)_
 
+- **[2026-10-23 22:53 UTC]** Quem não votou no 1º turno pode votar no 2º turno? Veja o que você precisa levar
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c875pvze4w6zo?at_medium=RSS&at_campaign=rss)_
+
