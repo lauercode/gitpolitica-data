@@ -8227,3 +8227,6 @@
 - **[2026-10-23 23:00 UTC]** 'Bunker petista', Maricá dá vitória a Flávio e expõe resiliência bolsonarista no RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bunker-petista-marica-da-vitoria-a-flavio-e-expoe-resiliencia-bolsonarista-no-rj.shtml)_
 
+- **[2026-10-23 23:00 UTC]** Euforia de investidores com Flávio Bolsonaro dá lugar a cautela às vésperas do 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/euforia-de-investidores-com-flavio-bolsonaro-da-lugar-a-cautela-as-vesperas-do-2o-turno.shtml)_
+
