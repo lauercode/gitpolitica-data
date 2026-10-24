@@ -38,3 +38,6 @@
 - **[2026-10-24 16:06 UTC]** Lula diz estar confiante de que vencerá eleição porque 'brasileiros não podem levar um miliciano para o Palácio do Planalto'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/lula-no-rio-de-janeiro.ghtml)_
 
+- **[2026-10-24 12:00 UTC]** Palácio na Etiópia teria estrutura similar à de arranha-céu há quase 3.000 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/palacio-na-etiopia-teria-estrutura-similar-a-de-arranha-ceu-ha-quase-3000-anos.shtml)_
+
