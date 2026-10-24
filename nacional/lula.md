@@ -1799,3 +1799,6 @@
 - **[2026-10-24 06:10 UTC]** Debate da Globo: no primeiro bloco, Lula e Flávio Bolsonaro discutem problemas de cada região do Brasil; reveja
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/debate-da-globo-primeiro-bloco.ghtml)_
 
+- **[2026-10-24 04:00 UTC]** Veja como foi o debate entre Flávio Bolsonaro (PL) e Lula (PT) na Globo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml)_
+
