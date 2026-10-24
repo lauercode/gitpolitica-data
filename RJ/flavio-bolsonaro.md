@@ -8362,3 +8362,6 @@
 - **[2026-10-24 15:52 UTC]** Lula e Flávio Bolsonaro levam multidões às ruas de BH e Rio na reta final da eleição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-multidoes-ruas-bh-rio-reta-final-eleicao/)_
 
+- **[2026-10-24 15:17 UTC]** Fake news de Janones ligando Flávio à exploração de ucranianas gera atrito internacional
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/fake-news-de-janones-ligando-flavio-a-exploracao-de-ucranianas-gera-atrito-internacional/)_
+
