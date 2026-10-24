@@ -14,3 +14,6 @@
 - **[2026-09-06 14:10 UTC]** Mirassol vence e mantém Vasco e Internacional na zona de rebaixamento
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/mirassol-vence-e-mantem-vasco-e-internacional-na-zona-de-rebaixamento)_
 
+- **[2026-10-24 18:39 UTC]** São Paulo empata com Mirassol e mantém jejum como visitante
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/sao-paulo-empata-com-mirassol-e-mantem-jejum-como-visitante.shtml)_
+
