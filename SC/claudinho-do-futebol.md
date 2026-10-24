@@ -86,3 +86,6 @@
 - **[2026-09-11 16:26 UTC]** Sobrevivente brasileiro do 11 de setembro é filho de ídolo do futebol e desceu 25 andares de escada
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/11/quem-e-sobrevivente-brasileiro-do-11-de-setembro.ghtml)_
 
+- **[2026-10-24 09:50 UTC]** Futebol vive momento de conciliação entre o prazer e o dever
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tostao/2026/10/futebol-vive-momento-de-conciliacao-entre-o-prazer-e-o-dever.shtml)_
+
