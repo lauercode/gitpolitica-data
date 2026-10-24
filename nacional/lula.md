@@ -1919,3 +1919,6 @@
 - **[2026-10-24 08:50 UTC]** Flávio Bolsonaro e Lula citam informações falsas, exageradas e fora de contexto no debate da Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-lula-citam-informacoes-falsas-exageradas-e-fora-de-contexto-no-debate-da-globo.shtml)_
 
+- **[2026-10-24 14:12 UTC]** STF recua e TSE dá a Lula mais vitórias que derrotas na campanha contra Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/stf-recua-e-tse-da-a-lula-mais-vitorias-que-derrotas-na-campanha-contra-flavio/)_
+
