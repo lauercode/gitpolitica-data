@@ -29,3 +29,6 @@
 - **[2026-10-24 10:30 UTC]** EUA pedem há anos que Musk altere serviço Starlink na Ucrânia e no Oriente Médio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/eua-pedem-ha-anos-que-musk-altere-servico-starlink-na-ucrania-e-no-oriente-medio.shtml)_
 
+- **[2026-10-24 12:21 UTC]** Meta desbanca Musk como vilã da tecnologia para Lula na eleição brasileira
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/10/meta-desbanca-musk-como-vila-da-tecnologia-para-lula-na-eleicao-brasileira.shtml)_
+
