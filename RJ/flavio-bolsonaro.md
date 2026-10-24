@@ -8329,3 +8329,6 @@
 - **[2026-10-24 14:47 UTC]** Como a imprensa internacional repercutiu o último debate entre Flávio Bolsonaro e Lula
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/24/como-a-imprensa-internacional-repercutiu-o-ultimo-debate-flavio-lula.ghtml)_
 
+- **[2026-10-24 13:46 UTC]** Entenda polêmica sobre ilha de Richarlison citada no debate entre Lula e Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/24/entenda-polemica-ilha-richarlison-flavio-bolsonaro.ghtml)_
+
