@@ -20,3 +20,6 @@
 - **[2026-09-21 15:40 UTC]** Segunda edição do hackathon da NASA em Vilhena está com inscrições abertas
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credisul/noticia/2026/09/21/segunda-edicao-do-hackathon-da-nasa-em-vilhena-esta-com-inscricoes-abertas.ghtml)_
 
+- **[2026-10-24 08:35 UTC]** Nasa não garante pouso na Lua em 2028, mas diz fazer o seu máximo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/nasa-diz-fazer-o-maximo-possivel-para-levar-humanos-a-superficie-da-lua-em-2028.shtml)_
+
