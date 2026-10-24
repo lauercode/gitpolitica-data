@@ -8311,3 +8311,6 @@
 - **[2026-10-24 14:12 UTC]** STF recua e TSE dá a Lula mais vitórias que derrotas na campanha contra Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/stf-recua-e-tse-da-a-lula-mais-vitorias-que-derrotas-na-campanha-contra-flavio/)_
 
+- **[2026-10-24 13:49 UTC]** Promotoria defende extinção do desafio dos sigilos de Lula e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/promotoria-defende-extincao-desafio-sigilos-lula-flavio/)_
+
