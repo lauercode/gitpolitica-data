@@ -8302,3 +8302,6 @@
 - **[2026-10-24 10:19 UTC]** Apoiadores de Lula reagem a ataque de Flávio Bolsonaro sobre nove dedos durante caminhada no Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-reagem-a-ataque-de-flavio-bolsonaro-sobre-nove-dedos-durante-caminhada-no-rio.shtml)_
 
+- **[2026-10-24 09:18 UTC]** Bolsonaristas atacam rituais de religiões afro-brasileiras para evocar guerra espiritual contra Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bolsonaristas-atacam-rituais-de-religioes-afro-brasileiras-para-evocar-guerra-espiritual-contra-flavio.shtml)_
+
