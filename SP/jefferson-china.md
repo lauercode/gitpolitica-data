@@ -131,3 +131,6 @@
 - **[2026-10-23 22:50 UTC]** Datafolha: 27% veem China como parceiro comercial confiável; 22% dizem o mesmo dos EUA
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/23/datafolha-veem-china-como-parceiro-comercial-confiavel-dizem-o-mesmo-dos-eua.ghtml)_
 
+- **[2026-10-23 23:00 UTC]** Plenária na China pode indicar possível sucessor de Xi Jinping sem alarde
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/10/plenaria-na-china-pode-indicar-possivel-sucessor-de-xi-jinping-sem-alarde.shtml)_
+
