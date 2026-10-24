@@ -38,3 +38,6 @@
 - **[2026-10-24 13:22 UTC]** Como Alfredo Gaspar, candidato a vice de Flávio, usou ligações com Collor e Calheiros para crescer no Congresso
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c95ynje2z7pzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 13:10 UTC]** Alfredo Gaspar, vice de Flávio Bolsonaro, liderou atos no Nordeste e teve presença discreta nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alfredo-gaspar-vice-de-flavio-bolsonaro-liderou-atos-no-nordeste-e-teve-presenca-discreta-nas-redes.shtml)_
+
