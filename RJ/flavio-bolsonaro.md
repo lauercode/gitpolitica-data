@@ -8257,3 +8257,6 @@
 - **[2026-10-24 06:15 UTC]** Os principais momentos do debate entre Lula e Flávio na Globo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjly03x90ky4o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 06:23 UTC]** Debate na Globo: Lula e Flávio trocam ataques sobre Vorcaro e acusações de corrupção; veja como foi
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cwrkylzdlpr3t?at_medium=RSS&at_campaign=rss)_
+
