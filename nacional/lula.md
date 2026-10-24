@@ -1859,3 +1859,6 @@
 - **[2026-10-24 00:42 UTC]** Com regras mais rígidas, Globo baixou a temperatura do debate entre Flávio Bolsonaro e Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/com-regras-mais-rigidas-globo-baixou-a-temperatura-do-debate-entre-flavio-bolsonaro-e-lula.shtml)_
 
+- **[2026-10-24 00:24 UTC]** 'Nove dedos', 'miliciano, 'dá um Google': veja frases do debate entre Lula e Flávio na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nove-dedos-miliciano-da-um-google-veja-frases-do-debate-entre-lula-e-flavio-na-globo.shtml)_
+
