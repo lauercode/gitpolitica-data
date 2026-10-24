@@ -8323,3 +8323,6 @@
 - **[2026-10-24 17:46 UTC]** Flávio e Lula reúnem multidões em Belo Horizonte, Rio e São Paulo nos últimos atos de campanha antes do 2º turno da eleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/ultimos-atos-de-lula-e-flavio-antes-do-2o-turno.ghtml)_
 
+- **[2026-10-24 15:09 UTC]** PF suspeita de sociedade entre Willer Tomaz e Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/24/pf-suspeita-de-sociedade-entre-willer-tomaz-e-flavio-bolsonaro.ghtml)_
+
