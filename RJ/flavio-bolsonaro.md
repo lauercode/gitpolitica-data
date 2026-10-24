@@ -8431,3 +8431,6 @@
 - **[2026-10-24 18:56 UTC]** Datafolha: Eleitor se divide sobre Lula ou Flávio como vencedor de debate, e maioria diz ter assistido
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eleitor-se-divide-sobre-lula-ou-flavio-como-vencedor-de-debate-e-maioria-diz-ter-assistido.shtml)_
 
+- **[2026-10-24 18:30 UTC]** Datafolha: Lula é rejeitado por 46%, e Flávio Bolsonaro, por 45%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-e-rejeitado-por-46-e-flavio-bolsonaro-por-45.shtml)_
+
