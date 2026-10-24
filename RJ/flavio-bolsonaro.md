@@ -8377,3 +8377,6 @@
 - **[2026-10-24 16:12 UTC]** Lula e Flávio mobilizam multidões em atos em capitais na véspera do 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/atos-da-direita-e-da-esquerda-mobilizam-capitais-na-vespera-do-segundo-turno.shtml)_
 
+- **[2026-10-24 16:03 UTC]** Lula ou Flávio? Personalidades declaram seus votos; veja escolhas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-ou-flavio-personalidades-declaram-seus-votos-veja-escolhas.shtml)_
+
