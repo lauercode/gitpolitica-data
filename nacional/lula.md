@@ -1856,3 +1856,6 @@
 - **[2026-10-24 01:33 UTC]** Caso Ana Clara e fala sobre 'nove dedos' marcam último debate entre Lula e Flávio; veja como foi em 10 pontos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/caso-ana-clara-e-fala-sobre-nove-dedos-marcam-ultimo-debate-entre-lula-e-flavio-veja-como-foi-em-10-pontos.shtml)_
 
+- **[2026-10-24 00:42 UTC]** Com regras mais rígidas, Globo baixou a temperatura do debate entre Flávio Bolsonaro e Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/com-regras-mais-rigidas-globo-baixou-a-temperatura-do-debate-entre-flavio-bolsonaro-e-lula.shtml)_
+
