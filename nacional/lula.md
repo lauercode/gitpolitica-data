@@ -1898,3 +1898,6 @@
 - **[2026-10-24 08:08 UTC]** MAPA: No 2º turno, Lula e Flávio Bolsonaro priorizam maiores colégios eleitorais e visitam mais de uma cidade por dia
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/mapa-no-2o-turno-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-24 07:00 UTC]** Lula busca virada no 2º turno contra Flávio Bolsonaro e tenta reverter tendência de alternância de poder nas Américas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/lula-busca-virada-no-2o-turno-contra-flavio-bolsonaro-e-tenta-reverter-tendencia-de-alternancia-de-poder-nas-americas.ghtml)_
+
