@@ -1955,3 +1955,6 @@
 - **[2026-10-24 15:59 UTC]** Por que duelo entre Lula e Flávio é crucial para a América Latina — e para Trump
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62yvnkdwk7o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 20:23 UTC]** Apoiadores de Lula e Flávio vão às ruas em 15 capitais no último dia de campanha para o 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/atos-no-brasil.ghtml)_
+
