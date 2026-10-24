@@ -152,3 +152,6 @@
 - **[2026-10-23 16:00 UTC]** Boots Riley filma revolução em longa na Mostra de São Paulo e fala sobre as eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/boots-riley-filma-revolucao-em-longa-na-mostra-de-sao-paulo-e-fala-sobre-as-eleicoes.shtml)_
 
+- **[2026-10-23 23:00 UTC]** Um novo capítulo para a gestão pública e para o centro de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/um-novo-capitulo-para-a-gestao-publica-e-para-o-centro-de-sao-paulo.shtml)_
+
