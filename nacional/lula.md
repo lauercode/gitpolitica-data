@@ -1841,3 +1841,6 @@
 - **[2026-10-24 02:04 UTC]** Debate na Globo: Lula pergunta a Flávio Bolsonaro sobre SUS e melhorias na saúde pública; VÍDEO
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-lula-pergunta-a-flavio-bolsonaro-sobre-sus-e-melhorias-na-saude-publica-video.ghtml)_
 
+- **[2026-10-24 02:02 UTC]** Debate na Globo: Flávio Bolsonaro pergunta a Lula sobre saneamento básico na região Norte; VÍDEO
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-flavio-bolsonaro-pergunta-a-lula-sobre-saneamento-basico-na-regiao-norte-video.ghtml)_
+
