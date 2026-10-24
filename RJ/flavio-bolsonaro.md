@@ -8212,3 +8212,6 @@
 - **[2026-10-23 23:57 UTC]** Em debate mais civilizado do que o primeiro, Lula vence Flávio por pontos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-debate-civilizado-lula-vence-flavio-por-pontos.shtml)_
 
+- **[2026-10-23 23:10 UTC]** Moraes quebra sigilos de empresa ligada a Willer Tomaz, amigo de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/moraes-quebra-sigilos-de-empresas-ligada-a-willer-tomaz-amigo-de-flavio-bolsonaro.shtml)_
+
