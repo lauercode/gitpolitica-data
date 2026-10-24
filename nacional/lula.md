@@ -1910,3 +1910,6 @@
 - **[2026-10-24 04:52 UTC]** Flávio Bolsonaro vence em menções positivas no WhatsApp, e Lula, no X, aponta Palver
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-vence-em-mencoes-positivas-no-whatsapp-e-lula-no-x-aponta-palver.shtml)_
 
+- **[2026-10-24 10:43 UTC]** Quem ganhou e quem perdeu no último debate entre Lula e Flávio Bolsonaro?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmx2351xpe2lo?at_medium=RSS&at_campaign=rss)_
+
