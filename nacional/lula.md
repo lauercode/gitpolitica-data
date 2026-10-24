@@ -1928,3 +1928,6 @@
 - **[2026-10-24 13:04 UTC]** Ex-ministros de Lula e Dilma declaram apoio a Flávio Bolsonaro no segundo turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ex-ministros-lula-dilma-declaram-apoio-flavio-bolsonaro-segundo-turno/)_
 
+- **[2026-10-24 13:28 UTC]** Como Geraldo Alckmin foi de rival a 'companheiro' e candidato a vice-presidente de Lula
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr86z5exqn91o?at_medium=RSS&at_campaign=rss)_
+
