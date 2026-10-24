@@ -8296,3 +8296,6 @@
 - **[2026-10-24 09:49 UTC]** Flávio defende inocência do único acusado pela morte de Ana Clara
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-defende-inocencia-do-unico-acusado-pela-morte-de-ana-clara)_
 
+- **[2026-10-24 10:22 UTC]** Willer Tomaz, amigo de Flávio Bolsonaro, tem 15 imóveis que somam R$ 62 mi e constrói casa com heliponto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/willer-tomaz-amigo-de-flavio-bolsonaro-tem-15-imoveis-que-somam-r-62-mi-e-constroi-casa-com-heliponto.shtml)_
+
