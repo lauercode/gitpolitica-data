@@ -8242,3 +8242,6 @@
 - **[2026-10-24 04:06 UTC]** Ex de Janones e mãe de Ana Clara: Lula e Flávio levam convidados estratégicos para tensionar debate
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ex-de-janones-e-mae-de-ana-clara-lula-e-flavio-levam-convidados-estrategicos-para-tensionar-debate/)_
 
+- **[2026-10-24 03:34 UTC]** Em duelo final, Flávio expõe legado trágico de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/em-duelo-final-flavio-expoe-legado-tragico-de-lula/)_
+
