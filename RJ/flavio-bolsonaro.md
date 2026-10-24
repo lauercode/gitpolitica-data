@@ -8104,3 +8104,6 @@
 - **[2026-10-23 22:23 UTC]** Lula defende políticas sociais, e Flávio Bolsonaro diz que petista tira com '9 dedos' dinheiro da população
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-defende-politicas-sociais-e-flavio-bolsonaro-diz-que-petista-tira-com-9-dedos-dinheiro-da-populacao.shtml)_
 
+- **[2026-10-23 22:12 UTC]** Justiça proíbe gestão Nunes de pressionar servidores a fazer campanha para Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/justica-proibe-gestao-nunes-de-pressionar-servidores-a-fazer-campanha-para-flavio.shtml)_
+
