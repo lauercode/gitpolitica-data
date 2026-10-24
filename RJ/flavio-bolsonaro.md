@@ -8293,3 +8293,6 @@
 - **[2026-10-24 10:43 UTC]** Quem ganhou e quem perdeu no último debate entre Lula e Flávio Bolsonaro?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmx2351xpe2lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 09:49 UTC]** Flávio defende inocência do único acusado pela morte de Ana Clara
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-defende-inocencia-do-unico-acusado-pela-morte-de-ana-clara)_
+
