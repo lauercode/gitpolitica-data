@@ -8251,3 +8251,6 @@
 - **[2026-10-24 01:32 UTC]** Moraes determina quebra sigilos e bloqueia R$ 6 bilhões de advogado ligado a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-determina-quebra-sigilos-e-bloqueia-r-6-bilhoes-de-advogado-ligado-a-flavio-bolsonaro/)_
 
+- **[2026-10-24 03:52 UTC]** Flávio Bolsonaro propõe acelerar entrega de títulos de terra para assentados
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/flavio-bolsonaro-propoe-acelerar-entrega-de-titulos-de-terra-para-assentados/)_
+
