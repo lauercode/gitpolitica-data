@@ -8386,3 +8386,6 @@
 - **[2026-10-24 15:41 UTC]** Checagem de fatos, quem ganhou e 'gugo': veja termos mais pesquisados no debate entre Lula e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/checagem-de-fatos-quem-ganhou-e-gugo-veja-termos-mais-pesquisados-no-debate-entre-lula-e-flavio.shtml)_
 
+- **[2026-10-24 15:00 UTC]** Flávio descarta privatizar Petrobras, mas mercado espera venda de ativos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-descarta-privatizar-petrobras-mas-mercado-espera-venda-de-ativos.shtml)_
+
