@@ -8263,3 +8263,6 @@
 - **[2026-10-24 04:39 UTC]** 'Governo destruiu poder de compra dos eleitores', diz Flávio Bolsonaro em debate
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd6dxlgn446o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 03:37 UTC]** Lula reage após ser chamado de '9 dedos', e Flávio se desculpa
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw33xml77g25o?at_medium=RSS&at_campaign=rss)_
+
