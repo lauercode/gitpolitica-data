@@ -185,3 +185,6 @@
 - **[2026-10-22 08:00 UTC]** RN: eleitores vão escolher entre Allyson e Cadu de Lula para governo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/rn-eleitores-vao-escolher-entre-allyson-e-cadu-de-lula-para-governo)_
 
+- **[2026-10-24 22:19 UTC]** Quaest no RN, votos válidos: Allyson, 51%; Cadu de Lula, 49%
+  _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/24/quaest-rn-governador-segundo-turno-24-outubro.ghtml)_
+
