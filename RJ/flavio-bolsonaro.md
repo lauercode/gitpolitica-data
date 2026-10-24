@@ -8422,3 +8422,6 @@
 - **[2026-10-24 19:19 UTC]** Campanha de Flávio diz temer interferência e tratamento desigual por ministros do TSE
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-diz-temer-interferencia-e-tratamento-desigual-por-ministros-do-tse.shtml)_
 
+- **[2026-10-24 19:13 UTC]** Quaest: Flávio Bolsonaro marca 51% dos votos válidos, e Lula tem 49% na véspera da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-51-dos-votos-validos-e-lula-tem-49-na-vespera-da-eleicao.shtml)_
+
