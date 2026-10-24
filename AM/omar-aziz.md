@@ -167,3 +167,6 @@
 - **[2026-10-23 00:30 UTC]** Veja os números de Omar Aziz e Maria do Carmo, candidatos ao governo do Amazonas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-de-omar-aziz-e-maria-do-carmo-candidatos-ao-governo-do-amazonas.shtml)_
 
+- **[2026-10-24 22:35 UTC]** Quaest no Amazonas, votos válidos: Omar Aziz, 59%; Professora Maria do Carmo, 41%
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/24/quaest-amazonas-governador-segundo-turno-24-outubro.ghtml)_
+
