@@ -23,3 +23,6 @@
 - **[2026-10-19 18:00 UTC]** Carlos Alberto de Nóbrega tem implante de marcapasso adiado e segue internado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/carlos-alberto-de-nobrega-tem-implante-de-marcapasso-adiado-e-segue-internado.shtml)_
 
+- **[2026-10-24 11:57 UTC]** Carlos Alberto de Nóbrega tem alta hospitalar após implante de marcapasso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/carlos-alberto-de-nobrega-tem-alta-hospitalar-apos-implante-de-marcapasso.shtml)_
+
