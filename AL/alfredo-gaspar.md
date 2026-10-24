@@ -35,3 +35,6 @@
 - **[2026-10-20 14:26 UTC]** Eleições 2026: quem é Alfredo Gaspar, vice na chapa de Flávio Bolsonaro?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-2026-quem-e-alfredo-gaspar-vice-na-chapa-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-24 13:22 UTC]** Como Alfredo Gaspar, candidato a vice de Flávio, usou ligações com Collor e Calheiros para crescer no Congresso
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c95ynje2z7pzo?at_medium=RSS&at_campaign=rss)_
+
