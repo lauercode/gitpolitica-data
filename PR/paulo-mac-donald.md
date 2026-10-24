@@ -38,3 +38,6 @@
 - **[2026-10-05 14:49 UTC]** Eleições 2026: Paulo Mac Donald (PP) é eleito deputado estadual pelo Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-paulo-mac-donald-pp-e-eleito-deputado-estadual-pelo-parana.ghtml)_
 
+- **[2026-10-24 13:34 UTC]** Irã tem planos avançados para atacar americanos, dizem autoridades do governo de Donald Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/ira-tem-planos-avancados-para-atacar-americanos-dizem-autoridades-do-governo-de-donald-trump.shtml)_
+
