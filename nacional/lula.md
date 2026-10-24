@@ -1940,3 +1940,6 @@
 - **[2026-10-24 13:46 UTC]** Entenda polêmica sobre ilha de Richarlison citada no debate entre Lula e Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/24/entenda-polemica-ilha-richarlison-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-24 14:10 UTC]** Procuradoria Eleitoral defende extinção de processo sobre sigilos de Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/procuradoria-eleitoral-defende-extincao-de-processo-sobre-sigilos-de-lula-e-flavio-bolsonaro.shtml)_
+
