@@ -8389,3 +8389,6 @@
 - **[2026-10-24 15:00 UTC]** Flávio descarta privatizar Petrobras, mas mercado espera venda de ativos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-descarta-privatizar-petrobras-mas-mercado-espera-venda-de-ativos.shtml)_
 
+- **[2026-10-24 14:30 UTC]** Ativistas espalham faixas em SP, RJ e BA sobre caso Ana Clara, citado por Lula contra Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ativistas-espalham-faixas-em-sp-e-no-rj-sobre-caso-ana-clara-citado-por-lula-contra-flavio-bolsonaro.shtml)_
+
