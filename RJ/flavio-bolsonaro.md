@@ -8233,3 +8233,6 @@
 - **[2026-10-23 22:52 UTC]** Eduardo Bolsonaro sugere envio de fuzileiros ao Brasil e defende que Flávio deixe o Brasil se perder
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-bolsonaro-sugere-envio-de-fuzileiros-ao-brasil-e-defende-que-flavio-deixe-o-brasil-se-perder.shtml)_
 
+- **[2026-10-23 22:49 UTC]** Dr. Rey declara apoio a Flávio Bolsonaro; médico já tentou ser ministro de Jair
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/dr-rey-declara-apoio-a-flavio-bolsonaro-medico-ja-tentou-ser-ministro-de-jair.shtml)_
+
