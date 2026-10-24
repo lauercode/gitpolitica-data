@@ -1868,3 +1868,6 @@
 - **[2026-10-23 23:57 UTC]** Em debate mais civilizado do que o primeiro, Lula vence Flávio por pontos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-debate-civilizado-lula-vence-flavio-por-pontos.shtml)_
 
+- **[2026-10-23 23:00 UTC]** PT e campanha de Lula preveem oposição 'energizada' em caso de vitória de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pt-e-campanha-de-lula-preveem-oposicao-energizada-em-caso-de-vitoria-de-flavio.shtml)_
+
