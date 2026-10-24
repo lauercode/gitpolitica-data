@@ -35,3 +35,6 @@
 - **[2026-10-24 20:08 UTC]** Debate na Globo: a reação da mãe de Ana Clara quando Flávio Bolsonaro respondeu sobre a morte da menina em Niteroi
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/natuza-nery/post/2026/10/24/debate-na-globo-a-reacao-da-mae-de-ana-clara-quando-flavio-bolsonaro-respondeu-sobre-a-morte-da-menina-em-niteroi.ghtml)_
 
+- **[2026-10-24 17:49 UTC]** Campanha de Lula aposta em casos Ana Clara e 'nove dedos' para sensibilizar eleitor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-aposta-em-casos-ana-clara-e-nove-dedos-para-sensibilizar-eleitor.shtml)_
+
