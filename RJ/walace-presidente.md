@@ -530,3 +530,6 @@
 - **[2026-10-24 07:00 UTC]** Presidente do TSE fará pronunciamento em rede nacional na véspera do 2º turno e orientará eleitor a conferir local de votação
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/presidente-do-tse-fara-pronunciamento-em-rede-nacional-na-vespera-do-2o-turno-e-orientara-eleitor-a-conferir-local-de-votacao.ghtml)_
 
+- **[2026-10-24 16:22 UTC]** Presidente do TSE, Nunes Marques garante que cada voto será 'apurado com exatidão e fidelidade'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/presidente-do-tse-nunes-marques-garante-que-cada-voto-sera-apurado-com-exatidao-e-fidelidade.ghtml)_
+
