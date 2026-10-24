@@ -29,3 +29,6 @@
 - **[2026-09-14 14:14 UTC]** Morre Bob Mackie, estilista que vestiu Madonna e Elton John, aos 87 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/morre-bob-mackie-estilista-que-vestiu-madonna-e-elton-john-aos-87-anos.shtml)_
 
+- **[2026-10-24 15:02 UTC]** John Leguizamo, ator de 'A Odisseia', fará palestra na Mostra de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/john-leguizamo-ator-de-a-odisseia-fara-palestra-na-mostra-de-sp.shtml)_
+
