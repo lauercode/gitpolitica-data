@@ -521,3 +521,6 @@
 - **[2026-10-23 22:53 UTC]** Quem não votou no 1º turno pode votar no 2º turno? Veja o que você precisa levar
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c875pvze4w6zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 10:43 UTC]** Quem ganhou e quem perdeu no último debate entre Lula e Flávio Bolsonaro?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmx2351xpe2lo?at_medium=RSS&at_campaign=rss)_
+
