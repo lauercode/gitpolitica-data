@@ -1994,3 +1994,6 @@
 - **[2026-10-24 19:12 UTC]** 'Flávio me preocupa tanto ou mais que pai dele', diz João Amoêdo sobre voto em Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-me-preocupa-tanto-ou-mais-que-pai-dele-diz-joao-amoedo-sobre-voto-em-lula.shtml)_
 
+- **[2026-10-24 18:56 UTC]** Datafolha: Eleitor se divide sobre Lula ou Flávio como vencedor de debate, e maioria diz ter assistido
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eleitor-se-divide-sobre-lula-ou-flavio-como-vencedor-de-debate-e-maioria-diz-ter-assistido.shtml)_
+
