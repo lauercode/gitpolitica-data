@@ -8344,3 +8344,6 @@
 - **[2026-10-24 13:34 UTC]** Em ato no Rio, Lula diz que Flávio é adversário de mais baixo nível e volta a citar morte de menina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-ato-no-rio-lula-diz-que-flavio-e-adversario-de-mais-baixo-nivel-e-volta-a-citar-morte-de-menina.shtml)_
 
+- **[2026-10-24 13:10 UTC]** Alfredo Gaspar, vice de Flávio Bolsonaro, liderou atos no Nordeste e teve presença discreta nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alfredo-gaspar-vice-de-flavio-bolsonaro-liderou-atos-no-nordeste-e-teve-presenca-discreta-nas-redes.shtml)_
+
