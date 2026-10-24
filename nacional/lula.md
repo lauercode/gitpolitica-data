@@ -1817,3 +1817,6 @@
 - **[2026-10-24 02:29 UTC]** Flávio Bolsonaro pergunta a Lula sobre endividamento dos brasileiros; VÍDEO
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/flavio-bolsonaro-pergunta-a-lula-sobre-endividamento-dos-brasileiros-video.ghtml)_
 
+- **[2026-10-24 02:24 UTC]** Debate na Globo: Lula pergunta a Flávio Bolsonaro sobre ensino integral e educação; VÍDEO
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-lula-pergunta-a-flavio-bolsonaro-sobre-ensino-integral-e-educacao-video.ghtml)_
+
