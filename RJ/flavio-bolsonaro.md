@@ -8116,3 +8116,6 @@
 - **[2026-10-23 21:52 UTC]** Flávio aposta em tom religioso e nacionalista em último programa, e Lula lista acusações contra o rival
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-aposta-em-tom-religioso-e-nacionalista-em-ultimo-programa-e-lula-lista-acusacoes-contra-o-rival.shtml)_
 
+- **[2026-10-23 21:48 UTC]** Datafolha: No DF, Flávio Bolsonaro tem 55% dos votos válidos contra 45% de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-no-df-flavio-bolsonaro-tem-55-dos-votos-validos-contra-45-de-lula.shtml)_
+
