@@ -8230,3 +8230,6 @@
 - **[2026-10-23 23:00 UTC]** Euforia de investidores com Flávio Bolsonaro dá lugar a cautela às vésperas do 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/euforia-de-investidores-com-flavio-bolsonaro-da-lugar-a-cautela-as-vesperas-do-2o-turno.shtml)_
 
+- **[2026-10-23 22:52 UTC]** Eduardo Bolsonaro sugere envio de fuzileiros ao Brasil e defende que Flávio deixe o Brasil se perder
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-bolsonaro-sugere-envio-de-fuzileiros-ao-brasil-e-defende-que-flavio-deixe-o-brasil-se-perder.shtml)_
+
