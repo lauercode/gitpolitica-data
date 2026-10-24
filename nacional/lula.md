@@ -1811,3 +1811,6 @@
 - **[2026-10-24 02:35 UTC]** Debate na Globo: Flávio Bolsonaro pergunta a Lula sobre retomada de territórios; VÍDEO
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-flavio-bolsonaro-pergunta-a-lula-sobre-retomada-de-territorios-video-1.ghtml)_
 
+- **[2026-10-24 02:32 UTC]** Debate na Globo: Lula pergunta a Flávio Bolsonaro sobre o que fará no Nordeste; VÍDEO
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-lula-pergunta-a-flavio-bolsonaro-sobre-o-que-fara-no-nordeste-video.ghtml)_
+
