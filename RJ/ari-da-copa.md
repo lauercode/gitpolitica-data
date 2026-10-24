@@ -146,3 +146,6 @@
 - **[2026-09-11 16:23 UTC]** Final da Copa do Mundo de 2030 vira batalha entre Marrocos e Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/final-da-copa-do-mundo-de-2030-vira-batalha-entre-marrocos-e-espanha.shtml)_
 
+- **[2026-10-24 00:00 UTC]** Lula x Flávio Bolsonaro na Globo tem índices de audiência semelhantes à Copa do Mundo; veja números
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/lula-x-flavio-bolsonaro-na-globo-tem-indices-de-audiencia-semelhantes-a-copa-na-mundo-veja-numeros.shtml)_
+
