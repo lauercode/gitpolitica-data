@@ -59,3 +59,6 @@
 - **[2026-10-23 18:27 UTC]** Flávio Bolsonaro advogou durante campanha para cliente de Willer e peticionou em dia da votação da 6x1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-advogou-durante-campanha-para-cliente-de-willer-e-peticionou-em-dia-da-votacao-da-6x1.shtml)_
 
+- **[2026-10-24 00:09 UTC]** Moraes manda bloquear R$ 6 bi de Willer Tomaz e determina que bancos informem dados da empresa Alcazar
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/23/moraes-manda-bloquear-r-6-bi-de-willer-tomaz-e-determina-que-bancos-informem-dados-da-empresa-alcazar.ghtml)_
+
