@@ -2003,3 +2003,6 @@
 - **[2026-10-24 18:30 UTC]** Datafolha: Flávio Bolsonaro tem 51% dos votos válidos e Lula, 49%, em empate técnico
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49-em-empate-tecnico.shtml)_
 
+- **[2026-10-24 22:54 UTC]** Ataques e poucas propostas: como foi o 2.º turno entre Flávio e Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ataques-poucas-propostas-segundo-turno-campanha-flavio-bolsonaro-lula/)_
+
