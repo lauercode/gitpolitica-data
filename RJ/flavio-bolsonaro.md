@@ -8419,3 +8419,6 @@
 - **[2026-10-24 19:26 UTC]** Flávio Bolsonaro tem vantagem entre mais propensos a votar, diz análise do Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tem-vantagem-entre-mais-propensos-a-votar-diz-analise-do-datafolha.shtml)_
 
+- **[2026-10-24 19:19 UTC]** Campanha de Flávio diz temer interferência e tratamento desigual por ministros do TSE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-flavio-diz-temer-interferencia-e-tratamento-desigual-por-ministros-do-tse.shtml)_
+
