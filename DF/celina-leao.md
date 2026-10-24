@@ -164,3 +164,6 @@
 - **[2026-10-23 00:30 UTC]** Veja os números de Celina Leão e Leandro Grass, candidatos ao governo do Distrito Federal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-de-celina-leao-e-leandro-grass-candidatos-ao-governo-do-distrito-federal.shtml)_
 
+- **[2026-10-24 20:31 UTC]** Quaest no DF, votos válidos: Celina Leão, 61%; Leandro Grass, 39%
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/quaest-df-governador-segundo-turno-24-outubro.ghtml)_
+
