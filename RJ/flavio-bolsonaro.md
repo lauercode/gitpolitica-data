@@ -8281,3 +8281,6 @@
 - **[2026-10-24 07:00 UTC]** Roblox, fandoms e bloquinho: como a  geração Z entrou na disputa entre Flávio e Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/roblox-fandoms-e-bloquinho-como-a-geracao-z-entrou-na-disputa-entre-flavio-e-lula.ghtml)_
 
+- **[2026-10-24 08:00 UTC]** Flávio com K
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/10/flavio-com-k.shtml)_
+
