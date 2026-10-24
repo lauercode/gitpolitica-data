@@ -248,3 +248,6 @@
 - **[2026-10-21 13:46 UTC]** Mulheres temem mais admitir erros quando homens são maioria na empresa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/mulheres-temem-mais-admitir-erros-quando-homens-sao-maioria-na-empresa.shtml)_
 
+- **[2026-10-24 17:00 UTC]** Mulheres que amam seus carrascos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/muniz-sodre/2026/10/mulheres-que-amam-seus-carrascos.shtml)_
+
