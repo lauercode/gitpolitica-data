@@ -8350,3 +8350,6 @@
 - **[2026-10-24 12:28 UTC]** Lula e Flávio Bolsonaro disputam votos de 48,7 milhões de ausentes e eleitores de terceira via
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-e-flavio-bolsonaro-disputam-votos-de-487-milhoes-de-ausentes-e-eleitores-de-terceira-via.shtml)_
 
+- **[2026-10-24 12:25 UTC]** Flávio Bolsonaro reúne apoiadores em Belo Horizonte no último dia de campanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-reune-apoiadores-em-belo-horizonte-no-ultimo-dia-de-campanha.shtml)_
+
