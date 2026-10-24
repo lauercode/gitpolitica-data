@@ -8245,3 +8245,6 @@
 - **[2026-10-24 03:34 UTC]** Em duelo final, Flávio expõe legado trágico de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/em-duelo-final-flavio-expoe-legado-tragico-de-lula/)_
 
+- **[2026-10-24 02:57 UTC]** TSE manda remover áudio de Gayer sobre mesários, mas nega suspensão do canal “Tropa do Flávio”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-manda-remover-audio-de-gayer-sobre-mesarios-mas-nega-suspensao-do-canal-tropa-do-flavio/)_
+
