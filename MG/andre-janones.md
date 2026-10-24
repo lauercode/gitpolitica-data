@@ -182,3 +182,6 @@
 - **[2026-10-24 04:06 UTC]** Ex de Janones e mãe de Ana Clara: Lula e Flávio levam convidados estratégicos para tensionar debate
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ex-de-janones-e-mae-de-ana-clara-lula-e-flavio-levam-convidados-estrategicos-para-tensionar-debate/)_
 
+- **[2026-10-24 15:17 UTC]** Fake news de Janones ligando Flávio à exploração de ucranianas gera atrito internacional
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/fake-news-de-janones-ligando-flavio-a-exploracao-de-ucranianas-gera-atrito-internacional/)_
+
