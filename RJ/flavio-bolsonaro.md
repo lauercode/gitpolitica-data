@@ -8224,3 +8224,6 @@
 - **[2026-10-23 23:00 UTC]** Flávio cogita nomear militar para a Defesa, e Lula poderá ter primeira mulher na pasta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-cogita-nomear-militar-para-a-defesa-e-lula-podera-ter-primeira-mulher-na-pasta.shtml)_
 
+- **[2026-10-23 23:00 UTC]** 'Bunker petista', Maricá dá vitória a Flávio e expõe resiliência bolsonarista no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bunker-petista-marica-da-vitoria-a-flavio-e-expoe-resiliencia-bolsonarista-no-rj.shtml)_
+
