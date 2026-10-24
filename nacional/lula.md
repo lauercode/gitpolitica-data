@@ -1991,3 +1991,6 @@
 - **[2026-10-24 19:13 UTC]** Quaest: Flávio Bolsonaro marca 51% dos votos válidos, e Lula tem 49% na véspera da eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-51-dos-votos-validos-e-lula-tem-49-na-vespera-da-eleicao.shtml)_
 
+- **[2026-10-24 19:12 UTC]** 'Flávio me preocupa tanto ou mais que pai dele', diz João Amoêdo sobre voto em Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-me-preocupa-tanto-ou-mais-que-pai-dele-diz-joao-amoedo-sobre-voto-em-lula.shtml)_
+
