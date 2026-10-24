@@ -179,3 +179,6 @@
 - **[2026-10-23 17:13 UTC]** Limitação técnica da Meta impede live de 24 h como anunciada por Janones
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/meta-diz-que-janones-nao-podera-fazer-live-de-24h-ininterruptamente-por-questao-tecnica.shtml)_
 
+- **[2026-10-24 04:06 UTC]** Ex de Janones e mãe de Ana Clara: Lula e Flávio levam convidados estratégicos para tensionar debate
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ex-de-janones-e-mae-de-ana-clara-lula-e-flavio-levam-convidados-estrategicos-para-tensionar-debate/)_
+
