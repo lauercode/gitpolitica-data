@@ -1913,3 +1913,6 @@
 - **[2026-10-24 10:43 UTC]** Quem ganhou e quem perdeu no último debate entre Lula e Flávio Bolsonaro?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmx2351xpe2lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 10:19 UTC]** Apoiadores de Lula reagem a ataque de Flávio Bolsonaro sobre nove dedos durante caminhada no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-reagem-a-ataque-de-flavio-bolsonaro-sobre-nove-dedos-durante-caminhada-no-rio.shtml)_
+
