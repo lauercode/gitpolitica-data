@@ -8131,3 +8131,6 @@
 - **[2026-10-24 06:11 UTC]** Debate da Globo: segundo bloco tem discussão sobre políticas sociais, reação de Lula a 'nove dedos' e pedido de desculpas de Flávio Bolsonaro; reveja
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/debate-da-globo-segundo-bloco.ghtml)_
 
+- **[2026-10-24 06:10 UTC]** Debate da Globo: no primeiro bloco, Lula e Flávio Bolsonaro discutem problemas de cada região do Brasil; reveja
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/debate-da-globo-primeiro-bloco.ghtml)_
+
