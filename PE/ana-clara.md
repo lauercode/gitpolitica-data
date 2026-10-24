@@ -17,3 +17,6 @@
 - **[2026-10-23 16:51 UTC]** Movimentos sociais protestam no TSE contra decisão de Mendonça favorável a Flávio no caso Ana Clara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/movimentos-sociais-protestam-no-tse-contra-decisao-de-mendonca-favoravel-a-flavio-no-caso-ana-clara.shtml)_
 
+- **[2026-10-23 21:59 UTC]** Campanha de Lula leva ao debate mãe de Ana Clara, menina morta por PM defendido por Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-leva-ao-debate-mae-de-ana-clara-menina-morta-por-pm-defendido-por-flavio.shtml)_
+
