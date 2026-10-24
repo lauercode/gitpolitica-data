@@ -17,3 +17,6 @@
 - **[2026-10-16 14:14 UTC]** Moraes vota para tornar Oswaldo Eustáquio réu por associação criminosa
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/16/moraes-vota-para-tornar-oswaldo-eustaquio-reu-por-associacao-criminosa.ghtml)_
 
+- **[2026-10-24 19:03 UTC]** Primeira Turma do STF torna Oswaldo Eustáquio réu por associação criminosa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/24/primeira-turma-do-stf-torna-oswaldo-eustaquio-reu-por-associacao-criminosa.ghtml)_
+
