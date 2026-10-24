@@ -8119,3 +8119,6 @@
 - **[2026-10-23 21:48 UTC]** Datafolha: No DF, Flávio Bolsonaro tem 55% dos votos válidos contra 45% de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-no-df-flavio-bolsonaro-tem-55-dos-votos-validos-contra-45-de-lula.shtml)_
 
+- **[2026-10-23 19:40 UTC]** TSE manda remover áudio com fake news sobre mesários de canal 'Tropa do Flávio'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-manda-remover-audio-com-fake-news-sobre-mesarios-de-canal-tropa-do-flavio.shtml)_
+
