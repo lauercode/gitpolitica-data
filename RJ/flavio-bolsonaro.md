@@ -8278,3 +8278,6 @@
 - **[2026-10-24 07:00 UTC]** Lula busca virada no 2º turno contra Flávio Bolsonaro e tenta reverter tendência de alternância de poder nas Américas
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/lula-busca-virada-no-2o-turno-contra-flavio-bolsonaro-e-tenta-reverter-tendencia-de-alternancia-de-poder-nas-americas.ghtml)_
 
+- **[2026-10-24 07:00 UTC]** Roblox, fandoms e bloquinho: como a  geração Z entrou na disputa entre Flávio e Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/roblox-fandoms-e-bloquinho-como-a-geracao-z-entrou-na-disputa-entre-flavio-e-lula.ghtml)_
+
