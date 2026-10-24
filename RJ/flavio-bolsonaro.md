@@ -8122,3 +8122,6 @@
 - **[2026-10-23 19:40 UTC]** TSE manda remover áudio com fake news sobre mesários de canal 'Tropa do Flávio'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-manda-remover-audio-com-fake-news-sobre-mesarios-de-canal-tropa-do-flavio.shtml)_
 
+- **[2026-10-23 23:50 UTC]** Eventual gestão Flávio pode retomar titulação de terras e reduzir espaço do MST
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/eventual-gestao-flavio-retomar-titulacao-terras-reduzir-espaco-mst/)_
+
