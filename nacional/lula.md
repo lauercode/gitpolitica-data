@@ -1838,3 +1838,6 @@
 - **[2026-10-24 02:05 UTC]** VÍDEOS Debate na Globo com candidatos a presidente: Flávio Bolsonaro e Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-debate-na-globo-2-turno-candidatos-a-presidente-lula-pt-flavio-bolsonaro-pl.ghtml)_
 
+- **[2026-10-24 02:04 UTC]** Debate na Globo: Lula pergunta a Flávio Bolsonaro sobre SUS e melhorias na saúde pública; VÍDEO
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-lula-pergunta-a-flavio-bolsonaro-sobre-sus-e-melhorias-na-saude-publica-video.ghtml)_
+
