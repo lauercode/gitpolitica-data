@@ -23,3 +23,6 @@
 - **[2026-10-24 01:33 UTC]** Caso Ana Clara e fala sobre 'nove dedos' marcam último debate entre Lula e Flávio; veja como foi em 10 pontos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/caso-ana-clara-e-fala-sobre-nove-dedos-marcam-ultimo-debate-entre-lula-e-flavio-veja-como-foi-em-10-pontos.shtml)_
 
+- **[2026-10-24 04:06 UTC]** Ex de Janones e mãe de Ana Clara: Lula e Flávio levam convidados estratégicos para tensionar debate
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ex-de-janones-e-mae-de-ana-clara-lula-e-flavio-levam-convidados-estrategicos-para-tensionar-debate/)_
+
