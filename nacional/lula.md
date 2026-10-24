@@ -1793,3 +1793,6 @@
 - **[2026-10-24 01:28 UTC]** Debate na Globo: 1º bloco opõe Lula e Flávio em temas de infraestrutura e salário mínimo; acompanhe ao vivo
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cwrkylzdlpr3t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 06:11 UTC]** Debate da Globo: segundo bloco tem discussão sobre políticas sociais, reação de Lula a 'nove dedos' e pedido de desculpas de Flávio Bolsonaro; reveja
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/debate-da-globo-segundo-bloco.ghtml)_
+
