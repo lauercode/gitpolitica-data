@@ -38,3 +38,6 @@
 - **[2026-10-24 17:49 UTC]** Campanha de Lula aposta em casos Ana Clara e 'nove dedos' para sensibilizar eleitor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-aposta-em-casos-ana-clara-e-nove-dedos-para-sensibilizar-eleitor.shtml)_
 
+- **[2026-10-24 14:30 UTC]** Ativistas espalham faixas em SP, RJ e BA sobre caso Ana Clara, citado por Lula contra Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ativistas-espalham-faixas-em-sp-e-no-rj-sobre-caso-ana-clara-citado-por-lula-contra-flavio-bolsonaro.shtml)_
+
