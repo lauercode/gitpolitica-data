@@ -1973,3 +1973,6 @@
 - **[2026-10-24 22:21 UTC]** Datafolha, 2º turno: Lula tem rejeição de 46%, e Flávio Bolsonaro, de 45%
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/datafolha-presidente-24-outubro-rejeicao.ghtml)_
 
+- **[2026-10-24 22:01 UTC]** Quaest, 2º turno - votos válidos: Flávio Bolsonaro, 51%; Lula, 49%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/quaest-2o-turno-votos-validos.ghtml)_
+
