@@ -8356,3 +8356,6 @@
 - **[2026-10-24 12:07 UTC]** A 2 dias da eleição, Flávio assina petição a Comissão Interamericana de DH em favor de ex-assessor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-assina-peticao-a-comissao-interamericana-de-dh-em-favor-de-ex-assessor-presidencial.shtml)_
 
+- **[2026-10-24 09:18 UTC]** Bolsonaristas atacam religiões afro-brasileiras para evocar guerra espiritual contra Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bolsonaristas-atacam-rituais-de-religioes-afro-brasileiras-para-evocar-guerra-espiritual-contra-flavio.shtml)_
+
