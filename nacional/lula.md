@@ -2006,3 +2006,6 @@
 - **[2026-10-24 22:54 UTC]** Ataques e poucas propostas: como foi o 2.º turno entre Flávio e Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ataques-poucas-propostas-segundo-turno-campanha-flavio-bolsonaro-lula/)_
 
+- **[2026-10-24 21:32 UTC]** Lula chama Flávio de miliciano e diz que será presidente da República outra vez
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-chama-flavio-de-miliciano-e-diz-que-amanha-sera-presidente-da-republica-outra-vez/)_
+
