@@ -527,3 +527,6 @@
 - **[2026-10-22 03:00 UTC]** Presidente da República: o que faz, quanto ganha e quais são os requisitos para ocupar o cargo?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/presidente-da-republica-o-que-faz-quanto-ganha-e-quais-sao-os-requisitos-para-ocupar-o-cargo.ghtml)_
 
+- **[2026-10-24 07:00 UTC]** Presidente do TSE fará pronunciamento em rede nacional na véspera do 2º turno e orientará eleitor a conferir local de votação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/presidente-do-tse-fara-pronunciamento-em-rede-nacional-na-vespera-do-2o-turno-e-orientara-eleitor-a-conferir-local-de-votacao.ghtml)_
+
