@@ -1832,3 +1832,6 @@
 - **[2026-10-24 02:07 UTC]** Debate na Globo: Flávio Bolsonaro pergunta a Lula sobre dívida pública e juros; VÍDEO
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-flavio-bolsonaro-pergunta-a-lula-sobre-divida-publica-e-juros-video.ghtml)_
 
+- **[2026-10-24 02:06 UTC]** Debate na Globo: Flávio Bolsonaro pergunta a Lula sobre infraestrutura e obras inacabadas; VÍDEO
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-flavio-bolsonaro-pergunta-a-lula-sobre-infraestrutura-e-obras-inacabadas-video.ghtml)_
+
