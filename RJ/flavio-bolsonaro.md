@@ -8284,3 +8284,6 @@
 - **[2026-10-24 08:00 UTC]** Flávio com K
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ruycastro/2026/10/flavio-com-k.shtml)_
 
+- **[2026-10-24 05:00 UTC]** Podcast analisa último debate e cartadas de Lula e Flávio Bolsonaro antes do 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-analisa-ultimo-debate-e-cartadas-de-lula-e-flavio-bolsonaro-antes-do-2o-turno.shtml)_
+
