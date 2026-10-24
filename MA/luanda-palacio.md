@@ -35,3 +35,6 @@
 - **[2026-09-08 14:44 UTC]** Lula recebe Messias e ministro da Justiça para reunião de emergência no Palácio da Alvorada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-recebe-auxiliares-para-reuniao-de-emergencia-no-palacio-da-alvorada.shtml)_
 
+- **[2026-10-24 16:06 UTC]** Lula diz estar confiante de que vencerá eleição porque 'brasileiros não podem levar um miliciano para o Palácio do Planalto'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/lula-no-rio-de-janeiro.ghtml)_
+
