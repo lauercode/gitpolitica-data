@@ -29,3 +29,6 @@
 - **[2026-10-16 19:13 UTC]** Ana Maria Braga revela que já fez aborto: 'Achava que não tinha outro caminho'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/ana-maria-braga-revela-que-ja-fez-aborto-achava-que-nao-tinha-outro-caminho.shtml)_
 
+- **[2026-10-24 20:04 UTC]** Ana Maria Braga faz apelo para que brasileiros votem no segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/ana-maria-braga-faz-apelo-para-que-brasileiros-votem-no-segundo-turno.shtml)_
+
