@@ -1805,3 +1805,6 @@
 - **[2026-10-24 03:22 UTC]** Debate presidencial na Globo entre Lula (PT) e Flávio Bolsonaro (PL): veja a íntegra e trechos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/debate-presidencial-na-globo-entre-lula-pt-e-flavio-bolsonaro-pl-veja-a-integra-e-trechos.ghtml)_
 
+- **[2026-10-24 03:06 UTC]** Debate na Globo: Lula e Flávio Bolsonaro trocam acusações em bloco com tema livre; VÍDEO
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/debate-na-globo-lula-e-flavio-bolsonaro-trocam-acusacoes-em-bloco-com-tema-livre-video.ghtml)_
+
