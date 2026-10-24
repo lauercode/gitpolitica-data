@@ -125,3 +125,6 @@
 - **[2026-10-15 22:23 UTC]** Professora Maria do Carmo promete reforçar bombeiros e defende câmeras corporais para policiais no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/15/professora-maria-do-carmo-entrevista-jam2.ghtml)_
 
+- **[2026-10-24 22:35 UTC]** Quaest no Amazonas, votos válidos: Omar Aziz, 59%; Professora Maria do Carmo, 41%
+  _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/24/quaest-amazonas-governador-segundo-turno-24-outubro.ghtml)_
+
