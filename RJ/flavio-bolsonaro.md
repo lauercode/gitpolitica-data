@@ -8395,3 +8395,6 @@
 - **[2026-10-24 18:29 UTC]** Flávio gasta 6 vezes o valor de Lula em anúncios na última semana de campanha
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq5yn91y2wwlo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 22:21 UTC]** Datafolha, 2º turno: Lula tem rejeição de 46%, e Flávio Bolsonaro, de 45%
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/datafolha-presidente-24-outubro-rejeicao.ghtml)_
+
