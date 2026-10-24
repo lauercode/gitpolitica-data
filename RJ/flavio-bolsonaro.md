@@ -8254,3 +8254,6 @@
 - **[2026-10-24 03:52 UTC]** Flávio Bolsonaro propõe acelerar entrega de títulos de terra para assentados
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/flavio-bolsonaro-propoe-acelerar-entrega-de-titulos-de-terra-para-assentados/)_
 
+- **[2026-10-24 06:15 UTC]** Os principais momentos do debate entre Lula e Flávio na Globo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjly03x90ky4o?at_medium=RSS&at_campaign=rss)_
+
