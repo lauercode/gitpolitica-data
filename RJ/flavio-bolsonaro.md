@@ -8335,3 +8335,6 @@
 - **[2026-10-24 14:30 UTC]** Ativistas espalham faixas em SP e no RJ sobre caso Ana Clara, citado por Lula contra Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ativistas-espalham-faixas-em-sp-e-no-rj-sobre-caso-ana-clara-citado-por-lula-contra-flavio-bolsonaro.shtml)_
 
+- **[2026-10-24 14:10 UTC]** Procuradoria Eleitoral defende extinção de processo sobre sigilos de Lula e Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/procuradoria-eleitoral-defende-extincao-de-processo-sobre-sigilos-de-lula-e-flavio-bolsonaro.shtml)_
+
