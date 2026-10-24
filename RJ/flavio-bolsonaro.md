@@ -8239,3 +8239,6 @@
 - **[2026-10-23 22:23 UTC]** Flávio foca custo de vida e chama Lula de 9 dedos; petista leva mãe de criança morta e diz que rival é miliciano
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-defende-politicas-sociais-e-flavio-bolsonaro-diz-que-petista-tira-com-9-dedos-dinheiro-da-populacao.shtml)_
 
+- **[2026-10-24 04:06 UTC]** Ex de Janones e mãe de Ana Clara: Lula e Flávio levam convidados estratégicos para tensionar debate
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ex-de-janones-e-mae-de-ana-clara-lula-e-flavio-levam-convidados-estrategicos-para-tensionar-debate/)_
+
