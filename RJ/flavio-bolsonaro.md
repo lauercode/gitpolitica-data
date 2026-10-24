@@ -8266,3 +8266,6 @@
 - **[2026-10-24 03:37 UTC]** Lula reage após ser chamado de '9 dedos', e Flávio se desculpa
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw33xml77g25o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 03:57 UTC]** Greta Thunberg afirma que vitória de Flávio Bolsonaro significaria um desastre para o planeta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/greta-thunberg-afirma-que-vitoria-de-flavio-bolsonaro-significaria-um-desastre-para-o-planeta.shtml)_
+
