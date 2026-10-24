@@ -161,3 +161,6 @@
 - **[2026-10-24 17:46 UTC]** Flávio e Lula reúnem multidões em Belo Horizonte, Rio e São Paulo nos últimos atos de campanha antes do 2º turno da eleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/ultimos-atos-de-lula-e-flavio-antes-do-2o-turno.ghtml)_
 
+- **[2026-10-24 12:59 UTC]** Guindaste cai sobre monotrilho e é atingido por trem na zona leste de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/guindaste-cai-sobre-monotrilho-e-e-atingido-por-trem-em-sp.shtml)_
+
