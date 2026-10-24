@@ -8326,3 +8326,6 @@
 - **[2026-10-24 15:09 UTC]** PF suspeita de sociedade entre Willer Tomaz e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/24/pf-suspeita-de-sociedade-entre-willer-tomaz-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-24 14:47 UTC]** Como a imprensa internacional repercutiu o último debate entre Flávio Bolsonaro e Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/24/como-a-imprensa-internacional-repercutiu-o-ultimo-debate-flavio-lula.ghtml)_
+
