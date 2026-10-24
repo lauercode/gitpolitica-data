@@ -41,3 +41,6 @@
 - **[2026-10-24 13:34 UTC]** Irã tem planos avançados para atacar americanos, dizem autoridades do governo de Donald Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/ira-tem-planos-avancados-para-atacar-americanos-dizem-autoridades-do-governo-de-donald-trump.shtml)_
 
+- **[2026-10-24 18:02 UTC]** Donald Trump reduzirá tarifas sobre produtos canadenses após pressão de republicanos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/donald-trump-reduzira-tarifas-sobre-produtos-canadenses-apos-pressao-de-republicanos.shtml)_
+
