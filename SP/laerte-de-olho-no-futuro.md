@@ -71,3 +71,6 @@
 - **[2026-10-21 04:00 UTC]** Futuro do mercado regulado de carbono depende do próximo presidente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/futuro-do-mercado-regulado-de-carbono-depende-do-proximo-presidente.shtml)_
 
+- **[2026-10-23 23:00 UTC]** Futuro presidente terá 45 vagas em órgãos reguladores e 12 no Judiciário até o fim de 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/futuro-presidente-tera-45-vagas-em-orgaos-reguladores-e-12-no-judiciario-ate-o-fim-de-2027.shtml)_
+
