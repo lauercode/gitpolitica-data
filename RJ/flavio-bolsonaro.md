@@ -8332,3 +8332,6 @@
 - **[2026-10-24 13:46 UTC]** Entenda polêmica sobre ilha de Richarlison citada no debate entre Lula e Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/24/entenda-polemica-ilha-richarlison-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-24 14:30 UTC]** Ativistas espalham faixas em SP e no RJ sobre caso Ana Clara, citado por Lula contra Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ativistas-espalham-faixas-em-sp-e-no-rj-sobre-caso-ana-clara-citado-por-lula-contra-flavio-bolsonaro.shtml)_
+
