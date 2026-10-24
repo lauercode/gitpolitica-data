@@ -1934,3 +1934,6 @@
 - **[2026-10-24 17:46 UTC]** Flávio e Lula reúnem multidões em Belo Horizonte, Rio e São Paulo nos últimos atos de campanha antes do 2º turno da eleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/ultimos-atos-de-lula-e-flavio-antes-do-2o-turno.ghtml)_
 
+- **[2026-10-24 14:47 UTC]** Como a imprensa internacional repercutiu o último debate entre Flávio Bolsonaro e Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/24/como-a-imprensa-internacional-repercutiu-o-ultimo-debate-flavio-lula.ghtml)_
+
