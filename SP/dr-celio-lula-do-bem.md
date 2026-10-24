@@ -128,3 +128,6 @@
 - **[2026-10-22 21:14 UTC]** Ato pró-Lula em SP comemora resultado do Datafolha, e Dirceu fala em não sair das ruas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-pro-lula-em-sp-comemora-resultado-do-datafolha-e-dirceu-fala-em-nao-sair-das-ruas.shtml)_
 
+- **[2026-10-24 14:30 UTC]** Ativistas espalham faixas em SP e no RJ sobre caso Ana Clara, citado por Lula contra Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ativistas-espalham-faixas-em-sp-e-no-rj-sobre-caso-ana-clara-citado-por-lula-contra-flavio-bolsonaro.shtml)_
+
