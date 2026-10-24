@@ -1967,3 +1967,6 @@
 - **[2026-10-24 15:41 UTC]** Checagem de fatos, quem ganhou e 'gugo': veja termos mais pesquisados no debate entre Lula e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/checagem-de-fatos-quem-ganhou-e-gugo-veja-termos-mais-pesquisados-no-debate-entre-lula-e-flavio.shtml)_
 
+- **[2026-10-24 18:29 UTC]** Flávio gasta 6 vezes o valor de Lula em anúncios na última semana de campanha
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq5yn91y2wwlo?at_medium=RSS&at_campaign=rss)_
+
