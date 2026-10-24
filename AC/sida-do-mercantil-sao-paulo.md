@@ -164,3 +164,6 @@
 - **[2026-10-24 12:59 UTC]** Guindaste cai sobre monotrilho e é atingido por trem na zona leste de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/guindaste-cai-sobre-monotrilho-e-e-atingido-por-trem-em-sp.shtml)_
 
+- **[2026-10-24 18:39 UTC]** São Paulo empata com Mirassol e mantém jejum como visitante
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/sao-paulo-empata-com-mirassol-e-mantem-jejum-como-visitante.shtml)_
+
