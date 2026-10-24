@@ -8359,3 +8359,6 @@
 - **[2026-10-24 09:18 UTC]** Bolsonaristas atacam religiões afro-brasileiras para evocar guerra espiritual contra Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bolsonaristas-atacam-rituais-de-religioes-afro-brasileiras-para-evocar-guerra-espiritual-contra-flavio.shtml)_
 
+- **[2026-10-24 15:52 UTC]** Lula e Flávio Bolsonaro levam multidões às ruas de BH e Rio na reta final da eleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-multidoes-ruas-bh-rio-reta-final-eleicao/)_
+
