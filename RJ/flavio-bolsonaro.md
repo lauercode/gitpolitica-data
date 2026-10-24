@@ -8341,3 +8341,6 @@
 - **[2026-10-24 13:44 UTC]** Carlos Bolsonaro diz que pai ressurge das cinzas 'mais forte ainda' com resultado de Flávio na eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/carlos-bolsonaro-diz-que-pai-ressurge-das-cinzas-mais-forte-ainda-com-resultado-de-flavio-na-eleicao.shtml)_
 
+- **[2026-10-24 13:34 UTC]** Em ato no Rio, Lula diz que Flávio é adversário de mais baixo nível e volta a citar morte de menina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-ato-no-rio-lula-diz-que-flavio-e-adversario-de-mais-baixo-nivel-e-volta-a-citar-morte-de-menina.shtml)_
+
