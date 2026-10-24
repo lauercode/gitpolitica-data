@@ -1892,3 +1892,6 @@
 - **[2026-10-24 03:37 UTC]** Lula reage após ser chamado de '9 dedos', e Flávio se desculpa
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw33xml77g25o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 08:29 UTC]** Eleição 2026: maiores doadores de Flávio Bolsonaro e Lula são do agro; veja propostas e desafios para o setor
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/flavio-lula-agronegocio.ghtml)_
+
