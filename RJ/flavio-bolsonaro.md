@@ -8371,3 +8371,6 @@
 - **[2026-10-24 20:23 UTC]** Apoiadores de Lula e Flávio vão às ruas em 15 capitais no último dia de campanha para o 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/atos-no-brasil.ghtml)_
 
+- **[2026-10-24 20:08 UTC]** Debate na Globo: a reação da mãe de Ana Clara quando Flávio Bolsonaro respondeu sobre a morte da menina em Niteroi
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/natuza-nery/post/2026/10/24/debate-na-globo-a-reacao-da-mae-de-ana-clara-quando-flavio-bolsonaro-respondeu-sobre-a-morte-da-menina-em-niteroi.ghtml)_
+
