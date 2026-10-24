@@ -2000,3 +2000,6 @@
 - **[2026-10-24 18:30 UTC]** Datafolha: Lula é rejeitado por 46%, e Flávio Bolsonaro, por 45%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-e-rejeitado-por-46-e-flavio-bolsonaro-por-45.shtml)_
 
+- **[2026-10-24 18:30 UTC]** Datafolha: Flávio Bolsonaro tem 51% dos votos válidos e Lula, 49%, em empate técnico
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49-em-empate-tecnico.shtml)_
+
