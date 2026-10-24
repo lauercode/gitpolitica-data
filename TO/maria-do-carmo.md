@@ -98,3 +98,6 @@
 - **[2026-10-23 00:30 UTC]** Veja os números de Omar Aziz e Maria do Carmo, candidatos ao governo do Amazonas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-de-omar-aziz-e-maria-do-carmo-candidatos-ao-governo-do-amazonas.shtml)_
 
+- **[2026-10-24 19:53 UTC]** Quaest: Omar Aziz (PSD) tem 59% no Amazonas, ante 41% de Maria do Carmo (PL)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-omar-aziz-psd-tem-59-no-amazonas-ante-41-de-maria-do-carmo-pl.shtml)_
+
