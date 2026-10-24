@@ -1883,3 +1883,6 @@
 - **[2026-10-24 03:34 UTC]** Em duelo final, Flávio expõe legado trágico de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/em-duelo-final-flavio-expoe-legado-tragico-de-lula/)_
 
+- **[2026-10-24 06:15 UTC]** Os principais momentos do debate entre Lula e Flávio na Globo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cjly03x90ky4o?at_medium=RSS&at_campaign=rss)_
+
