@@ -8167,3 +8167,6 @@
 - **[2026-10-24 02:17 UTC]** Debate na Globo: Lula pergunta a Flávio Bolsonaro sobre reajuste do salário mínimo (Sul); VÍDEO
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-lula-pergunta-a-flavio-bolsonaro-sobre-reajuste-do-salario-minimo-sul-video.ghtml)_
 
+- **[2026-10-24 02:13 UTC]** Debate na Globo: Lula pergunta a Flávio Bolsonaro sobre o salário mínimo no Sudeste; VÍDEO
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-lula-pergunta-a-flavio-bolsonaro-sobre-o-salario-minimo-no-sudeste-video.ghtml)_
+
