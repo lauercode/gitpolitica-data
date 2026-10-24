@@ -83,3 +83,6 @@
 - **[2026-10-21 21:04 UTC]** Tarcísio treinará Flávio Bolsonaro para debate na Globo em tática para diminuir papel de Marçal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-treinara-flavio-bolsonaro-para-debate-na-globo-em-tatica-para-diminuir-papel-de-marcal.shtml)_
 
+- **[2026-10-23 23:49 UTC]** TSE ordena que Meta apresente relatórios a cada 6 horas de posts de Nikolas Ferreira e Pablo Marçal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-fixa-multa-de-r-100-mil-a-nikolas-ferreira-e-pablo-marcal-por-post-irregular-no-fim-de-semana-da-eleicao.shtml)_
+
