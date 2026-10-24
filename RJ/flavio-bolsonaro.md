@@ -8125,3 +8125,6 @@
 - **[2026-10-23 23:50 UTC]** Eventual gestão Flávio pode retomar titulação de terras e reduzir espaço do MST
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/eventual-gestao-flavio-retomar-titulacao-terras-reduzir-espaco-mst/)_
 
+- **[2026-10-24 01:28 UTC]** Debate na Globo: 1º bloco opõe Lula e Flávio em temas de infraestrutura e salário mínimo; acompanhe ao vivo
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cwrkylzdlpr3t?at_medium=RSS&at_campaign=rss)_
+
