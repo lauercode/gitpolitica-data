@@ -26,3 +26,6 @@
 - **[2026-10-23 09:00 UTC]** Calendário Pirelli mergulha na história da Índia em busca da beleza no caos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/calendario-pirelli-mergulha-na-historia-da-india-em-busca-da-beleza-no-caos.shtml)_
 
+- **[2026-10-23 23:00 UTC]** Índia cruza o oceano atrás dos minerais críticos do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/india-cruza-o-oceano-atras-dos-minerais-criticos-do-brasil.shtml)_
+
