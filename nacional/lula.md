@@ -1943,3 +1943,6 @@
 - **[2026-10-24 14:10 UTC]** Procuradoria Eleitoral defende extinção de processo sobre sigilos de Lula e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/procuradoria-eleitoral-defende-extincao-de-processo-sobre-sigilos-de-lula-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-24 13:34 UTC]** Em ato no Rio, Lula diz que Flávio é adversário de mais baixo nível e volta a citar morte de menina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-ato-no-rio-lula-diz-que-flavio-e-adversario-de-mais-baixo-nivel-e-volta-a-citar-morte-de-menina.shtml)_
+
