@@ -1889,3 +1889,6 @@
 - **[2026-10-24 06:23 UTC]** Debate na Globo: Lula e Flávio trocam ataques sobre Vorcaro e acusações de corrupção; veja como foi
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/cwrkylzdlpr3t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 03:37 UTC]** Lula reage após ser chamado de '9 dedos', e Flávio se desculpa
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw33xml77g25o?at_medium=RSS&at_campaign=rss)_
+
