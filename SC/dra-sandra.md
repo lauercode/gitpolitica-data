@@ -23,3 +23,6 @@
 - **[2026-09-11 17:05 UTC]** Grupo Tapa estreia 'Filumena Marturano' com Sandra Corveloni
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/grupo-tapa-estreia-filumena-marturano-com-sandra-corveloni.shtml)_
 
+- **[2026-10-24 17:00 UTC]** Filme de bruxas com Sandra Bullock e Nicole Kidman: o que ver no streaming
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/filme-de-bruxas-com-sandra-bullock-e-nicole-kidman-o-que-ver-no-streaming.shtml)_
+
