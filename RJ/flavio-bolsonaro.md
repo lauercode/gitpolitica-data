@@ -8176,3 +8176,6 @@
 - **[2026-10-24 02:06 UTC]** Debate na Globo: Flávio Bolsonaro pergunta a Lula sobre infraestrutura e obras inacabadas; VÍDEO
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-flavio-bolsonaro-pergunta-a-lula-sobre-infraestrutura-e-obras-inacabadas-video.ghtml)_
 
+- **[2026-10-24 02:05 UTC]** VÍDEOS Debate na Globo com candidatos a presidente: Flávio Bolsonaro e Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-debate-na-globo-2-turno-candidatos-a-presidente-lula-pt-flavio-bolsonaro-pl.ghtml)_
+
