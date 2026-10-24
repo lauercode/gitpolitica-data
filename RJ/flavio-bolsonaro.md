@@ -8314,3 +8314,6 @@
 - **[2026-10-24 13:49 UTC]** Promotoria defende extinção do desafio dos sigilos de Lula e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/promotoria-defende-extincao-desafio-sigilos-lula-flavio/)_
 
+- **[2026-10-24 13:04 UTC]** Ex-ministros de Lula e Dilma declaram apoio a Flávio Bolsonaro no segundo turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/ex-ministros-lula-dilma-declaram-apoio-flavio-bolsonaro-segundo-turno/)_
+
