@@ -1952,3 +1952,6 @@
 - **[2026-10-24 15:52 UTC]** Lula e Flávio Bolsonaro levam multidões às ruas de BH e Rio na reta final da eleição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-bolsonaro-multidoes-ruas-bh-rio-reta-final-eleicao/)_
 
+- **[2026-10-24 15:59 UTC]** Por que duelo entre Lula e Flávio é crucial para a América Latina — e para Trump
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62yvnkdwk7o?at_medium=RSS&at_campaign=rss)_
+
