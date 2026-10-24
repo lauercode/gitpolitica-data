@@ -8236,3 +8236,6 @@
 - **[2026-10-23 22:49 UTC]** Dr. Rey declara apoio a Flávio Bolsonaro; médico já tentou ser ministro de Jair
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/dr-rey-declara-apoio-a-flavio-bolsonaro-medico-ja-tentou-ser-ministro-de-jair.shtml)_
 
+- **[2026-10-23 22:23 UTC]** Flávio foca custo de vida e chama Lula de 9 dedos; petista leva mãe de criança morta e diz que rival é miliciano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-defende-politicas-sociais-e-flavio-bolsonaro-diz-que-petista-tira-com-9-dedos-dinheiro-da-populacao.shtml)_
+
