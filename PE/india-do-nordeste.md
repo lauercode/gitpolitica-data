@@ -89,3 +89,6 @@
 - **[2026-10-24 02:32 UTC]** Debate na Globo: Lula pergunta a Flávio Bolsonaro sobre o que fará no Nordeste; VÍDEO
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-lula-pergunta-a-flavio-bolsonaro-sobre-o-que-fara-no-nordeste-video.ghtml)_
 
+- **[2026-10-24 13:10 UTC]** Alfredo Gaspar, vice de Flávio Bolsonaro, liderou atos no Nordeste e teve presença discreta nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alfredo-gaspar-vice-de-flavio-bolsonaro-liderou-atos-no-nordeste-e-teve-presenca-discreta-nas-redes.shtml)_
+
