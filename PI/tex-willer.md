@@ -62,3 +62,6 @@
 - **[2026-10-24 00:09 UTC]** Moraes manda bloquear R$ 6 bi de Willer Tomaz e determina que bancos informem dados da empresa Alcazar
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/23/moraes-manda-bloquear-r-6-bi-de-willer-tomaz-e-determina-que-bancos-informem-dados-da-empresa-alcazar.ghtml)_
 
+- **[2026-10-23 23:10 UTC]** Moraes quebra sigilos de empresa ligada a Willer Tomaz, amigo de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/moraes-quebra-sigilos-de-empresas-ligada-a-willer-tomaz-amigo-de-flavio-bolsonaro.shtml)_
+
