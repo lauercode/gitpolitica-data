@@ -1931,3 +1931,6 @@
 - **[2026-10-24 13:28 UTC]** Como Geraldo Alckmin foi de rival a 'companheiro' e candidato a vice-presidente de Lula
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr86z5exqn91o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 17:46 UTC]** Flávio e Lula reúnem multidões em Belo Horizonte, Rio e São Paulo nos últimos atos de campanha antes do 2º turno da eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/ultimos-atos-de-lula-e-flavio-antes-do-2o-turno.ghtml)_
+
