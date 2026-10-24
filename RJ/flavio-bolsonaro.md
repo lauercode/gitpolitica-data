@@ -8191,3 +8191,6 @@
 - **[2026-10-24 01:15 UTC]** Veja o que é #FATO ou #FAKE nas falas de Flávio Bolsonaro e Lula no debate da Globo no 2º turno das eleições 2026
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/23/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-globo-no-2o-turno-das-eleicoes-2026.ghtml)_
 
+- **[2026-10-24 00:39 UTC]** Debate da Globo: Lula e Flávio Bolsonaro discutem dívidas dos brasileiros, salário mínimo e SUS e trocam ofensas e ataques com 'nove dedos' e 'miliciano'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-da-globo.ghtml)_
+
