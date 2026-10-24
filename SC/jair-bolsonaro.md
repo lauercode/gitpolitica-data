@@ -149,3 +149,6 @@
 - **[2026-10-17 00:47 UTC]** Flávio diz que 'não está no radar' dar cargo para Jair Bolsonaro e nega nomear Eduardo chanceler, se eleito
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/16/em-entrevista-tv-flvio-nega-que-mudar-constituio-para-permitir-que-jair-bolsonaro-concorra-em-2030.ghtml)_
 
+- **[2026-10-23 23:00 UTC]** Michelle publica foto de Jair Bolsonaro de tornozeleira no sofá
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/michelle-publica-foto-de-jair-bolsonaro-de-tornozeleira-no-sofa.shtml)_
+
