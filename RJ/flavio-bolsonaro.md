@@ -8299,3 +8299,6 @@
 - **[2026-10-24 10:22 UTC]** Willer Tomaz, amigo de Flávio Bolsonaro, tem 15 imóveis que somam R$ 62 mi e constrói casa com heliponto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/willer-tomaz-amigo-de-flavio-bolsonaro-tem-15-imoveis-que-somam-r-62-mi-e-constroi-casa-com-heliponto.shtml)_
 
+- **[2026-10-24 10:19 UTC]** Apoiadores de Lula reagem a ataque de Flávio Bolsonaro sobre nove dedos durante caminhada no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-reagem-a-ataque-de-flavio-bolsonaro-sobre-nove-dedos-durante-caminhada-no-rio.shtml)_
+
