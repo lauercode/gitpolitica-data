@@ -155,3 +155,6 @@
 - **[2026-10-23 23:00 UTC]** Um novo capítulo para a gestão pública e para o centro de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/um-novo-capitulo-para-a-gestao-publica-e-para-o-centro-de-sao-paulo.shtml)_
 
+- **[2026-10-24 05:00 UTC]** São Paulo tem alerta de perigo para tempestade neste sábado (24)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/sao-paulo-tem-alerta-de-perigo-para-tempestade-neste-sabado-24.shtml)_
+
