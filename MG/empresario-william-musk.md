@@ -26,3 +26,6 @@
 - **[2026-10-19 17:44 UTC]** Anthropic monta fundo de benefício público e Musk promete fazer ações para crianças dos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/anthropic-monta-fundo-de-beneficio-publico-e-musk-promete-fazer-acoes-para-criancas-dos-eua.shtml)_
 
+- **[2026-10-24 10:30 UTC]** EUA pedem há anos que Musk altere serviço Starlink na Ucrânia e no Oriente Médio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/eua-pedem-ha-anos-que-musk-altere-servico-starlink-na-ucrania-e-no-oriente-medio.shtml)_
+
