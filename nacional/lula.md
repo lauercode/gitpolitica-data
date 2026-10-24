@@ -1802,3 +1802,6 @@
 - **[2026-10-24 04:00 UTC]** Veja como foi o debate entre Flávio Bolsonaro (PL) e Lula (PT) na Globo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml)_
 
+- **[2026-10-24 03:22 UTC]** Debate presidencial na Globo entre Lula (PT) e Flávio Bolsonaro (PL): veja a íntegra e trechos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/debate-presidencial-na-globo-entre-lula-pt-e-flavio-bolsonaro-pl-veja-a-integra-e-trechos.ghtml)_
+
