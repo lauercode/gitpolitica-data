@@ -8221,3 +8221,6 @@
 - **[2026-10-23 23:00 UTC]** Flávio Bolsonaro cogita vincular Caixa e BB a ministério da área social caso eleito
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-cogita-vincular-caixa-e-bb-a-ministerio-da-area-social-caso-eleito.shtml)_
 
+- **[2026-10-23 23:00 UTC]** Flávio cogita nomear militar para a Defesa, e Lula poderá ter primeira mulher na pasta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-cogita-nomear-militar-para-a-defesa-e-lula-podera-ter-primeira-mulher-na-pasta.shtml)_
+
