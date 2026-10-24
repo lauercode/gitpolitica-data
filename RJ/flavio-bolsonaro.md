@@ -8185,3 +8185,6 @@
 - **[2026-10-24 02:02 UTC]** Debate na Globo: Flávio Bolsonaro pergunta a Lula sobre saneamento básico na região Norte; VÍDEO
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-flavio-bolsonaro-pergunta-a-lula-sobre-saneamento-basico-na-regiao-norte-video.ghtml)_
 
+- **[2026-10-24 02:00 UTC]** Debate na Globo: Lula pergunta a Flávio Bolsonaro sobre políticas sociais e licença-maternidade; VÍDEO
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-lula-pergunta-a-flavio-bolsonaro-sobre-politicas-sociais-e-licenca-maternidade-video.ghtml)_
+
