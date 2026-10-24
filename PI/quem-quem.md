@@ -515,3 +515,6 @@
 - **[2026-10-23 18:17 UTC]** 'Quem Ama Cuida': Adriana conclui que foi Pilar quem encomendou a agressão que sofreu na cadeia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post467528)_
 
+- **[2026-10-23 20:45 UTC]** Quem vota em extremistas só quer viver como um burguês
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2026/10/quem-vota-em-extremistas-so-quer-viver-como-um-burgues.shtml)_
+
