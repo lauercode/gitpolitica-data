@@ -1958,3 +1958,6 @@
 - **[2026-10-24 20:23 UTC]** Apoiadores de Lula e Flávio vão às ruas em 15 capitais no último dia de campanha para o 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/atos-no-brasil.ghtml)_
 
+- **[2026-10-24 16:12 UTC]** Lula e Flávio mobilizam multidões em atos em capitais na véspera do 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/atos-da-direita-e-da-esquerda-mobilizam-capitais-na-vespera-do-segundo-turno.shtml)_
+
