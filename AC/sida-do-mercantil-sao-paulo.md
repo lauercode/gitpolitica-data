@@ -158,3 +158,6 @@
 - **[2026-10-24 05:00 UTC]** São Paulo tem alerta de perigo para tempestade neste sábado (24)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/sao-paulo-tem-alerta-de-perigo-para-tempestade-neste-sabado-24.shtml)_
 
+- **[2026-10-24 17:46 UTC]** Flávio e Lula reúnem multidões em Belo Horizonte, Rio e São Paulo nos últimos atos de campanha antes do 2º turno da eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/ultimos-atos-de-lula-e-flavio-antes-do-2o-turno.ghtml)_
+
