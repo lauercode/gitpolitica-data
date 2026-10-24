@@ -1865,3 +1865,6 @@
 - **[2026-10-24 00:00 UTC]** Lula x Flávio Bolsonaro na Globo tem índices de audiência semelhantes à Copa do Mundo; veja números
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/lula-x-flavio-bolsonaro-na-globo-tem-indices-de-audiencia-semelhantes-a-copa-na-mundo-veja-numeros.shtml)_
 
+- **[2026-10-23 23:57 UTC]** Em debate mais civilizado do que o primeiro, Lula vence Flávio por pontos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-debate-civilizado-lula-vence-flavio-por-pontos.shtml)_
+
