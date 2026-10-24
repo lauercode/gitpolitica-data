@@ -1871,3 +1871,6 @@
 - **[2026-10-23 23:00 UTC]** PT e campanha de Lula preveem oposição 'energizada' em caso de vitória de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pt-e-campanha-de-lula-preveem-oposicao-energizada-em-caso-de-vitoria-de-flavio.shtml)_
 
+- **[2026-10-23 23:00 UTC]** Flávio cogita nomear militar para a Defesa, e Lula poderá ter primeira mulher na pasta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-cogita-nomear-militar-para-a-defesa-e-lula-podera-ter-primeira-mulher-na-pasta.shtml)_
+
