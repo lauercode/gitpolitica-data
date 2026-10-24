@@ -8413,3 +8413,6 @@
 - **[2026-10-24 19:58 UTC]** Flávio Bolsonaro encerra campanha em ato no RJ com Nikolas e Douglas Ruas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-encerra-campanha-em-ato-no-rj-com-nikolas-e-douglas-ruas.shtml)_
 
+- **[2026-10-24 19:46 UTC]** BTG/Nexus: Flávio Bolsonaro tem 50,5% dos votos válidos, e Lula, 49,5%
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-505-dos-votos-validos-e-lula-495.shtml)_
+
