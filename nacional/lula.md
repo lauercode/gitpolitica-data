@@ -2048,3 +2048,6 @@
 - **[2026-10-25 07:28 UTC]** Flávio Bolsonaro x Lula após Datafolha e Quaest: o que mostra o Agregador de Pesquisas da BBC?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvrly555knx9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-25 13:37 UTC]** ‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/repercute-internacional-votacao-2o-turno-eleicoes-lula-flavio-bolsonaro.ghtml)_
+
