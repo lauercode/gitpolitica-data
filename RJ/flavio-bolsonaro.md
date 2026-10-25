@@ -8539,3 +8539,6 @@
 - **[2026-10-25 12:53 UTC]** Homem é morto a tiros em carreata pró-Flávio em MS, e briga política deixa dois mortos em MT
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/brigas-por-divergencia-politica-deixam-tres-mortos-em-mt-e-ms.shtml)_
 
+- **[2026-10-25 12:28 UTC]** Homem morre e outro fica ferido a tiros após carreata de Flávio Bolsonaro em MS
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/homem-morre-e-outro-fica-ferido-a-tiros-apos-carreata-de-flavio-bolsonaro-em-ms.shtml)_
+
