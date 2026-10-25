@@ -59,3 +59,6 @@
 - **[2026-10-10 20:21 UTC]** Quem é a amiga de Michelle Bolsonaro eleita vice-governadora do RJ
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/rio-de-janeiro/quem-e-a-amiga-de-michelle-bolsonaro-e-ex-miss-eleita-vice-governadora-do-rj/)_
 
+- **[2026-10-24 21:00 UTC]** Michelle Bolsonaro e Bia Kicis vão indicar secretários de novo governo Celina no DF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/michelle-bolsonaro-e-bia-kicis-vao-indicar-secretarios-de-novo-governo-celina-no-df.shtml)_
+
