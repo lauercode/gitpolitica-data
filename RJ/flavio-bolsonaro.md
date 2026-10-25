@@ -8554,3 +8554,6 @@
 - **[2026-10-25 15:12 UTC]** Renan Santos se abstém de votar e intensifica ataques a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-abstem-votar-intensifica-ataques-flavio-bolsonaro/)_
 
+- **[2026-10-25 17:33 UTC]** Eleições 2026: Acompanhe a apuração dos votos no 2º turno entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss)_
+
