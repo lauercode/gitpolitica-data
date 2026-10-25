@@ -8506,3 +8506,6 @@
 - **[2026-10-25 09:15 UTC]** Ao votar no Rio de Janeiro, Flávio diz que representa a mudança
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ao-votar-no-rio-de-janeiro-flavio-diz-que-representa-mudanca)_
 
+- **[2026-10-25 13:37 UTC]** ‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/repercute-internacional-votacao-2o-turno-eleicoes-lula-flavio-bolsonaro.ghtml)_
+
