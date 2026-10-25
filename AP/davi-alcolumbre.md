@@ -473,3 +473,6 @@
 - **[2026-10-25 12:07 UTC]** Presidente do Senado, Davi Alcolumbre vota no AP e pede respeito nas urnas: 'Hoje a palavra é do povo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/presidente-do-senado-davi-alcolumbre-vota-no-ap-e-pede-respeito-nas-urnas-hoje-a-palavra-e-do-povo.ghtml)_
 
+- **[2026-10-25 17:39 UTC]** Hugo Motta exalta urnas eletrônicas; Alcolumbre faz apelo por 'pacificação'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/hugo-motta-exalta-urnas-eletronicas-alcolumbre-faz-apelo-por-pacificacao.ghtml)_
+
