@@ -470,3 +470,6 @@
 - **[2026-10-22 14:39 UTC]** Jogo de sobrevivência institucional: aliados discutem Alcolumbre no TCU e Pacheco no STF em cenários pós-eleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/22/alcolumbre-pacheco-stf-tcu.ghtml)_
 
+- **[2026-10-25 12:07 UTC]** Presidente do Senado, Davi Alcolumbre vota no AP e pede respeito nas urnas: 'Hoje a palavra é do povo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/presidente-do-senado-davi-alcolumbre-vota-no-ap-e-pede-respeito-nas-urnas-hoje-a-palavra-e-do-povo.ghtml)_
+
