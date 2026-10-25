@@ -8491,3 +8491,6 @@
 - **[2026-10-25 03:00 UTC]** Votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia e na Coreia do Sul; acompanhe
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-25 03:00 UTC]** Disputa judicial entre Lula e Flávio Bolsonaro vai se arrastar para depois das eleições; entenda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/25/disputa-judicial-entre-lula-e-flavio-bolsonaro-vai-se-arrastar-para-depois-das-eleicoes-entenda.ghtml)_
+
