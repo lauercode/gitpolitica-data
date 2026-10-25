@@ -77,3 +77,6 @@
 - **[2026-09-10 15:55 UTC]** Pais de adolescente que eram pagos para permitir que cunhado a estuprasse usavam dinheiro para comprar drogas, diz polícia do PR
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/10/pais-de-adolescente-que-eram-pagos-para-permitir-que-cunhado-a-estuprasse-usavam-dinheiro-para-comprar-drogas-diz-policia-do-pr.ghtml)_
 
+- **[2026-10-25 19:01 UTC]** Pais levam filhos a seções eleitorais para ensinar democracia
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pais-levam-filhos-secoes-eleitorais-para-ensinar-democracia)_
+
