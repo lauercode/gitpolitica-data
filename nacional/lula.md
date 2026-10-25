@@ -2060,3 +2060,6 @@
 - **[2026-10-25 10:22 UTC]** Lula aumenta vantagem sobre Flávio Bolsonaro em popularidade digital na véspera do segundo turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-aumenta-vantagem-sobre-flavio-bolsonaro-em-popularidade-digital-na-vespera-do-segundo-turno.shtml)_
 
+- **[2026-10-25 13:52 UTC]** Eleições 2026: acompanhe a disputa entre Lula e Flávio Bolsonaro no 2º turno e a votação no Brasil e no exterior
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss)_
+
