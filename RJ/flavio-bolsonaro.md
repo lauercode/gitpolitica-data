@@ -8464,3 +8464,6 @@
 - **[2026-10-24 23:00 UTC]** Lula e Flávio Bolsonaro escolherão chefe da Fazenda sob cenário de desconfiança
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-e-flavio-bolsonaro-escolherao-chefe-da-fazenda-sob-cenario-de-desconfianca.shtml)_
 
+- **[2026-10-24 23:00 UTC]** Ações no TSE devem prolongar disputa entre Lula e Flávio Bolsonaro com ares de 'terceiro turno'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/acoes-no-tse-devem-prolongar-disputa-entre-lula-e-flavio-bolsonaro-com-ares-de-terceiro-turno.shtml)_
+
