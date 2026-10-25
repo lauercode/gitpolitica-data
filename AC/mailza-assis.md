@@ -86,3 +86,6 @@
 - **[2026-10-24 20:01 UTC]** Quaest: Mailza Assis (PP) tem 62%, ante 38% de Alan Rick (Republicanos) no Acre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-mailza-assis-pp-tem-62-ante-38-de-alan-rick-republicanos-no-acre.shtml)_
 
+- **[2026-10-25 19:37 UTC]** Mailza Assis (PP) é reeleita governadora do Acre, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mailza-assis-pp-e-reeleita-governadora-do-acre-projeta-datafolha.shtml)_
+
