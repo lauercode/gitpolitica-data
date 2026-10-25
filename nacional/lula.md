@@ -2081,3 +2081,6 @@
 - **[2026-10-25 16:28 UTC]** Lula pede prorrogação da votação no país inteiro, e Flávio Bolsonaro, em cidades de 3 estados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-pede-ampliacao-do-horario-de-votacao-e-acusa-prefeitos-de-dificultar-acesso-as-urnas.shtml)_
 
+- **[2026-10-25 14:56 UTC]** Lula vence em Berlim, Milão e na Palestina, e Flávio, em Israel no voto do exterior
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vence-em-milao-e-na-palestina-e-flavio-lidera-em-israel-no-voto-do-exterior.shtml)_
+
