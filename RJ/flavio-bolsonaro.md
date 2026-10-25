@@ -8548,3 +8548,6 @@
 - **[2026-10-25 10:52 UTC]** Ao votar no segundo turno, Flávio explora medo e endividamento, e Lula atribui atos de rua ao povo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ao-votar-no-segundo-turno-flavio-explora-medo-e-endividamento-e-lula-atribui-atos-de-rua-ao-povo.shtml)_
 
+- **[2026-10-25 08:52 UTC]** Ao votar, Flávio Bolsonaro cita endividamento, segurança pública e diz que campanha foi limpa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ao-votar-flavio-bolsonaro-cita-endividamento-e-seguranca-publica-e-diz-que-campanha-foi-limpa.shtml)_
+
