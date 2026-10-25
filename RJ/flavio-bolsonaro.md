@@ -8530,3 +8530,6 @@
 - **[2026-10-25 13:30 UTC]** Lula vota em SP e retoma ataques a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-vota-sp-retoma-ataques-flavio-bolsonaro/)_
 
+- **[2026-10-25 12:08 UTC]** Flávio Bolsonaro vota no RJ e diz que confia no discurso da mudança
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-vota-rj-confia-discurso-mudanca/)_
+
