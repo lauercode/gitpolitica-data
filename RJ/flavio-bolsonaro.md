@@ -8458,3 +8458,6 @@
 - **[2026-10-24 23:00 UTC]** Disputas estaduais têm direita ancorada em Flávio e lulistas buscando centro no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/disputas-estaduais-tem-direita-ancorada-em-flavio-e-lulistas-buscando-centro-no-2o-turno.shtml)_
 
+- **[2026-10-24 23:00 UTC]** Promessas de Lula e Flávio às vésperas do 2º turno ampliam risco de colapso fiscal do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/promessas-de-lula-e-flavio-as-vesperas-do-2o-turno-ampliam-risco-de-colapso-fiscal-do-brasil.shtml)_
+
