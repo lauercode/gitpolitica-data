@@ -8563,3 +8563,6 @@
 - **[2026-10-25 15:33 UTC]** Flávio Bolsonaro: o herdeiro de Jair tenta levar o clã de volta ao Planalto
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq7838ydk87jo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-25 17:04 UTC]** Campanha de Flávio pede votação até 19h por chuvas em alguns estados
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-pede-votacao-ate-19h-por-chuvas-em-alguns-estados)_
+
