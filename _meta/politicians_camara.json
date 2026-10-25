@@ -715,7 +715,8 @@
     "role": "Deputado(a) Federal (RS)",
     "party": "PL",
     "aliases": [
-      "Bibo Nunes"
+      "Bibo Nunes",
+      "Nunes"
     ],
     "camara_id": 204388
   },
@@ -2235,7 +2236,8 @@
     "role": "Deputado(a) Federal (BA)",
     "party": "PSD",
     "aliases": [
-      "Gabriel Nunes"
+      "Gabriel Nunes",
+      "Nunes"
     ],
     "camara_id": 220708
   },
