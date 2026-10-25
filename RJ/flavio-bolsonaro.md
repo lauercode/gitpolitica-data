@@ -8503,3 +8503,6 @@
 - **[2026-10-25 07:28 UTC]** Flávio Bolsonaro x Lula após Datafolha e Quaest: o que mostra o Agregador de Pesquisas da BBC?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvrly555knx9o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-25 09:15 UTC]** Ao votar no Rio de Janeiro, Flávio diz que representa a mudança
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ao-votar-no-rio-de-janeiro-flavio-diz-que-representa-mudanca)_
+
