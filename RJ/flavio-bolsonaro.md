@@ -8584,3 +8584,6 @@
 - **[2026-10-25 18:46 UTC]** Chefe da campanha de Flávio Bolsonaro fala em 'golpe judiciário', e aliados sugerem fraude sem provas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/chefe-da-campanha-de-flavio-bolsonaro-fala-em-golpe-judiciario-e-aliados-sugerem-fraude-sem-provas.shtml)_
 
+- **[2026-10-25 17:42 UTC]** Ramagem diz em Miami que quer voltar ao Brasil com vitória de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ramagem-diz-em-miami-que-quer-voltar-ao-brasil-com-vitoria-de-flavio.shtml)_
+
