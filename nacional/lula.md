@@ -2078,3 +2078,6 @@
 - **[2026-10-25 03:00 UTC]** Votação no exterior: Lula vence em 42 países; Flávio Bolsonaro, em 12
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-25 16:28 UTC]** Lula pede prorrogação da votação no país inteiro, e Flávio Bolsonaro, em cidades de 3 estados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-pede-ampliacao-do-horario-de-votacao-e-acusa-prefeitos-de-dificultar-acesso-as-urnas.shtml)_
+
