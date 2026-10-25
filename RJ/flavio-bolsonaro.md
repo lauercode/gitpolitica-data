@@ -8551,3 +8551,6 @@
 - **[2026-10-25 08:52 UTC]** Ao votar, Flávio Bolsonaro cita endividamento, segurança pública e diz que campanha foi limpa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ao-votar-flavio-bolsonaro-cita-endividamento-e-seguranca-publica-e-diz-que-campanha-foi-limpa.shtml)_
 
+- **[2026-10-25 15:12 UTC]** Renan Santos se abstém de votar e intensifica ataques a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-abstem-votar-intensifica-ataques-flavio-bolsonaro/)_
+
