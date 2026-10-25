@@ -2075,3 +2075,6 @@
 - **[2026-10-25 15:33 UTC]** Lula aos 80 anos: a 'última dança' do presidente em sua eleição mais difícil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx240l916lneo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-25 03:00 UTC]** Votação no exterior: Lula vence em 42 países; Flávio Bolsonaro, em 12
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml)_
+
