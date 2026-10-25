@@ -8494,3 +8494,6 @@
 - **[2026-10-25 03:00 UTC]** Disputa judicial entre Lula e Flávio Bolsonaro vai se arrastar para depois das eleições; entenda
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/25/disputa-judicial-entre-lula-e-flavio-bolsonaro-vai-se-arrastar-para-depois-das-eleicoes-entenda.ghtml)_
 
+- **[2026-10-25 03:00 UTC]** Eleições 2026: o que acontece se Lula e Flávio Bolsonaro empatarem no segundo turno?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-o-que-acontece-se-lula-e-flavio-bolsonaro-empatarem-no-segundo-turno.ghtml)_
+
