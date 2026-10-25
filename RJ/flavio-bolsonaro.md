@@ -8578,3 +8578,6 @@
 - **[2026-10-25 14:56 UTC]** Lula vence em Berlim, Milão e na Palestina, e Flávio, em Israel no voto do exterior
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vence-em-milao-e-na-palestina-e-flavio-lidera-em-israel-no-voto-do-exterior.shtml)_
 
+- **[2026-10-25 19:43 UTC]** Campanha de Flávio Bolsonaro pede ao TSE extensão do horário de votação em MG, RS, PR, SP e SC
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/campanha-de-flavio-bolsonaro-pede-pede-ao-tse-extensao-do-horario-de-votacao-em-mg-e-rs-por-chuvas.ghtml)_
+
