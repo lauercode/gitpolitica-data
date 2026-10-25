@@ -8512,3 +8512,6 @@
 - **[2026-10-25 12:20 UTC]** Lula destaca mobilização popular, e Flávio Bolsonaro defende mudança; candidatos votaram pela manhã
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-e-flavio-bolsonaro-votam-em-sao-paulo-e-no-rio-e-acompanham-apuracao-nos-estados.ghtml)_
 
+- **[2026-10-25 11:13 UTC]** VÍDEO: homem negro aparece acorrentado em ato de apoio a Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/25/homem-negro-aparece-acorrentado-em-ato-de-apoio-a-flavio-bolsonaro.ghtml)_
+
