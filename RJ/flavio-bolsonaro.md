@@ -8452,3 +8452,6 @@
 - **[2026-10-24 23:00 UTC]** Flávio Bolsonaro tenta driblar suspeitas para chegar ao Planalto e livrar o pai
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tenta-driblar-suspeitas-para-chegar-ao-planalto-e-livrar-o-pai.shtml)_
 
+- **[2026-10-24 23:00 UTC]** Lula tenta virada inédita após prometer benesses e acirrar discurso contra Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-tenta-virada-inedita-apos-prometer-benesses-e-acirrar-discurso-contra-flavio-bolsonaro.shtml)_
+
