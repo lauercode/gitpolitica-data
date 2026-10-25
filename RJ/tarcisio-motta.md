@@ -17,3 +17,6 @@
 - **[2026-10-07 12:05 UTC]** Governo Tarcísio dá gratificação a servidores e inclui braço direito da primeira-dama
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governo-tarcisio-da-gratificacao-a-servidores-e-inclui-aliada-da-primeira-dama.shtml)_
 
+- **[2026-10-24 19:58 UTC]** Flávio Bolsonaro encerra campanha com multidão no RJ e em BH e ao lado de Nikolas, Tarcísio e Cleitinho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-encerra-campanha-em-ato-no-rj-com-nikolas-e-douglas-ruas.shtml)_
+
