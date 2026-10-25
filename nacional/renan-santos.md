@@ -452,3 +452,6 @@
 - **[2026-10-23 19:16 UTC]** Renan Santos volta a negar apoio a Lula ou Flávio e diz que vai justificar o voto no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/renan-santos-volta-a-negar-apoio-a-lula-ou-flavio-e-diz-que-vai-justificar-o-voto-no-2o-turno.shtml)_
 
+- **[2026-10-25 15:12 UTC]** Renan Santos se abstém de votar e intensifica ataques a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-abstem-votar-intensifica-ataques-flavio-bolsonaro/)_
+
