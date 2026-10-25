@@ -8476,3 +8476,6 @@
 - **[2026-10-24 21:33 UTC]** Flávio Bolsonaro repete notícia falsa sobre mesários inserindo votos após fechamento das urnas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-manda-apoiadores-fiscalizarem-mesarios-apos-fechamento-das-urnas.shtml)_
 
+- **[2026-10-24 21:00 UTC]** Se 5% dos eleitores de Flávio forem sinceros sobre corrupção, Lula vence
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/10/se-5-dos-eleitores-de-flavio-forem-sinceros-sobre-corrupcao-lula-vence.shtml)_
+
