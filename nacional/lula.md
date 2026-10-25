@@ -2084,3 +2084,6 @@
 - **[2026-10-25 14:56 UTC]** Lula vence em Berlim, Milão e na Palestina, e Flávio, em Israel no voto do exterior
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vence-em-milao-e-na-palestina-e-flavio-lidera-em-israel-no-voto-do-exterior.shtml)_
 
+- **[2026-10-25 23:08 UTC]** Eleições 2026 ao vivo: Com mais de 26% das urnas apuradas, Flávio tem 50,45%, e Lula, 49,55%; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss)_
+
