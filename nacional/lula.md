@@ -2054,3 +2054,6 @@
 - **[2026-10-25 12:20 UTC]** Lula destaca mobilização popular, e Flávio Bolsonaro defende mudança; candidatos votaram pela manhã
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-e-flavio-bolsonaro-votam-em-sao-paulo-e-no-rio-e-acompanham-apuracao-nos-estados.ghtml)_
 
+- **[2026-10-25 03:00 UTC]** Votação no exterior: Lula vence na Nova Zelândia e Austrália; Flávio Bolsonaro vence no Japão e na Malásia
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml)_
+
