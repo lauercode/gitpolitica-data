@@ -146,3 +146,6 @@
 - **[2026-10-25 13:30 UTC]** Lula vota em SP e retoma ataques a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-vota-sp-retoma-ataques-flavio-bolsonaro/)_
 
+- **[2026-10-25 11:32 UTC]** Campanha de Lula diz à Justiça que SP circula com 60% dos ônibus, contrariando decisão judicial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pt-relata-falta-de-onibus-em-sao-paulo-e-pede-apuracao-ao-tre-sp.shtml)_
+
