@@ -56,3 +56,6 @@
 - **[2026-10-22 12:11 UTC]** CazéTV envia equipe à Espanha para transmissão exclusiva de Real Madrid x Barcelona
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/cazetv-envia-equipe-a-espanha-para-transmissao-exclusiva-de-real-madrid-x-barcelona.shtml)_
 
+- **[2026-10-24 23:00 UTC]** Geração Z de Portugal e Espanha tenta articular greve geral conjunta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/geracao-z-de-portugal-e-espanha-tenta-articular-greve-geral-conjunta.shtml)_
+
