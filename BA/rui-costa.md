@@ -23,3 +23,6 @@
 - **[2026-10-15 20:17 UTC]** Rui Costa diz que governo avalia apoiar revisão da maioridade penal 'em outro momento'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/15/rui-costa-diz-que-governo-avalia-apoiar-revisao-da-maioridade-penal-em-outro-momento.ghtml)_
 
+- **[2026-10-25 12:14 UTC]** PT pede prisão do prefeito de Salvador por falta de ônibus na eleição e Rui Costa o acusa de crime; TRE manda prender secretário
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/rui-costa-diz-que-pt-pedira-prisao-de-prefeito-de-salvador-falta-de-onibus-das-ruas-na-eleicao.shtml)_
+
