@@ -8545,3 +8545,6 @@
 - **[2026-10-25 12:00 UTC]** Amigo de Flávio advoga para governadora do DF contra mulher que a chamou de ladra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/amigo-de-flavio-advoga-para-governadora-do-df-contra-mulher-que-a-chamou-de-ladra.shtml)_
 
+- **[2026-10-25 10:52 UTC]** Ao votar no segundo turno, Flávio explora medo e endividamento, e Lula atribui atos de rua ao povo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ao-votar-no-segundo-turno-flavio-explora-medo-e-endividamento-e-lula-atribui-atos-de-rua-ao-povo.shtml)_
+
