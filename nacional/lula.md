@@ -2015,3 +2015,6 @@
 - **[2026-10-25 00:02 UTC]** Eleição mais acirrada desde a redemocratização opõe Flávio Bolsonaro a Lula com 158 milhões aptos a votar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicao-mais-acirrada-desde-a-redemocratizacao-opoe-flavio-bolsonaro-a-lula-com-158-milhoes-aptos-a-votar.shtml)_
 
+- **[2026-10-24 23:00 UTC]** Promessas de Lula e Flávio às vésperas do 2º turno ampliam risco de colapso fiscal do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/promessas-de-lula-e-flavio-as-vesperas-do-2o-turno-ampliam-risco-de-colapso-fiscal-do-brasil.shtml)_
+
