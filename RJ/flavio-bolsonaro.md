@@ -8560,3 +8560,6 @@
 - **[2026-10-25 17:04 UTC]** Voto no exterior: veja os resultados por país e a apuração de Lula x Flávio no 2º turno das eleições 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw5yn34exenno?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-25 15:33 UTC]** Flávio Bolsonaro: o herdeiro de Jair tenta levar o clã de volta ao Planalto
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cq7838ydk87jo?at_medium=RSS&at_campaign=rss)_
+
