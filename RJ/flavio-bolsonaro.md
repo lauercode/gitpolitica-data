@@ -8542,3 +8542,6 @@
 - **[2026-10-25 12:28 UTC]** Homem morre e outro fica ferido a tiros após carreata de Flávio Bolsonaro em MS
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/homem-morre-e-outro-fica-ferido-a-tiros-apos-carreata-de-flavio-bolsonaro-em-ms.shtml)_
 
+- **[2026-10-25 12:00 UTC]** Amigo de Flávio advoga para governadora do DF contra mulher que a chamou de ladra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/amigo-de-flavio-advoga-para-governadora-do-df-contra-mulher-que-a-chamou-de-ladra.shtml)_
+
