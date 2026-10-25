@@ -8455,3 +8455,6 @@
 - **[2026-10-24 23:00 UTC]** Lula tenta virada inédita após prometer benesses e acirrar discurso contra Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-tenta-virada-inedita-apos-prometer-benesses-e-acirrar-discurso-contra-flavio-bolsonaro.shtml)_
 
+- **[2026-10-24 23:00 UTC]** Disputas estaduais têm direita ancorada em Flávio e lulistas buscando centro no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/disputas-estaduais-tem-direita-ancorada-em-flavio-e-lulistas-buscando-centro-no-2o-turno.shtml)_
+
