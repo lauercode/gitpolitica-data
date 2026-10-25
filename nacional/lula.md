@@ -2009,3 +2009,6 @@
 - **[2026-10-24 21:32 UTC]** Lula chama Flávio de miliciano e diz que será presidente da República outra vez
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-chama-flavio-de-miliciano-e-diz-que-amanha-sera-presidente-da-republica-outra-vez/)_
 
+- **[2026-10-24 20:52 UTC]** Em Brasília, atos por Lula e Flávio ficam a 2 km de distância
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-brasilia-atos-por-lula-e-flavio-ficam-2-km-de-distancia)_
+
