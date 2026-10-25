@@ -242,3 +242,6 @@
 - **[2026-10-24 11:18 UTC]** Segundo turno das eleições 2026 será neste domingo (25): veja o horário da votação
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/segundo-turno-das-eleicoes-sera-neste-domingo-25.ghtml)_
 
+- **[2026-10-25 19:08 UTC]** Segundo turno: que horas sai o resultado das eleições?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/que-horas-sai-o-resultado-das-eleicoes.ghtml)_
+
