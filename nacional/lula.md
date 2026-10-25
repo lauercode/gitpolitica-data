@@ -2069,3 +2069,6 @@
 - **[2026-10-25 17:33 UTC]** Eleições 2026: Acompanhe a apuração dos votos no 2º turno entre Lula e Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-25 17:04 UTC]** Voto no exterior: veja os resultados por país e a apuração de Lula x Flávio no 2º turno das eleições 2026
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw5yn34exenno?at_medium=RSS&at_campaign=rss)_
+
