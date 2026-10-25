@@ -8470,3 +8470,6 @@
 - **[2026-10-24 23:00 UTC]** Foco de Lula e Flávio Bolsonaro nas eleições, MEI exigirá ajustes para afastar bomba para a Previdência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/foco-de-lula-e-flavio-bolsonaro-nas-eleicoes-mei-exigira-ajustes-para-afastar-bomba-para-a-previdencia.shtml)_
 
+- **[2026-10-24 23:00 UTC]** Redução de ministérios tem como foco gestão e não reduzir despesa, diz assessor econômico de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/reducao-de-ministerios-tem-como-foco-gestao-e-nao-reduzir-despesa-diz-assessor-economico-de-flavio.shtml)_
+
