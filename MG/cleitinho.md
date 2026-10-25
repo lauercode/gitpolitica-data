@@ -212,3 +212,6 @@
 - **[2026-10-23 18:39 UTC]** Cleitinho reafirma apoio a Flávio Bolsonaro após recado de Lula, mas mantém discrição no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cleitinho-reafirma-apoio-a-flavio-bolsonaro-apos-recado-de-lula-mas-mantem-discricao-no-2o-turno.shtml)_
 
+- **[2026-10-24 19:58 UTC]** Flávio Bolsonaro encerra campanha com multidão no RJ e em BH e ao lado de Nikolas, Tarcísio e Cleitinho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-encerra-campanha-em-ato-no-rj-com-nikolas-e-douglas-ruas.shtml)_
+
