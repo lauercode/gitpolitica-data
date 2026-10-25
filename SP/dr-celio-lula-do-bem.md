@@ -137,3 +137,6 @@
 - **[2026-10-24 14:30 UTC]** Ativistas espalham faixas em SP, RJ e BA sobre caso Ana Clara, citado por Lula contra Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ativistas-espalham-faixas-em-sp-e-no-rj-sobre-caso-ana-clara-citado-por-lula-contra-flavio-bolsonaro.shtml)_
 
+- **[2026-10-24 23:44 UTC]** Lula fala a apoiadores em frente a sua casa em SP: 'Vocês são mais do que os partidos políticos'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-fala-a-apoiadores-em-frente-a-sua-casa-em-sp-voces-sao-mais-do-que-os-partidos-politicos.shtml)_
+
