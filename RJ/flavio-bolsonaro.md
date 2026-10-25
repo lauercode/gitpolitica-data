@@ -8509,3 +8509,6 @@
 - **[2026-10-25 13:37 UTC]** ‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/repercute-internacional-votacao-2o-turno-eleicoes-lula-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-25 12:20 UTC]** Lula destaca mobilização popular, e Flávio Bolsonaro defende mudança; candidatos votaram pela manhã
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-e-flavio-bolsonaro-votam-em-sao-paulo-e-no-rio-e-acompanham-apuracao-nos-estados.ghtml)_
+
