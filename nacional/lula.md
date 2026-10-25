@@ -2018,3 +2018,6 @@
 - **[2026-10-24 23:00 UTC]** Promessas de Lula e Flávio às vésperas do 2º turno ampliam risco de colapso fiscal do Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/promessas-de-lula-e-flavio-as-vesperas-do-2o-turno-ampliam-risco-de-colapso-fiscal-do-brasil.shtml)_
 
+- **[2026-10-24 23:00 UTC]** Lula e Flávio Bolsonaro escolherão chefe da Fazenda sob cenário de desconfiança
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-e-flavio-bolsonaro-escolherao-chefe-da-fazenda-sob-cenario-de-desconfianca.shtml)_
+
