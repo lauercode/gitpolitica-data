@@ -143,3 +143,6 @@
 - **[2026-10-25 12:12 UTC]** 'Tenho 50 anos de vida política e nunca vi isso', diz Lula sobre mobilização de apoiadores após votar em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/lula-vota-2turno.ghtml)_
 
+- **[2026-10-25 13:30 UTC]** Lula vota em SP e retoma ataques a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-vota-sp-retoma-ataques-flavio-bolsonaro/)_
+
