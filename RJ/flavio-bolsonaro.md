@@ -8566,3 +8566,6 @@
 - **[2026-10-25 17:04 UTC]** Campanha de Flávio pede votação até 19h por chuvas em alguns estados
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-pede-votacao-ate-19h-por-chuvas-em-alguns-estados)_
 
+- **[2026-10-25 19:43 UTC]** Campanha de Flávio Bolsonaro pede ao TSE extensão do horário de votação em MG e RS por chuvas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/campanha-de-flavio-bolsonaro-pede-pede-ao-tse-extensao-do-horario-de-votacao-em-mg-e-rs-por-chuvas.ghtml)_
+
