@@ -149,3 +149,6 @@
 - **[2026-10-25 11:32 UTC]** Campanha de Lula diz à Justiça que SP circula com 60% dos ônibus, contrariando decisão judicial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pt-relata-falta-de-onibus-em-sao-paulo-e-pede-apuracao-ao-tre-sp.shtml)_
 
+- **[2026-10-25 16:08 UTC]** Alckmin vota em SP e critica ataques contra apoiadores de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/alckmin-vota-em-sp-e-critica-ataques-contra-apoiadores-de-lula.ghtml)_
+
