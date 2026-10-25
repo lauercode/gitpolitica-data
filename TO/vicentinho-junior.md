@@ -71,3 +71,6 @@
 - **[2026-10-24 19:58 UTC]** Quaest: Vicentinho Júnior tem 59% no segundo turno do Tocantins, ante 41% de Professora Dorinha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vicentinho-junior-tem-59-no-segundo-turno-do-tocantins-ante-41-de-professora-dorinha.shtml)_
 
+- **[2026-10-25 19:31 UTC]** Vicentinho Júnior (PSDB) é eleito governador do Tocantins, projeta Datafolha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vicentinho-junior-psdb-e-eleito-governador-do-tocantins-projeta-datafolha.shtml)_
+
