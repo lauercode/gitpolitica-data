@@ -2072,3 +2072,6 @@
 - **[2026-10-25 17:04 UTC]** Voto no exterior: veja os resultados por país e a apuração de Lula x Flávio no 2º turno das eleições 2026
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw5yn34exenno?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-25 15:33 UTC]** Lula aos 80 anos: a 'última dança' do presidente em sua eleição mais difícil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx240l916lneo?at_medium=RSS&at_campaign=rss)_
+
