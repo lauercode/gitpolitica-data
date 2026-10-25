@@ -8500,3 +8500,6 @@
 - **[2026-10-25 06:00 UTC]** Trabalho por hora que Flávio Bolsonaro já defendeu é alvo de críticas no exterior
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/trabalho-por-hora-que-flavio-bolsonaro-ja-defendeu-e-alvo-de-criticas-no-exterior.shtml)_
 
+- **[2026-10-25 07:28 UTC]** Flávio Bolsonaro x Lula após Datafolha e Quaest: o que mostra o Agregador de Pesquisas da BBC?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cvrly555knx9o?at_medium=RSS&at_campaign=rss)_
+
