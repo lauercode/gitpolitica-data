@@ -2066,3 +2066,6 @@
 - **[2026-10-25 10:52 UTC]** Ao votar no segundo turno, Flávio explora medo e endividamento, e Lula atribui atos de rua ao povo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ao-votar-no-segundo-turno-flavio-explora-medo-e-endividamento-e-lula-atribui-atos-de-rua-ao-povo.shtml)_
 
+- **[2026-10-25 17:33 UTC]** Eleições 2026: Acompanhe a apuração dos votos no 2º turno entre Lula e Flávio Bolsonaro
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss)_
+
