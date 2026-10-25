@@ -140,3 +140,6 @@
 - **[2026-10-24 23:44 UTC]** Lula fala a apoiadores em frente a sua casa em SP: 'Vocês são mais do que os partidos políticos'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-fala-a-apoiadores-em-frente-a-sua-casa-em-sp-voces-sao-mais-do-que-os-partidos-politicos.shtml)_
 
+- **[2026-10-25 12:12 UTC]** 'Tenho 50 anos de vida política e nunca vi isso', diz Lula sobre mobilização de apoiadores após votar em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/lula-vota-2turno.ghtml)_
+
