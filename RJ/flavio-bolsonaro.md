@@ -8533,3 +8533,6 @@
 - **[2026-10-25 12:08 UTC]** Flávio Bolsonaro vota no RJ e diz que confia no discurso da mudança
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-vota-rj-confia-discurso-mudanca/)_
 
+- **[2026-10-25 13:52 UTC]** Eleições 2026: acompanhe a disputa entre Lula e Flávio Bolsonaro no 2º turno e a votação no Brasil e no exterior
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss)_
+
