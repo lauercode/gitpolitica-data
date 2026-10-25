@@ -197,3 +197,6 @@
 - **[2026-10-21 21:44 UTC]** Ato de estudantes de direita em SP tem clima de Carnaval, bebida no gargalo e ligação de Tarcísio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-de-estudantes-de-direita-em-sp-tem-clima-de-carnaval-bebida-no-gargalo-e-ligacao-de-tarcisio.shtml)_
 
+- **[2026-10-25 06:00 UTC]** Tarcísio deverá indicar 6 dos 7 membros do TCE-SP ao fim do seu segundo mandato
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tarcisio-devera-indicar-6-dos-7-membros-do-tce-sp-ao-fim-do-seu-segundo-mandato.shtml)_
+
