@@ -23,3 +23,6 @@
 - **[2026-10-22 10:52 UTC]** Departamento da gestão Trump afirma que Ramagem está ilegal nos EUA, diz agência
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/departamento-gestao-trump-afirma-ramagem-esta-ilegal-eua-diz-agencia/)_
 
+- **[2026-10-25 17:42 UTC]** Ramagem diz em Miami que quer voltar ao Brasil com vitória de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ramagem-diz-em-miami-que-quer-voltar-ao-brasil-com-vitoria-de-flavio.shtml)_
+
