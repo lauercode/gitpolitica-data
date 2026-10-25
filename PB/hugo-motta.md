@@ -68,3 +68,6 @@
 - **[2026-10-21 03:27 UTC]** Gilmar Mendes e Hugo Motta reforçam defesa das instituições antes do 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/gilmar-mendes-e-hugo-motta-reforcam-defesa-das-instituicoes-antes-do-2o-turno/)_
 
+- **[2026-10-25 17:39 UTC]** Hugo Motta exalta urnas eletrônicas; Alcolumbre faz apelo por 'pacificação'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/hugo-motta-exalta-urnas-eletronicas-alcolumbre-faz-apelo-por-pacificacao.ghtml)_
+
