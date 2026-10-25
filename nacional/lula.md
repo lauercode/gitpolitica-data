@@ -2027,3 +2027,6 @@
 - **[2026-10-24 23:00 UTC]** Foco de Lula e Flávio Bolsonaro nas eleições, MEI exigirá ajustes para afastar bomba para a Previdência
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/foco-de-lula-e-flavio-bolsonaro-nas-eleicoes-mei-exigira-ajustes-para-afastar-bomba-para-a-previdencia.shtml)_
 
+- **[2026-10-24 21:00 UTC]** Se 5% dos eleitores de Flávio forem sinceros sobre corrupção, Lula vence
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/10/se-5-dos-eleitores-de-flavio-forem-sinceros-sobre-corrupcao-lula-vence.shtml)_
+
