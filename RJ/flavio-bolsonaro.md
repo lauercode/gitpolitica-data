@@ -8527,3 +8527,6 @@
 - **[2026-10-25 08:00 UTC]** A sobrevivência de Flávio na era do pós-escândalo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/a-sobrevivencia-de-flavio-na-era-do-pos-escandalo.shtml)_
 
+- **[2026-10-25 13:30 UTC]** Lula vota em SP e retoma ataques a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/lula-vota-sp-retoma-ataques-flavio-bolsonaro/)_
+
