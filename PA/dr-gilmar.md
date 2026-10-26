@@ -119,3 +119,6 @@
 - **[2026-10-23 20:58 UTC]** Gilmar Mendes barra processo de Lindbergh contra vice de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-barra-processo-de-lindbergh-contra-vice-de-flavio-bolsonaro/)_
 
+- **[2026-10-26 14:12 UTC]** Dino e Gilmar defendem respeito às urnas e união após vitória de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/ministros-se-manifestam-apos-vitoria-de-lula.ghtml)_
+
