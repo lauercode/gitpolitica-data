@@ -8737,3 +8737,6 @@
 - **[2026-10-26 01:36 UTC]** Kassio deve descartar questionamentos sobre resultado após Flávio não reconhecer derrota eleitoral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-deve-descartar-questionamentos-sobre-resultado-apos-flavio-nao-reconhecer-derrota-eleitoral.shtml)_
 
+- **[2026-10-26 00:25 UTC]** Leia a íntegra do discurso de Flávio Bolsonaro após sua derrota
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/leia-a-integra-do-discurso-de-flavio-bolsonaro-apos-sua-derrota.shtml)_
+
