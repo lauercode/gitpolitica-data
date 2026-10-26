@@ -455,3 +455,6 @@
 - **[2026-10-25 15:12 UTC]** Renan Santos se abstém de votar e intensifica ataques a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/renan-santos-abstem-votar-intensifica-ataques-flavio-bolsonaro/)_
 
+- **[2026-10-26 11:38 UTC]** Eleições 2026: Caiado, Zema e Renan Santos repercutem vitória de Lula; Cury não se manifestou
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/caiado-zema-e-renan-santos-repercutem-vitoria-de-lula.ghtml)_
+
