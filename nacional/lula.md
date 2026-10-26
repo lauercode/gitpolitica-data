@@ -2240,3 +2240,6 @@
 - **[2026-10-25 22:35 UTC]** Lula promete mudar o jeito de governar, ataca Flávio e diz que venceu intromissão externa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-promete-mudar-o-jeito-de-governar-ataca-flavio-e-diz-que-venceu-intromissao-externa.shtml)_
 
+- **[2026-10-25 22:32 UTC]** Lula vira sobre Flávio em Minas, espelho eleitoral do país; veja como votaram regiões, estados e capitais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vira-sobre-flavio-em-minas-espelho-eleitoral-do-pais-veja-como-votaram-regioes-estados-e-capitais.shtml)_
+
