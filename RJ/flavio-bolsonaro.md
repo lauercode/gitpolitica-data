@@ -8641,3 +8641,6 @@
 - **[2026-10-25 23:39 UTC]** Flávio não reconhece vitória de Lula e tentará anulação do pleito
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-nao-reconhece-vitoria-de-lula-e-tentara-anulacao-do-pleito)_
 
+- **[2026-10-26 06:28 UTC]** Quatro dos sete aliados de Flávio Bolsonaro, que concorriam a governador no 2º turno, se elegeram
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/aliados-flavio-bolsonaro-governador-segundo-turno.ghtml)_
+
