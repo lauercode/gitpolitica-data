@@ -248,3 +248,6 @@
 - **[2026-10-25 21:13 UTC]** Segundo turno é marcado por gesto nazista no Rio e mulher esfaqueada em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/segundo-turno-e-marcado-por-gesto-nazista-no-rio-e-mulher-esfaqueada-em-sao-paulo.shtml)_
 
+- **[2026-10-26 15:14 UTC]** Segundo turno das eleições registra menor abstenção em 20 anos
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/segundo-turno-das-eleicoes-registra-menor-abstencao-em-20-anos)_
+
