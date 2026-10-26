@@ -8893,3 +8893,6 @@
 - **[2026-10-26 14:56 UTC]** Membro da coordenação de Lula diz que Flávio faz pirotecnia ao não reconhecer resultado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/membro-da-coordenacao-de-lula-diz-que-flavio-faz-pirotecnia-ao-nao-reconhecer-resultado.shtml)_
 
+- **[2026-10-26 13:41 UTC]** Aliados de Flávio dizem ter avisado governo Trump que senador contestaria resultado da eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/aliados-de-flavio-dizem-ter-avisado-governo-trump-que-senador-contestaria-resultado-da-eleicao.shtml)_
+
