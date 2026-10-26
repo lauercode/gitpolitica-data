@@ -2213,3 +2213,6 @@
 - **[2026-10-25 22:08 UTC]** Duas viradas de Lula e momento da vitória: veja a evolução dos votos na apuração para presidente no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/veja-a-evolucao-dos-votos-na-apuracao-para-presidente-no-2o-turno.ghtml)_
 
+- **[2026-10-26 04:02 UTC]** Lula avança sobre Flávio em 97% dos municípios brasileiros e vira em 211
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-avanca-sobre-flavio-em-97-dos-municipios-brasileiros-e-vira-em-211.shtml)_
+
