@@ -8869,3 +8869,6 @@
 - **[2026-10-26 15:04 UTC]** Gráfico mostra momento da virada de Lula sobre Flávio no segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/grafico-mostra-momento-da-virada-de-lula-sobre-flavio-no-segundo-turno.ghtml)_
 
+- **[2026-10-26 14:57 UTC]** Eleições 2026: Confira em 7 mapas e gráficos como foi a disputa Lula x Flávio Bolsonaro no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/eleicoes-2026-o-2o-turno-em-mapas-e-graficos.ghtml)_
+
