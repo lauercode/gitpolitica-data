@@ -8647,3 +8647,6 @@
 - **[2026-10-26 05:44 UTC]** Flávio Bolsonaro perdeu votos em seis estados do 1º para o 2º turno; veja onde ganhou e perdeu
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/estados-flavio-bolsonaro-ganhou-perdeu-votos-primeiro-segundo-turno.ghtml)_
 
+- **[2026-10-26 05:33 UTC]** Lula e Flávio Bolsonaro receberam o mesmo número de votos em 1 município no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-e-flavio-bolsonaro-tem-o-mesmo-numero-de-votos-em-1-municipio-no-2o-turno.ghtml)_
+
