@@ -8824,3 +8824,6 @@
 - **[2026-10-26 08:22 UTC]** Lula venceu em dois estados que elegeram aliados de Flávio; onde senador ganhou, governadores o apoiaram
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/presidente-governadores-eleitos-apoios-estados.ghtml)_
 
+- **[2026-10-26 11:55 UTC]** Moro diz que é preciso esclarecer questionamentos da oposição após derrota de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/moro-diz-que-e-preciso-esclarecer-questionamentos-da-oposicao-apos-derrota-de-flavio-bolsonaro.shtml)_
+
