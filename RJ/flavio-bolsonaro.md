@@ -8794,3 +8794,6 @@
 - **[2026-10-26 14:04 UTC]** Flávio Bolsonaro: Veja quem estava junto ao candidato derrotado em discurso após apuração
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/flavio-bolsonaro-veja-quem-estava-junto-ao-candidato-derrotado-em-discurso-apos-apuracao.ghtml)_
 
+- **[2026-10-26 13:55 UTC]** Após derrota de Flávio, Ricardo Nunes diz esperar que novo governo recupere a economia
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/26/apos-derrota-de-flavio-ricardo-nunes-diz-esperar-que-novo-governo-recupere-a-economia.ghtml)_
+
