@@ -8698,3 +8698,6 @@
 - **[2026-10-26 01:31 UTC]** Lula venceu em 13 capitais, e Flávio Bolsonaro, em 14; veja o resultado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/resultado-capitais-lula-flavio-bolsonaro-segundo-turno.ghtml)_
 
+- **[2026-10-26 01:28 UTC]** Lula x Flávio Bolsonaro: veja no mapa como foi a votação no 2º turno por zona eleitoral em todas as cidades do país
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-x-flavio-bolsonaro-veja-no-mapa-como-foi-a-votacao-no-2o-turno-por-zona-eleitoral-em-todas-as-cidades-do-pais.ghtml)_
+
