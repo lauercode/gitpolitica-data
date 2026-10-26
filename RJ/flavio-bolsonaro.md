@@ -8920,3 +8920,6 @@
 - **[2026-10-26 20:34 UTC]** Flávio desiste de anular eleição, mas pedirá cassação da chapa de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-desiste-anular-eleicao-pedira-cassacao-chapa-lula/)_
 
+- **[2026-10-26 20:03 UTC]** Flávio Bolsonaro questiona resultado do segundo turno na Justiça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-questiona-resultado-do-segundo-turno-na-justica/)_
+
