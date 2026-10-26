@@ -8644,3 +8644,6 @@
 - **[2026-10-26 06:28 UTC]** Quatro dos sete aliados de Flávio Bolsonaro, que concorriam a governador no 2º turno, se elegeram
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/aliados-flavio-bolsonaro-governador-segundo-turno.ghtml)_
 
+- **[2026-10-26 05:44 UTC]** Flávio Bolsonaro perdeu votos em seis estados do 1º para o 2º turno; veja onde ganhou e perdeu
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/estados-flavio-bolsonaro-ganhou-perdeu-votos-primeiro-segundo-turno.ghtml)_
+
