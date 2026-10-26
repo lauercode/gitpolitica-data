@@ -2156,3 +2156,6 @@
 - **[2026-10-26 04:53 UTC]** Lula venceu nas duas cidades em que empatou com Flávio no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-venceu-nas-duas-cidades-em-que-empatou-com-flavio-no-1o-turno.ghtml)_
 
+- **[2026-10-26 04:29 UTC]** De onde vieram os votos de Lula e Flávio neste 2º turno? Veja o peso de cada região na votação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/de-onde-vieram-os-votos-de-lula-e-flavio-neste-2o-turno-veja-o-peso-de-cada-regiao-na-votacao.ghtml)_
+
