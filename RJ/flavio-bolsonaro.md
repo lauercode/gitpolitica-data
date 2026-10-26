@@ -8788,3 +8788,6 @@
 - **[2026-10-26 07:42 UTC]** Lula reduz vantagem de Flávio Bolsonaro em SP, vence em MG e amplia folga no Nordeste
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-reduz-vantagem-de-flavio-bolsonaro-em-sp-vence-em-mg-e-amplia-folga-no-nordeste.ghtml)_
 
+- **[2026-10-26 14:50 UTC]** PL de Flávio Bolsonaro deve ficar isolado no pedido para anular a eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/26/pl-de-flavio-bolsonaro-deve-ficar-isolado-no-pedido-para-anular-a-eleicao.ghtml)_
+
