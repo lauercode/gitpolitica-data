@@ -8653,3 +8653,6 @@
 - **[2026-10-26 04:53 UTC]** Lula venceu nas duas cidades em que empatou com Flávio no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-venceu-nas-duas-cidades-em-que-empatou-com-flavio-no-1o-turno.ghtml)_
 
+- **[2026-10-26 04:53 UTC]** Derrotado, Flávio Bolsonaro ficará sem cargo e sem foro privilegiado em 2027
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/derrotado-flavio-bolsonaro-ficara-sem-cargo-e-sem-foro-privilegiado-em-2027.ghtml)_
+
