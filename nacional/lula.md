@@ -2249,3 +2249,6 @@
 - **[2026-10-26 07:40 UTC]** Lula é reeleito presidente, e Flávio diz que vai pedir anulação das eleições; siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 08:16 UTC]** Veja em MAPAS como Lula e Flávio Bolsonaro se saíram no 2º turno nos locais de votação das capitais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/veja-em-mapas-como-lula-e-flavio-bolsonaro-se-sairam-no-2o-turno-nos-locais-de-votacao-das-capitais.ghtml)_
+
