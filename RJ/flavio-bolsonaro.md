@@ -8899,3 +8899,6 @@
 - **[2026-10-26 13:17 UTC]** Apoiador de Flávio Bolsonaro, Ricardo Nunes deseja que o novo governo 'acerte e recupere a economia'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiador-de-flavio-bolsonaro-ricardo-nunes-deseja-que-o-novo-governo-acerte-e-recupere-a-economia.shtml)_
 
+- **[2026-10-26 13:04 UTC]** Centrão sente baque com derrota de Flávio Bolsonaro, mas já projeta participação no governo Lula 4
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/centrao-sente-baque-com-derrota-de-flavio-bolsonaro-mas-ja-projeta-participacao-no-governo-lula-4.shtml)_
+
