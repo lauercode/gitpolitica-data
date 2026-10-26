@@ -8770,3 +8770,6 @@
 - **[2026-10-26 01:34 UTC]** “Parece um pesadelo”: aliados de Flávio lamentam resultado, mas veem chance no Congresso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parece-um-pesadelo-liderancas-da-direita-lamentam-vitoria-de-lula-mas-veem-chances-no-congresso/)_
 
+- **[2026-10-26 07:40 UTC]** Lula é reeleito presidente, e Flávio diz que vai pedir anulação das eleições; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss)_
+
