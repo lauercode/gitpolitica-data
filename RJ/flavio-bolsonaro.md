@@ -8680,3 +8680,6 @@
 - **[2026-10-26 03:05 UTC]** Lula amplia vitórias em SP de 39 para 72 cidades no 2º turno; Flávio Bolsonaro vence em 573
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/26/lula-amplia-vitorias-em-sp-de-39-para-72-cidades-no-2o-turno-flavio-bolsonaro-vence-em-573.ghtml)_
 
+- **[2026-10-26 02:23 UTC]** Veja as 10 cidades onde Lula e as 10 onde Flávio Bolsonaro tiveram os maiores percentuais de votos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/cidades-maiores-percentuais-votos-lula-flavio-bolsonaro.ghtml)_
+
