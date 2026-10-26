@@ -101,3 +101,6 @@
 - **[2026-10-26 02:08 UTC]** Após vitória de Lula, Caiado declara que acreditava em renovação, mas 'como democratas, nos curvamos à decisão da maioria'
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/25/apos-vitoria-de-lula-caiado-declara-que-acreditava-em-renovacao-mas-como-democratas-nos-curvamos-a-decisao-da-maioria.ghtml)_
 
+- **[2026-10-26 11:38 UTC]** Eleições 2026: Caiado, Zema e Renan Santos repercutem vitória de Lula; Cury não se manifestou
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/caiado-zema-e-renan-santos-repercutem-vitoria-de-lula.ghtml)_
+
