@@ -8731,3 +8731,6 @@
 - **[2026-10-26 02:01 UTC]** TSE desmente Flávio Bolsonaro e diz que não retirou fiscais do PL de sala-cofre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-desmente-flavio-bolsonaro-e-diz-que-nao-retirou-fiscais-do-pl-da-sala-cofre.shtml)_
 
+- **[2026-10-26 01:41 UTC]** Lulistas celebram vitória nas redes e fazem chacota de Flávio: 'De virada é mais gostoso'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/lulistas-celebram-vitoria-nas-redes-e-fazem-chacota-de-flavio-de-virada-e-mais-gostoso.shtml)_
+
