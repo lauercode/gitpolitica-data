@@ -2297,3 +2297,6 @@
 - **[2026-10-26 19:18 UTC]** Veja quais áreas de BH deram vitória a Lula e a Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/26/veja-quais-areas-de-bh-deram-vitoria-a-lula-e-a-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-26 17:36 UTC]** Presidente do México faz o L para comemorar vitória de Lula; VÍDEO
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/26/presidente-do-mexico-faz-o-l-para-comemorar-vitoria-de-lula-sopro-de-esperanca.ghtml)_
+
