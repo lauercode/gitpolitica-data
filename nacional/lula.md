@@ -2135,3 +2135,6 @@
 - **[2026-10-26 00:42 UTC]** Lula conquista virada inédita e terá quarto mandato como presidente
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx8dzrgq569go?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 00:30 UTC]** Lula aos 80 anos: a 'última dança' do presidente com virada histórica e vitória para quarto mandato
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx240l916lneo?at_medium=RSS&at_campaign=rss)_
+
