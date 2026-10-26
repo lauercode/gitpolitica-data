@@ -152,3 +152,6 @@
 - **[2026-10-25 16:08 UTC]** Alckmin vota em SP e critica ataques contra apoiadores de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/alckmin-vota-em-sp-e-critica-ataques-contra-apoiadores-de-lula.ghtml)_
 
+- **[2026-10-26 00:46 UTC]** VÍDEO: campanha do PT comemora virada de Lula sobre Flávio Bolsonaro em hotel de SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/video-campanha-do-pt-comemora-virada-de-lula-sobre-flavio-bolsonaro-em-hotel-de-sp.ghtml)_
+
