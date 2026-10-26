@@ -14,3 +14,6 @@
 - **[2026-10-24 19:08 UTC]** Quaest: Pazolini lidera no Espírito Santo com 55%; Ferraço tem 45%
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-pazolini-lidera-no-espirito-santo-com-55-ferraco-tem-45.shtml)_
 
+- **[2026-10-25 20:59 UTC]** Lorenzo Pazolini vence o segundo turno e vai governar o Espírito Santo
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lorenzo-pazolini-vence-o-segundo-turno-e-vai-governar-o-espirito-santo)_
+
