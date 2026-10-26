@@ -8911,3 +8911,6 @@
 - **[2026-10-26 12:08 UTC]** Só 34,3 mil votos foram registrados após as 17h; Lula venceu Flávio por 4,43 milhões
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/so-003-do-total-de-votos-foram-registrados-apos-as-17h-contrariando-alegacoes-de-fraude-de-flavio.shtml)_
 
+- **[2026-10-26 11:55 UTC]** Moro e Zucco dizem que é preciso esclarecer questionamentos da oposição após derrota de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/moro-diz-que-e-preciso-esclarecer-questionamentos-da-oposicao-apos-derrota-de-flavio-bolsonaro.shtml)_
+
