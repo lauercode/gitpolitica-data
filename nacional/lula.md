@@ -2153,3 +2153,6 @@
 - **[2026-10-26 05:33 UTC]** Lula e Flávio Bolsonaro receberam o mesmo número de votos em 1 município no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-e-flavio-bolsonaro-tem-o-mesmo-numero-de-votos-em-1-municipio-no-2o-turno.ghtml)_
 
+- **[2026-10-26 04:53 UTC]** Lula venceu nas duas cidades em que empatou com Flávio no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-venceu-nas-duas-cidades-em-que-empatou-com-flavio-no-1o-turno.ghtml)_
+
