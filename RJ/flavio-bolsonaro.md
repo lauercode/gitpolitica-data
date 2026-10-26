@@ -8656,3 +8656,6 @@
 - **[2026-10-26 04:53 UTC]** Derrotado, Flávio Bolsonaro ficará sem cargo e sem foro privilegiado em 2027
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/derrotado-flavio-bolsonaro-ficara-sem-cargo-e-sem-foro-privilegiado-em-2027.ghtml)_
 
+- **[2026-10-26 04:29 UTC]** De onde vieram os votos de Lula e Flávio neste 2º turno? Veja o peso de cada região na votação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/de-onde-vieram-os-votos-de-lula-e-flavio-neste-2o-turno-veja-o-peso-de-cada-regiao-na-votacao.ghtml)_
+
