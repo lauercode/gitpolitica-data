@@ -8923,3 +8923,6 @@
 - **[2026-10-26 20:03 UTC]** Flávio Bolsonaro questiona resultado do segundo turno na Justiça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-questiona-resultado-do-segundo-turno-na-justica/)_
 
+- **[2026-10-26 20:34 UTC]** Flávio Bolsonaro diz ter sido intimado pela PF a entregar passaportes por ordem de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/)_
+
