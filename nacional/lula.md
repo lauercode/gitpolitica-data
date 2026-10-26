@@ -2300,3 +2300,6 @@
 - **[2026-10-26 17:36 UTC]** Presidente do México faz o L para comemorar vitória de Lula; VÍDEO
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/26/presidente-do-mexico-faz-o-l-para-comemorar-vitoria-de-lula-sopro-de-esperanca.ghtml)_
 
+- **[2026-10-26 15:36 UTC]** Eleições 2026: Flávio vira sobre Lula na Venezuela no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-no-exterior-flavio-bolsonaro-superou-lula-na-venezuela.ghtml)_
+
