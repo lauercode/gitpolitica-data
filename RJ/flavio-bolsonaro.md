@@ -8734,3 +8734,6 @@
 - **[2026-10-26 01:41 UTC]** Lulistas celebram vitória nas redes e fazem chacota de Flávio: 'De virada é mais gostoso'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/lulistas-celebram-vitoria-nas-redes-e-fazem-chacota-de-flavio-de-virada-e-mais-gostoso.shtml)_
 
+- **[2026-10-26 01:36 UTC]** Kassio deve descartar questionamentos sobre resultado após Flávio não reconhecer derrota eleitoral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-deve-descartar-questionamentos-sobre-resultado-apos-flavio-nao-reconhecer-derrota-eleitoral.shtml)_
+
