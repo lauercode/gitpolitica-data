@@ -8845,3 +8845,6 @@
 - **[2026-10-26 13:30 UTC]** Do 'risco-Flávio' à campanha de mobilização: 4 trunfos usados por Lula para virar o jogo no 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckjwe156n3gpo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 14:06 UTC]** Lula cresce em número de votos em todos os estados; Flávio recua em 6
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-cresce-em-numero-de-votos-em-todos-os-estados-flavio-recuou-em-6)_
+
