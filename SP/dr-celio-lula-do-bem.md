@@ -158,3 +158,6 @@
 - **[2026-10-26 03:05 UTC]** Lula amplia vitórias em SP de 39 para 72 cidades no 2º turno; Flávio Bolsonaro vence em 573
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/26/lula-amplia-vitorias-em-sp-de-39-para-72-cidades-no-2o-turno-flavio-bolsonaro-vence-em-573.ghtml)_
 
+- **[2026-10-26 01:19 UTC]** Da periferia aos bairros nobres, veja a comemoração de eleitores após vitória de Lula em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/da-periferia-aos-bairros-nobres-veja-a-comemoracao-de-eleitores-apos-vitoria-de-lula-em-sp.ghtml)_
+
