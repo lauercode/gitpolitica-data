@@ -26,3 +26,6 @@
 - **[2026-10-05 16:06 UTC]** Rafael Fonteles, o governador mais votado do país: como matemático 'superdotado' virou uma esperança para PT
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm4g53jy8j7do?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 16:15 UTC]** Lula sinaliza a aliados que pode indicar Fonteles para Fazenda; governador do PI aceitaria deixar o cargo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-sinaliza-a-aliados-que-pode-indicar-fonteles-para-fazenda-governador-do-pi-aceitaria-deixar-o-cargo.shtml)_
+
