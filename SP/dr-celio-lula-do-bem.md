@@ -155,3 +155,6 @@
 - **[2026-10-26 00:46 UTC]** VÍDEO: campanha do PT comemora virada de Lula sobre Flávio Bolsonaro em hotel de SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/video-campanha-do-pt-comemora-virada-de-lula-sobre-flavio-bolsonaro-em-hotel-de-sp.ghtml)_
 
+- **[2026-10-26 03:05 UTC]** Lula amplia vitórias em SP de 39 para 72 cidades no 2º turno; Flávio Bolsonaro vence em 573
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/26/lula-amplia-vitorias-em-sp-de-39-para-72-cidades-no-2o-turno-flavio-bolsonaro-vence-em-573.ghtml)_
+
