@@ -8764,3 +8764,6 @@
 - **[2026-10-25 22:22 UTC]** Flávio diz que houve sacanagem, afirma ser impossível reconhecer resultado e fala em pedir anulação de eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-tem-festa-frustrada-e-churrasco-da-vitoria-vira-oracao.shtml)_
 
+- **[2026-10-26 03:08 UTC]** Flávio Bolsonaro diz que não reconhece resultado e vai pedir anulação da eleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/)_
+
