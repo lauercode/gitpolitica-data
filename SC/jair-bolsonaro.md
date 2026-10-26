@@ -152,3 +152,6 @@
 - **[2026-10-23 23:00 UTC]** Michelle publica foto de Jair Bolsonaro de tornozeleira no sofá
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/michelle-publica-foto-de-jair-bolsonaro-de-tornozeleira-no-sofa.shtml)_
 
+- **[2026-10-26 01:50 UTC]** Lula tem 64 milhões de votos, e Flávio, 59 milhões; compare com a votação do petista e de Jair Bolsonaro em 2022
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-comparacao-jair-bolsonaro-2022.ghtml)_
+
