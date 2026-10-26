@@ -194,3 +194,6 @@
 - **[2026-10-25 21:17 UTC]** Rio Grande do Norte elege Cadu de Lula governador do estado
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/rio-grande-do-norte-elege-cadu-de-lula-governador-do-estado)_
 
+- **[2026-10-25 21:04 UTC]** Cadu de Lula é eleito e mantém continuidade do PT no Rio Grande do Norte
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cadu-de-lula-e-eleito-e-mantem-continuidade-do-pt-no-rio-grande-do-norte-projeta-datafolha.shtml)_
+
