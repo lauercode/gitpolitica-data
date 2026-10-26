@@ -2129,3 +2129,6 @@
 - **[2026-10-25 21:17 UTC]** Veja os horários das viradas na apuração presidencial entre Lula e Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-horarios-das-viradas-na-apuracao-presidencial-entre-lula-e-flavio.shtml)_
 
+- **[2026-10-25 20:46 UTC]** Lula vira, bate Flávio Bolsonaro e se reelege para inédito 4º mandato
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vira-bate-flavio-bolsonaro-e-se-reelege-para-inedito-4o-mandato-projeta-datafolha.shtml)_
+
