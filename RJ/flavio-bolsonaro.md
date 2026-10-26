@@ -8836,3 +8836,6 @@
 - **[2026-10-26 14:16 UTC]** Deputados governistas pedem apreensão do passaporte de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/)_
 
+- **[2026-10-26 11:05 UTC]** TSE responde Flávio e diz que fiscais do PL não foram retirados da sala-cofre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-responde-flavio-e-diz-que-fiscais-nao-foram-retirados-da-sala-cofre/)_
+
