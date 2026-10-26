@@ -2150,3 +2150,6 @@
 - **[2026-10-26 06:29 UTC]** Lula 2022 e 2026: Veja quem esteve junto ao presidente eleito nos dois discursos da vitória
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-2022-e-2026-compare-aliados-em-discursos.ghtml)_
 
+- **[2026-10-26 05:33 UTC]** Lula e Flávio Bolsonaro receberam o mesmo número de votos em 1 município no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-e-flavio-bolsonaro-tem-o-mesmo-numero-de-votos-em-1-municipio-no-2o-turno.ghtml)_
+
