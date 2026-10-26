@@ -2222,3 +2222,6 @@
 - **[2026-10-25 23:49 UTC]** Leia a íntegra comentada do discurso do presidente Lula, reeleito neste domingo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/leia-a-integra-do-discurso-do-presidente-lula-reeleito-neste-domingo.shtml)_
 
+- **[2026-10-25 23:15 UTC]** Lula é o segundo presidente há mais tempo no cargo no Brasil; veja top 10
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-e-o-segundo-presidente-ha-mais-tempo-no-cargo-no-brasil-veja-top-10.shtml)_
+
