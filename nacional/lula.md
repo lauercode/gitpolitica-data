@@ -2303,3 +2303,6 @@
 - **[2026-10-26 15:36 UTC]** Eleições 2026: Flávio vira sobre Lula na Venezuela no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-no-exterior-flavio-bolsonaro-superou-lula-na-venezuela.ghtml)_
 
+- **[2026-10-26 15:15 UTC]** Eleições 2026: onde Lula e Flávio viraram votos no exterior?
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-onde-lula-e-flavio-viraram-votos-no-exterior.ghtml)_
+
