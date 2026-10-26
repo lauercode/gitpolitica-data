@@ -8830,3 +8830,6 @@
 - **[2026-10-26 11:39 UTC]** Governo Trump mandou segurar comunicado reconhecendo resultado da eleição após alegações de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/governo-trump-mandou-segurar-comunicado-reconhecendo-resultado-da-eleicao-apos-alegacoes-de-flavio.shtml)_
 
+- **[2026-10-26 10:35 UTC]** Líderes evangélicos que apoiaram Flávio adotam tom resignado, e bispo diz que 'Lula soube jogar'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lideres-evangelicos-que-apoiaram-flavio-adotam-tom-resignado-e-bispo-diz-que-lula-soube-jogar.shtml)_
+
