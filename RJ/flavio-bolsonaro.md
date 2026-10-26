@@ -8623,3 +8623,6 @@
 - **[2026-10-25 21:15 UTC]** Michelle não acompanha apuração de votos ao lado de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/michelle-nao-acompanha-apuracao-de-votos-ao-lado-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-25 20:51 UTC]** Derrota de Flávio Bolsonaro aponta para reorganização da direita e nova disputa pelo espólio do pai
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/derrota-de-flavio-bolsonaro-aponta-para-reorganizacao-da-direita-e-nova-disputa-pelo-espolio-do-pai.shtml)_
+
