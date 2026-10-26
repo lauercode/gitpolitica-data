@@ -2255,3 +2255,6 @@
 - **[2026-10-26 07:54 UTC]** A virada histórica de Lula: presidente do Brasil pela quarta vez - O Assunto #1832
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/10/26/a-virada-historica-de-lula-presidente-do-brasil-pela-quarta-vez-o-assunto-1832.ghtml)_
 
+- **[2026-10-26 07:51 UTC]** Lula ganhou quase 3 milhões de votos no Nordeste do 1º para o 2º turno; Flávio avançou 398 mil
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-flavio-nordeste.ghtml)_
+
