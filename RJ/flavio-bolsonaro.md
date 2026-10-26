@@ -8809,3 +8809,6 @@
 - **[2026-10-26 11:53 UTC]** Veja em quantas cidades Lula e Flávio Bolsonaro venceram nos estados de SP, MG e RJ
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/veja-em-quantas-cidades-lula-e-flavio-bolsonaro-venceram-nos-estados-de-sp-mg-e-rj.ghtml)_
 
+- **[2026-10-26 11:39 UTC]** Lula x Flávio Bolsonaro: veja como foi a votação na sua urna no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-flavio-bolsonaro-2o-turno-eleicoes-presidencia-mapa-quem-venceu-secao-eleitoral.ghtml)_
+
