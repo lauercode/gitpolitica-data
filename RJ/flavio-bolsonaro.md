@@ -8674,3 +8674,6 @@
 - **[2026-10-26 03:41 UTC]** Flávio Bolsonaro teve menos votos em 939 cidades na comparação com o 1º turno; veja lista
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/flavio-bolsonaro-votos-comparacao-1o-e-2o-turno.ghtml)_
 
+- **[2026-10-26 03:37 UTC]** Derrota de Flávio incluiu perda de votos em seis estados e alta de abstenção onde o candidato teve vantagem no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/derrota-de-flavio-incluiu-perda-de-votos-em-seis-estados-e-alta-de-abstencao-onde-o-candidato-teve-vantagem-no-1o-turno.ghtml)_
+
