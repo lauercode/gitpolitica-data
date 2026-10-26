@@ -2336,3 +2336,6 @@
 - **[2026-10-26 12:08 UTC]** Só 34,3 mil votos foram registrados após as 17h; Lula venceu Flávio por 4,43 milhões
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/so-003-do-total-de-votos-foram-registrados-apos-as-17h-contrariando-alegacoes-de-fraude-de-flavio.shtml)_
 
+- **[2026-10-26 20:34 UTC]** Flávio desiste de anular eleição, mas pedirá cassação da chapa de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-desiste-anular-eleicao-pedira-cassacao-chapa-lula/)_
+
