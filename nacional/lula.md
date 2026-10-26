@@ -2261,3 +2261,6 @@
 - **[2026-10-26 00:30 UTC]** Presidentes da França, Canadá, Peru, Chile, Bolívia e mais países parabenizam Lula; veja repercussão
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/lideres-mundiais-parabenizam-lula-pela-reeleicao-veja-repercussao.ghtml)_
 
+- **[2026-10-26 12:35 UTC]** Lula ganhou mais votos do que Flávio Bolsonaro nas 20 cidades com maior queda de abstenção no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-ganhou-mais-votos-do-que-flavio-bolsonaro-nas-20-cidades-com-maior-queda-de-abstencao-no-2o-turno.ghtml)_
+
