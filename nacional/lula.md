@@ -2330,3 +2330,6 @@
 - **[2026-10-26 13:04 UTC]** Centrão sente baque com derrota de Flávio Bolsonaro, mas já projeta participação no governo Lula 4
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/centrao-sente-baque-com-derrota-de-flavio-bolsonaro-mas-ja-projeta-participacao-no-governo-lula-4.shtml)_
 
+- **[2026-10-26 12:27 UTC]** Estudante agredido em ato pró-Lula em Santos está em estado gravíssimo e é transferido para São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/estudante-agredido-em-ato-pro-lula-em-santos-esta-em-estado-gravissimo-e-e-transferido-para-sao-paulo.shtml)_
+
