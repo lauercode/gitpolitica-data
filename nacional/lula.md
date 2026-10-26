@@ -2327,3 +2327,6 @@
 - **[2026-10-26 14:56 UTC]** Membro da coordenação de Lula diz que Flávio faz pirotecnia ao não reconhecer resultado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/membro-da-coordenacao-de-lula-diz-que-flavio-faz-pirotecnia-ao-nao-reconhecer-resultado.shtml)_
 
+- **[2026-10-26 13:04 UTC]** Centrão sente baque com derrota de Flávio Bolsonaro, mas já projeta participação no governo Lula 4
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/centrao-sente-baque-com-derrota-de-flavio-bolsonaro-mas-ja-projeta-participacao-no-governo-lula-4.shtml)_
+
