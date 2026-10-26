@@ -8857,3 +8857,6 @@
 - **[2026-10-26 19:50 UTC]** Picanha, festa, tensão e silêncio: empresário filma bastidores de Flávio e aliados na apuração; VÍDEO
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/picanha-festa-tensao-e-silencio-empresario-filma-bastidores-de-flavio-e-aliados-video.ghtml)_
 
+- **[2026-10-26 19:18 UTC]** Veja quais áreas de BH deram vitória a Lula e a Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/26/veja-quais-areas-de-bh-deram-vitoria-a-lula-e-a-flavio-bolsonaro.ghtml)_
+
