@@ -2105,3 +2105,6 @@
 - **[2026-10-26 00:40 UTC]** Lula tem 64 milhões de votos, e Flávio Bolsonaro, 59 milhões; compare com a votação deles no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-resultado-segundo-primeiro-turno-2026.ghtml)_
 
+- **[2026-10-26 00:30 UTC]** Presidentes de México, Uruguai, Bolívia e Paraguai parabenizam Lula; veja repercussão
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/lideres-mundiais-parabenizam-lula-pela-reeleicao-veja-repercussao.ghtml)_
+
