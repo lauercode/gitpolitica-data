@@ -2333,3 +2333,6 @@
 - **[2026-10-26 12:27 UTC]** Estudante agredido em ato pró-Lula em Santos está em estado gravíssimo e é transferido para São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/estudante-agredido-em-ato-pro-lula-em-santos-esta-em-estado-gravissimo-e-e-transferido-para-sao-paulo.shtml)_
 
+- **[2026-10-26 12:08 UTC]** Só 34,3 mil votos foram registrados após as 17h; Lula venceu Flávio por 4,43 milhões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/so-003-do-total-de-votos-foram-registrados-apos-as-17h-contrariando-alegacoes-de-fraude-de-flavio.shtml)_
+
