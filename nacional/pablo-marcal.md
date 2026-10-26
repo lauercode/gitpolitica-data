@@ -86,3 +86,6 @@
 - **[2026-10-23 23:49 UTC]** TSE ordena que Meta apresente relatórios a cada 6 horas de posts de Nikolas Ferreira e Pablo Marçal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-fixa-multa-de-r-100-mil-a-nikolas-ferreira-e-pablo-marcal-por-post-irregular-no-fim-de-semana-da-eleicao.shtml)_
 
+- **[2026-10-26 01:37 UTC]** Vídeo: antes da derrota, Pablo Marçal filmou Flávio Bolsonaro e apoiadores comemorando virada temporária em apuração; veja
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/antes-da-derrota-pablo-marcal-filmou-flavio-bolsonaro-e-apoiadores-comemorando-virada-temporaria-em-apuracao.ghtml)_
+
