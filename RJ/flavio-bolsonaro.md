@@ -8755,3 +8755,6 @@
 - **[2026-10-25 22:39 UTC]** Lula vence eleição na capital paulista, e Flávio Bolsonaro no estado de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vence-eleicao-na-capital-paulista-e-flavio-bolsonaro-no-estado-de-sp.shtml)_
 
+- **[2026-10-25 22:35 UTC]** Lula promete mudar o jeito de governar, ataca Flávio e diz que venceu intromissão externa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-promete-mudar-o-jeito-de-governar-ataca-flavio-e-diz-que-venceu-intromissao-externa.shtml)_
+
