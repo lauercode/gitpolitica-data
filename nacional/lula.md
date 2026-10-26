@@ -2204,3 +2204,6 @@
 - **[2026-10-26 00:30 UTC]** Presidentes de Canadá, Peru, Chile, Bolívia e Paraguai parabenizam Lula; veja repercussão
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/lideres-mundiais-parabenizam-lula-pela-reeleicao-veja-repercussao.ghtml)_
 
+- **[2026-10-26 00:22 UTC]** Lula foi o mais votado em 2.874 cidades, e Flávio Bolsonaro, em 2.694
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/cidades-votacao-lula-flavio-bolsonaro-segundo-turno.ghtml)_
+
