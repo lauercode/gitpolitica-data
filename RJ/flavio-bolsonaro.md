@@ -8905,3 +8905,6 @@
 - **[2026-10-26 12:28 UTC]** Aliada de Flávio, Tereza Cristina fala em fiscalizar governo na oposição e não cita questionamento à eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aliada-de-flavio-tereza-cristina-fala-em-fiscalizar-governo-na-oposicao-e-nao-cita-questionamento-a-eleicao.shtml)_
 
+- **[2026-10-26 12:15 UTC]** Flávio Bolsonaro, que não reconhece derrota, disse em sabatina que respeitaria resultado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-que-nao-reconhece-derrota-disse-em-sabatina-que-respeitaria-resultado.shtml)_
+
