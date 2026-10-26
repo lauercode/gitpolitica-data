@@ -2114,3 +2114,6 @@
 - **[2026-10-26 00:10 UTC]** Articulador de Lula com empresários e negociador no tarifaço, Alckmin é reeleito vice-presidente
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/articulador-de-lula-com-empresarios-e-negociador-no-tarifaco-alckmin-e-reeleito-vice-presidente.ghtml)_
 
+- **[2026-10-26 00:10 UTC]** Lula é reeleito aos 80 anos e se torna novamente o presidente mais velho da história do Brasil; veja ranking
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-e-reeleito-aos-80-anos-e-se-torna-novamente-o-presidente-mais-velho-da-historia-do-brasil-veja-ranking.ghtml)_
+
