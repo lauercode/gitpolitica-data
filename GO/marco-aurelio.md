@@ -23,3 +23,6 @@
 - **[2026-09-11 22:10 UTC]** Marco Aurélio Vasconcelos é eleito  presidente da Cemig
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/09/11/marco-aurelio-vasconcelos-e-eleito-presidente-da-cemig.ghtml)_
 
+- **[2026-10-25 23:31 UTC]** Marco Aurélio, ex-presidente do STF, critica ordem de Zanin e diz que eleitor deve chegar no horário correto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/marco-aurelio-ex-presidente-do-stf-critica-ordem-de-zanin-e-diz-que-eleitor-deve-chegar-no-horario-correto.shtml)_
+
