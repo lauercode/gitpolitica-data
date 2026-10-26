@@ -8596,3 +8596,6 @@
 - **[2026-10-26 00:46 UTC]** VÍDEO: campanha do PT comemora virada de Lula sobre Flávio Bolsonaro em hotel de SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/video-campanha-do-pt-comemora-virada-de-lula-sobre-flavio-bolsonaro-em-hotel-de-sp.ghtml)_
 
+- **[2026-10-26 00:40 UTC]** Lula tem 64 milhões de votos, e Flávio Bolsonaro, 59 milhões; compare com a votação deles no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-resultado-segundo-primeiro-turno-2026.ghtml)_
+
