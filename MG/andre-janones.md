@@ -185,3 +185,6 @@
 - **[2026-10-24 15:17 UTC]** Fake news de Janones ligando Flávio à exploração de ucranianas gera atrito internacional
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/fake-news-de-janones-ligando-flavio-a-exploracao-de-ucranianas-gera-atrito-internacional/)_
 
+- **[2026-10-26 01:47 UTC]** Destaque da campanha vitoriosa de Lula no 2° turno, Janones recusa título de 'o cara da virada': 'A gente reagiu à covardia'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/destaque-da-campanha-vitoriosa-de-lula-no-2-turno-janones-recusa-titulo-de-o-cara-da-virada-a-gente-reagiu-a-covardia.ghtml)_
+
