@@ -8827,3 +8827,6 @@
 - **[2026-10-26 11:55 UTC]** Moro diz que é preciso esclarecer questionamentos da oposição após derrota de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/moro-diz-que-e-preciso-esclarecer-questionamentos-da-oposicao-apos-derrota-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-26 11:39 UTC]** Governo Trump mandou segurar comunicado reconhecendo resultado da eleição após alegações de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/governo-trump-mandou-segurar-comunicado-reconhecendo-resultado-da-eleicao-apos-alegacoes-de-flavio.shtml)_
+
