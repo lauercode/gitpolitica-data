@@ -89,3 +89,6 @@
 - **[2026-10-25 19:37 UTC]** Mailza Assis (PP) é reeleita governadora do Acre, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mailza-assis-pp-e-reeleita-governadora-do-acre-projeta-datafolha.shtml)_
 
+- **[2026-10-25 20:28 UTC]** Mailza Assis é reeleita governadora do Acre
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mailza-assis-e-reeleita-governadora-do-acre)_
+
