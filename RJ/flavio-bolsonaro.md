@@ -8725,3 +8725,6 @@
 - **[2026-10-26 04:02 UTC]** Lula avança sobre Flávio em 97% dos municípios brasileiros e vira em 211
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-avanca-sobre-flavio-em-97-dos-municipios-brasileiros-e-vira-em-211.shtml)_
 
+- **[2026-10-26 04:00 UTC]** Decisão de Zanin, endosso de Kassio e contestação de Flávio no 2º turno; veja linha do tempo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/decisao-de-zanin-endosso-de-kassio-e-contestacao-de-flavio-no-2o-turno-veja-linha-do-tempo.shtml)_
+
