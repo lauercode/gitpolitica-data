@@ -179,3 +179,6 @@
 - **[2026-10-25 20:34 UTC]** Omar Aziz é eleito governador do Amazonas
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/omar-aziz-e-eleito-governador-do-amazonas)_
 
+- **[2026-10-26 00:36 UTC]** Celina é reeleita governadora do DF e Aziz vence no Amazonas; quem são os governadores eleitos no 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9m2641r5rezo?at_medium=RSS&at_campaign=rss)_
+
