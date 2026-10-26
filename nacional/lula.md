@@ -2147,3 +2147,6 @@
 - **[2026-10-25 22:39 UTC]** Presidente do TSE liga para Lula para parabenizar reeleição
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/presidente-do-tse-liga-para-lula-para-parabenizar-reeleicao)_
 
+- **[2026-10-26 06:29 UTC]** Lula 2022 e 2026: Veja quem esteve junto ao presidente eleito nos dois discursos da vitória
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-2022-e-2026-compare-aliados-em-discursos.ghtml)_
+
