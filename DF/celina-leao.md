@@ -176,3 +176,6 @@
 - **[2026-10-25 19:23 UTC]** Celina Leão (PP) é reeleita governadora do Distrito Federal, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/celina-leao-pp-e-reeleita-governadora-do-distrito-federal-projeta-datafolha.shtml)_
 
+- **[2026-10-25 20:04 UTC]** Celina Leão é reeleita governadora do Distrito Federal
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/celina-leao-e-reeleita-governadora-do-distrito-federal)_
+
