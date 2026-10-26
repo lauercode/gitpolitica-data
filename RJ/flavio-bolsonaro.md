@@ -8707,3 +8707,6 @@
 - **[2026-10-26 01:21 UTC]** Marqueteiro do PT diz que vitória de Lula derrotou Trump, tarifaço e família Bolsonaro: ‘O povo compreendeu o que estava em jogo’
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/marqueteiro-do-pt-diz-que-vitoria-de-lula-derrotou-trump-tarifaco-e-familia-bolsonaro-o-povo-compreendeu-o-que-estava-em-jogo.ghtml)_
 
+- **[2026-10-26 01:16 UTC]** Lula ganhou 4,5 milhões de votos em SP, RJ e MG do 1º para o 2º turno; Flávio avançou quase 2 milhões
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-votos-sp-rj-mg.ghtml)_
+
