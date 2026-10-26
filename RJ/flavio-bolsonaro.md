@@ -8854,3 +8854,6 @@
 - **[2026-10-26 19:51 UTC]** Flávio que vai pedir cassação da chapa de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/flavio-publica-video-apos-eleicao.ghtml)_
 
+- **[2026-10-26 19:50 UTC]** Picanha, festa, tensão e silêncio: empresário filma bastidores de Flávio e aliados na apuração; VÍDEO
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/picanha-festa-tensao-e-silencio-empresario-filma-bastidores-de-flavio-e-aliados-video.ghtml)_
+
