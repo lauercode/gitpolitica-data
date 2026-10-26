@@ -2198,3 +2198,6 @@
 - **[2026-10-26 01:00 UTC]** Lula conquista 3,8 milhões de votos a mais que em 2022; Flávio supera votação do pai
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-conquista-38-milhoes-de-votos-a-mais-que-em-2022-flavio-tambem-supera-votacao-do-pai.ghtml)_
 
+- **[2026-10-26 00:59 UTC]** Nunes Marques diz ter ‘toda a segurança’ no processo eleitoral, confirma resultado das eleições e liga para Lula e Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/nunes-marques-pronunciamento-resultado-eleicao.ghtml)_
+
