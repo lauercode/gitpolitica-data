@@ -8728,3 +8728,6 @@
 - **[2026-10-26 04:00 UTC]** Decisão de Zanin, endosso de Kassio e contestação de Flávio no 2º turno; veja linha do tempo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/decisao-de-zanin-endosso-de-kassio-e-contestacao-de-flavio-no-2o-turno-veja-linha-do-tempo.shtml)_
 
+- **[2026-10-26 02:01 UTC]** TSE desmente Flávio Bolsonaro e diz que não retirou fiscais do PL de sala-cofre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-desmente-flavio-bolsonaro-e-diz-que-nao-retirou-fiscais-do-pl-da-sala-cofre.shtml)_
+
