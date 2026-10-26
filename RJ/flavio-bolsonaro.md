@@ -8803,3 +8803,6 @@
 - **[2026-10-26 13:02 UTC]** Medo da volta da família Bolsonaro supera discurso de mudança de Flávio no segundo turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/26/medo-da-volta-da-familia-bolsonaro-supera-discurso-de-mudanca-de-flavio-no-segundo-turno.ghtml)_
 
+- **[2026-10-26 12:35 UTC]** Lula ganhou mais votos do que Flávio Bolsonaro nas 20 cidades com maior queda de abstenção no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-ganhou-mais-votos-do-que-flavio-bolsonaro-nas-20-cidades-com-maior-queda-de-abstencao-no-2o-turno.ghtml)_
+
