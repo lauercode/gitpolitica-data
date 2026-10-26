@@ -8668,3 +8668,6 @@
 - **[2026-10-26 04:02 UTC]** TSE desmente Flávio Bolsonaro e diz que fiscais do PL não foram retirados de 'sala-cofre' do tribunal
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/tse-desmente-flavio-bolsonaro-e-diz-que-fiscais-do-pl-nao-foram-retirados-de-sala-cofre-do-tribunal.ghtml)_
 
+- **[2026-10-26 03:45 UTC]** Vantagem de Lula em vitória sobre Flávio Bolsonaro é a 4ª menor desde 1989; veja todos os 2º turnos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/vantagem-lula-flavio-bolsonaro-2-turno-eleicao-presidencial-4-menor-brasil.ghtml)_
+
