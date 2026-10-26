@@ -2219,3 +2219,6 @@
 - **[2026-10-26 04:00 UTC]** Veja as principais promessas de campanha de Lula (PT), reeleito presidente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-as-principais-promessas-de-campanha-de-lula-pt-reeleito-presidente.shtml)_
 
+- **[2026-10-25 23:49 UTC]** Leia a íntegra comentada do discurso do presidente Lula, reeleito neste domingo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/leia-a-integra-do-discurso-do-presidente-lula-reeleito-neste-domingo.shtml)_
+
