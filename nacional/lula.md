@@ -2159,3 +2159,6 @@
 - **[2026-10-26 04:29 UTC]** De onde vieram os votos de Lula e Flávio neste 2º turno? Veja o peso de cada região na votação
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/de-onde-vieram-os-votos-de-lula-e-flavio-neste-2o-turno-veja-o-peso-de-cada-regiao-na-votacao.ghtml)_
 
+- **[2026-10-26 04:28 UTC]** Veja os estados onde Lula e Flávio Bolsonaro abriram as maiores vantagens
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/veja-os-estados-onde-lula-e-flavio-bolsonaro-abriram-as-maiores-vantagens.ghtml)_
+
