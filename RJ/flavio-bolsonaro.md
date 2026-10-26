@@ -8635,3 +8635,6 @@
 - **[2026-10-26 00:58 UTC]** Derrota de Flávio enfraquece os Bolsonaro, mas não ofusca nova força da direita com eleições
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm93zvwkgd1zo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-24 15:59 UTC]** 3 motivos pelos quais duelo entre Lula e Flávio Bolsonaro é crucial para a América Latina — e para Trump
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62yvnkdwk7o?at_medium=RSS&at_campaign=rss)_
+
