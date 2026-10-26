@@ -176,3 +176,6 @@
 - **[2026-10-25 19:27 UTC]** Omar Aziz (PSD) é eleito governador do Amazonas, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/omar-aziz-psd-e-eleito-governador-do-amazonas-projeta-datafolha.shtml)_
 
+- **[2026-10-25 20:34 UTC]** Omar Aziz é eleito governador do Amazonas
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/omar-aziz-e-eleito-governador-do-amazonas)_
+
