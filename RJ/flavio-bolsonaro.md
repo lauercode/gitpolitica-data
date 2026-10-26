@@ -8878,3 +8878,6 @@
 - **[2026-10-26 17:28 UTC]** Nikolas diz que chance de anular eleição é quase nula e orienta apoiadores de Flávio a evitarem atos nas ruas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-diz-que-chance-de-anular-eleicao-e-quase-nula-e-orienta-apoiadores-de-flavio-a-evitarem-atos-nas-ruas.shtml)_
 
+- **[2026-10-26 16:59 UTC]** Ministros do STF dizem que Flávio prega golpismo descarado ao questionar vitória de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ministros-do-stf-dizem-que-flavio-prega-golpismo-descarado-ao-nao-reconhecer-a-vitoria-de-lula.shtml)_
+
