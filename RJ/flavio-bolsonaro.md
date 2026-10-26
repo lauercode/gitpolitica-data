@@ -8761,3 +8761,6 @@
 - **[2026-10-25 22:32 UTC]** Lula vira sobre Flávio em Minas, espelho eleitoral do país; veja como votaram regiões, estados e capitais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vira-sobre-flavio-em-minas-espelho-eleitoral-do-pais-veja-como-votaram-regioes-estados-e-capitais.shtml)_
 
+- **[2026-10-25 22:22 UTC]** Flávio diz que houve sacanagem, afirma ser impossível reconhecer resultado e fala em pedir anulação de eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-tem-festa-frustrada-e-churrasco-da-vitoria-vira-oracao.shtml)_
+
