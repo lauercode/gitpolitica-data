@@ -188,3 +188,6 @@
 - **[2026-10-26 01:47 UTC]** Destaque da campanha vitoriosa de Lula no 2° turno, Janones recusa título de 'o cara da virada': 'A gente reagiu à covardia'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/destaque-da-campanha-vitoriosa-de-lula-no-2-turno-janones-recusa-titulo-de-o-cara-da-virada-a-gente-reagiu-a-covardia.ghtml)_
 
+- **[2026-10-26 00:33 UTC]** Na Paulista, Lula prestigia Alckmin, exalta Janones e se declara a Janja
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/na-paulista-lula-prestigia-alckmin-e-exalta-janones.shtml)_
+
