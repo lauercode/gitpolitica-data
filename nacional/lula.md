@@ -2174,3 +2174,6 @@
 - **[2026-10-26 02:16 UTC]** Lula e Flávio falam após fim das eleições
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/ao-vivo/eleicoes-2026-candidato-entrevista.ghtml)_
 
+- **[2026-10-26 02:08 UTC]** Após vitória de Lula, Caiado declara que acreditava em renovação, mas 'como democratas, nos curvamos à decisão da maioria'
+  _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/25/apos-vitoria-de-lula-caiado-declara-que-acreditava-em-renovacao-mas-como-democratas-nos-curvamos-a-decisao-da-maioria.ghtml)_
+
