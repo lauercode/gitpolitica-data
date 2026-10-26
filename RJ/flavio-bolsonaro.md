@@ -8599,3 +8599,6 @@
 - **[2026-10-26 00:40 UTC]** Lula tem 64 milhões de votos, e Flávio Bolsonaro, 59 milhões; compare com a votação deles no 1º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-resultado-segundo-primeiro-turno-2026.ghtml)_
 
+- **[2026-10-26 00:22 UTC]** Lula é o mais votado em 1.957 cidades, e Flávio Bolsonaro, em 2.247
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/cidades-votacao-lula-flavio-bolsonaro-segundo-turno.ghtml)_
+
