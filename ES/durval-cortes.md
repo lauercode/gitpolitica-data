@@ -20,3 +20,6 @@
 - **[2026-09-04 18:47 UTC]** Igreja de André Mendonça cita cortes fora de contexto e exclui vídeos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/igreja-de-andre-mendonca-cita-cortes-fora-de-contexto-e-exclui-videos.shtml)_
 
+- **[2026-10-26 17:00 UTC]** Cortes no Medicaid pressionam rede de saúde pública nos Estados Unidos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/cortes-no-medicaid-pressionam-rede-de-saude-publica-nos-estados-unidos.shtml)_
+
