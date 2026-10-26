@@ -8746,3 +8746,6 @@
 - **[2026-10-25 23:08 UTC]** Veja mapa das cidades onde Lula e onde Flávio ganharam mais votos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-mapa-das-cidades-onde-lula-e-onde-flavio-ganharam-mais-votos.shtml)_
 
+- **[2026-10-25 23:07 UTC]** Partidos aliados a Flávio refutam anular votação e parabenizam Lula pela reeleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/republicanos-e-mdb-que-apoiaram-flavio-bolsonaro-parabenizam-lula-pela-reeleicao.shtml)_
+
