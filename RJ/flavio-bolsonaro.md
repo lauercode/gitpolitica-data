@@ -8839,3 +8839,6 @@
 - **[2026-10-26 11:05 UTC]** TSE responde Flávio e diz que fiscais do PL não foram retirados da sala-cofre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/tse-responde-flavio-e-diz-que-fiscais-nao-foram-retirados-da-sala-cofre/)_
 
+- **[2026-10-26 10:17 UTC]** Justiça proíbe jornalista de abordar funcionários da escola de filha de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-proibe-jornalista-de-abordar-escola-da-filha-de-flavio-bolsonaro/)_
+
