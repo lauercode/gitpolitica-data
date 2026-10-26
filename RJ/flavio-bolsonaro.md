@@ -8815,3 +8815,6 @@
 - **[2026-10-26 11:21 UTC]** Ministros do TSE avaliam que pedido de Flávio para anular segundo turno não deve prosperar
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/ministros-do-tse-avaliam-que-pedido-de-flavio-para-anular-segundo-turno-nao-deve-prosperar.ghtml)_
 
+- **[2026-10-26 09:27 UTC]** Mapa da virada: onde Lula avançou e como mudou a votação de Flávio Bolsonaro entre o 1º e o 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/mapa-virada-lula-flavio-bolsonaro-votos-primeiro-segundo-turno.ghtml)_
+
