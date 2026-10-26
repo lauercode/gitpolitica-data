@@ -2243,3 +2243,6 @@
 - **[2026-10-25 22:32 UTC]** Lula vira sobre Flávio em Minas, espelho eleitoral do país; veja como votaram regiões, estados e capitais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vira-sobre-flavio-em-minas-espelho-eleitoral-do-pais-veja-como-votaram-regioes-estados-e-capitais.shtml)_
 
+- **[2026-10-26 03:54 UTC]** Lula conquista virada inédita e terá quarto mandato como presidente do Brasil: 'Vamos ter que regular as plataformas digitais'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx8dzrgq569go?at_medium=RSS&at_campaign=rss)_
+
