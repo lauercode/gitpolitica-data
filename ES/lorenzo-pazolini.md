@@ -35,3 +35,6 @@
 - **[2026-10-25 20:59 UTC]** Lorenzo Pazolini vence o segundo turno e vai governar o Espírito Santo
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lorenzo-pazolini-vence-o-segundo-turno-e-vai-governar-o-espirito-santo)_
 
+- **[2026-10-25 20:17 UTC]** Lorenzo Pazolini (Republicanos) é eleito governador do Espírito Santo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lorenzo-pazolini-republicanos-e-eleito-governador-do-espirito-santo-projeta-datafolha.shtml)_
+
