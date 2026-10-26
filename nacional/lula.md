@@ -2228,3 +2228,6 @@
 - **[2026-10-25 23:14 UTC]** Lula amplia recorde e será presidente mais velho da história, terminando 4º mandato aos 85
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-amplia-recorde-e-sera-presidente-mais-velho-da-historia-terminando-4o-mandato-aos-85.shtml)_
 
+- **[2026-10-25 23:08 UTC]** Veja mapa das cidades onde Lula e onde Flávio ganharam mais votos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-mapa-das-cidades-onde-lula-e-onde-flavio-ganharam-mais-votos.shtml)_
+
