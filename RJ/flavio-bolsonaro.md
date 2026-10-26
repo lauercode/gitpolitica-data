@@ -8860,3 +8860,6 @@
 - **[2026-10-26 19:18 UTC]** Veja quais áreas de BH deram vitória a Lula e a Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/26/veja-quais-areas-de-bh-deram-vitoria-a-lula-e-a-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-26 15:36 UTC]** Eleições 2026: Flávio vira sobre Lula na Venezuela no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-no-exterior-flavio-bolsonaro-superou-lula-na-venezuela.ghtml)_
+
