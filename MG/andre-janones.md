@@ -191,3 +191,6 @@
 - **[2026-10-26 00:33 UTC]** Na Paulista, Lula prestigia Alckmin, exalta Janones e se declara a Janja
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/na-paulista-lula-prestigia-alckmin-e-exalta-janones.shtml)_
 
+- **[2026-10-26 00:32 UTC]** Quem é André Janones, deputado que criou o 'Exército do Lula'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-e-andre-janones-deputado-que-criou-o-exercito-do-lula.shtml)_
+
