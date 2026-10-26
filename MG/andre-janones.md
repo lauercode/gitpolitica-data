@@ -197,3 +197,6 @@
 - **[2026-10-26 13:01 UTC]** PT quer filiar Janones e governo estuda dar a ele cargo com status de ministério
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pt-quer-filiar-janones-e-governo-estuda-dar-cargo-com-status-de-ministerio-ao-aliado.shtml)_
 
+- **[2026-10-26 18:40 UTC]** Gleisi e Janones inflam militância para manter mobilização contra adversários de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gleisi-janones-inflam-militancia-manter-mobilizacao-contra-adversarios-lula/)_
+
