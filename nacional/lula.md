@@ -2132,3 +2132,6 @@
 - **[2026-10-25 20:46 UTC]** Lula vira, bate Flávio Bolsonaro e se reelege para inédito 4º mandato
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vira-bate-flavio-bolsonaro-e-se-reelege-para-inedito-4o-mandato-projeta-datafolha.shtml)_
 
+- **[2026-10-26 00:42 UTC]** Lula conquista virada inédita e terá quarto mandato como presidente
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx8dzrgq569go?at_medium=RSS&at_campaign=rss)_
+
