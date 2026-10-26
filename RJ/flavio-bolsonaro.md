@@ -8851,3 +8851,6 @@
 - **[2026-10-26 20:17 UTC]** Moraes determina que Flávio Bolsonaro entregue passaporte e proíbe que ele deixe o país
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/moraes-determina-que-flavio-bolsonaro-entregue-passaporte.ghtml)_
 
+- **[2026-10-26 19:51 UTC]** Flávio que vai pedir cassação da chapa de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/flavio-publica-video-apos-eleicao.ghtml)_
+
