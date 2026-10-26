@@ -2291,3 +2291,6 @@
 - **[2026-10-26 14:06 UTC]** Lula cresce em número de votos em todos os estados; Flávio recua em 6
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-cresce-em-numero-de-votos-em-todos-os-estados-flavio-recuou-em-6)_
 
+- **[2026-10-26 19:51 UTC]** Flávio que vai pedir cassação da chapa de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/flavio-publica-video-apos-eleicao.ghtml)_
+
