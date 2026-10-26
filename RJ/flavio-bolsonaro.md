@@ -8875,3 +8875,6 @@
 - **[2026-10-26 14:04 UTC]** Flávio Bolsonaro: veja quem estava junto ao candidato derrotado em discurso após apuração
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/flavio-bolsonaro-veja-quem-estava-junto-ao-candidato-derrotado-em-discurso-apos-apuracao.ghtml)_
 
+- **[2026-10-26 17:28 UTC]** Nikolas diz que chance de anular eleição é quase nula e orienta apoiadores de Flávio a evitarem atos nas ruas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-diz-que-chance-de-anular-eleicao-e-quase-nula-e-orienta-apoiadores-de-flavio-a-evitarem-atos-nas-ruas.shtml)_
+
