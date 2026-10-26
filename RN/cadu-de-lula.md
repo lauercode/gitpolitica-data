@@ -197,3 +197,6 @@
 - **[2026-10-25 21:04 UTC]** Cadu de Lula é eleito e mantém continuidade do PT no Rio Grande do Norte
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cadu-de-lula-e-eleito-e-mantem-continuidade-do-pt-no-rio-grande-do-norte-projeta-datafolha.shtml)_
 
+- **[2026-10-26 06:01 UTC]** Dois dos três aliados de Lula que concorriam a governador no 2º turno se elegeram
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/aliados-lula-governador-segundo-turno.ghtml)_
+
