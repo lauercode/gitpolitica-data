@@ -8749,3 +8749,6 @@
 - **[2026-10-25 23:07 UTC]** Partidos aliados a Flávio refutam anular votação e parabenizam Lula pela reeleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/republicanos-e-mdb-que-apoiaram-flavio-bolsonaro-parabenizam-lula-pela-reeleicao.shtml)_
 
+- **[2026-10-25 23:00 UTC]** A única diferença entre Flávio e Lula é o tipo de degradação que ocorrerá no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/10/a-unica-diferenca-entre-flavio-e-lula-e-o-tipo-de-degradacao-que-ocorrera-no-brasil.shtml)_
+
