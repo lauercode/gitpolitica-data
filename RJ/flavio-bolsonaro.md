@@ -8767,3 +8767,6 @@
 - **[2026-10-26 03:08 UTC]** Flávio Bolsonaro diz que não reconhece resultado e vai pedir anulação da eleição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-pronunciamento-anulacao-eleicao/)_
 
+- **[2026-10-26 01:34 UTC]** “Parece um pesadelo”: aliados de Flávio lamentam resultado, mas veem chance no Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/parece-um-pesadelo-liderancas-da-direita-lamentam-vitoria-de-lula-mas-veem-chances-no-congresso/)_
+
