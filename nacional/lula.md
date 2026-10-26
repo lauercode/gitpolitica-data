@@ -2276,3 +2276,6 @@
 - **[2026-10-26 09:22 UTC]** 35 mil votos foram registrados após as 17h; vantagem de Lula sobre Flávio Bolsonaro no Brasil foi de 4,4 milhões
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/votacao-presidente-lula-flavio-bolsonaro-apos-horario-segundo-turno.ghtml)_
 
+- **[2026-10-26 10:35 UTC]** Líderes evangélicos que apoiaram Flávio adotam tom resignado, e bispo diz que 'Lula soube jogar'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lideres-evangelicos-que-apoiaram-flavio-adotam-tom-resignado-e-bispo-diz-que-lula-soube-jogar.shtml)_
+
