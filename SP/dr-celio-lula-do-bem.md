@@ -164,3 +164,6 @@
 - **[2026-10-25 22:39 UTC]** Lula vence eleição na capital paulista, e Flávio Bolsonaro no estado de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vence-eleicao-na-capital-paulista-e-flavio-bolsonaro-no-estado-de-sp.shtml)_
 
+- **[2026-10-26 08:30 UTC]** Cidades com voto casado em Lula e Tarcísio passam de 33 para 66 no 2º turno em SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/26/cidades-com-voto-casado-em-lula-e-tarcisio-passam-de-33-para-66-no-2o-turno-em-sp.ghtml)_
+
