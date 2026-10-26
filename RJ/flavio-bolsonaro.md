@@ -8632,3 +8632,6 @@
 - **[2026-10-26 00:42 UTC]** Derrota e inquéritos pressionam futuro de Flávio; irmão sugeriu que ele deixe o país
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/)_
 
+- **[2026-10-26 00:58 UTC]** Derrota de Flávio enfraquece os Bolsonaro, mas não ofusca nova força da direita com eleições
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm93zvwkgd1zo?at_medium=RSS&at_campaign=rss)_
+
