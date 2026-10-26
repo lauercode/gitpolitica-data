@@ -8800,3 +8800,6 @@
 - **[2026-10-26 13:48 UTC]** Investigações que miram Flávio Bolsonaro podem permanecer no STF mesmo após perda do foro privilegiado; entenda
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/investigacoes-que-miram-flavio-bolsonaro-podem-permanecer-no-stf-mesmo-apos-perda-do-foro-privilegiado-entenda.ghtml)_
 
+- **[2026-10-26 13:02 UTC]** Medo da volta da família Bolsonaro supera discurso de mudança de Flávio no segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/26/medo-da-volta-da-familia-bolsonaro-supera-discurso-de-mudanca-de-flavio-no-segundo-turno.ghtml)_
+
