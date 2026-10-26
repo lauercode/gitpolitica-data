@@ -8812,3 +8812,6 @@
 - **[2026-10-26 11:39 UTC]** Lula x Flávio Bolsonaro: veja como foi a votação na sua urna no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-flavio-bolsonaro-2o-turno-eleicoes-presidencia-mapa-quem-venceu-secao-eleitoral.ghtml)_
 
+- **[2026-10-26 11:21 UTC]** Ministros do TSE avaliam que pedido de Flávio para anular segundo turno não deve prosperar
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/ministros-do-tse-avaliam-que-pedido-de-flavio-para-anular-segundo-turno-nao-deve-prosperar.ghtml)_
+
