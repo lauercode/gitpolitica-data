@@ -8848,3 +8848,6 @@
 - **[2026-10-26 14:06 UTC]** Lula cresce em número de votos em todos os estados; Flávio recua em 6
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-cresce-em-numero-de-votos-em-todos-os-estados-flavio-recuou-em-6)_
 
+- **[2026-10-26 20:17 UTC]** Moraes determina que Flávio Bolsonaro entregue passaporte e proíbe que ele deixe o país
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/moraes-determina-que-flavio-bolsonaro-entregue-passaporte.ghtml)_
+
