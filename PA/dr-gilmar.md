@@ -122,3 +122,6 @@
 - **[2026-10-26 14:12 UTC]** Dino e Gilmar defendem respeito às urnas e união após vitória de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/ministros-se-manifestam-apos-vitoria-de-lula.ghtml)_
 
+- **[2026-10-26 17:40 UTC]** Dino e Gilmar defendem “união” e diálogo entre adversários após vitória de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-gilmar-defendem-uniao-dialogo-adversarios-vitoria-lula/)_
+
