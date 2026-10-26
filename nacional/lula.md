@@ -2267,3 +2267,6 @@
 - **[2026-10-26 11:39 UTC]** Lula x Flávio Bolsonaro: veja como foi a votação na sua urna no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-flavio-bolsonaro-2o-turno-eleicoes-presidencia-mapa-quem-venceu-secao-eleitoral.ghtml)_
 
+- **[2026-10-26 11:38 UTC]** Eleições 2026: Caiado, Zema e Renan Santos repercutem vitória de Lula; Cury não se manifestou
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/caiado-zema-e-renan-santos-repercutem-vitoria-de-lula.ghtml)_
+
