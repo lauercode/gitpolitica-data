@@ -8896,3 +8896,6 @@
 - **[2026-10-26 13:41 UTC]** Aliados de Flávio dizem ter avisado governo Trump que senador contestaria resultado da eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/aliados-de-flavio-dizem-ter-avisado-governo-trump-que-senador-contestaria-resultado-da-eleicao.shtml)_
 
+- **[2026-10-26 13:17 UTC]** Apoiador de Flávio Bolsonaro, Ricardo Nunes deseja que o novo governo 'acerte e recupere a economia'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiador-de-flavio-bolsonaro-ricardo-nunes-deseja-que-o-novo-governo-acerte-e-recupere-a-economia.shtml)_
+
