@@ -2294,3 +2294,6 @@
 - **[2026-10-26 19:51 UTC]** Flávio que vai pedir cassação da chapa de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/flavio-publica-video-apos-eleicao.ghtml)_
 
+- **[2026-10-26 19:18 UTC]** Veja quais áreas de BH deram vitória a Lula e a Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/26/veja-quais-areas-de-bh-deram-vitoria-a-lula-e-a-flavio-bolsonaro.ghtml)_
+
