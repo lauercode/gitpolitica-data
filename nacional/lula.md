@@ -2258,3 +2258,6 @@
 - **[2026-10-26 07:51 UTC]** Lula ganhou quase 3 milhões de votos no Nordeste do 1º para o 2º turno; Flávio avançou 398 mil
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-flavio-nordeste.ghtml)_
 
+- **[2026-10-26 00:30 UTC]** Presidentes da França, Canadá, Peru, Chile, Bolívia e mais países parabenizam Lula; veja repercussão
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/lideres-mundiais-parabenizam-lula-pela-reeleicao-veja-repercussao.ghtml)_
+
