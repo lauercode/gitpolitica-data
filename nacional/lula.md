@@ -2252,3 +2252,6 @@
 - **[2026-10-26 08:16 UTC]** Veja em MAPAS como Lula e Flávio Bolsonaro se saíram no 2º turno nos locais de votação das capitais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/veja-em-mapas-como-lula-e-flavio-bolsonaro-se-sairam-no-2o-turno-nos-locais-de-votacao-das-capitais.ghtml)_
 
+- **[2026-10-26 07:54 UTC]** A virada histórica de Lula: presidente do Brasil pela quarta vez - O Assunto #1832
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/10/26/a-virada-historica-de-lula-presidente-do-brasil-pela-quarta-vez-o-assunto-1832.ghtml)_
+
