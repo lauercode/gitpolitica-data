@@ -8662,3 +8662,6 @@
 - **[2026-10-26 04:28 UTC]** Veja os estados onde Lula e Flávio Bolsonaro abriram as maiores vantagens
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/veja-os-estados-onde-lula-e-flavio-bolsonaro-abriram-as-maiores-vantagens.ghtml)_
 
+- **[2026-10-26 04:19 UTC]** Flávio Bolsonaro venceu em 13 estados e no DF, e Lula, em 13; veja o mapa
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/mapa-estados-vitoria-lula-flavio-bolsonaro-segundo-turno.ghtml)_
+
