@@ -2093,3 +2093,6 @@
 - **[2026-10-26 01:10 UTC]** Lula fala após ser reeleito presidente da República
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-fala-apos-ser-reeleito-presidente-da-republica.ghtml)_
 
+- **[2026-10-26 01:03 UTC]** EM INSTANTES: Lula fala após ser reeleito presidente do Brasil
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/ao-vivo/eleicoes-2026-candidato-entrevista.ghtml)_
+
