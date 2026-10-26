@@ -116,3 +116,6 @@
 - **[2026-10-23 22:03 UTC]** Justiça determina que rede social X apague postagem de Erika Hilton
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-determina-que-rede-social-x-apague-postagem-de-erika-hilton/)_
 
+- **[2026-10-25 22:00 UTC]** Estudo aponta Erika Hilton e Tebet entre as mais atacadas nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/estudo-aponta-erika-hilton-e-tebet-entre-as-mais-atacadas-nas-redes.shtml)_
+
