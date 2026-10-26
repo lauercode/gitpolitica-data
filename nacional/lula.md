@@ -2186,3 +2186,6 @@
 - **[2026-10-26 01:28 UTC]** Lula x Flávio Bolsonaro: veja no mapa como foi a votação no 2º turno por zona eleitoral em todas as cidades do país
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-x-flavio-bolsonaro-veja-no-mapa-como-foi-a-votacao-no-2o-turno-por-zona-eleitoral-em-todas-as-cidades-do-pais.ghtml)_
 
+- **[2026-10-26 01:25 UTC]** Flávio supera votação de Jair Bolsonaro em 2022, mas Lula amplia vantagem e vence eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/flavio-supera-votacao-de-jair-bolsonaro-em-2022-mas-lula-amplia-vantagem-e-vence-eleicao.ghtml)_
+
