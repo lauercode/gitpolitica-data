@@ -8605,3 +8605,6 @@
 - **[2026-10-26 00:09 UTC]** Em virada histórica, Lula derrota Flávio Bolsonaro e chega ao quarto mandato como presidente
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/em-virada-historica-lula-derrota-flavio-e-chega-ao-quarto-mandato-como-presidente-do-brasil.ghtml)_
 
+- **[2026-10-25 23:32 UTC]** Disputa entre Lula e Flávio Bolsonaro tem virada em 208 cidades com apuração concluída
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/cidades-virada-lula-flavio-bolsonaro-segundo-turno.ghtml)_
+
