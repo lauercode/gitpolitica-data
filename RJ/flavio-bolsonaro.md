@@ -8842,3 +8842,6 @@
 - **[2026-10-26 10:17 UTC]** Justiça proíbe jornalista de abordar funcionários da escola de filha de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-proibe-jornalista-de-abordar-escola-da-filha-de-flavio-bolsonaro/)_
 
+- **[2026-10-26 13:30 UTC]** Do 'risco-Flávio' à campanha de mobilização: 4 trunfos usados por Lula para virar o jogo no 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckjwe156n3gpo?at_medium=RSS&at_campaign=rss)_
+
