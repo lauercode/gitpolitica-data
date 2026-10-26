@@ -8917,3 +8917,6 @@
 - **[2026-10-26 11:39 UTC]** Governo Trump mandou segurar comunicado reconhecendo resultado da eleição após alegações de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/governo-trump-mandou-segurar-comunicado-reconhecendo-resultado-da-eleicao-apos-alegacoes-de-flavio.shtml)_
 
+- **[2026-10-26 20:34 UTC]** Flávio desiste de anular eleição, mas pedirá cassação da chapa de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-desiste-anular-eleicao-pedira-cassacao-chapa-lula/)_
+
