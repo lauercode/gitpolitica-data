@@ -161,3 +161,6 @@
 - **[2026-10-26 01:19 UTC]** Da periferia aos bairros nobres, veja a comemoração de eleitores após vitória de Lula em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/da-periferia-aos-bairros-nobres-veja-a-comemoracao-de-eleitores-apos-vitoria-de-lula-em-sp.ghtml)_
 
+- **[2026-10-25 22:39 UTC]** Lula vence eleição na capital paulista, e Flávio Bolsonaro no estado de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vence-eleicao-na-capital-paulista-e-flavio-bolsonaro-no-estado-de-sp.shtml)_
+
