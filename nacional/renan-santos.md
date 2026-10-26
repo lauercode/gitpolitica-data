@@ -461,3 +461,6 @@
 - **[2026-10-26 11:38 UTC]** Eleições 2026: Caiado, Zema, Renan Santos e Cury repercutem vitória de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/caiado-zema-e-renan-santos-repercutem-vitoria-de-lula.ghtml)_
 
+- **[2026-10-26 12:27 UTC]** Estudante agredido em ato pró-Lula em Santos está em estado gravíssimo e é transferido para São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/estudante-agredido-em-ato-pro-lula-em-santos-esta-em-estado-gravissimo-e-e-transferido-para-sao-paulo.shtml)_
+
