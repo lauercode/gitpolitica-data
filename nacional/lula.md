@@ -2339,3 +2339,6 @@
 - **[2026-10-26 20:34 UTC]** Flávio desiste de anular eleição, mas pedirá cassação da chapa de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-desiste-anular-eleicao-pedira-cassacao-chapa-lula/)_
 
+- **[2026-10-26 15:52 UTC]** Aliados de Flávio Bolsonaro reconhecem vitória de Lula e descartam anular eleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/aliados-flavio-bolsonaro-reconhecem-vitoria-lula-descartam-anular-eleicao/)_
+
