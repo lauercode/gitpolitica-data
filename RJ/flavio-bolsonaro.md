@@ -8593,3 +8593,6 @@
 - **[2026-10-26 01:00 UTC]** Lula conquista 3,8 milhões de votos a mais que em 2022; Flávio também supera votação do pai
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-conquista-38-milhoes-de-votos-a-mais-que-em-2022-flavio-tambem-supera-votacao-do-pai.ghtml)_
 
+- **[2026-10-26 00:46 UTC]** VÍDEO: campanha do PT comemora virada de Lula sobre Flávio Bolsonaro em hotel de SP
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/video-campanha-do-pt-comemora-virada-de-lula-sobre-flavio-bolsonaro-em-hotel-de-sp.ghtml)_
+
