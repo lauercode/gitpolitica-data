@@ -8629,3 +8629,6 @@
 - **[2026-10-25 20:46 UTC]** Lula vira, bate Flávio Bolsonaro e se reelege para inédito 4º mandato
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vira-bate-flavio-bolsonaro-e-se-reelege-para-inedito-4o-mandato-projeta-datafolha.shtml)_
 
+- **[2026-10-26 00:42 UTC]** Derrota e inquéritos pressionam futuro de Flávio; irmão sugeriu que ele deixe o país
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/)_
+
