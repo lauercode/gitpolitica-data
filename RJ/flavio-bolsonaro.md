@@ -8821,3 +8821,6 @@
 - **[2026-10-26 09:22 UTC]** 35 mil votos foram registrados após as 17h; vantagem de Lula sobre Flávio Bolsonaro no Brasil foi de 4,4 milhões
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/votacao-presidente-lula-flavio-bolsonaro-apos-horario-segundo-turno.ghtml)_
 
+- **[2026-10-26 08:22 UTC]** Lula venceu em dois estados que elegeram aliados de Flávio; onde senador ganhou, governadores o apoiaram
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/presidente-governadores-eleitos-apoios-estados.ghtml)_
+
