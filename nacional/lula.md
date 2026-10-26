@@ -2285,3 +2285,6 @@
 - **[2026-10-26 14:52 UTC]** Trump e Milei silenciam sobre vitória de Lula, e Putin parabeniza presidente; as reações internacionais
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c679prgnn48qo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 13:30 UTC]** Do 'risco-Flávio' à campanha de mobilização: 4 trunfos usados por Lula para virar o jogo no 2º turno
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckjwe156n3gpo?at_medium=RSS&at_campaign=rss)_
+
