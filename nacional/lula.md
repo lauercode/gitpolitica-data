@@ -2102,3 +2102,6 @@
 - **[2026-10-26 00:52 UTC]** Lula iguala recorde histórico de Franklin Roosevelt, presidente dos EUA, ao chegar ao 4º mandato
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/lula-iguala-recorde-historico-de-franklin-roosevelt-presidente-dos-eua-ao-chegar-ao-4o-mandato.ghtml)_
 
+- **[2026-10-26 00:40 UTC]** Lula tem 64 milhões de votos, e Flávio Bolsonaro, 59 milhões; compare com a votação deles no 1º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-resultado-segundo-primeiro-turno-2026.ghtml)_
+
