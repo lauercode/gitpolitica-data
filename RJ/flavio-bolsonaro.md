@@ -8692,3 +8692,6 @@
 - **[2026-10-26 01:41 UTC]** Flávio chama resultado do segundo turno de 'sacanagem', diz ser 'impossível' reconhecer derrota e que tentará anulação
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/flavio-resultado-segundo-turno.ghtml)_
 
+- **[2026-10-26 01:37 UTC]** Vídeo: antes da derrota, Pablo Marçal filmou Flávio Bolsonaro e apoiadores comemorando virada temporária em apuração; veja
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/antes-da-derrota-pablo-marcal-filmou-flavio-bolsonaro-e-apoiadores-comemorando-virada-temporaria-em-apuracao.ghtml)_
+
