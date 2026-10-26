@@ -2342,3 +2342,6 @@
 - **[2026-10-26 15:52 UTC]** Aliados de Flávio Bolsonaro reconhecem vitória de Lula e descartam anular eleição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/aliados-flavio-bolsonaro-reconhecem-vitoria-lula-descartam-anular-eleicao/)_
 
+- **[2026-10-26 15:22 UTC]** Lula 4 sob pressão: bolsa desaba, Flávio reage e Trump se cala
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/sem-rodeios/lula-4-sob-pressao-bolsa-desaba-flavio-reage-e-trump-se-cala/)_
+
