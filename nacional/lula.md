@@ -2246,3 +2246,6 @@
 - **[2026-10-26 03:54 UTC]** Lula conquista virada inédita e terá quarto mandato como presidente do Brasil: 'Vamos ter que regular as plataformas digitais'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx8dzrgq569go?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 07:40 UTC]** Lula é reeleito presidente, e Flávio diz que vai pedir anulação das eleições; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss)_
+
