@@ -164,3 +164,6 @@
 - **[2026-10-25 19:31 UTC]** Vicentinho Júnior (PSDB) é eleito governador do Tocantins, projeta Datafolha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vicentinho-junior-psdb-e-eleito-governador-do-tocantins-projeta-datafolha.shtml)_
 
+- **[2026-10-25 20:06 UTC]** Vicentinho Júnior é eleito governador do estado do Tocantins
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vicentinho-junior-e-eleito-governador-do-estado-do-tocantins)_
+
