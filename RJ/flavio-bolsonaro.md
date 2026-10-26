@@ -8833,3 +8833,6 @@
 - **[2026-10-26 10:35 UTC]** Líderes evangélicos que apoiaram Flávio adotam tom resignado, e bispo diz que 'Lula soube jogar'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lideres-evangelicos-que-apoiaram-flavio-adotam-tom-resignado-e-bispo-diz-que-lula-soube-jogar.shtml)_
 
+- **[2026-10-26 14:16 UTC]** Deputados governistas pedem apreensão do passaporte de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/deputados-governistas-pedem-apreensao-passaporte-flavio-bolsonaro/)_
+
