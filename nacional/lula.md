@@ -2087,3 +2087,6 @@
 - **[2026-10-25 23:08 UTC]** Eleições 2026 ao vivo: Com mais de 26% das urnas apuradas, Flávio tem 50,45%, e Lula, 49,55%; siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-25 21:11 UTC]** Lula é reeleito presidente do Brasil em virada histórica
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-e-reeleito-presidente-do-brasil-em-virada-historica)_
+
