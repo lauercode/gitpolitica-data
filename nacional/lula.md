@@ -2282,3 +2282,6 @@
 - **[2026-10-26 12:55 UTC]** Presidentes da Câmara e do Senado defendem pacificação após vitória de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/presidentes-camara-senado-defendem-pacificacao-apos-vitoria-lula/)_
 
+- **[2026-10-26 14:52 UTC]** Trump e Milei silenciam sobre vitória de Lula, e Putin parabeniza presidente; as reações internacionais
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c679prgnn48qo?at_medium=RSS&at_campaign=rss)_
+
