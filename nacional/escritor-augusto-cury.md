@@ -11,3 +11,6 @@
 - **[2026-10-22 21:23 UTC]** Flávio Bolsonaro x Lula: veja quem Augusto Cury, Renan Santos e outros candidatos a presidente derrotados no 1º turno apoiam
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/flavio-bolsonaro-x-lula-augusto-cury-renan-santos-candidatos-presidente-derrotados-apoio.ghtml)_
 
+- **[2026-10-26 11:38 UTC]** Eleições 2026: Caiado, Zema e Renan Santos repercutem vitória de Lula; Cury não se manifestou
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/caiado-zema-e-renan-santos-repercutem-vitoria-de-lula.ghtml)_
+
