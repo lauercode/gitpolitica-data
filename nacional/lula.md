@@ -2306,3 +2306,6 @@
 - **[2026-10-26 15:15 UTC]** Eleições 2026: onde Lula e Flávio viraram votos no exterior?
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-onde-lula-e-flavio-viraram-votos-no-exterior.ghtml)_
 
+- **[2026-10-26 15:04 UTC]** Gráfico mostra momento da virada de Lula sobre Flávio no segundo turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/grafico-mostra-momento-da-virada-de-lula-sobre-flavio-no-segundo-turno.ghtml)_
+
