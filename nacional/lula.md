@@ -2270,3 +2270,6 @@
 - **[2026-10-26 11:38 UTC]** Eleições 2026: Caiado, Zema e Renan Santos repercutem vitória de Lula; Cury não se manifestou
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/caiado-zema-e-renan-santos-repercutem-vitoria-de-lula.ghtml)_
 
+- **[2026-10-26 09:27 UTC]** Mapa da virada: onde Lula avançou e como mudou a votação de Flávio Bolsonaro entre o 1º e o 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/mapa-virada-lula-flavio-bolsonaro-votos-primeiro-segundo-turno.ghtml)_
+
