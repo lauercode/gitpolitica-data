@@ -8638,3 +8638,6 @@
 - **[2026-10-24 15:59 UTC]** 3 motivos pelos quais duelo entre Lula e Flávio Bolsonaro é crucial para a América Latina — e para Trump
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62yvnkdwk7o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-25 23:39 UTC]** Flávio não reconhece vitória de Lula e tentará anulação do pleito
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-nao-reconhece-vitoria-de-lula-e-tentara-anulacao-do-pleito)_
+
