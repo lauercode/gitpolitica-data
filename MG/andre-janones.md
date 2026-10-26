@@ -194,3 +194,6 @@
 - **[2026-10-26 00:32 UTC]** Quem é André Janones, deputado que criou o 'Exército do Lula'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-e-andre-janones-deputado-que-criou-o-exercito-do-lula.shtml)_
 
+- **[2026-10-26 13:01 UTC]** PT quer filiar Janones e governo estuda dar a ele cargo com status de ministério
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pt-quer-filiar-janones-e-governo-estuda-dar-cargo-com-status-de-ministerio-ao-aliado.shtml)_
+
