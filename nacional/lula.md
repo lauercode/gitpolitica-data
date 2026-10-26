@@ -2180,3 +2180,6 @@
 - **[2026-10-26 01:50 UTC]** Lula tem 64 milhões de votos, e Flávio, 59 milhões; compare com a votação do petista e de Jair Bolsonaro em 2022
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-comparacao-jair-bolsonaro-2022.ghtml)_
 
+- **[2026-10-26 01:31 UTC]** Lula venceu em 13 capitais, e Flávio Bolsonaro, em 14; veja o resultado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/resultado-capitais-lula-flavio-bolsonaro-segundo-turno.ghtml)_
+
