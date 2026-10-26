@@ -8887,3 +8887,6 @@
 - **[2026-10-26 16:46 UTC]** Flávio desiste de pedir anulação da eleição e entrará com ação por abuso de poder contra Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-deve-desistir-de-pedir-anulacao-da-eleicao-e-entrar-com-acao-por-abuso-de-poder-contra-lula.shtml)_
 
+- **[2026-10-26 15:42 UTC]** Flávio só avançou sobre Lula em 185 cidades, nenhuma com mais de 100 mil habitantes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-so-avancou-sobre-lula-em-185-cidades-nenhuma-com-mais-de-100-mil-habitantes.shtml)_
+
