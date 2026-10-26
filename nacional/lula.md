@@ -2324,3 +2324,6 @@
 - **[2026-10-26 15:42 UTC]** Flávio só avançou sobre Lula em 185 cidades, nenhuma com mais de 100 mil habitantes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-so-avancou-sobre-lula-em-185-cidades-nenhuma-com-mais-de-100-mil-habitantes.shtml)_
 
+- **[2026-10-26 14:56 UTC]** Membro da coordenação de Lula diz que Flávio faz pirotecnia ao não reconhecer resultado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/membro-da-coordenacao-de-lula-diz-que-flavio-faz-pirotecnia-ao-nao-reconhecer-resultado.shtml)_
+
