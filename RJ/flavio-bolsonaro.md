@@ -8611,3 +8611,6 @@
 - **[2026-10-25 03:00 UTC]** Votação no exterior: veja em quais países Lula ou Flávio Bolsonaro venceram
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-25 22:27 UTC]** Flávio Bolsonaro ficará sem cargo público pela 1ª vez em 24 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-ficara-sem-cargo-publico-pela-1a-vez-em-24-anos.shtml)_
+
