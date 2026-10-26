@@ -200,3 +200,6 @@
 - **[2026-10-25 06:00 UTC]** Tarcísio deverá indicar 6 dos 7 membros do TCE-SP ao fim do seu segundo mandato
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tarcisio-devera-indicar-6-dos-7-membros-do-tce-sp-ao-fim-do-seu-segundo-mandato.shtml)_
 
+- **[2026-10-26 00:50 UTC]** Tarcísio vira nome natural da direita, e governadores do Nordeste despontam no PT para 2030
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-vira-nome-natural-da-direita-e-haddad-desponta-no-pt-para-2030.shtml)_
+
