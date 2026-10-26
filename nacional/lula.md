@@ -2279,3 +2279,6 @@
 - **[2026-10-26 10:35 UTC]** Líderes evangélicos que apoiaram Flávio adotam tom resignado, e bispo diz que 'Lula soube jogar'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lideres-evangelicos-que-apoiaram-flavio-adotam-tom-resignado-e-bispo-diz-que-lula-soube-jogar.shtml)_
 
+- **[2026-10-26 12:55 UTC]** Presidentes da Câmara e do Senado defendem pacificação após vitória de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/presidentes-camara-senado-defendem-pacificacao-apos-vitoria-lula/)_
+
