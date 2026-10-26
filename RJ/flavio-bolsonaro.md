@@ -8806,3 +8806,6 @@
 - **[2026-10-26 12:35 UTC]** Lula ganhou mais votos do que Flávio Bolsonaro nas 20 cidades com maior queda de abstenção no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-ganhou-mais-votos-do-que-flavio-bolsonaro-nas-20-cidades-com-maior-queda-de-abstencao-no-2o-turno.ghtml)_
 
+- **[2026-10-26 11:53 UTC]** Veja em quantas cidades Lula e Flávio Bolsonaro venceram nos estados de SP, MG e RJ
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/veja-em-quantas-cidades-lula-e-flavio-bolsonaro-venceram-nos-estados-de-sp-mg-e-rj.ghtml)_
+
