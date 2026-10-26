@@ -2318,3 +2318,6 @@
 - **[2026-10-26 16:59 UTC]** Ministros do STF dizem que Flávio prega golpismo descarado ao questionar vitória de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ministros-do-stf-dizem-que-flavio-prega-golpismo-descarado-ao-nao-reconhecer-a-vitoria-de-lula.shtml)_
 
+- **[2026-10-26 16:38 UTC]** Após vitória de Lula, Richarlison publica imagem de IA com rosto do presidente em tatuagem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/apos-vitoria-de-lula-richarlison-publica-imagem-de-ia-com-rosto-do-presidente-em-tatuagem.shtml)_
+
