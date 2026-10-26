@@ -8884,3 +8884,6 @@
 - **[2026-10-26 16:56 UTC]** Flávio Bolsonaro é intimado pela PF a entregar passaporte por ordem de Moraes e fica proibido de deixar o país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-pf-apreendeu-seu-passaporte-e-que-esta-proibido-de-deixar-o-pais.shtml)_
 
+- **[2026-10-26 16:46 UTC]** Flávio desiste de pedir anulação da eleição e entrará com ação por abuso de poder contra Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-deve-desistir-de-pedir-anulacao-da-eleicao-e-entrar-com-acao-por-abuso-de-poder-contra-lula.shtml)_
+
