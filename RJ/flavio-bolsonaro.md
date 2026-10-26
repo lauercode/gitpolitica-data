@@ -8590,3 +8590,6 @@
 - **[2026-10-25 23:08 UTC]** Eleições 2026 ao vivo: Com mais de 26% das urnas apuradas, Flávio tem 50,45%, e Lula, 49,55%; siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 01:00 UTC]** Lula conquista 3,8 milhões de votos a mais que em 2022; Flávio também supera votação do pai
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-conquista-38-milhoes-de-votos-a-mais-que-em-2022-flavio-tambem-supera-votacao-do-pai.ghtml)_
+
