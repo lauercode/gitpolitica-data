@@ -2192,3 +2192,6 @@
 - **[2026-10-26 01:21 UTC]** Marqueteiro do PT diz que vitória de Lula derrotou Trump, tarifaço e família Bolsonaro: ‘O povo compreendeu o que estava em jogo’
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/marqueteiro-do-pt-diz-que-vitoria-de-lula-derrotou-trump-tarifaco-e-familia-bolsonaro-o-povo-compreendeu-o-que-estava-em-jogo.ghtml)_
 
+- **[2026-10-26 01:14 UTC]** Alcolumbre e Motta parabenizam Lula pela reeleição e dizem que Congresso trabalhará junto com o presidente
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/alcolumbre-e-motta-segundo-turno-eleicoes-2026.ghtml)_
+
