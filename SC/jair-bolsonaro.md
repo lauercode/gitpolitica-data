@@ -155,3 +155,6 @@
 - **[2026-10-26 01:50 UTC]** Lula tem 64 milhões de votos, e Flávio, 59 milhões; compare com a votação do petista e de Jair Bolsonaro em 2022
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-comparacao-jair-bolsonaro-2022.ghtml)_
 
+- **[2026-10-26 01:25 UTC]** Flávio supera votação de Jair Bolsonaro em 2022, mas Lula amplia vantagem e vence eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/flavio-supera-votacao-de-jair-bolsonaro-em-2022-mas-lula-amplia-vantagem-e-vence-eleicao.ghtml)_
+
