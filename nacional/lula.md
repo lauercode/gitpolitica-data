@@ -2144,3 +2144,6 @@
 - **[2026-10-25 23:39 UTC]** Flávio não reconhece vitória de Lula e tentará anulação do pleito
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-nao-reconhece-vitoria-de-lula-e-tentara-anulacao-do-pleito)_
 
+- **[2026-10-25 22:39 UTC]** Presidente do TSE liga para Lula para parabenizar reeleição
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/presidente-do-tse-liga-para-lula-para-parabenizar-reeleicao)_
+
