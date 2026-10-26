@@ -8608,3 +8608,6 @@
 - **[2026-10-25 23:32 UTC]** Disputa entre Lula e Flávio Bolsonaro tem virada em 208 cidades com apuração concluída
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/cidades-virada-lula-flavio-bolsonaro-segundo-turno.ghtml)_
 
+- **[2026-10-25 03:00 UTC]** Votação no exterior: veja em quais países Lula ou Flávio Bolsonaro venceram
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml)_
+
