@@ -8722,3 +8722,6 @@
 - **[2026-10-25 23:32 UTC]** Disputa entre Lula e Flávio Bolsonaro tem virada em 212 cidades com apuração concluída
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/cidades-virada-lula-flavio-bolsonaro-segundo-turno.ghtml)_
 
+- **[2026-10-26 04:02 UTC]** Lula avança sobre Flávio em 97% dos municípios brasileiros e vira em 211
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-avanca-sobre-flavio-em-97-dos-municipios-brasileiros-e-vira-em-211.shtml)_
+
