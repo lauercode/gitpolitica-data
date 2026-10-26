@@ -8797,3 +8797,6 @@
 - **[2026-10-26 13:55 UTC]** Após derrota de Flávio, Ricardo Nunes diz esperar que novo governo recupere a economia
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/26/apos-derrota-de-flavio-ricardo-nunes-diz-esperar-que-novo-governo-recupere-a-economia.ghtml)_
 
+- **[2026-10-26 13:48 UTC]** Investigações que miram Flávio Bolsonaro podem permanecer no STF mesmo após perda do foro privilegiado; entenda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/investigacoes-que-miram-flavio-bolsonaro-podem-permanecer-no-stf-mesmo-apos-perda-do-foro-privilegiado-entenda.ghtml)_
+
