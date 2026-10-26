@@ -482,3 +482,6 @@
 - **[2026-10-26 01:14 UTC]** Alcolumbre e Motta parabenizam Lula pela reeleição e dizem que Congresso trabalhará junto com o presidente
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/alcolumbre-e-motta-segundo-turno-eleicoes-2026.ghtml)_
 
+- **[2026-10-25 22:49 UTC]** Alcolumbre e Motta ligam para Lula, oferecem apoio e pedem que ele atue para unir o Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-e-motta-ligam-para-lula-oferecem-apoio-e-pedem-que-ele-atue-para-unir-o-brasil.shtml)_
+
