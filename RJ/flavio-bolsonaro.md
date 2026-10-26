@@ -8602,3 +8602,6 @@
 - **[2026-10-26 00:22 UTC]** Lula é o mais votado em 1.957 cidades, e Flávio Bolsonaro, em 2.247
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/cidades-votacao-lula-flavio-bolsonaro-segundo-turno.ghtml)_
 
+- **[2026-10-26 00:09 UTC]** Em virada histórica, Lula derrota Flávio Bolsonaro e chega ao quarto mandato como presidente
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/em-virada-historica-lula-derrota-flavio-e-chega-ao-quarto-mandato-como-presidente-do-brasil.ghtml)_
+
