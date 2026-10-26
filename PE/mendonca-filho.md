@@ -17,3 +17,6 @@
 - **[2026-08-22 15:30 UTC]** O Brasil se descobriu, diz Maria Fernanda Cândido sobre momento na cultura
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/o-brasil-se-descobriu-diz-maria-fernanda-candido-sobre-momento-na-cultura.shtml)_
 
+- **[2026-10-26 04:00 UTC]** Kleber Mendonça Filho homenageia Jafar Panahi em curta após disputa no Oscar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/kleber-mendonca-filho-homenageia-jafar-panahi-em-curta-apos-disputa-no-oscar.shtml)_
+
