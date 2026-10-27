@@ -9283,3 +9283,6 @@
 - **[2026-10-27 20:53 UTC]** Defesa de Flávio Bolsonaro sobre possível saída do Brasil: 'Estamos no escuro'; siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 16:39 UTC]** O que pesa contra Flávio Bolsonaro e por que um dos inquéritos está nas mãos de Alexandre de Moraes
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm9qz18je091o?at_medium=RSS&at_campaign=rss)_
+
