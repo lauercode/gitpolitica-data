@@ -9076,3 +9076,6 @@
 - **[2026-10-27 12:52 UTC]** Polícia Federal cancela passaportes de Flávio Bolsonaro
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policia-federal-cancela-passaportes-de-flavio-bolsonaro)_
 
+- **[2026-10-27 14:55 UTC]** Flávio Bolsonaro descumpre prazo e não entrega passaporte à PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/flavio-bolsonaro-nao-entrega-passaporte-a-pf-e-descumpre-ordem-de-moraes.ghtml)_
+
