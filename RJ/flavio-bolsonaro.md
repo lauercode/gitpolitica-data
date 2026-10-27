@@ -9061,3 +9061,6 @@
 - **[2026-10-27 08:00 UTC]** Moraes manda Flávio entregar passaportes
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/27/moraes-manda-flavio-entregar-passaportes.ghtml)_
 
+- **[2026-10-27 06:00 UTC]** Lula cresceu em cidades onde Flávio participou de 'Bloco do 22' com Nikolas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-cresceu-em-cidades-onde-flavio-participou-de-bloco-do-22-com-nikolas.shtml)_
+
