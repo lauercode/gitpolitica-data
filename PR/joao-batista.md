@@ -35,3 +35,6 @@
 - **[2026-10-07 02:04 UTC]** Resultado das eleições 2026 em Cametá (PA): votação para presidente no Emeif São João Batista, na 12ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-cameta-pa-votacao-para-presidente-no-emeif-sao-joao-batista-na-12a-zona-eleitoral.ghtml)_
 
+- **[2026-10-26 06:10 UTC]** Pavilhão Comunitário São João Batista (Linha Santa Eugênia), 93ª zona eleitoral: resultado da votação em Venâncio Aires (RS) no 2º turno
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/26/pavilhao-comunitario-sao-joao-batista-linha-santa-eugenia-93a-zona-eleitoral-resultado-da-votacao-em-venancio-aires-rs-no-2o-turno.ghtml)_
+
