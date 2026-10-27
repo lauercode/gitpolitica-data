@@ -9226,3 +9226,6 @@
 - **[2026-10-27 16:27 UTC]** Seguranças de Flávio Bolsonaro dizem que ele não fez contato e omitiu agenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/segurancas-de-flavio-bolsonaro-dizem-que-ele-nao-fez-contato-e-omitiu-agenda.shtml)_
 
+- **[2026-10-27 15:56 UTC]** Cúpula da campanha de Flávio Bolsonaro fala em surpresa com fuga e tenta se descolar do episódio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/cupula-da-campanha-de-flavio-bolsonaro-fala-em-surpresa-com-fuga-e-tenta-se-descolar-do-episodio.shtml)_
+
