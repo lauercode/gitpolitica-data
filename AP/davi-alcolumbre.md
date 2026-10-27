@@ -497,3 +497,6 @@
 - **[2026-10-27 00:48 UTC]** Alcolumbre e Motta visitam Lula após reeleição e defendem diálogo entre Poderes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/alcolumbre-e-motta-visitam-lula-apos-reeleicao-e-defendem-dialogo-entre-poderes/)_
 
+- **[2026-10-26 18:40 UTC]** Após reeleição, Lula se reúne com chanceler, assessores da área internacional, Motta e Alcolumbre
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/apos-reeleicao-lula-se-reune-com-ministro-da-defesa-chanceler-e-assessores-da-area-internacional.ghtml)_
+
