@@ -9166,3 +9166,6 @@
 - **[2026-10-27 12:13 UTC]** Milei nega que Flávio Bolsonaro entrou na Argentina; PF apura se senador teria deixado o Brasil
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/27/pf-investiga-se-flavio-bolsonaro-fugiu-do-brasil.ghtml)_
 
+- **[2026-10-27 12:09 UTC]** Governo da Argentina nega que Flávio Bolsonaro tenha embarcado no país
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/governo-da-argentina-nega-que-flavio-bolsonaro-tenha-embarcado-no-pais/)_
+
