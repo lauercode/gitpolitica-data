@@ -20,3 +20,6 @@
 - **[2026-10-25 20:17 UTC]** Lorenzo Pazolini (Republicanos) é eleito governador do Espírito Santo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lorenzo-pazolini-republicanos-e-eleito-governador-do-espirito-santo-projeta-datafolha.shtml)_
 
+- **[2026-10-27 08:00 UTC]** Receita cresce mais no Piauí e Espírito Santo
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/27/receita-cresce-mais-no-piaui-e-espirito-santo.ghtml)_
+
