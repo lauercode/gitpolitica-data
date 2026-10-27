@@ -32,3 +32,6 @@
 - **[2026-10-26 12:01 UTC]** Escola Estadual Padre Simao Corridori, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/escola-estadual-padre-simao-corridori-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
 
+- **[2026-10-26 12:01 UTC]** Escola Estadual Levindo Alves dos Santos, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/escola-estadual-levindo-alves-dos-santos-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
+
