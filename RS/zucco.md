@@ -74,3 +74,6 @@
 - **[2026-10-26 13:41 UTC]** Governador eleito do RS, Zucco fala em 'interferências abusivas' após vitória de Lula
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/26/governador-eleito-do-rs-zucco-fala-sobre-vitoria-de-lula.ghtml)_
 
+- **[2026-10-27 16:56 UTC]** Governador eleito do RS, Zucco anuncia primeiros 5 nomes do futuro secretariado
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/27/zucco-secretariado.ghtml)_
+
