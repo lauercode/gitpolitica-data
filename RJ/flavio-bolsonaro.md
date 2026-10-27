@@ -8992,3 +8992,6 @@
 - **[2026-10-26 22:53 UTC]** Flávio Bolsonaro revê estratégia por ser baixa chance de eleição ser anulada, dizem especialistas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/flavio-bolsonaro-reve-estrategia-por-ser-baixa-chance-de-eleicao-ser-anulada-dizem-especialistas.ghtml)_
 
+- **[2026-10-26 20:34 UTC]** Flávio Bolsonaro afirma que pedirá cassação da chapa de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/flavio-bolsonaro-afirma-que-pedira-cassacao-da-chapa-de-lula.ghtml)_
+
