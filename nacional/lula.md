@@ -2405,3 +2405,6 @@
 - **[2026-10-27 06:00 UTC]** Lula cresceu em cidades onde Flávio participou de 'Bloco do 22' com Nikolas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-cresceu-em-cidades-onde-flavio-participou-de-bloco-do-22-com-nikolas.shtml)_
 
+- **[2026-10-26 18:57 UTC]** Lula vence em 96 cidades do Tocantins no 2º turno e Flávio ganha em 43; veja listas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/26/lula-vence-em-96-cidades-do-tocantins-no-2o-turno-e-flavio-ganha-em-43-veja-listas.ghtml)_
+
