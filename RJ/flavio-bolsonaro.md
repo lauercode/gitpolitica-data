@@ -9085,3 +9085,6 @@
 - **[2026-10-27 13:07 UTC]** Controle de imigração da Argentina diz que não tem registro da entrada de Flávio Bolsonaro no país
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/controle-de-imigracao-da-argentina-diz-que-nao-tem-registro-da-entrada-de-flavio-bolsonaro-no-pais.ghtml)_
 
+- **[2026-10-27 13:06 UTC]** Dino manda PF investigar suposto financiamento estrangeiro na campanha de Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/flavio-dino-determinaapuracao-sobre-possivel-interferencia-estrangeira-nas-eleicoes.ghtml)_
+
