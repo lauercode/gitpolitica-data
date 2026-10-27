@@ -209,3 +209,6 @@
 - **[2026-10-26 18:07 UTC]** Governador eleito, Cadu de Lula fala em 'DNA próprio' para gestão e promete concluir duplicação da BR-304; veja entrevista
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/governador-eleito-cadu-de-lula-fala-em-dna-proprio-para-gestao-e-promete-concluir-duplicacao-da-br-304-veja-entrevista.ghtml)_
 
+- **[2026-10-26 14:15 UTC]** Cadu de Lula vence em 118 cidades do RN; Allyson ganha em Natal e Mossoró
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/cidades-mais-votos-allyson-bezerra-cadu-de-lula.ghtml)_
+
