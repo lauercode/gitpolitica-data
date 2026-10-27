@@ -47,3 +47,6 @@
 - **[2026-09-11 07:00 UTC]** Crianças e adolescente furtam carro e dirigem por Florianópolis: o que se sabe e o que falta saber
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/criancas-adolescente-furtam-carro-dirigem-florianopolis-o-que-se-sabe-o-que-falta-saber.ghtml)_
 
+- **[2026-10-26 10:49 UTC]** E. M. Luz do Saber, 4ª zona eleitoral: resultado da votação em Parintins (AM) no 2º turno
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/e-m-luz-do-saber-4a-zona-eleitoral-resultado-da-votacao-em-parintins-am-no-2o-turno.ghtml)_
+
