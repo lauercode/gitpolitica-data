@@ -9295,3 +9295,6 @@
 - **[2026-10-27 20:50 UTC]** Eduardo Bolsonaro: relembre por que irmão de Flávio saiu do Brasil
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/eduardo-bolsonaro-relembre-por-que-irmao-de-flavio-saiu-do-brasil.ghtml)_
 
+- **[2026-10-27 20:01 UTC]** Flávio Bolsonaro e mais: relembre aliados que também saíram do Brasil para os EUA em meio a investigações
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/flavio-e-mais-relembre-aliados-bolsonaristas-que-tambem-sairam-do-brasil-em-meio-a-investigacoes.ghtml)_
+
