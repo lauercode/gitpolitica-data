@@ -2429,3 +2429,6 @@
 - **[2026-10-26 09:22 UTC]** Menos de 35 mil votos foram registrados após as 17h; vantagem de Lula sobre Flávio Bolsonaro no Brasil foi de 4,4 milhões
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/votacao-presidente-lula-flavio-bolsonaro-apos-horario-segundo-turno.ghtml)_
 
+- **[2026-10-26 18:14 UTC]** Lula vence em três cidades do Acre; Veja como presidente reeleito e Flávio se saíram no 1º e 2º turno no estado
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/veja-como-presidente-reeleito-e-flavio-se-sairam-no-1o-e-2o-turnos-no-estado.ghtml)_
+
