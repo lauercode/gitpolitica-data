@@ -9022,3 +9022,6 @@
 - **[2026-10-26 21:38 UTC]** PL, partido de Flávio, reconhece vitória de Lula nas eleições
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/partido-de-flavio-pl-reconhece-vitoria-de-lula-nas-eleicoes)_
 
+- **[2026-10-26 23:00 UTC]** Aliados de Flávio Bolsonaro adiam mea-culpa e atribuem derrota a pacote de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aliados-de-flavio-bolsonaro-adiam-mea-culpa-e-atribuem-derrota-a-pacote-de-lula.shtml)_
+
