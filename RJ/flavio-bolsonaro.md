@@ -9307,3 +9307,6 @@
 - **[2026-10-27 18:53 UTC]** PL faz reunião de emergência após informações sobre saída de Flávio Bolsonaro do país
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/pl-faz-reuniao-de-emergencia-apos-informacoes-de-fuga-de-flavio-bolsonaro-do-pais.ghtml)_
 
+- **[2026-10-27 17:38 UTC]** Aliados dizem que Flávio Bolsonaro foi para os Estados Unidos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/flavio-bolsonaro-esta-em-um-aviao-em-direcao-aos-eua-segundo-autoridade-americana-diz-agencia.ghtml)_
+
