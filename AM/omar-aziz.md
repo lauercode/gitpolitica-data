@@ -191,3 +191,6 @@
 - **[2026-10-26 15:05 UTC]** Quem é Cheila Moreira, suplente que ocupará a vaga de Omar Aziz no Senado pelo Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/quem-e-cheila-moreira-suplente-que-ocupara-a-vaga-de-omar-aziz-no-senado-pelo-amazonas.ghtml)_
 
+- **[2026-10-26 13:55 UTC]** Mapa mostra onde Omar Aziz e Professora Maria do Carmo tiveram mais votos no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/mapa-mostra-onde-omar-aziz-e-professora-maria-do-carmo-tiveram-mais-votos-no-amazonas.ghtml)_
+
