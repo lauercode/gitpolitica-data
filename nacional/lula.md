@@ -2345,3 +2345,6 @@
 - **[2026-10-26 15:22 UTC]** Lula 4 sob pressão: bolsa desaba, Flávio reage e Trump se cala
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/sem-rodeios/lula-4-sob-pressao-bolsa-desaba-flavio-reage-e-trump-se-cala/)_
 
+- **[2026-10-26 00:29 UTC]** Lula é reeleito presidente com quase 52% dos votos válidos no 2º turno
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1313705-lula-e-reeleito-presidente-com-quase-52-dos-votos-validos-no-2o-turno)_
+
