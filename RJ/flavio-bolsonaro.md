@@ -9007,3 +9007,6 @@
 - **[2026-10-26 18:44 UTC]** Análise: Mercado misturou lógica e paixão ao apostar tudo em Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/26/analise-mercado-misturou-logica-e-paixao-ao-apostar-tudo-em-flavio.ghtml)_
 
+- **[2026-10-26 17:37 UTC]** Partidos aliados de Flávio Bolsonaro reconhecem vitória de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/partidos-aliados-de-flavio-bolsonaro-reconhem-vitoria-de-lula-e-parabenizam-presidente.ghtml)_
+
