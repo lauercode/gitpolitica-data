@@ -9277,3 +9277,6 @@
 - **[2026-10-27 16:32 UTC]** Em meio à dúvida sobre paradeiro de Flávio, Paulo Figueiredo pede que imprensa pare de ligar
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/em-meio-a-duvida-sobre-paradeiro-de-flavio-paulo-figueiredo-pede-que-imprensa-pare-de-ligar/)_
 
+- **[2026-10-27 15:34 UTC]** Argentina diz não ter registro da entrada de Flávio; imprensa afirma que ele entrou a pé
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/argentina-nega-flavio-tenha-entrado-pais-pedido-asilo/)_
+
