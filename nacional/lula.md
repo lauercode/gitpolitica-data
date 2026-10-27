@@ -2423,3 +2423,6 @@
 - **[2026-10-27 03:00 UTC]** Lula se torna recordista ao igualar ex-presidente dos EUA como maior vencedor de eleições em democracias
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/27/lula-se-torna-recordista-ao-igualar-ex-presidente-dos-eua-como-maior-vencedor-de-eleicoes-em-democracias.ghtml)_
 
+- **[2026-10-26 19:51 UTC]** Após derrota, Flávio Bolsonaro diz que vai pedir cassação da chapa de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/flavio-publica-video-apos-eleicao.ghtml)_
+
