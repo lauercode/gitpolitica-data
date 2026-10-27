@@ -9241,3 +9241,6 @@
 - **[2026-10-27 14:33 UTC]** Governo Trump está ciente da saída de Flávio do Brasil e vai conceder asilo, dizem aliados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/governo-trump-esta-ciente-sobre-saida-de-flavio-bolsonaro-do-brasil-dizem-aliados.shtml)_
 
+- **[2026-10-27 14:24 UTC]** Governistas se irritam com Moraes e Lula diz estar preocupado com discurso de perseguição a Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governistas-se-irritam-com-moraes-e-lula-diz-estar-preocupado-com-discurso-de-perseguicao-a-flavio.shtml)_
+
