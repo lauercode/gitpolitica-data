@@ -11,3 +11,6 @@
 - **[2026-10-26 12:07 UTC]** 7ª zona eleitoral de Feijó (AC): votos por local de votação no 2º turno
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/7a-zona-eleitoral-de-feijo-ac-votos-por-local-de-votacao-no-2o-turno.ghtml)_
 
+- **[2026-10-26 12:01 UTC]** Aldeia Nova Floresta, 7ª zona eleitoral: resultado da votação em Feijó (AC) no 2º turno
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/aldeia-nova-floresta-7a-zona-eleitoral-resultado-da-votacao-em-feijo-ac-no-2o-turno.ghtml)_
+
