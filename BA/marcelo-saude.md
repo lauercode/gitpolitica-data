@@ -17,3 +17,6 @@
 - **[2018-01-23 16:05 UTC]** Secretaria de Saúde e Prefeitura de Valença se reúnem para discutir febre amarela
   _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/secretaria-de-saude-e-prefeitura-de-valenca-se-reunem-para-discutir-febre-amarela.ghtml)_
 
+- **[2017-07-25 08:10 UTC]** DF decide não renovar estado de emergência na Saúde, em vigor desde 2015
+  _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/df-decide-nao-renovar-estado-de-emergencia-na-saude-em-vigor-desde-2015.ghtml)_
+
