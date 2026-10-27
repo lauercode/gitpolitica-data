@@ -26,3 +26,6 @@
 - **[2026-10-08 13:23 UTC]** Malafaia sobrevive a avalanche eleitoral que vitimou lideranças religiosas e 'elege' 27
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/malafaia-sobrevive-a-avalanche-eleitoral-que-vitimou-liderancas-religiosas-e-elege-27.shtml)_
 
+- **[2026-10-27 15:44 UTC]** Fachin arquiva ações contra Eduardo Bolsonaro, Malafaia e Fiuza no inquérito das fake news
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/fachin-arquiva-inqueritos-contra-eduardo-bolsonaro-malafaia-e-fiuza.shtml)_
+
