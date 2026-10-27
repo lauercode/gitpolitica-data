@@ -194,3 +194,6 @@
 - **[2026-10-26 12:10 UTC]** Miracema do Tocantins (TO): resultado do local de votação por zonas eleitorais no 2º turno
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/miracema-do-tocantins-to-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
 
+- **[2026-10-26 12:10 UTC]** Aliança do Tocantins (TO): resultado do local de votação por zonas eleitorais no 2º turno
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/alianca-do-tocantins-to-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
+
