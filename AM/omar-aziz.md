@@ -182,3 +182,6 @@
 - **[2026-10-26 00:36 UTC]** Celina é reeleita governadora do DF e Aziz vence no Amazonas; quem são os governadores eleitos no 2º turno
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c9m2641r5rezo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 23:27 UTC]** Omar Aziz diz que vai preparar brigadas e reforçar fiscalização para combater queimadas no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/omar-aziz-diz-que-vai-preparar-brigadas-e-reforcar-fiscalizacao-para-combater-queimadas-no-am.ghtml)_
+
