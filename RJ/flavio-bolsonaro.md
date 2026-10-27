@@ -9259,3 +9259,6 @@
 - **[2026-10-27 20:42 UTC]** PF relatou a Moraes risco de Flávio deixar o Brasil para longa permanência no exterior
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-relatou-moraes-risco-flavio-deixar-brasil-longa-permanencia-exterior/)_
 
+- **[2026-10-27 20:10 UTC]** PT pede prisão preventiva de Flávio Bolsonaro e inclusão na difusão vermelha da Interpol
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pt-pede-prisao-preventiva-de-flavio-bolsonaro-e-inclusao-na-difusao-vermelha-da-interpol/)_
+
