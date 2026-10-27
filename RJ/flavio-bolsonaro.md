@@ -9274,3 +9274,6 @@
 - **[2026-10-27 20:45 UTC]** Flávio Bolsonaro deixa o Brasil e viaja aos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-confirma-flavio-bolsonaro-deixou-brasil/)_
 
+- **[2026-10-27 16:32 UTC]** Em meio à dúvida sobre paradeiro de Flávio, Paulo Figueiredo pede que imprensa pare de ligar
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/em-meio-a-duvida-sobre-paradeiro-de-flavio-paulo-figueiredo-pede-que-imprensa-pare-de-ligar/)_
+
