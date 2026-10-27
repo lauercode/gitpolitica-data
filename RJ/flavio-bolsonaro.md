@@ -9145,3 +9145,6 @@
 - **[2026-10-26 18:14 UTC]** Lula vence em três cidades do Acre; Veja como presidente reeleito e Flávio se saíram no 1º e 2º turno no estado
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/veja-como-presidente-reeleito-e-flavio-se-sairam-no-1o-e-2o-turnos-no-estado.ghtml)_
 
+- **[2026-10-26 19:51 UTC]** Lula vence em 93 cidades de AL no 2º turno e Flávio em 9; veja listas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/26/lula-vence-em-93-cidades-de-al-no-2o-turno-e-flavio-em-9-veja-listas.ghtml)_
+
