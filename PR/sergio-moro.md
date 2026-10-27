@@ -152,3 +152,6 @@
 - **[2026-10-26 13:32 UTC]** Governador eleito do Paraná, Sergio Moro se manifesta sobre resultado da eleição presidencial: 'Não foi o que esperávamos'
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/26/governador-eleito-sergio-moro-manifesta-eleicoes.ghtml)_
 
+- **[2026-10-27 13:50 UTC]** Sergio Moro anuncia Aparecida de Fátima Gavioli para a Secretaria da Educação do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/10/27/sergio-moro-anuncia-secretaria-da-educacao-do-parana.ghtml)_
+
