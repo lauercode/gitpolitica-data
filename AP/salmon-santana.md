@@ -71,3 +71,6 @@
 - **[2026-10-26 11:59 UTC]** E.E. Igarape da Fortaleza, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/e-e-igarape-da-fortaleza-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
 
+- **[2026-10-26 11:59 UTC]** E.E. Maria Catarina Dantas Tiburcio, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/e-e-maria-catarina-dantas-tiburcio-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
+
