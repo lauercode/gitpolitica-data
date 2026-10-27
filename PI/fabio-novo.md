@@ -17,3 +17,6 @@
 - **[2026-10-27 08:00 UTC]** ‘Novo’ PIB pode nascer desatualizado alertam especialistas
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/27/novo-pib-pode-nascer-desatualizado-alertam-especialistas.ghtml)_
 
+- **[2026-10-26 07:28 UTC]** EEEM São José - Novo, 22ª zona eleitoral: resultado da votação em Óbidos (PA) no 2º turno
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/eeem-sao-jose-novo-22a-zona-eleitoral-resultado-da-votacao-em-obidos-pa-no-2o-turno.ghtml)_
+
