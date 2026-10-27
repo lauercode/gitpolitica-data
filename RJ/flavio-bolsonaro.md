@@ -9001,3 +9001,6 @@
 - **[2026-10-26 19:47 UTC]** Veja as 10 cidades que mais votaram em Flávio ou Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/veja-as-10-cidades-que-mais-votaram-em-flavio-ou-lula.ghtml)_
 
+- **[2026-10-26 19:32 UTC]** Flávio Bolsonaro pediu prorrogação do horário de votação? Entenda
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/flavio-bolsonaro-pediu-prorrogacao-do-horario-de-votacao-entenda.ghtml)_
+
