@@ -2369,3 +2369,6 @@
 - **[2026-10-26 19:14 UTC]** Eleições 2026: aliados de Lula na Paraíba comemoram vitória do presidente no 2º turno
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/26/eleicoes-2026-aliados-de-lula-na-paraiba-comemoram-vitoria-do-presidente-no-2o-turno.ghtml)_
 
+- **[2026-10-26 14:15 UTC]** Apoiadores de Lula celebram na cidade mais bolsonarista do país; Flávio teve 90,56% dos votos em Nova Pádua, no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/26/nova-padua-comemoracao-lula-cidade-bolsonarista.ghtml)_
+
