@@ -9127,3 +9127,6 @@
 - **[2026-10-27 15:36 UTC]** Advogados confirmam que não localizaram Flávio para entregar passaportes e PF cancela documentos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/)_
 
+- **[2026-10-27 14:02 UTC]** Dino manda PF investigar suposto financiamento estrangeiro à campanha de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-manda-pf-investigar-suposto-financiamento-estrangeiro-a-campanha-de-flavio/)_
+
