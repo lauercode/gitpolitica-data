@@ -9103,3 +9103,6 @@
 - **[2026-10-27 12:38 UTC]** Flávio Bolsonaro descumpre determinação de Moraes e não entrega passaporte à PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-descumpre-determinacao-de-moraes-e-nao-entrega-passaporte-a-pf.shtml)_
 
+- **[2026-10-27 12:35 UTC]** Aliados de Flávio Bolsonaro são avisados de que ele fugiu do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/aliados-de-flavio-bolsonaro-sao-avisados-de-que-ele-saiu-do-brasil.shtml)_
+
