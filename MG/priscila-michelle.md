@@ -47,3 +47,6 @@
 - **[2026-10-25 21:15 UTC]** Michelle não acompanha apuração de votos ao lado de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/michelle-nao-acompanha-apuracao-de-votos-ao-lado-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-27 20:31 UTC]** Michelle e Carlos não se gostam, mas vão tentar manter bolsonarismo vivo, aponta Sérgio Abranches
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmzxl3evpl2ko?at_medium=RSS&at_campaign=rss)_
+
