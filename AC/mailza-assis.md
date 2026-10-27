@@ -92,3 +92,6 @@
 - **[2026-10-25 20:28 UTC]** Mailza Assis é reeleita governadora do Acre
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mailza-assis-e-reeleita-governadora-do-acre)_
 
+- **[2026-10-26 20:55 UTC]** Mailza Assis fala de prioridades do mandato, participação feminina no governo e articulação com bancada federal
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/mailza-assis-fala-de-prioridades-do-mandato-participacao-feminina-no-governo-e-articulacao-com-bancada-federal.ghtml)_
+
