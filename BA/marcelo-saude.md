@@ -14,3 +14,6 @@
 - **[2017-08-28 14:09 UTC]** VI Seminário Internacional de Promoção da Saúde acontece em outubro
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/08/vi-seminario-internacional-de-promocao-da-saude-acontece-em-outubro.html)_
 
+- **[2018-01-23 16:05 UTC]** Secretaria de Saúde e Prefeitura de Valença se reúnem para discutir febre amarela
+  _fonte: [G1 - Regiões: Rio de Janeiro](https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/secretaria-de-saude-e-prefeitura-de-valenca-se-reunem-para-discutir-febre-amarela.ghtml)_
+
