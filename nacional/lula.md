@@ -2417,3 +2417,6 @@
 - **[2026-10-27 03:00 UTC]** Milei é o único presidente da América do Sul que não parabenizou Lula pela vitória
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/milei-e-o-unico-presidente-da-america-do-sul-a-nao-reconhecer-vitoria-de-lula.ghtml)_
 
+- **[2026-10-27 03:00 UTC]** Presidente mais velho da história, Lula completa 81 anos nesta terça, dois dias após ser reeleito para quarto mandato
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/presidente-mais-velho-da-historia-lula-completa-81-anos-nesta-terca-dois-dias-apos-ser-reeleito-para-quarto-mandato.ghtml)_
+
