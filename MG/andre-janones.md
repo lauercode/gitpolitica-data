@@ -209,3 +209,6 @@
 - **[2026-10-27 03:00 UTC]** De escanteado a 'general' de Lula: quem é André Janones, protagonista da mobilização digital na campanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/de-escanteado-a-general-de-lula-quem-e-andre-janones-protagonista-da-mobilizacao-digital-na-campanha.ghtml)_
 
+- **[2026-10-27 10:20 UTC]** Janones, o Brizola que mandou a militância ficar sem banho
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/blogs/daniel-camargos/janones-o-brizola-que-mandou-a-militancia-ficar-sem-banho/)_
+
