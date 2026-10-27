@@ -9109,3 +9109,6 @@
 - **[2026-10-27 12:18 UTC]** Piloto diz que funcionário de aeroporto relatou presença de Flávio na lista de passageiros de jato
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/piloto-diz-que-funcionario-de-aeroporto-relatou-presenca-de-flavio-na-lista-de-passageiros-de-jato.shtml)_
 
+- **[2026-10-27 11:31 UTC]** Aliado de Flávio Bolsonaro nos EUA não confirma destino de senador e afirma que não quer falar com a imprensa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/aliado-de-flavio-bolsonaro-nos-eua-nao-confirma-destino-de-senador-e-afirma-que-nao-quer-falar-com-a-imprensa.shtml)_
+
