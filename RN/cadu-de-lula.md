@@ -206,3 +206,6 @@
 - **[2026-10-26 20:16 UTC]** Cadu de Lula começará governo com minoria na Assembleia Legislativa do RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/cadu-de-lula-comecara-governo-com-minoria-na-assembleia-legislativa-do-rn.ghtml)_
 
+- **[2026-10-26 18:07 UTC]** Governador eleito, Cadu de Lula fala em 'DNA próprio' para gestão e promete concluir duplicação da BR-304; veja entrevista
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/governador-eleito-cadu-de-lula-fala-em-dna-proprio-para-gestao-e-promete-concluir-duplicacao-da-br-304-veja-entrevista.ghtml)_
+
