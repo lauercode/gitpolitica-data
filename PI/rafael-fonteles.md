@@ -35,3 +35,6 @@
 - **[2026-10-26 18:16 UTC]** Rafael Fonteles ganha força para assumir Ministério da  Fazenda
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/26/bastidores-governador-do-piaui-rafael-fonteles-e-o-mais-cotado-no-governo-para-ministerio-da-fazenda.ghtml)_
 
+- **[2026-10-27 13:22 UTC]** Durigan diz que Rafael Fonteles é um ‘excelente nome’ para o Ministério da Fazenda
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/27/durigan-diz-que-rafael-fonteles-e-um-excelente-nome-para-o-ministerio-da-fazenda.ghtml)_
+
