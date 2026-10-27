@@ -35,3 +35,6 @@
 - **[2026-10-25 22:00 UTC]** Estudo aponta Erika Hilton e Tebet entre as mais atacadas nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/estudo-aponta-erika-hilton-e-tebet-entre-as-mais-atacadas-nas-redes.shtml)_
 
+- **[2026-10-27 17:38 UTC]** Tebet diz que Lula entendeu 'recado das ruas' e prevê governo mais aberto a aliados fora do PT
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/27/tebet-entrevista-estudio-i.ghtml)_
+
