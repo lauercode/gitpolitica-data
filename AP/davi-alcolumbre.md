@@ -509,3 +509,6 @@
 - **[2026-10-27 19:47 UTC]** União Brasil e PP contrariam aliança com Flávio e declaram apoio à reeleição de Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/uniao-pp-contrariam-alianca-flavio-apoio-reeleicao-alcolumbre/)_
 
+- **[2026-10-27 19:27 UTC]** Federação União-PP anuncia apoio à reeleição de Alcolumbre para a presidência do Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/federao-unio-pp-anuncia-apoio-reeleio-de-alcolumbre-para-a-presidncia-do-senado.ghtml)_
+
