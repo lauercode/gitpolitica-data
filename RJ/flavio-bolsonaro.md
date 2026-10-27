@@ -9286,3 +9286,6 @@
 - **[2026-10-27 16:39 UTC]** O que pesa contra Flávio Bolsonaro e por que um dos inquéritos está nas mãos de Alexandre de Moraes
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm9qz18je091o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 16:23 UTC]** Quem estava ao lado de Flávio Bolsonaro no discurso da derrota
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqn498wjp0k7o?at_medium=RSS&at_campaign=rss)_
+
