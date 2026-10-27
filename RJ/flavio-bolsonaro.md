@@ -9133,3 +9133,6 @@
 - **[2026-10-27 15:49 UTC]** Governo Lula e PF acionam Argentina por possibilidade de Flávio deixar o Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-pf-acionam-argentina-risco-flavio-deixar-brasil/)_
 
+- **[2026-10-27 16:22 UTC]** Flávio Bolsonaro não teria entregue passaporte à PF, diz fonte à BBC; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
+
