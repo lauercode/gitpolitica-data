@@ -2414,3 +2414,6 @@
 - **[2026-10-27 13:12 UTC]** Presidente chinês Xi Jinping parabeniza Lula por reeleição
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/presidente-chines-xi-jinping-parabeniza-lula-por-reeleicao)_
 
+- **[2026-10-27 03:00 UTC]** Milei é o único presidente da América do Sul que não parabenizou Lula pela vitória
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/milei-e-o-unico-presidente-da-america-do-sul-a-nao-reconhecer-vitoria-de-lula.ghtml)_
+
