@@ -227,3 +227,6 @@
 - **[2026-10-26 12:09 UTC]** Monte Santo do Tocantins (TO): resultado do local de votação por zonas eleitorais no 2º turno
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/monte-santo-do-tocantins-to-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
 
+- **[2026-10-26 12:08 UTC]** Bandeirantes do Tocantins (TO): resultado do local de votação por zonas eleitorais no 2º turno
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/bandeirantes-do-tocantins-to-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
+
