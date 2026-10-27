@@ -9178,3 +9178,6 @@
 - **[2026-10-27 16:26 UTC]** Aliado de Trump diz que Flávio Bolsonaro chegou aos EUA
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/aliado-de-trump-diz-que-flavio-bolsonaro-chegou-aos-eua)_
 
+- **[2026-10-27 16:19 UTC]** Flávio Bolsonaro foge para os Estados Unidos, diz Agência Reuters
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/flavio-bolsonaro-foge-para-os-estados-unidos-diz-agencia-reuters)_
+
