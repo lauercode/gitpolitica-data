@@ -26,3 +26,6 @@
 - **[2026-10-15 21:12 UTC]** Governador eleito do Pará, Daniel Santos anuncia equipe de transição; veja nomes
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/15/governador-eleito-do-para-daniel-santos-anuncia-equipe-de-transicao-veja-nomes.ghtml)_
 
+- **[2026-10-26 19:58 UTC]** Governador eleito do Pará, Daniel Santos parabeniza Lula e Alckmin por reeleição
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/governador-eleito-do-para-daniel-santos-parabeniza-lula-e-alckmin-por-reeleicao.ghtml)_
+
