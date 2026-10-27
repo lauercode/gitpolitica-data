@@ -8971,3 +8971,6 @@
 - **[2026-10-26 18:27 UTC]** Imprensa internacional vê na vitória de Lula sobre Flávio fórmula para derrotar extrema direita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/imprensa-internacional-ve-na-vitoria-de-lula-sobre-flavio-formula-para-derrotar-extrema-direita.shtml)_
 
+- **[2026-10-26 16:56 UTC]** Flávio Bolsonaro tem passaportes cancelados por ordem de Moraes e fica proibido de deixar o país
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-pf-apreendeu-seu-passaporte-e-que-esta-proibido-de-deixar-o-pais.shtml)_
+
