@@ -2441,3 +2441,6 @@
 - **[2026-10-27 08:00 UTC]** Por que Rondônia deu vitória total a Flávio Bolsonaro, mas teve maior salto de votos para Lula no Norte?
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/27/lula-cresce-no-2o-turno-em-rondonia-mas-estado-mantem-vitoria-de-flavio-em-todos-os-municipios.ghtml)_
 
+- **[2026-10-27 18:24 UTC]** É #FAKE que vídeo de Flávio Bolsonaro chorando foi divulgado após derrota para Lula no segundo turno da eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/27/e-fake-que-video-de-flavio-bolsonaro-chorando-foi-divulgado-apos-derrota-para-lula-no-segundo-turno-da-eleicao.ghtml)_
+
