@@ -8998,3 +8998,6 @@
 - **[2026-10-26 19:54 UTC]** Alexandre de Moraes manda Flávio Bolsonaro entregar passaportes e proíbe contato com Willer Tomaz
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/26/flavio-bolsonaro-diz-que-foi-intimado-e-entregara-passaportes-a-policia-federal.ghtml)_
 
+- **[2026-10-26 19:47 UTC]** Veja as 10 cidades que mais votaram em Flávio ou Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/veja-as-10-cidades-que-mais-votaram-em-flavio-ou-lula.ghtml)_
+
