@@ -8950,3 +8950,6 @@
 - **[2026-10-26 20:20 UTC]** Líder do PL desiste de disputar presidência da Câmara após derrota de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/lider-do-pl-desiste-de-disputar-presidencia-da-camara-apos-derrota-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-26 19:56 UTC]** A derrota de Flávio é uma oportunidade para a direita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/a-derrota-de-flavio-e-uma-oportunidade-para-a-direita.shtml)_
+
