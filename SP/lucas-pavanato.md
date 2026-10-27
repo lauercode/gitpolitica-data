@@ -44,3 +44,6 @@
 - **[2026-10-27 10:27 UTC]** Pavanato pede que apoiadores de Flávio não participem de atos “que não sejam oficiais”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pavanato-pede-que-apoiadores-de-flavio-nao-participe-de-atos-que-nao-sejam-oficiais/)_
 
+- **[2026-10-27 12:27 UTC]** MPSP instaura inquérito para investigar vereador Lucas Pavanato
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpsp-instaura-inquerito-para-investigar-vereador-lucas-pavanato)_
+
