@@ -50,3 +50,6 @@
 - **[2026-10-26 12:06 UTC]** Rolim de Moura (RO): resultado do local de votação por zonas eleitorais no 2º turno
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/26/rolim-de-moura-ro-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
 
+- **[2026-10-26 11:58 UTC]** 29ª zona eleitoral de Rolim de Moura (RO): votos por local de votação no 2º turno
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/26/29a-zona-eleitoral-de-rolim-de-moura-ro-votos-por-local-de-votacao-no-2o-turno.ghtml)_
+
