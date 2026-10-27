@@ -9292,3 +9292,6 @@
 - **[2026-10-27 18:10 UTC]** RS tem sete das 10 cidades com maiores percentuais de votos em Flávio Bolsonaro
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/27/maiores-percentuais-votos-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-27 20:50 UTC]** Eduardo Bolsonaro: relembre por que irmão de Flávio saiu do Brasil
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/eduardo-bolsonaro-relembre-por-que-irmao-de-flavio-saiu-do-brasil.ghtml)_
+
