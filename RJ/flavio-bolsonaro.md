@@ -9073,3 +9073,6 @@
 - **[2026-10-26 13:30 UTC]** Lula vence em Crixás do Tocantins após empate com Flávio Bolsonaro no 1º turno
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/lula-vence-em-crixas-do-tocantins-apos-empate-com-flavio-bolsonaro-no-1o-turno.ghtml)_
 
+- **[2026-10-27 12:52 UTC]** Polícia Federal cancela passaportes de Flávio Bolsonaro
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policia-federal-cancela-passaportes-de-flavio-bolsonaro)_
+
