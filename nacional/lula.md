@@ -2402,3 +2402,6 @@
 - **[2026-10-27 04:00 UTC]** Steve Bannon insiste em vitória de Flávio e diz que Trump deve isolar 'regime marxista' de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/steve-bannon-insiste-em-vitoria-de-flavio-e-diz-que-trump-deve-isolar-regime-marxista-de-lula.shtml)_
 
+- **[2026-10-27 06:00 UTC]** Lula cresceu em cidades onde Flávio participou de 'Bloco do 22' com Nikolas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-cresceu-em-cidades-onde-flavio-participou-de-bloco-do-22-com-nikolas.shtml)_
+
