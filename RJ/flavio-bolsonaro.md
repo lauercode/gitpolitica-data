@@ -8962,3 +8962,6 @@
 - **[2026-10-26 19:07 UTC]** Entenda em cinco pontos a ligação entre Willer Tomaz e Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/entenda-em-cinco-pontos-a-ligacao-entre-willer-tomaz-e-flavio-bolsonaro.shtml)_
 
+- **[2026-10-26 18:58 UTC]** Ministros do STF se surpreendem com decisão de Moraes sobre Flávio e temem por acirramento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ministros-do-stf-se-surpreendem-com-decisao-de-moraes-sobre-flavio-e-temem-por-acirramento.shtml)_
+
