@@ -11,3 +11,6 @@
 - **[2026-09-25 21:39 UTC]** Quaest em AL: Lula, 44%; Flávio Bolsonaro, 32%
   _fonte: [G1 - Política:](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/25/quaest-al-presidente-de-25-de-setembro.ghtml)_
 
+- **[2026-10-26 19:51 UTC]** Lula vence em 93 cidades de AL no 2º turno e Flávio em 9; veja listas
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/26/lula-vence-em-93-cidades-de-al-no-2o-turno-e-flavio-em-9-veja-listas.ghtml)_
+
