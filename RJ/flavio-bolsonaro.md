@@ -9232,3 +9232,6 @@
 - **[2026-10-27 15:44 UTC]** Fuga de Flávio engrossa lista de bolsonaristas que deixaram o país; relembre casos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fuga-de-flavio-engrossa-lista-de-bolsonaristas-que-deixaram-o-pais-relembre-casos.shtml)_
 
+- **[2026-10-27 15:19 UTC]** Louvor é ouvido na casa de Flávio Bolsonaro em Brasília enquanto senador é suspeito de fuga
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/louvor-e-ouvido-na-casa-de-flavio-bolsonaro-em-brasilia-enquanto-senador-e-suspeito-de-fuga.shtml)_
+
