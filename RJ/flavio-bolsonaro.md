@@ -9169,3 +9169,6 @@
 - **[2026-10-27 12:09 UTC]** Governo da Argentina nega que Flávio Bolsonaro tenha embarcado no país
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/governo-da-argentina-nega-que-flavio-bolsonaro-tenha-embarcado-no-pais/)_
 
+- **[2026-10-27 10:55 UTC]** Dino manda a PF investigar possível interferência estrangeira pró-Flávio Bolsonaro na eleição
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/dino-manda-a-pf-investigar-possivel-interferencia-estrangeira-pro-flavio-bolsonaro-na-eleicao/)_
+
