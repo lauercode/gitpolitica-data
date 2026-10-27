@@ -9025,3 +9025,6 @@
 - **[2026-10-26 23:00 UTC]** Aliados de Flávio Bolsonaro adiam mea-culpa e atribuem derrota a pacote de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aliados-de-flavio-bolsonaro-adiam-mea-culpa-e-atribuem-derrota-a-pacote-de-lula.shtml)_
 
+- **[2026-10-26 23:00 UTC]** Flávio Bolsonaro enfrentará dois inquéritos criminais sem foro especial a partir de fevereiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-enfrentara-dois-inqueritos-criminais-sem-foro-especial-a-partir-de-fevereiro.shtml)_
+
