@@ -9079,3 +9079,6 @@
 - **[2026-10-27 14:55 UTC]** Flávio Bolsonaro descumpre prazo e não entrega passaporte à PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/flavio-bolsonaro-nao-entrega-passaporte-a-pf-e-descumpre-ordem-de-moraes.ghtml)_
 
+- **[2026-10-27 14:00 UTC]** PF apura se Flávio Bolsonaro deixou o Brasil pela fronteira com a Argentina
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/27/pf-flavio-bolsonaro.ghtml)_
+
