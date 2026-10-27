@@ -9130,3 +9130,6 @@
 - **[2026-10-27 14:02 UTC]** Dino manda PF investigar suposto financiamento estrangeiro à campanha de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-manda-pf-investigar-suposto-financiamento-estrangeiro-a-campanha-de-flavio/)_
 
+- **[2026-10-27 15:49 UTC]** Governo Lula e PF acionam Argentina por possibilidade de Flávio deixar o Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-pf-acionam-argentina-risco-flavio-deixar-brasil/)_
+
