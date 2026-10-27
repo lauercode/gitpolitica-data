@@ -80,3 +80,6 @@
 - **[2026-10-26 12:10 UTC]** Monte do Carmo (TO): resultado do local de votação por zonas eleitorais no 2º turno
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/monte-do-carmo-to-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
 
+- **[2026-10-26 11:58 UTC]** Escola Municipal Professora Lucicarme do Carmo Barreto, 5ª zona eleitoral: resultado da votação em Mazagão (AP) no 2º turno
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/escola-municipal-professora-lucicarme-do-carmo-barreto-5a-zona-eleitoral-resultado-da-votacao-em-mazagao-ap-no-2o-turno.ghtml)_
+
