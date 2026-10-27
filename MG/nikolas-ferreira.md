@@ -104,3 +104,6 @@
 - **[2026-10-23 23:49 UTC]** TSE ordena que Meta apresente relatórios a cada 6 horas de posts de Nikolas Ferreira e Pablo Marçal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-fixa-multa-de-r-100-mil-a-nikolas-ferreira-e-pablo-marcal-por-post-irregular-no-fim-de-semana-da-eleicao.shtml)_
 
+- **[2026-10-26 16:23 UTC]** Nikolas Ferreira admite que chance de anular 2º turno é ‘praticamente nula’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/nikolas-ferreira-admite-que-chance-de-anular-2o-turno-e-praticamente-nula/)_
+
