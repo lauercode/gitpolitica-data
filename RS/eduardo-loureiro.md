@@ -8,3 +8,6 @@
 - **[2026-10-05 03:34 UTC]** Eleições 2026: Eduardo Loureiro (PDT) é eleito deputado estadual pelo Rio Grande do Sul
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-eduardo-loureiro-pdt-e-eleito-deputado-estadual-pelo-rio-grande-do-sul.ghtml)_
 
+- **[2026-10-26 06:09 UTC]** Escola Municipal de Ensino Fundamental José Loureiro da Silva, 72ª zona eleitoral: resultado da votação em Viamão (RS) no 2º turno
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/26/escola-municipal-de-ensino-fundamental-jose-loureiro-da-silva-72a-zona-eleitoral-resultado-da-votacao-em-viamao-rs-no-2o-turno.ghtml)_
+
