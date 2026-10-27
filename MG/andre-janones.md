@@ -200,3 +200,6 @@
 - **[2026-10-26 18:40 UTC]** Gleisi e Janones inflam militância para manter mobilização contra adversários de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gleisi-janones-inflam-militancia-manter-mobilizacao-contra-adversarios-lula/)_
 
+- **[2026-10-26 20:40 UTC]** O papel de Janones e do Exército de Lula na vitória petista
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/o-papel-de-janones-e-do-exercito-de-lula-na-vitoria-petista/)_
+
