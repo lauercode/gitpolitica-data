@@ -9016,3 +9016,6 @@
 - **[2026-10-26 18:22 UTC]** Vice de Tarcísio diz que PL agiu de forma contraditória ao contestar derrota de Flávio
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/vice-de-tarcisio-diz-que-pl-agiu-de-forma-contraditoria-ao-contestar-derrota-de-flavio/)_
 
+- **[2026-10-26 17:44 UTC]** Flávio Bolsonaro diz que foi intimado a entregar passaporte e acusa PF de ‘intimidação’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/)_
+
