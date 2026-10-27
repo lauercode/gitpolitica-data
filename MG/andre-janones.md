@@ -206,3 +206,6 @@
 - **[2026-10-26 16:00 UTC]** Ex-presidente da Colômbia enaltece atuação de Janones na reeleição de Lula: ‘Gênio’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/ex-presidente-da-colombia-enaltece-atuacao-de-janones-na-reeleicao-de-lula-genio/)_
 
+- **[2026-10-27 03:00 UTC]** De escanteado a 'general' de Lula: quem é André Janones, protagonista da mobilização digital na campanha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/de-escanteado-a-general-de-lula-quem-e-andre-janones-protagonista-da-mobilizacao-digital-na-campanha.ghtml)_
+
