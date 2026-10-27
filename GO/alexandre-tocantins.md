@@ -173,3 +173,6 @@
 - **[2026-10-26 17:15 UTC]** Vicentinho Júnior fala de articulação política e promete deixar legado na saúde após ser eleito governador do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/vicentinho-junior-fala-de-articulacao-politica-e-promete-deixar-legado-na-saude-apos-ser-eleito-governador-do-tocantins.ghtml)_
 
+- **[2026-10-26 14:41 UTC]** Vicentinho amplia votação no 2º turno e se torna o governador mais votado do Tocantins; veja evolução
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/vicentinho-amplia-votacao-no-2o-turno-e-se-torna-o-governador-mais-votado-do-tocantins-veja-evolucao.ghtml)_
+
