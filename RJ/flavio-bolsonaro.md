@@ -9136,3 +9136,6 @@
 - **[2026-10-27 16:22 UTC]** Flávio Bolsonaro não teria entregue passaporte à PF, diz fonte à BBC; siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 15:30 UTC]** Por que Flávio Bolsonaro foi intimado a entregar os passaportes?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck054vvj66g5o?at_medium=RSS&at_campaign=rss)_
+
