@@ -182,3 +182,6 @@
 - **[2026-10-26 12:22 UTC]** Resultado do 2º turno das eleições 2026 no Tocantins: como foi a votação no seu local de votação
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/resultado-do-2o-turno-das-eleicoes-2026-no-tocantins-como-foi-a-votacao-no-seu-local-de-votacao.ghtml)_
 
+- **[2026-10-26 12:11 UTC]** Ponte Alta do Tocantins (TO): resultado do local de votação por zonas eleitorais no 2º turno
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/ponte-alta-do-tocantins-to-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
+
