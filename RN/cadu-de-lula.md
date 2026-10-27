@@ -203,3 +203,6 @@
 - **[2026-10-26 21:06 UTC]** Governador de Minas diz que vitória de Lula no estado foi “erro muito grave”
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/governador-de-minas-diz-que-vitoria-de-lula-no-estado-foi-erro-muito-grave/)_
 
+- **[2026-10-26 20:16 UTC]** Cadu de Lula começará governo com minoria na Assembleia Legislativa do RN
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/cadu-de-lula-comecara-governo-com-minoria-na-assembleia-legislativa-do-rn.ghtml)_
+
