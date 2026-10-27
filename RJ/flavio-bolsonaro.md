@@ -8944,3 +8944,6 @@
 - **[2026-10-26 18:51 UTC]** Flávio é proibido de deixar o país e terá que entregar passaportes
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/flavio-e-proibido-de-deixar-o-pais-e-tera-que-entregar-passaportes)_
 
+- **[2026-10-26 20:43 UTC]** 'Não tenho estrutura emocional pra aguentar os deboches', diz Rico Melquiades após derrota de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/nao-tenho-estrutura-emocional-pra-aguentar-os-deboches-diz-rico-melquiades-apos-derrota-de-flavio-bolsonaro.shtml)_
+
