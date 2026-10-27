@@ -2420,3 +2420,6 @@
 - **[2026-10-27 03:00 UTC]** Presidente mais velho da história, Lula completa 81 anos nesta terça, dois dias após ser reeleito para quarto mandato
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/presidente-mais-velho-da-historia-lula-completa-81-anos-nesta-terca-dois-dias-apos-ser-reeleito-para-quarto-mandato.ghtml)_
 
+- **[2026-10-27 03:00 UTC]** Lula se torna recordista ao igualar ex-presidente dos EUA como maior vencedor de eleições em democracias
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/27/lula-se-torna-recordista-ao-igualar-ex-presidente-dos-eua-como-maior-vencedor-de-eleicoes-em-democracias.ghtml)_
+
