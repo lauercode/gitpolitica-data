@@ -9199,3 +9199,6 @@
 - **[2026-10-27 18:24 UTC]** É #FAKE que vídeo de Flávio Bolsonaro chorando foi divulgado após derrota para Lula no segundo turno da eleição
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/27/e-fake-que-video-de-flavio-bolsonaro-chorando-foi-divulgado-apos-derrota-para-lula-no-segundo-turno-da-eleicao.ghtml)_
 
+- **[2026-10-27 17:48 UTC]** Reuters e NYT dizem que Flávio Bolsonaro está a caminho dos EUA, segundo fontes anônimas
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/agencia-de-noticias-diz-que-flavio-bolsonaro-esta-a-caminho-dos-eua-segundo-fontes-anonimas.ghtml)_
+
