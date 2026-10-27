@@ -11,3 +11,6 @@
 - **[2026-10-26 19:32 UTC]** Confira a previsão do tempo para esta semana em Sergipe; Sertão tem máxima de 41ºC
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/26/confira-a-previsao-do-tempo-para-esta-semana-em-sergipe.ghtml)_
 
+- **[2026-10-27 16:33 UTC]** MP instaura inquérito para apurar condições precárias em escola estadual no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/27/mp-instaura-inquerito-para-apurar-condicoes-precarias-em-escola-estadual-no-sertao-da-paraiba.ghtml)_
+
