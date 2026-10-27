@@ -14,3 +14,6 @@
 - **[2026-10-25 11:41 UTC]** Após derrota nas eleições, Silvia Abravanel volta ao ar no SBT em novembro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/apos-derrota-nas-eleicoes-silvia-abravanel-volta-ao-ar-no-sbt-em-novembro.shtml)_
 
+- **[2026-10-27 12:32 UTC]** Silvia Abravanel critica Virginia e comentário sugere que avó fique com filhas dela
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/silvia-abravanel-critica-virginia-e-comentario-sugere-que-avo-fique-com-filhas-dela.shtml)_
+
