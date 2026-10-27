@@ -9301,3 +9301,6 @@
 - **[2026-10-27 19:23 UTC]** Flávio Bolsonaro foi embora para os EUA? Entenda o que se sabe sobre possível saída do Brasil
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/flavio-bolsonaro-fugiu-do-brasil-entenda-o-que-se-sabe-sobre-possivel-saida-para-os-eua.ghtml)_
 
+- **[2026-10-27 19:20 UTC]** Bastidores: Suposta saída de Flávio do país surpreende núcleo da campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/27/bastidores-suposta-saida-de-flavio-do-pais-surpreende-nucleo-da-campanha.ghtml)_
+
