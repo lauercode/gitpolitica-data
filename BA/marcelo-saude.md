@@ -23,3 +23,6 @@
 - **[2017-06-14 15:35 UTC]** Ministro da Saúde lança campanha de doação de sangue no hemocentro do DF
   _fonte: [G1 - Regiões: Distrito Federal](https://g1.globo.com/distrito-federal/noticia/ministro-da-saude-lanca-campanha-de-doacao-de-sangue-no-hemocentro-do-df.ghtml)_
 
+- **[2026-10-27 11:22 UTC]** Comissão de Saúde debate regulamentação da avaliação biopsicossocial para pessoas com diabetes
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1313407-comissao-de-saude-debate-regulamentacao-da-avaliacao-biopsicossocial-para-pessoas-com-diabetes)_
+
