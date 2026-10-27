@@ -29,3 +29,6 @@
 - **[2026-10-20 07:00 UTC]** Beatificação de vencedor do Emmy revela a aposta digital da Igreja Católica
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-toniol/2026/10/beatificacao-de-vencedor-do-emmy-revela-a-aposta-digital-da-igreja-catolica.shtml)_
 
+- **[2026-10-27 16:19 UTC]** Papa Leão 14 se reunirá com vítimas de abusos da Igreja em viagem à América do Sul
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/papa-leao-14-se-reunira-com-vitimas-de-abusos-da-igreja-em-viagem-a-america-do-sul.shtml)_
+
