@@ -9190,3 +9190,6 @@
 - **[2026-10-27 19:26 UTC]** PF apontou risco de Flávio fugir do Brasil e suspeita sobre dinheiro de Vorcaro ao pedir a Moraes apreensão de passaporte
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/pf-apontou-risco-de-flavio-bolsonaro-fugir-do-brasil-e-suspeita-sobre-destino-de-dinheiro-de-vorcaro-ao-pedir-a-moraes-apreensao-de-passaporte.ghtml)_
 
+- **[2026-10-27 19:16 UTC]** Há quatro dias, Eduardo Bolsonaro defendeu que Flávio deixasse o Brasil caso perdesse eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/ha-quatro-dias-eduardo-bolsonaro-defendeu-que-flavio-deixasse-o-brasil-caso-perdesse-eleicao.ghtml)_
+
