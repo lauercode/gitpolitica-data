@@ -8965,3 +8965,6 @@
 - **[2026-10-26 18:58 UTC]** Ministros do STF se surpreendem com decisão de Moraes sobre Flávio e temem por acirramento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ministros-do-stf-se-surpreendem-com-decisao-de-moraes-sobre-flavio-e-temem-por-acirramento.shtml)_
 
+- **[2026-10-26 18:54 UTC]** Quem estava com Flávio Bolsonaro em discurso após derrota no 2º turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-estava-com-flavio-bolsonaro-em-discurso-apos-derrota-no-2o-turno.shtml)_
+
