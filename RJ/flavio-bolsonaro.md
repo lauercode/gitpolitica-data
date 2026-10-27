@@ -8968,3 +8968,6 @@
 - **[2026-10-26 18:54 UTC]** Quem estava com Flávio Bolsonaro em discurso após derrota no 2º turno
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-estava-com-flavio-bolsonaro-em-discurso-apos-derrota-no-2o-turno.shtml)_
 
+- **[2026-10-26 18:27 UTC]** Imprensa internacional vê na vitória de Lula sobre Flávio fórmula para derrotar extrema direita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/imprensa-internacional-ve-na-vitoria-de-lula-sobre-flavio-formula-para-derrotar-extrema-direita.shtml)_
+
