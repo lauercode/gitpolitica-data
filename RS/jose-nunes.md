@@ -11,3 +11,6 @@
 - **[2026-10-06 17:29 UTC]** Resultado das eleições 2026 em Sítio Novo (RN): votação para presidente na Escola Estadual José Nunes de Carvalho, na 53ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sitio-novo-rn-votacao-para-presidente-na-escola-estadual-jose-nunes-de-carvalho-na-53a-zona-eleitoral.ghtml)_
 
+- **[2026-10-26 13:13 UTC]** Escola Estadual José Nunes de Carvalho, 53ª zona eleitoral: resultado da votação em Sítio Novo (RN) no 2º turno
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/escola-estadual-jose-nunes-de-carvalho-53a-zona-eleitoral-resultado-da-votacao-em-sitio-novo-rn-no-2o-turno-1.ghtml)_
+
