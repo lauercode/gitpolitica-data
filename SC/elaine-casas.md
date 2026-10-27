@@ -17,3 +17,6 @@
 - **[2026-09-11 18:05 UTC]** Cheia de rio alaga casas e deixa mais de 100 desabrigados em Três Barras (SC)
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/09/11/cheia-rio-alaga-casas-desabrigados-tres-barras.ghtml)_
 
+- **[2018-04-24 16:58 UTC]** Casas e terrenos não devem ser entregues este ano em Fernando de Noronha
+  _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/casas-e-terrenos-nao-devem-ser-entregues-este-ano-em-fernando-de-noronha.html)_
+
