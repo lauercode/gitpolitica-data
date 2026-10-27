@@ -188,3 +188,6 @@
 - **[2026-10-26 22:35 UTC]** O que Omar Aziz promete para o Amazonas? Veja principais propostas do governador eleito
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/o-que-omar-aziz-promete-para-o-amazonas-veja-principais-propostas-do-governador-eleito.ghtml)_
 
+- **[2026-10-26 15:05 UTC]** Quem é Cheila Moreira, suplente que ocupará a vaga de Omar Aziz no Senado pelo Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/quem-e-cheila-moreira-suplente-que-ocupara-a-vaga-de-omar-aziz-no-senado-pelo-amazonas.ghtml)_
+
