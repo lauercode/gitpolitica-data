@@ -503,3 +503,6 @@
 - **[2026-10-27 19:55 UTC]** Federação União-PP anuncia apoio a reeleição de Alcolumbre para a presidência do Senado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/federacao-uniao-pp-anuncia-apoio-a-reeleicao-de-alcolumbre-para-a-presidencia-do-senado.ghtml)_
 
+- **[2026-10-27 16:52 UTC]** União Brasil e PP apoiam reeleição de Alcolumbre para chefia do Senado e escanteiam Tereza Cristina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/uniao-brasil-e-pp-apoiam-reeleicao-de-alcolumbre-para-chefia-do-senado-e-escanteiam-tereza-cristina.shtml)_
+
