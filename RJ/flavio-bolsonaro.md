@@ -9118,3 +9118,6 @@
 - **[2026-10-27 10:45 UTC]** Dino manda PF investigar suspeita de financiamento estrangeiro à campanha de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/dino-manda-pf-investigar-suspeita-de-financiamento-estrangeiro-a-campanha-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-27 09:03 UTC]** PF rastreia fronteiras para verificar se Flávio Bolsonaro fugiu do Brasil; aliado nega
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pf-rastreia-fronteiras-para-verificar-se-flavio-bolsonaro-fugiu-do-brasil-aliado-nega.shtml)_
+
