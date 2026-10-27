@@ -9160,3 +9160,6 @@
 - **[2026-10-27 15:29 UTC]** Flávio Bolsonaro não entrega passaportes à PF no prazo determinado por Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/27/flavio-bolsonaro-nao-entrega-passaportes-no-prazo-determinado.ghtml)_
 
+- **[2026-10-27 14:25 UTC]** Serviço de imigração da Argentina nega entrada de Flávio Bolsonaro no país
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/27/servio-de-imigrao-da-argentina-nega-ingresso-de-flvio-bolsonaro-no-pas.ghtml)_
+
