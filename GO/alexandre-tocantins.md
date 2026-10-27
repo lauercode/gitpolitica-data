@@ -167,3 +167,6 @@
 - **[2026-10-25 20:06 UTC]** Vicentinho Júnior é eleito governador do estado do Tocantins
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vicentinho-junior-e-eleito-governador-do-estado-do-tocantins)_
 
+- **[2026-10-26 18:57 UTC]** Lula vence em 96 cidades do Tocantins no 2º turno e Flávio ganha em 43; veja listas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/26/lula-vence-em-96-cidades-do-tocantins-no-2o-turno-e-flavio-ganha-em-43-veja-listas.ghtml)_
+
