@@ -9310,3 +9310,6 @@
 - **[2026-10-27 17:38 UTC]** Aliados dizem que Flávio Bolsonaro foi para os Estados Unidos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/flavio-bolsonaro-esta-em-um-aviao-em-direcao-aos-eua-segundo-autoridade-americana-diz-agencia.ghtml)_
 
+- **[2026-10-27 17:11 UTC]** Jornal argentino diz que voo que seria para Flávio Bolsonaro foi cancelado após passageiro passar mal
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/jornal-argentino-diz-que-voo-que-seria-para-flavio-bolsonaro-foi-cancelado-apos-passageiro-passar-mal.ghtml)_
+
