@@ -8953,3 +8953,6 @@
 - **[2026-10-26 19:56 UTC]** A derrota de Flávio é uma oportunidade para a direita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/a-derrota-de-flavio-e-uma-oportunidade-para-a-direita.shtml)_
 
+- **[2026-10-26 19:51 UTC]** PL reconhece derrota para Lula, e Flávio Bolsonaro diz que vai liderar oposição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-reconhece-derrota-para-lula-e-flavio-bolsonaro-diz-que-vai-liderar-oposicao.shtml)_
+
