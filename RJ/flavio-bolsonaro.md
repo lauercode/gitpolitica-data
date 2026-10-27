@@ -8941,3 +8941,6 @@
 - **[2026-10-26 08:44 UTC]** Flávio Bolsonaro diz que vai pedir anulação das eleições
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/flavio-bolsonaro-diz-que-vai-pedir-anulacao-das-eleicoes)_
 
+- **[2026-10-26 18:51 UTC]** Flávio é proibido de deixar o país e terá que entregar passaportes
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/flavio-e-proibido-de-deixar-o-pais-e-tera-que-entregar-passaportes)_
+
