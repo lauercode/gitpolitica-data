@@ -200,3 +200,6 @@
 - **[2026-10-26 06:01 UTC]** Dois dos três aliados de Lula que concorriam a governador no 2º turno se elegeram
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/aliados-lula-governador-segundo-turno.ghtml)_
 
+- **[2026-10-26 21:06 UTC]** Governador de Minas diz que vitória de Lula no estado foi “erro muito grave”
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/governador-de-minas-diz-que-vitoria-de-lula-no-estado-foi-erro-muito-grave/)_
+
