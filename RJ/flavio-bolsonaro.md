@@ -9316,3 +9316,6 @@
 - **[2026-10-27 16:58 UTC]** Aliado de Trump diz que fuga de Flávio Bolsonaro foi articulada por Marco Rubio
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/aliado-de-trump-diz-que-fuga-de-flavio-bolsonaro-foi-articulada-por-marco-rubio/)_
 
+- **[2026-10-27 16:30 UTC]** Flávio Bolsonaro repete os passos do pai ao fugir do Brasil após derrota para Lula
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-repete-os-passos-do-pai-ao-fugir-do-brasil-apos-derrota-para-lula/)_
+
