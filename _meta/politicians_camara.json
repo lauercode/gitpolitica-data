@@ -2866,17 +2866,6 @@
     "camara_id": 141464
   },
   {
-    "slug": "jose-carlos-araujo",
-    "name": "José Carlos Araujo",
-    "role": "Deputado(a) Federal (BA)",
-    "party": "DC",
-    "aliases": [
-      "José Carlos Araujo",
-      "Araujo"
-    ],
-    "camara_id": 74140
-  },
-  {
     "slug": "jose-medeiros",
     "name": "José Medeiros",
     "role": "Deputado(a) Federal (MT)",
@@ -3180,6 +3169,17 @@
       "Borges"
     ],
     "camara_id": 220566
+  },
+  {
+    "slug": "leo-prates",
+    "name": "Leo Prates",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Leo Prates",
+      "Prates"
+    ],
+    "camara_id": 80815
   },
   {
     "slug": "leonardo-gadelha",
