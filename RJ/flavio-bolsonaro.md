@@ -9250,3 +9250,6 @@
 - **[2026-10-27 13:52 UTC]** Deputados do PT pedem prisão de Flávio Bolsonaro e alerta vermelho da Interpol
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/deputados-do-pt-pedem-prisao-de-flavio-bolsonaro-e-alerta-vermelho-da-interpol.shtml)_
 
+- **[2026-10-27 13:51 UTC]** O que se sabe sobre a possível fuga de Flávio Bolsonaro após derrota nas eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/o-que-se-sabe-sobre-a-possivel-fuga-de-flavio-bolsonaro-apos-derrota-nas-eleicoes.shtml)_
+
