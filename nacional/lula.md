@@ -2351,3 +2351,6 @@
 - **[2026-10-26 19:51 UTC]** PL reconhece derrota para Lula, e Flávio Bolsonaro diz que vai liderar oposição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-reconhece-derrota-para-lula-e-flavio-bolsonaro-diz-que-vai-liderar-oposicao.shtml)_
 
+- **[2026-10-26 19:29 UTC]** Liderança evangélica previu que Flávio perderia para Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/10/lideranca-evangelica-previu-que-flavio-perderia-para-lula.shtml)_
+
