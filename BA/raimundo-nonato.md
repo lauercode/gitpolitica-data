@@ -20,3 +20,6 @@
 - **[2026-10-06 22:29 UTC]** Resultado das eleições 2026 em Rafael Godeiro (RN): votação para presidente na Escola de 1 e 2 Grau Professor Raimundo Nonato de Lima, na 37ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-rafael-godeiro-rn-votacao-para-presidente-na-escola-de-1-e-2-grau-professor-raimundo-nonato-de-lima-na-37a-zona-eleitoral.ghtml)_
 
+- **[2026-10-26 10:27 UTC]** Escola Municipal São Raimundo Nonato, 20ª zona eleitoral: resultado da votação em Viana (MA) no 2º turno
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-municipal-sao-raimundo-nonato-20a-zona-eleitoral-resultado-da-votacao-em-viana-ma-no-2o-turno.ghtml)_
+
