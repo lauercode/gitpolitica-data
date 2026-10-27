@@ -9094,3 +9094,6 @@
 - **[2026-10-26 20:40 UTC]** Polícia vai investigar vídeo em que homem negro aparece acorrentado em ato de apoio a Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/26/investigacao-acorrentado-barra.ghtml)_
 
+- **[2026-10-26 19:51 UTC]** Após derrota, Flávio Bolsonaro diz que vai pedir cassação da chapa de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/26/flavio-publica-video-apos-eleicao.ghtml)_
+
