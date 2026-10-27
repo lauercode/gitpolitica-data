@@ -2384,3 +2384,6 @@
 - **[2026-10-26 16:00 UTC]** Ex-presidente da Colômbia enaltece atuação de Janones na reeleição de Lula: ‘Gênio’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/ex-presidente-da-colombia-enaltece-atuacao-de-janones-na-reeleicao-de-lula-genio/)_
 
+- **[2026-10-26 21:38 UTC]** PL, partido de Flávio, reconhece vitória de Lula nas eleições
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/partido-de-flavio-pl-reconhece-vitoria-de-lula-nas-eleicoes)_
+
