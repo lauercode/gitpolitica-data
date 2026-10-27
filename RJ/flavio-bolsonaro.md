@@ -8938,3 +8938,6 @@
 - **[2026-10-26 20:45 UTC]** Partido de Flávio, PL reconhece resultado da eleição presidencial
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/partido-de-flavio-pl-reconhece-resultado-da-eleicao-presidencial)_
 
+- **[2026-10-26 08:44 UTC]** Flávio Bolsonaro diz que vai pedir anulação das eleições
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/flavio-bolsonaro-diz-que-vai-pedir-anulacao-das-eleicoes)_
+
