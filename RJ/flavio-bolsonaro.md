@@ -9196,3 +9196,6 @@
 - **[2026-10-27 18:53 UTC]** Veja quais são as investigações contra Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/quais-sao-as-investigacoes-contra-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-27 18:24 UTC]** É #FAKE que vídeo de Flávio Bolsonaro chorando foi divulgado após derrota para Lula no segundo turno da eleição
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/27/e-fake-que-video-de-flavio-bolsonaro-chorando-foi-divulgado-apos-derrota-para-lula-no-segundo-turno-da-eleicao.ghtml)_
+
