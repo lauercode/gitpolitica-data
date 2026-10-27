@@ -9046,3 +9046,6 @@
 - **[2026-10-26 18:32 UTC]** Lula vira em Galinhos e vence em 166 municípios do RN; Flávio ganha apenas em Parnamirim
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/lula-vira-em-galinhos-e-vence-em-166-municipios-do-rn-flavio-ganha-apenas-em-parnamirim.ghtml)_
 
+- **[2026-10-26 18:04 UTC]** Lula amplia vantagem e recebe 175 mil votos a mais no segundo turno no RN; Flávio ganha 16,9 mil
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/lula-amplia-vantagem-e-recebe-175-mil-votos-a-mais-no-segundo-turno-no-rn-flavio-ganha-169-mil.ghtml)_
+
