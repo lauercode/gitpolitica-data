@@ -9028,3 +9028,6 @@
 - **[2026-10-26 23:00 UTC]** Flávio Bolsonaro enfrentará dois inquéritos criminais sem foro especial a partir de fevereiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-enfrentara-dois-inqueritos-criminais-sem-foro-especial-a-partir-de-fevereiro.shtml)_
 
+- **[2026-10-26 23:00 UTC]** Fintech cancelou por irregularidades conta de Willer Tomaz, amigo de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/fintech-cancelou-por-irregularidades-conta-de-willer-tomaz-amigo-de-flavio-bolsonaro.shtml)_
+
