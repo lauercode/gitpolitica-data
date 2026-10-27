@@ -65,3 +65,6 @@
 - **[2026-10-26 12:00 UTC]** E.E. Foz do Rio Pirativa, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/e-e-foz-do-rio-pirativa-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
 
+- **[2026-10-26 12:00 UTC]** E.M. Prof. Iranilde, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/e-m-prof-iranilde-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
+
