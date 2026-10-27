@@ -9193,3 +9193,6 @@
 - **[2026-10-27 19:16 UTC]** Há quatro dias, Eduardo Bolsonaro defendeu que Flávio deixasse o Brasil caso perdesse eleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/ha-quatro-dias-eduardo-bolsonaro-defendeu-que-flavio-deixasse-o-brasil-caso-perdesse-eleicao.ghtml)_
 
+- **[2026-10-27 18:53 UTC]** Veja quais são as investigações contra Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/quais-sao-as-investigacoes-contra-flavio-bolsonaro.ghtml)_
+
