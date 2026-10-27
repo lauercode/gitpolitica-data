@@ -251,3 +251,6 @@
 - **[2026-10-26 15:14 UTC]** Segundo turno das eleições registra menor abstenção em 20 anos
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/segundo-turno-das-eleicoes-registra-menor-abstencao-em-20-anos)_
 
+- **[2026-10-26 11:31 UTC]** Segundo turno das Eleições 2026 em Santa Catarina: votação, apuração e resultados
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-santa-catarina-votacao-apuracao-resultados.ghtml)_
+
