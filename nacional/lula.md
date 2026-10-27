@@ -2450,3 +2450,6 @@
 - **[2026-10-27 14:24 UTC]** Governistas se irritam com Moraes e Lula diz estar preocupado com discurso de perseguição a Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governistas-se-irritam-com-moraes-e-lula-diz-estar-preocupado-com-discurso-de-perseguicao-a-flavio.shtml)_
 
+- **[2026-10-27 16:30 UTC]** Flávio Bolsonaro repete os passos do pai ao fugir do Brasil após derrota para Lula
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-repete-os-passos-do-pai-ao-fugir-do-brasil-apos-derrota-para-lula/)_
+
