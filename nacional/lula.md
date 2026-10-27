@@ -2435,3 +2435,6 @@
 - **[2026-10-26 13:08 UTC]** Lula vence em 57 municípios do Amazonas; Flávio ganha em Manaus e outras quatro cidades
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/lula-vence-em-57-municipios-do-amazonas-flavio-ganha-em-manaus-e-outras-quatro-cidades.ghtml)_
 
+- **[2026-10-26 13:06 UTC]** Lula vence em 96 cidades do Pará e Flávio Bolsonaro em 48
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/2-turno-eleicoes-2026-lula-vence-em-96-cidades-do-para-e-flavio-bolsonaro-em-48.ghtml)_
+
