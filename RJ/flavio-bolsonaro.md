@@ -9262,3 +9262,6 @@
 - **[2026-10-27 20:10 UTC]** PT pede prisão preventiva de Flávio Bolsonaro e inclusão na difusão vermelha da Interpol
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pt-pede-prisao-preventiva-de-flavio-bolsonaro-e-inclusao-na-difusao-vermelha-da-interpol/)_
 
+- **[2026-10-27 19:47 UTC]** União Brasil e PP contrariam aliança com Flávio e declaram apoio à reeleição de Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/uniao-pp-contrariam-alianca-flavio-apoio-reeleicao-alcolumbre/)_
+
