@@ -9289,3 +9289,6 @@
 - **[2026-10-27 16:23 UTC]** Quem estava ao lado de Flávio Bolsonaro no discurso da derrota
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqn498wjp0k7o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 18:10 UTC]** RS tem sete das 10 cidades com maiores percentuais de votos em Flávio Bolsonaro
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/27/maiores-percentuais-votos-flavio-bolsonaro.ghtml)_
+
