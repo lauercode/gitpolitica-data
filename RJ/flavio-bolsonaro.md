@@ -9088,3 +9088,6 @@
 - **[2026-10-27 13:06 UTC]** Dino manda PF investigar suposto financiamento estrangeiro na campanha de Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/flavio-dino-determinaapuracao-sobre-possivel-interferencia-estrangeira-nas-eleicoes.ghtml)_
 
+- **[2026-10-26 22:17 UTC]** PL, partido de Flávio Bolsonaro, reconhece resultado da eleição, mas cobra esclarecimentos
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/pl-reconhece-resultado-das-eleicoes.ghtml)_
+
