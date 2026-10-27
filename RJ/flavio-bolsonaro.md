@@ -8989,3 +8989,6 @@
 - **[2026-10-26 23:19 UTC]** Para petistas, Daniella Marques, Nikolas e Marçal foram 'camisas 10 às avessas' da campanha de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/para-petistas-daniella-marques-nikolas-e-marcal-foram-camisas-10-as-avessas-da-campanha-de-flavio.ghtml)_
 
+- **[2026-10-26 22:53 UTC]** Flávio Bolsonaro revê estratégia por ser baixa chance de eleição ser anulada, dizem especialistas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/flavio-bolsonaro-reve-estrategia-por-ser-baixa-chance-de-eleicao-ser-anulada-dizem-especialistas.ghtml)_
+
