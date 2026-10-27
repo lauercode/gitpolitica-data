@@ -9208,3 +9208,6 @@
 - **[2026-10-27 14:55 UTC]** Flávio Bolsonaro descumpre ordem de Moraes e não entrega passaporte à PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/flavio-bolsonaro-nao-entrega-passaporte-a-pf-e-descumpre-ordem-de-moraes.ghtml)_
 
+- **[2026-10-27 17:43 UTC]** Deputada do PSOL pede ao STF bloqueio de bens de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/deputada-do-psol-pede-ao-stf-bloqueio-de-bens-de-flavio-bolsonaro.shtml)_
+
