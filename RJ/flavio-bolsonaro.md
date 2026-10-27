@@ -9142,3 +9142,6 @@
 - **[2026-10-27 16:18 UTC]** Por que investigação contra Flávio Bolsonaro deve continuar com Moraes mesmo com perda de foro privilegiado
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm9qz18je091o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 18:14 UTC]** Lula vence em três cidades do Acre; Veja como presidente reeleito e Flávio se saíram no 1º e 2º turno no estado
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/veja-como-presidente-reeleito-e-flavio-se-sairam-no-1o-e-2o-turnos-no-estado.ghtml)_
+
