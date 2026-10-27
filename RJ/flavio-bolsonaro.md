@@ -9268,3 +9268,6 @@
 - **[2026-10-27 18:49 UTC]** Aliados de Flávio justificam viagem aos EUA como perseguição e exílio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aliados-flavio-justificam-viagem-eua-perseguicao-exilio/)_
 
+- **[2026-10-27 18:40 UTC]** Advogado ligado a Trump diz que Flávio chegou aos EUA e que Rubio arquitetou saída
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/advogado-ligado-trump-diz-flavio-chegou-eua-rubio-arquitetou-saida/)_
+
