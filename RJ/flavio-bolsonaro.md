@@ -8986,3 +8986,6 @@
 - **[2026-10-26 14:15 UTC]** Apoiadores de Lula celebram na cidade mais bolsonarista do país; Flávio teve 90,56% dos votos em Nova Pádua, no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/26/nova-padua-comemoracao-lula-cidade-bolsonarista.ghtml)_
 
+- **[2026-10-26 23:19 UTC]** Para petistas, Daniella Marques, Nikolas e Marçal foram 'camisas 10 às avessas' da campanha de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/para-petistas-daniella-marques-nikolas-e-marcal-foram-camisas-10-as-avessas-da-campanha-de-flavio.ghtml)_
+
