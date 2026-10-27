@@ -2447,3 +2447,6 @@
 - **[2026-10-27 15:00 UTC]** Flávio teve zero voto em 106 urnas, nas quais Lula somou quase 15 mil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-teve-zero-voto-em-106-urnas-nas-quais-somou-quase-15-mil.shtml)_
 
+- **[2026-10-27 14:24 UTC]** Governistas se irritam com Moraes e Lula diz estar preocupado com discurso de perseguição a Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governistas-se-irritam-com-moraes-e-lula-diz-estar-preocupado-com-discurso-de-perseguicao-a-flavio.shtml)_
+
