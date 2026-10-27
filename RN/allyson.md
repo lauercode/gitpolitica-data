@@ -11,3 +11,6 @@
 - **[2026-10-24 22:19 UTC]** Quaest no RN, votos válidos: Allyson, 51%; Cadu de Lula, 49%
   _fonte: [G1 - Política:](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/24/quaest-rn-governador-segundo-turno-24-outubro.ghtml)_
 
+- **[2026-10-26 14:15 UTC]** Cadu de Lula vence em 118 cidades do RN; Allyson ganha em Natal e Mossoró
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/cidades-mais-votos-allyson-bezerra-cadu-de-lula.ghtml)_
+
