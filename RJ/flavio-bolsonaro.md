@@ -9298,3 +9298,6 @@
 - **[2026-10-27 20:01 UTC]** Flávio Bolsonaro e mais: relembre aliados que também saíram do Brasil para os EUA em meio a investigações
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/flavio-e-mais-relembre-aliados-bolsonaristas-que-tambem-sairam-do-brasil-em-meio-a-investigacoes.ghtml)_
 
+- **[2026-10-27 19:23 UTC]** Flávio Bolsonaro foi embora para os EUA? Entenda o que se sabe sobre possível saída do Brasil
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/flavio-bolsonaro-fugiu-do-brasil-entenda-o-que-se-sabe-sobre-possivel-saida-para-os-eua.ghtml)_
+
