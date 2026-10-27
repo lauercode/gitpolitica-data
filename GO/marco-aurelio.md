@@ -26,3 +26,6 @@
 - **[2026-10-25 23:31 UTC]** Marco Aurélio, ex-presidente do STF, critica ordem de Zanin e diz que eleitor deve chegar no horário correto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/marco-aurelio-ex-presidente-do-stf-critica-ordem-de-zanin-e-diz-que-eleitor-deve-chegar-no-horario-correto.shtml)_
 
+- **[2026-10-27 17:04 UTC]** Flávio Bolsonaro é comparado a Marco Aurélio, de 'Vale Tudo', após fuga
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/flavio-bolsonaro-e-comparado-a-marco-aurelio-de-vale-tudo-apos-fuga-do-pais.shtml)_
+
