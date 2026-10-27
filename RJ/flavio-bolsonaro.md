@@ -9280,3 +9280,6 @@
 - **[2026-10-27 15:34 UTC]** Argentina diz não ter registro da entrada de Flávio; imprensa afirma que ele entrou a pé
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/argentina-nega-flavio-tenha-entrado-pais-pedido-asilo/)_
 
+- **[2026-10-27 20:53 UTC]** Defesa de Flávio Bolsonaro sobre possível saída do Brasil: 'Estamos no escuro'; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
+
