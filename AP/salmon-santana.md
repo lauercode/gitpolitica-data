@@ -89,3 +89,6 @@
 - **[2026-10-26 11:59 UTC]** E.E. Fonte Nova, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/e-e-fonte-nova-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
 
+- **[2026-10-26 11:58 UTC]** E.M. Professora Maria Ilnah de Souza, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/e-m-professora-maria-ilnah-de-souza-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
+
