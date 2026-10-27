@@ -9064,3 +9064,6 @@
 - **[2026-10-27 06:00 UTC]** Lula cresceu em cidades onde Flávio participou de 'Bloco do 22' com Nikolas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-cresceu-em-cidades-onde-flavio-participou-de-bloco-do-22-com-nikolas.shtml)_
 
+- **[2026-10-27 10:27 UTC]** Pavanato pede que apoiadores de Flávio não participem de atos “que não sejam oficiais”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pavanato-pede-que-apoiadores-de-flavio-nao-participe-de-atos-que-nao-sejam-oficiais/)_
+
