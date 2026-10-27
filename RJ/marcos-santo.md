@@ -23,3 +23,6 @@
 - **[2026-10-27 08:00 UTC]** Receita cresce mais no Piauí e Espírito Santo
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/27/receita-cresce-mais-no-piaui-e-espirito-santo.ghtml)_
 
+- **[2026-10-26 10:48 UTC]** E. M. Divino Espírito Santo, 4ª zona eleitoral: resultado da votação em Parintins (AM) no 2º turno
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/e-m-divino-espirito-santo-4a-zona-eleitoral-resultado-da-votacao-em-parintins-am-no-2o-turno.ghtml)_
+
