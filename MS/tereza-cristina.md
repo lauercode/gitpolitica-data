@@ -23,3 +23,6 @@
 - **[2026-10-26 12:28 UTC]** Aliada de Flávio, Tereza Cristina fala em fiscalizar governo na oposição e não cita questionamento à eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aliada-de-flavio-tereza-cristina-fala-em-fiscalizar-governo-na-oposicao-e-nao-cita-questionamento-a-eleicao.shtml)_
 
+- **[2026-10-27 16:52 UTC]** União Brasil e PP apoiam reeleição de Alcolumbre para chefia do Senado e escanteiam Tereza Cristina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/uniao-brasil-e-pp-apoiam-reeleicao-de-alcolumbre-para-chefia-do-senado-e-escanteiam-tereza-cristina.shtml)_
+
