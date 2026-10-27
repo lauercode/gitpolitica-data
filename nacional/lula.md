@@ -2396,3 +2396,6 @@
 - **[2026-10-26 13:26 UTC]** Como é Marquinho (PR), a única cidade do Brasil onde Lula e Flávio Bolsonaro empataram no 2º turno
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/26/cidade-parana-empata-votacao-presidente.ghtml)_
 
+- **[2026-10-27 05:00 UTC]** Podcast discute dia seguinte à reeleição de Lula e situação política de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-discute-dia-seguinte-a-reeleicao-de-lula-e-situacao-politica-de-flavio-bolsonaro.shtml)_
+
