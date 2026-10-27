@@ -8947,3 +8947,6 @@
 - **[2026-10-26 20:43 UTC]** 'Não tenho estrutura emocional pra aguentar os deboches', diz Rico Melquiades após derrota de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/nao-tenho-estrutura-emocional-pra-aguentar-os-deboches-diz-rico-melquiades-apos-derrota-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-26 20:20 UTC]** Líder do PL desiste de disputar presidência da Câmara após derrota de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/lider-do-pl-desiste-de-disputar-presidencia-da-camara-apos-derrota-de-flavio-bolsonaro.shtml)_
+
