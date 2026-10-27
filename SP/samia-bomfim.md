@@ -17,3 +17,6 @@
 - **[2026-10-25 15:42 UTC]** Deputada Sâmia Bomfim pede prisão de Ricardo Nunes por descumprimento de ordem sobre ônibus
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/deputada-pede-prisao-de-ricardo-nunes-por-descumprimento-de-ordem-sobre-onibus.shtml)_
 
+- **[2026-10-27 16:08 UTC]** Sâmia Bomfim pede que Flávio Bolsonaro perca mandato após fuga para os EUA
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/samia-bomfim-pede-que-flavio-bolsonaro-perca-mandato-apos-fuga-para-os-eua/)_
+
