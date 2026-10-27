@@ -107,3 +107,6 @@
 - **[2026-10-26 16:23 UTC]** Nikolas Ferreira admite que chance de anular 2º turno é ‘praticamente nula’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/nikolas-ferreira-admite-que-chance-de-anular-2o-turno-e-praticamente-nula/)_
 
+- **[2026-10-27 15:24 UTC]** Nikolas Ferreira sai das urnas cotado para Presidência e com “bancada própria” no Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nikolas-ferreira-cotado-presidente-republica/)_
+
