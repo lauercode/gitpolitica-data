@@ -179,3 +179,6 @@
 - **[2026-10-15 19:51 UTC]** Amazonas ganha reforço de 29 bombeiros e nove viaturas da Força Nacional no combate a incêndios
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/15/amazonas-ganha-reforco-de-29-bombeiros-e-nove-viaturas-da-forca-nacional-no-combate-a-incendios.ghtml)_
 
+- **[2026-10-27 19:17 UTC]** Força dos EUA e geração de caixa dominam leitura de analistas sobre resultado da Gerdau
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/27/fora-dos-eua-e-gerao-de-caixa-dominam-leitura-de-analistas-sobre-resultado-da-gerdau.ghtml)_
+
