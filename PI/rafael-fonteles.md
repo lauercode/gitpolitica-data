@@ -32,3 +32,6 @@
 - **[2026-10-26 18:16 UTC]** Governador do Piauí, Rafael Fonteles é o mais cotado no governo para Ministério da Fazenda
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/26/bastidores-governador-do-piaui-rafael-fonteles-e-o-mais-cotado-no-governo-para-ministerio-da-fazenda.ghtml)_
 
+- **[2026-10-26 18:16 UTC]** Rafael Fonteles ganha força para assumir Ministério da  Fazenda
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/26/bastidores-governador-do-piaui-rafael-fonteles-e-o-mais-cotado-no-governo-para-ministerio-da-fazenda.ghtml)_
+
