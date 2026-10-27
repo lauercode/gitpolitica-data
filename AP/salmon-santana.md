@@ -11,3 +11,6 @@
 - **[2026-10-26 12:06 UTC]** 6ª zona eleitoral de Santana (AP): votos por local de votação no 2º turno
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/6a-zona-eleitoral-de-santana-ap-votos-por-local-de-votacao-no-2o-turno.ghtml)_
 
+- **[2026-10-26 12:01 UTC]** Escola Municipal Basica Paraiso da Cidadania - Biraguinho, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/escola-municipal-basica-paraiso-da-cidadania-biraguinho-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
+
