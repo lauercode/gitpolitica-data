@@ -9121,3 +9121,6 @@
 - **[2026-10-27 09:03 UTC]** PF rastreia fronteiras para verificar se Flávio Bolsonaro fugiu do Brasil; aliado nega
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pf-rastreia-fronteiras-para-verificar-se-flavio-bolsonaro-fugiu-do-brasil-aliado-nega.shtml)_
 
+- **[2026-10-27 15:34 UTC]** Argentina nega que Flávio tenha entrado no país ou pedido asilo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/argentina-nega-flavio-tenha-entrado-pais-pedido-asilo/)_
+
