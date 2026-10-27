@@ -9163,3 +9163,6 @@
 - **[2026-10-27 14:25 UTC]** Serviço de imigração da Argentina nega entrada de Flávio Bolsonaro no país
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/27/servio-de-imigrao-da-argentina-nega-ingresso-de-flvio-bolsonaro-no-pas.ghtml)_
 
+- **[2026-10-27 12:13 UTC]** Milei nega que Flávio Bolsonaro entrou na Argentina; PF apura se senador teria deixado o Brasil
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/27/pf-investiga-se-flavio-bolsonaro-fugiu-do-brasil.ghtml)_
+
