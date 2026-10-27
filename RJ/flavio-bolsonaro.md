@@ -9019,3 +9019,6 @@
 - **[2026-10-26 17:44 UTC]** Flávio Bolsonaro diz que foi intimado a entregar passaporte e acusa PF de ‘intimidação’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-diz-que-foi-intimado-a-entregar-passaporte-e-acusa-pf-de-intimidacao/)_
 
+- **[2026-10-26 21:38 UTC]** PL, partido de Flávio, reconhece vitória de Lula nas eleições
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/partido-de-flavio-pl-reconhece-vitoria-de-lula-nas-eleicoes)_
+
