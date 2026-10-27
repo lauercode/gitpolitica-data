@@ -9202,3 +9202,6 @@
 - **[2026-10-27 17:48 UTC]** Reuters e NYT dizem que Flávio Bolsonaro está a caminho dos EUA, segundo fontes anônimas
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/agencia-de-noticias-diz-que-flavio-bolsonaro-esta-a-caminho-dos-eua-segundo-fontes-anonimas.ghtml)_
 
+- **[2026-10-27 17:11 UTC]** Imprensa internacional repercute suspeita de fuga de Flávio Bolsonaro após derrota eleitoral e retomada de investigações
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/suspeita-de-fuga-de-flavio-bolsonaro-repercute-na-imprensa-internacional.ghtml)_
+
