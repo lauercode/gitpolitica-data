@@ -9172,3 +9172,6 @@
 - **[2026-10-27 10:55 UTC]** Dino manda a PF investigar possível interferência estrangeira pró-Flávio Bolsonaro na eleição
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/dino-manda-a-pf-investigar-possivel-interferencia-estrangeira-pro-flavio-bolsonaro-na-eleicao/)_
 
+- **[2026-10-27 10:42 UTC]** O que se sabe sobre a possível fuga de Flávio Bolsonaro do Brasil
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/o-que-se-sabe-sobre-a-possivel-fuga-de-flavio-bolsonaro-do-brasil/)_
+
