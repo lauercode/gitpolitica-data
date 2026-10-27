@@ -212,3 +212,6 @@
 - **[2026-10-26 14:15 UTC]** Cadu de Lula vence em 118 cidades do RN; Allyson ganha em Natal e Mossoró
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/cidades-mais-votos-allyson-bezerra-cadu-de-lula.ghtml)_
 
+- **[2026-10-26 19:58 UTC]** Governador eleito do Pará, Daniel Santos parabeniza Lula e Alckmin por reeleição
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/governador-eleito-do-para-daniel-santos-parabeniza-lula-e-alckmin-por-reeleicao.ghtml)_
+
