@@ -8935,3 +8935,6 @@
 - **[2026-10-26 17:55 UTC]** Moraes manda Flávio entregar passaporte e o proíbe de deixar o país
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais)_
 
+- **[2026-10-26 20:45 UTC]** Partido de Flávio, PL reconhece resultado da eleição presidencial
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/partido-de-flavio-pl-reconhece-resultado-da-eleicao-presidencial)_
+
