@@ -251,3 +251,6 @@
 - **[2026-10-22 05:00 UTC]** Cidade na Itália decide transferir coelhos de cemitério para evitar queixas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/cidade-na-italia-decide-transferir-coelhos-de-cemiterio-para-evitar-queixas.shtml)_
 
+- **[2026-10-26 21:14 UTC]** Queimadas no Pará podem levar fumaça ao Amazonas nos próximos dias, diz governador Roberto Cidade
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/26/queimadas-no-para-podem-levar-fumaca-ao-amazonas-nos-proximos-dias-diz-governador-roberto-cidade.ghtml)_
+
