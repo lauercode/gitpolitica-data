@@ -14,3 +14,6 @@
 - **[2026-10-27 08:00 UTC]** Novo governo terá de fazer ajuste fiscal logo no início
   _fonte: [Valor Econômico](https://valor.globo.com/opiniao/coluna/novo-governo-tera-de-fazer-ajuste-fiscal-logo-no-inicio.ghtml)_
 
+- **[2026-10-27 08:00 UTC]** ‘Novo’ PIB pode nascer desatualizado alertam especialistas
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/27/novo-pib-pode-nascer-desatualizado-alertam-especialistas.ghtml)_
+
