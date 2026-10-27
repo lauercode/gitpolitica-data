@@ -9157,3 +9157,6 @@
 - **[2026-10-27 08:00 UTC]** Por que Rondônia deu vitória total a Flávio Bolsonaro, mas teve maior salto de votos para Lula no Norte?
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/27/lula-cresce-no-2o-turno-em-rondonia-mas-estado-mantem-vitoria-de-flavio-em-todos-os-municipios.ghtml)_
 
+- **[2026-10-27 15:29 UTC]** Flávio Bolsonaro não entrega passaportes à PF no prazo determinado por Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/27/flavio-bolsonaro-nao-entrega-passaportes-no-prazo-determinado.ghtml)_
+
