@@ -17,3 +17,6 @@
 - **[2026-10-26 13:44 UTC]** Imagem original de Nª Sª de Nazaré retorna ao Glória após 16 dias e emociona fiéis em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/26/imagem-original-de-na-sa-de-nazare-retorna-ao-gloria-apos-16-dias-e-emociona-fieis-em-belem.ghtml)_
 
+- **[2026-10-26 08:00 UTC]** Recírio: última procissão deve reunir 50 mil fiéis no encerramento do Círio de Nazaré 2026, em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/26/recirio-ultima-procissao-deve-reunir-50-mil-fieis-no-encerramento-do-cirio-de-nazare-2026-em-belem.ghtml)_
+
