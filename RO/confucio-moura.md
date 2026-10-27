@@ -47,3 +47,6 @@
 - **[2026-10-13 14:53 UTC]** VÍDEO: Ônibus são destruídos por incêndio em garagem de frigorífico em Rolim de Moura, RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/13/video-onibus-sao-destruidos-por-incendio-em-garagem-de-frigorifico-em-rolim-de-moura-ro.ghtml)_
 
+- **[2026-10-26 12:06 UTC]** Rolim de Moura (RO): resultado do local de votação por zonas eleitorais no 2º turno
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/26/rolim-de-moura-ro-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
+
