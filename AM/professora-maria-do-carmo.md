@@ -128,3 +128,6 @@
 - **[2026-10-24 22:35 UTC]** Quaest no Amazonas, votos válidos: Omar Aziz, 59%; Professora Maria do Carmo, 41%
   _fonte: [G1 - Política:](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/24/quaest-amazonas-governador-segundo-turno-24-outubro.ghtml)_
 
+- **[2026-10-26 13:55 UTC]** Mapa mostra onde Omar Aziz e Professora Maria do Carmo tiveram mais votos no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/mapa-mostra-onde-omar-aziz-e-professora-maria-do-carmo-tiveram-mais-votos-no-amazonas.ghtml)_
+
