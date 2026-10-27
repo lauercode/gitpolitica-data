@@ -8932,3 +8932,6 @@
 - **[2026-10-26 15:22 UTC]** Lula 4 sob pressão: bolsa desaba, Flávio reage e Trump se cala
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/sem-rodeios/lula-4-sob-pressao-bolsa-desaba-flavio-reage-e-trump-se-cala/)_
 
+- **[2026-10-26 17:55 UTC]** Moraes manda Flávio entregar passaporte e o proíbe de deixar o país
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais)_
+
