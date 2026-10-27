@@ -9181,3 +9181,6 @@
 - **[2026-10-27 16:19 UTC]** Flávio Bolsonaro foge para os Estados Unidos, diz Agência Reuters
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/flavio-bolsonaro-foge-para-os-estados-unidos-diz-agencia-reuters)_
 
+- **[2026-10-27 13:43 UTC]** PF cancela passaportes de Flávio Bolsonaro após descumprir decisão
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/pf-cancela-passaportes-de-flavio-bolsonaro-apos-descumprir-decisao)_
+
