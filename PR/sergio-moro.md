@@ -149,3 +149,6 @@
 - **[2026-10-08 15:44 UTC]** Suplente de Moro se filia ao PL e número de senadores pró impeachment de ministros do STF chega a 50
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/suplente-de-moro-se-filia-ao-pl-e-numero-de-senadores-pro-impeachment-de-ministros-do-stf-chega-a-50.shtml)_
 
+- **[2026-10-26 13:32 UTC]** Governador eleito do Paraná, Sergio Moro se manifesta sobre resultado da eleição presidencial: 'Não foi o que esperávamos'
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/26/governador-eleito-sergio-moro-manifesta-eleicoes.ghtml)_
+
