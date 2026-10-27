@@ -56,3 +56,6 @@
 - **[2026-10-27 08:00 UTC]** Encontro em Angicos (RN) resgata Paulo Freire e coloca educação transformadora no centro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/10/encontro-em-angicos-rn-resgata-paulo-freire-e-coloca-educacao-transformadora-no-centro.shtml)_
 
+- **[2026-10-27 13:13 UTC]** RN reconhece experiência de Paulo Freire em Angicos como patrimônio cultural imaterial
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/27/rn-reconhece-experiencia-de-paulo-freire-em-angicos-como-patrimonio-cultural-imaterial.ghtml)_
+
