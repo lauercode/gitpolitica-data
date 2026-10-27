@@ -8,3 +8,6 @@
 - **[2026-10-05 05:15 UTC]** Eleições 2026: Iracema Vale (MDB) é eleita deputada federal pelo Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-iracema-vale-mdb-e-eleita-deputada-federal-pelo-maranhao.ghtml)_
 
+- **[2026-10-26 10:27 UTC]** Escola Mun. de Educ. Básica Serafim Ferreira do Vale, 78ª zona eleitoral: resultado da votação em Bom Jardim (MA) no 2º turno
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-mun-de-educ-basica-serafim-ferreira-do-vale-78a-zona-eleitoral-resultado-da-votacao-em-bom-jardim-ma-no-2o-turno.ghtml)_
+
