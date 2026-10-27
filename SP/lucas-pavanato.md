@@ -47,3 +47,6 @@
 - **[2026-10-27 12:27 UTC]** MPSP instaura inquérito para investigar vereador Lucas Pavanato
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpsp-instaura-inquerito-para-investigar-vereador-lucas-pavanato)_
 
+- **[2026-10-27 17:37 UTC]** Lucas Pavanato xinga Caetano Veloso, e cantor processa deputado eleito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/lucas-pavanato-xinga-caetano-veloso-e-cantor-processa-deputado-eleito.shtml)_
+
