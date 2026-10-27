@@ -77,3 +77,6 @@
 - **[2026-10-07 18:03 UTC]** Eduardo Braide anuncia primeiros nomes da equipe de transição para o Governo do Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/07/eduardo-braide-anuncia-primeiros-nomes-da-equipe-de-transicao-para-o-governo-do-maranhao.ghtml)_
 
+- **[2026-10-26 14:30 UTC]** Governador eleito do MA, Braide parabeniza Lula pela reeleição e diz que buscará relação produtiva com o governo federal
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/governador-eleito-do-ma-braide-parabeniza-lula-pela-reeleicao-e-diz-que-buscara-relacao-produtiva-com-o-governo-federal.ghtml)_
+
