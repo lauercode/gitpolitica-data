@@ -38,3 +38,6 @@
 - **[2026-10-26 06:10 UTC]** Pavilhão Comunitário São João Batista (Linha Santa Eugênia), 93ª zona eleitoral: resultado da votação em Venâncio Aires (RS) no 2º turno
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/26/pavilhao-comunitario-sao-joao-batista-linha-santa-eugenia-93a-zona-eleitoral-resultado-da-votacao-em-venancio-aires-rs-no-2o-turno.ghtml)_
 
+- **[2026-10-26 08:14 UTC]** São João Batista (SC): resultado do local de votação por zonas eleitorais no 2º turno
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/26/sao-joao-batista-sc-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
+
