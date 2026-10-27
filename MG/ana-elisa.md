@@ -56,3 +56,6 @@
 - **[2026-10-16 11:16 UTC]** Justiça eleitoral manda PF investigar Ana Elisa por fake news contra Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/justica-manda-pf-investigar-ana-elisa-por-fake-news-contra-flavio/)_
 
+- **[2026-10-26 21:29 UTC]** Ana Elisa atribui virada de Lula em Minas a trabalho nas ruas e nas redes, e defende diálogo com Cleitinho
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/ana-elisa-atribui-virada-de-lula-em-minas-a-trabalho-nas-ruas-e-nas-redes-e-defende-dialogo-com-cleitinho.ghtml)_
+
