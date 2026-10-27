@@ -2348,3 +2348,6 @@
 - **[2026-10-26 00:29 UTC]** Lula é reeleito presidente com quase 52% dos votos válidos no 2º turno
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1313705-lula-e-reeleito-presidente-com-quase-52-dos-votos-validos-no-2o-turno)_
 
+- **[2026-10-26 19:51 UTC]** PL reconhece derrota para Lula, e Flávio Bolsonaro diz que vai liderar oposição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pl-reconhece-derrota-para-lula-e-flavio-bolsonaro-diz-que-vai-liderar-oposicao.shtml)_
+
