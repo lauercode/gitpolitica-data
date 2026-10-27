@@ -9184,3 +9184,6 @@
 - **[2026-10-27 13:43 UTC]** PF cancela passaportes de Flávio Bolsonaro após descumprir decisão
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/pf-cancela-passaportes-de-flavio-bolsonaro-apos-descumprir-decisao)_
 
+- **[2026-10-27 19:37 UTC]** Vice de Flávio Bolsonaro, Alfredo Gaspar reconhece resultado da eleição presidencial: 'Não vamos desistir do Brasil'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/vice-flavio-bolsonaro-alfredo-gaspar-reconhece-resultado-2-turno-eleicao-presidencial.ghtml)_
+
