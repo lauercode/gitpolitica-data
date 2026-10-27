@@ -9217,3 +9217,6 @@
 - **[2026-10-27 17:04 UTC]** Flávio Bolsonaro é comparado a Marco Aurélio, de 'Vale Tudo', após fuga
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/flavio-bolsonaro-e-comparado-a-marco-aurelio-de-vale-tudo-apos-fuga-do-pais.shtml)_
 
+- **[2026-10-27 16:49 UTC]** Imprensa internacional repercute fuga de Flávio Bolsonaro do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/imprensa-internacional-repercute-fuga-de-flavio-bolsonaro-do-brasil.shtml)_
+
