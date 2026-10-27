@@ -9037,3 +9037,6 @@
 - **[2026-10-26 21:30 UTC]** Nunes entrou na campanha de Flávio e vitória de Lula aumentou em SP, diz vereador do PT
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/nunes-entrou-na-campanha-de-flavio-e-vitoria-de-lula-aumentou-em-sp-diz-vereador-do-pt.shtml)_
 
+- **[2026-10-26 15:46 UTC]** Como é Altamira do Paraná, cidade paranaense onde Lula venceu Flávio Bolsonaro por apenas um voto no 2º turno
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/26/cidade-paranaense-onde-lula-venceu-flavio-bolsonaro-por-apenas-um-voto-no-2o-turno.ghtml)_
+
