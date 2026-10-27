@@ -11,3 +11,6 @@
 - **[2017-10-19 15:01 UTC]** Operação apura fraude na compra de remédios e material pela Secretaria da Saúde do Ceará
   _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/noticia/operacao-apura-fraude-na-compra-de-remedios-e-material-pela-secretaria-da-saude-do-ceara.ghtml)_
 
+- **[2017-08-28 14:09 UTC]** VI Seminário Internacional de Promoção da Saúde acontece em outubro
+  _fonte: [G1 - Regiões: Ceará](https://g1.globo.com/ceara/especial-publicitario/unifor/ensinando-e-aprendendo/noticia/2017/08/vi-seminario-internacional-de-promocao-da-saude-acontece-em-outubro.html)_
+
