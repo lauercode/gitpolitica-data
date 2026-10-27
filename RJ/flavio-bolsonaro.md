@@ -9124,3 +9124,6 @@
 - **[2026-10-27 15:34 UTC]** Argentina nega que Flávio tenha entrado no país ou pedido asilo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/argentina-nega-flavio-tenha-entrado-pais-pedido-asilo/)_
 
+- **[2026-10-27 15:36 UTC]** Advogados confirmam que não localizaram Flávio para entregar passaportes e PF cancela documentos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/)_
+
