@@ -9154,3 +9154,6 @@
 - **[2026-10-26 13:06 UTC]** Lula vence em 96 cidades do Pará e Flávio Bolsonaro em 48
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/2-turno-eleicoes-2026-lula-vence-em-96-cidades-do-para-e-flavio-bolsonaro-em-48.ghtml)_
 
+- **[2026-10-27 08:00 UTC]** Por que Rondônia deu vitória total a Flávio Bolsonaro, mas teve maior salto de votos para Lula no Norte?
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/10/27/lula-cresce-no-2o-turno-em-rondonia-mas-estado-mantem-vitoria-de-flavio-em-todos-os-municipios.ghtml)_
+
