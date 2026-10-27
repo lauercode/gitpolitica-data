@@ -8,3 +8,6 @@
 - **[2026-10-26 12:11 UTC]** Santana (AP): resultado do local de votação por zonas eleitorais no 2º turno
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/santana-ap-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
 
+- **[2026-10-26 12:06 UTC]** 6ª zona eleitoral de Santana (AP): votos por local de votação no 2º turno
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/6a-zona-eleitoral-de-santana-ap-votos-por-local-de-votacao-no-2o-turno.ghtml)_
+
