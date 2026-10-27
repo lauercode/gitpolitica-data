@@ -9271,3 +9271,6 @@
 - **[2026-10-27 18:40 UTC]** Advogado ligado a Trump diz que Flávio chegou aos EUA e que Rubio arquitetou saída
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/advogado-ligado-trump-diz-flavio-chegou-eua-rubio-arquitetou-saida/)_
 
+- **[2026-10-27 20:45 UTC]** Flávio Bolsonaro deixa o Brasil e viaja aos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-confirma-flavio-bolsonaro-deixou-brasil/)_
+
