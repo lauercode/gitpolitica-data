@@ -9265,3 +9265,6 @@
 - **[2026-10-27 19:47 UTC]** União Brasil e PP contrariam aliança com Flávio e declaram apoio à reeleição de Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/uniao-pp-contrariam-alianca-flavio-apoio-reeleicao-alcolumbre/)_
 
+- **[2026-10-27 18:49 UTC]** Aliados de Flávio justificam viagem aos EUA como perseguição e exílio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aliados-flavio-justificam-viagem-eua-perseguicao-exilio/)_
+
