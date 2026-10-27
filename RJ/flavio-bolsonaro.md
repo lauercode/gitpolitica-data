@@ -9223,3 +9223,6 @@
 - **[2026-10-27 16:29 UTC]** 'Adeus, pátria e família' e 'onde está Wally'; memes brincam com notícia de fuga de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/adeus-patria-e-familia-e-onde-esta-wally-memes-brincam-sobre-suposta-fuga-de-flavio-bolsonaro-do-brasil.shtml)_
 
+- **[2026-10-27 16:27 UTC]** Seguranças de Flávio Bolsonaro dizem que ele não fez contato e omitiu agenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/segurancas-de-flavio-bolsonaro-dizem-que-ele-nao-fez-contato-e-omitiu-agenda.shtml)_
+
