@@ -41,3 +41,6 @@
 - **[2026-10-23 12:30 UTC]** Bancada evangélica cresce puxada por influenciadores como Nikolas e Pavanato
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bancada-evangelica-cresce-puxada-por-influenciadores-como-nikolas-e-pavanato.shtml)_
 
+- **[2026-10-27 10:27 UTC]** Pavanato pede que apoiadores de Flávio não participem de atos “que não sejam oficiais”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/pavanato-pede-que-apoiadores-de-flavio-nao-participe-de-atos-que-nao-sejam-oficiais/)_
+
