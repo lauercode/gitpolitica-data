@@ -14,3 +14,6 @@
 - **[2026-10-26 12:01 UTC]** Aldeia Nova Floresta, 7ª zona eleitoral: resultado da votação em Feijó (AC) no 2º turno
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/aldeia-nova-floresta-7a-zona-eleitoral-resultado-da-votacao-em-feijo-ac-no-2o-turno.ghtml)_
 
+- **[2026-10-26 12:01 UTC]** Universidade Federal do Acre - Ufac, 7ª zona eleitoral: resultado da votação em Feijó (AC) no 2º turno
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/universidade-federal-do-acre-ufac-7a-zona-eleitoral-resultado-da-votacao-em-feijo-ac-no-2o-turno.ghtml)_
+
