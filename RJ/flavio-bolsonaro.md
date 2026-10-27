@@ -9058,3 +9058,6 @@
 - **[2026-10-27 04:00 UTC]** Steve Bannon insiste em vitória de Flávio e diz que Trump deve isolar 'regime marxista' de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/steve-bannon-insiste-em-vitoria-de-flavio-e-diz-que-trump-deve-isolar-regime-marxista-de-lula.shtml)_
 
+- **[2026-10-27 08:00 UTC]** Moraes manda Flávio entregar passaportes
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/27/moraes-manda-flavio-entregar-passaportes.ghtml)_
+
