@@ -9055,3 +9055,6 @@
 - **[2026-10-27 05:00 UTC]** Podcast discute dia seguinte à reeleição de Lula e situação política de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-discute-dia-seguinte-a-reeleicao-de-lula-e-situacao-politica-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-27 04:00 UTC]** Steve Bannon insiste em vitória de Flávio e diz que Trump deve isolar 'regime marxista' de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/steve-bannon-insiste-em-vitoria-de-flavio-e-diz-que-trump-deve-isolar-regime-marxista-de-lula.shtml)_
+
