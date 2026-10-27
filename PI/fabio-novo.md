@@ -11,3 +11,6 @@
 - **[2026-10-26 18:18 UTC]** Novo ciclo exigirá diálogo institucional e construção de consensos, diz Absolar
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/26/novo-ciclo-exigir-dilogo-institucional-e-construo-de-consensos-diz-absolar.ghtml)_
 
+- **[2026-10-27 08:00 UTC]** Novo governo terá de fazer ajuste fiscal logo no início
+  _fonte: [Valor Econômico](https://valor.globo.com/opiniao/coluna/novo-governo-tera-de-fazer-ajuste-fiscal-logo-no-inicio.ghtml)_
+
