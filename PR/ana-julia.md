@@ -11,3 +11,6 @@
 - **[2026-10-05 01:48 UTC]** Eleições 2026: Ana Júlia (PT) é eleita deputada federal pelo Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/04/eleicoes-2026-ana-julia-pt-e-eleita-deputada-federal-pelo-parana.ghtml)_
 
+- **[2026-10-26 18:01 UTC]** Quem é Ana Júlia, deputada que viralizou ao lado de Lula no discurso de vitória
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/quem-e-ana-julia-deputada-que-viralizou-ao-lado-de-lula-no-discurso-de-vitoria.shtml)_
+
