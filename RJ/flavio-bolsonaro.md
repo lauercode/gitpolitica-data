@@ -9313,3 +9313,6 @@
 - **[2026-10-27 17:11 UTC]** Jornal argentino diz que voo que seria para Flávio Bolsonaro foi cancelado após passageiro passar mal
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/jornal-argentino-diz-que-voo-que-seria-para-flavio-bolsonaro-foi-cancelado-apos-passageiro-passar-mal.ghtml)_
 
+- **[2026-10-27 16:58 UTC]** Aliado de Trump diz que fuga de Flávio Bolsonaro foi articulada por Marco Rubio
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/aliado-de-trump-diz-que-fuga-de-flavio-bolsonaro-foi-articulada-por-marco-rubio/)_
+
