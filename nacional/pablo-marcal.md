@@ -89,3 +89,6 @@
 - **[2026-10-26 01:37 UTC]** Vídeo: antes da derrota, Pablo Marçal filmou Flávio Bolsonaro e apoiadores comemorando virada temporária em apuração; veja
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/antes-da-derrota-pablo-marcal-filmou-flavio-bolsonaro-e-apoiadores-comemorando-virada-temporaria-em-apuracao.ghtml)_
 
+- **[2026-10-26 23:19 UTC]** Para petistas, Daniella Marques, Nikolas e Marçal foram 'camisas 10 às avessas' da campanha de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/para-petistas-daniella-marques-nikolas-e-marcal-foram-camisas-10-as-avessas-da-campanha-de-flavio.ghtml)_
+
