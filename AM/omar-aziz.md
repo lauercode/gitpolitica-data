@@ -185,3 +185,6 @@
 - **[2026-10-26 23:27 UTC]** Omar Aziz diz que vai preparar brigadas e reforçar fiscalização para combater queimadas no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/omar-aziz-diz-que-vai-preparar-brigadas-e-reforcar-fiscalizacao-para-combater-queimadas-no-am.ghtml)_
 
+- **[2026-10-26 22:35 UTC]** O que Omar Aziz promete para o Amazonas? Veja principais propostas do governador eleito
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/o-que-omar-aziz-promete-para-o-amazonas-veja-principais-propostas-do-governador-eleito.ghtml)_
+
