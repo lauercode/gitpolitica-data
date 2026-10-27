@@ -41,3 +41,6 @@
 - **[2026-10-24 13:10 UTC]** Alfredo Gaspar, vice de Flávio Bolsonaro, liderou atos no Nordeste e teve presença discreta nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alfredo-gaspar-vice-de-flavio-bolsonaro-liderou-atos-no-nordeste-e-teve-presenca-discreta-nas-redes.shtml)_
 
+- **[2026-10-27 19:37 UTC]** Vice de Flávio Bolsonaro, Alfredo Gaspar reconhece resultado da eleição presidencial: 'Não vamos desistir do Brasil'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/vice-flavio-bolsonaro-alfredo-gaspar-reconhece-resultado-2-turno-eleicao-presidencial.ghtml)_
+
