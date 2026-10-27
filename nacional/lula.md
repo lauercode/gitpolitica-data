@@ -2366,3 +2366,6 @@
 - **[2026-10-26 17:23 UTC]** Partidos aliados de Flávio reconhecem a vitória de Lula; Zema fala em golpe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgx3k00d5yo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 19:14 UTC]** Eleições 2026: aliados de Lula na Paraíba comemoram vitória do presidente no 2º turno
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/26/eleicoes-2026-aliados-de-lula-na-paraiba-comemoram-vitoria-do-presidente-no-2o-turno.ghtml)_
+
