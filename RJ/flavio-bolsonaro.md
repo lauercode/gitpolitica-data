@@ -9256,3 +9256,6 @@
 - **[2026-10-27 13:33 UTC]** Flávio explorou o antipetismo, mas subestimou o antibolsonarismo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/10/flavio-explorou-o-antipetismo-mas-subestimou-o-antibolsonarismo.shtml)_
 
+- **[2026-10-27 20:42 UTC]** PF relatou a Moraes risco de Flávio deixar o Brasil para longa permanência no exterior
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-relatou-moraes-risco-flavio-deixar-brasil-longa-permanencia-exterior/)_
+
