@@ -9175,3 +9175,6 @@
 - **[2026-10-27 10:42 UTC]** O que se sabe sobre a possível fuga de Flávio Bolsonaro do Brasil
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/o-que-se-sabe-sobre-a-possivel-fuga-de-flavio-bolsonaro-do-brasil/)_
 
+- **[2026-10-27 16:26 UTC]** Aliado de Trump diz que Flávio Bolsonaro chegou aos EUA
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/aliado-de-trump-diz-que-flavio-bolsonaro-chegou-aos-eua)_
+
