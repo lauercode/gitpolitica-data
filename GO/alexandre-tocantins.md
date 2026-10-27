@@ -179,3 +179,6 @@
 - **[2026-10-26 13:30 UTC]** Lula vence em Crixás do Tocantins após empate com Flávio Bolsonaro no 1º turno
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/lula-vence-em-crixas-do-tocantins-apos-empate-com-flavio-bolsonaro-no-1o-turno.ghtml)_
 
+- **[2026-10-26 12:22 UTC]** Resultado do 2º turno das eleições 2026 no Tocantins: como foi a votação no seu local de votação
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/resultado-do-2o-turno-das-eleicoes-2026-no-tocantins-como-foi-a-votacao-no-seu-local-de-votacao.ghtml)_
+
