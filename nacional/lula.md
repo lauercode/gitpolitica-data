@@ -2393,3 +2393,6 @@
 - **[2026-10-26 15:46 UTC]** Como é Altamira do Paraná, cidade paranaense onde Lula venceu Flávio Bolsonaro por apenas um voto no 2º turno
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/26/cidade-paranaense-onde-lula-venceu-flavio-bolsonaro-por-apenas-um-voto-no-2o-turno.ghtml)_
 
+- **[2026-10-26 13:26 UTC]** Como é Marquinho (PR), a única cidade do Brasil onde Lula e Flávio Bolsonaro empataram no 2º turno
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/26/cidade-parana-empata-votacao-presidente.ghtml)_
+
