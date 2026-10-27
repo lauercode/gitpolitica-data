@@ -77,3 +77,6 @@
 - **[2026-10-25 20:06 UTC]** Vicentinho Júnior é eleito governador do estado do Tocantins
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vicentinho-junior-e-eleito-governador-do-estado-do-tocantins)_
 
+- **[2026-10-26 17:15 UTC]** Vicentinho Júnior fala de articulação política e promete deixar legado na saúde após ser eleito governador do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/vicentinho-junior-fala-de-articulacao-politica-e-promete-deixar-legado-na-saude-apos-ser-eleito-governador-do-tocantins.ghtml)_
+
