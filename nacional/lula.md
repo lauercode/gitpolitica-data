@@ -2357,3 +2357,6 @@
 - **[2026-10-26 18:27 UTC]** Imprensa internacional vê na vitória de Lula sobre Flávio fórmula para derrotar extrema direita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/imprensa-internacional-ve-na-vitoria-de-lula-sobre-flavio-formula-para-derrotar-extrema-direita.shtml)_
 
+- **[2026-10-26 22:25 UTC]** Flávio pedirá cassação da chapa de Lula e evita falar em anulação da eleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-desiste-anular-eleicao-pedira-cassacao-chapa-lula/)_
+
