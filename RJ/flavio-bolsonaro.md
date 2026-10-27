@@ -8983,3 +8983,6 @@
 - **[2026-10-26 17:23 UTC]** Partidos aliados de Flávio reconhecem a vitória de Lula; Zema fala em golpe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgx3k00d5yo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 14:15 UTC]** Apoiadores de Lula celebram na cidade mais bolsonarista do país; Flávio teve 90,56% dos votos em Nova Pádua, no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/26/nova-padua-comemoracao-lula-cidade-bolsonarista.ghtml)_
+
