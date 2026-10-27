@@ -2381,3 +2381,6 @@
 - **[2026-10-26 17:37 UTC]** Partidos aliados de Flávio Bolsonaro reconhecem vitória de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/partidos-aliados-de-flavio-bolsonaro-reconhem-vitoria-de-lula-e-parabenizam-presidente.ghtml)_
 
+- **[2026-10-26 16:00 UTC]** Ex-presidente da Colômbia enaltece atuação de Janones na reeleição de Lula: ‘Gênio’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/ex-presidente-da-colombia-enaltece-atuacao-de-janones-na-reeleicao-de-lula-genio/)_
+
