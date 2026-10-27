@@ -23,3 +23,6 @@
 - **[2026-10-26 12:01 UTC]** Escola Municipal Arlete Almeida, 7ª zona eleitoral: resultado da votação em Feijó (AC) no 2º turno
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/escola-municipal-arlete-almeida-7a-zona-eleitoral-resultado-da-votacao-em-feijo-ac-no-2o-turno.ghtml)_
 
+- **[2026-10-26 12:01 UTC]** Escola Nova Olinda, 7ª zona eleitoral: resultado da votação em Feijó (AC) no 2º turno
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/escola-nova-olinda-7a-zona-eleitoral-resultado-da-votacao-em-feijo-ac-no-2o-turno.ghtml)_
+
