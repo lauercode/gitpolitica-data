@@ -2354,3 +2354,6 @@
 - **[2026-10-26 19:29 UTC]** Liderança evangélica previu que Flávio perderia para Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/10/lideranca-evangelica-previu-que-flavio-perderia-para-lula.shtml)_
 
+- **[2026-10-26 18:27 UTC]** Imprensa internacional vê na vitória de Lula sobre Flávio fórmula para derrotar extrema direita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/imprensa-internacional-ve-na-vitoria-de-lula-sobre-flavio-formula-para-derrotar-extrema-direita.shtml)_
+
