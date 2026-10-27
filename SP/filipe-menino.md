@@ -104,3 +104,6 @@
 - **[2026-10-20 16:27 UTC]** Meu encontro com Paulo Coelho e um milagre do Menino Jesus de Praga
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/socorro-acioli/2026/10/meu-encontro-com-paulo-coelho-e-um-milagre-do-menino-jesus-de-praga.shtml)_
 
+- **[2026-10-27 13:46 UTC]** Menino de 5 anos é encontrado sozinho chorando e com ferimentos em área de mata e polícia do RS investiga o que aconteceu
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/27/menino-de-5-anos-e-encontrado-sozinho-chorando-e-com-ferimentos-em-sao-leopoldo.ghtml)_
+
