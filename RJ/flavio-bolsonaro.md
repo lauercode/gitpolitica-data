@@ -9319,3 +9319,6 @@
 - **[2026-10-27 16:30 UTC]** Flávio Bolsonaro repete os passos do pai ao fugir do Brasil após derrota para Lula
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-repete-os-passos-do-pai-ao-fugir-do-brasil-apos-derrota-para-lula/)_
 
+- **[2026-10-27 16:08 UTC]** Sâmia Bomfim pede que Flávio Bolsonaro perca mandato após fuga para os EUA
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/samia-bomfim-pede-que-flavio-bolsonaro-perca-mandato-apos-fuga-para-os-eua/)_
+
