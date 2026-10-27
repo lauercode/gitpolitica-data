@@ -2363,3 +2363,6 @@
 - **[2026-10-26 22:54 UTC]** Flávio muda a rota e agora diz que vai pedir ao TSE cassação da chapa Lula-Alckmin
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr9dzne66j1go?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-26 17:23 UTC]** Partidos aliados de Flávio reconhecem a vitória de Lula; Zema fala em golpe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgx3k00d5yo?at_medium=RSS&at_campaign=rss)_
+
