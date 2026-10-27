@@ -500,3 +500,6 @@
 - **[2026-10-26 18:40 UTC]** Após reeleição, Lula se reúne com chanceler, assessores da área internacional, Motta e Alcolumbre
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/apos-reeleicao-lula-se-reune-com-ministro-da-defesa-chanceler-e-assessores-da-area-internacional.ghtml)_
 
+- **[2026-10-27 19:55 UTC]** Federação União-PP anuncia apoio a reeleição de Alcolumbre para a presidência do Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/federacao-uniao-pp-anuncia-apoio-a-reeleicao-de-alcolumbre-para-a-presidencia-do-senado.ghtml)_
+
