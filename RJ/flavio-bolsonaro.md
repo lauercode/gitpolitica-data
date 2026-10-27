@@ -9082,3 +9082,6 @@
 - **[2026-10-27 14:00 UTC]** PF apura se Flávio Bolsonaro deixou o Brasil pela fronteira com a Argentina
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/27/pf-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-27 13:07 UTC]** Controle de imigração da Argentina diz que não tem registro da entrada de Flávio Bolsonaro no país
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/controle-de-imigracao-da-argentina-diz-que-nao-tem-registro-da-entrada-de-flavio-bolsonaro-no-pais.ghtml)_
+
