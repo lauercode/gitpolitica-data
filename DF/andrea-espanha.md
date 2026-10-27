@@ -59,3 +59,6 @@
 - **[2026-10-24 23:00 UTC]** Geração Z de Portugal e Espanha tenta articular greve geral conjunta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/geracao-z-de-portugal-e-espanha-tenta-articular-greve-geral-conjunta.shtml)_
 
+- **[2026-10-26 22:16 UTC]** Chacina de Pioz: STJ forma maioria contra recurso de paraibano acusado de ajudar em morte de família na Espanha
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/26/chacina-de-pioz-stj-forma-maioria-contra-recurso-paraibano-acusado-ajudar-morte-familia-espanha.ghtml)_
+
