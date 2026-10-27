@@ -9247,3 +9247,6 @@
 - **[2026-10-27 13:59 UTC]** Aliados de Flávio dizem que ele já foi para os EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aliados-de-flavio-dizem-que-ele-ja-foi-para-os-eua.shtml)_
 
+- **[2026-10-27 13:52 UTC]** Deputados do PT pedem prisão de Flávio Bolsonaro e alerta vermelho da Interpol
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/deputados-do-pt-pedem-prisao-de-flavio-bolsonaro-e-alerta-vermelho-da-interpol.shtml)_
+
