@@ -23,3 +23,6 @@
 - **[2026-10-26 12:01 UTC]** Anexo da Escola Municipal de Ensino Básico São José, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/anexo-da-escola-municipal-de-ensino-basico-sao-jose-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
 
+- **[2026-10-26 12:01 UTC]** Escola Municipal de Ensino Básico Cafezal, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/escola-municipal-de-ensino-basico-cafezal-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
+
