@@ -9304,3 +9304,6 @@
 - **[2026-10-27 19:20 UTC]** Bastidores: Suposta saída de Flávio do país surpreende núcleo da campanha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/27/bastidores-suposta-saida-de-flavio-do-pais-surpreende-nucleo-da-campanha.ghtml)_
 
+- **[2026-10-27 18:53 UTC]** PL faz reunião de emergência após informações sobre saída de Flávio Bolsonaro do país
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/pl-faz-reuniao-de-emergencia-apos-informacoes-de-fuga-de-flavio-bolsonaro-do-pais.ghtml)_
+
