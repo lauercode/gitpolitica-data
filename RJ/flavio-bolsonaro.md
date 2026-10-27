@@ -9115,3 +9115,6 @@
 - **[2026-10-27 11:19 UTC]** Órgão de migração e membro do governo Milei negam que Flávio Bolsonaro esteja na Argentina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/orgao-de-migracao-e-membro-do-governo-milei-negam-que-flavio-bolsonaro-esteja-na-argentina.shtml)_
 
+- **[2026-10-27 10:45 UTC]** Dino manda PF investigar suspeita de financiamento estrangeiro à campanha de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/dino-manda-pf-investigar-suspeita-de-financiamento-estrangeiro-a-campanha-de-flavio-bolsonaro.shtml)_
+
