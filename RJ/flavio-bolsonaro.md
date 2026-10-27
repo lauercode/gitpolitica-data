@@ -9139,3 +9139,6 @@
 - **[2026-10-27 15:30 UTC]** Por que Flávio Bolsonaro foi intimado a entregar os passaportes?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck054vvj66g5o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 16:18 UTC]** Por que investigação contra Flávio Bolsonaro deve continuar com Moraes mesmo com perda de foro privilegiado
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm9qz18je091o?at_medium=RSS&at_campaign=rss)_
+
