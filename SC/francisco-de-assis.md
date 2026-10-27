@@ -32,3 +32,6 @@
 - **[2026-10-06 15:44 UTC]** Resultado das eleições 2026 em Tonantins (AM): votação para presidente no E. M. de São Francisco de Assis, na 47ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tonantins-am-votacao-para-presidente-no-e-m-de-sao-francisco-de-assis-na-47a-zona-eleitoral.ghtml)_
 
+- **[2026-10-26 12:01 UTC]** Escola Estadual Sao Francisco de Assis Ii, 8ª zona eleitoral: resultado da votação em Senador Guiomard (AC) no 2º turno
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/escola-estadual-sao-francisco-de-assis-ii-8a-zona-eleitoral-resultado-da-votacao-em-senador-guiomard-ac-no-2o-turno.ghtml)_
+
