@@ -9013,3 +9013,6 @@
 - **[2026-10-26 18:42 UTC]** Polícia vai investigar vídeo em que homem negro aparece acorrentado em ato pró-Flávio
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/sociedade/policia-vai-investigar-video-em-que-homem-negro-aparece-acorrentado-em-ato-pro-flavio/)_
 
+- **[2026-10-26 18:22 UTC]** Vice de Tarcísio diz que PL agiu de forma contraditória ao contestar derrota de Flávio
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/vice-de-tarcisio-diz-que-pl-agiu-de-forma-contraditoria-ao-contestar-derrota-de-flavio/)_
+
