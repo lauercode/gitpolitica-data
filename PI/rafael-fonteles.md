@@ -29,3 +29,6 @@
 - **[2026-10-26 16:15 UTC]** Lula sinaliza a aliados que pode indicar Fonteles para Fazenda; governador do PI aceitaria deixar o cargo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-sinaliza-a-aliados-que-pode-indicar-fonteles-para-fazenda-governador-do-pi-aceitaria-deixar-o-cargo.shtml)_
 
+- **[2026-10-26 18:16 UTC]** Governador do Piauí, Rafael Fonteles é o mais cotado no governo para Ministério da Fazenda
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/26/bastidores-governador-do-piaui-rafael-fonteles-e-o-mais-cotado-no-governo-para-ministerio-da-fazenda.ghtml)_
+
