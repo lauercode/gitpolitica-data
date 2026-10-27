@@ -2390,3 +2390,6 @@
 - **[2026-10-26 23:00 UTC]** Aliados de Flávio Bolsonaro adiam mea-culpa e atribuem derrota a pacote de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aliados-de-flavio-bolsonaro-adiam-mea-culpa-e-atribuem-derrota-a-pacote-de-lula.shtml)_
 
+- **[2026-10-26 15:46 UTC]** Como é Altamira do Paraná, cidade paranaense onde Lula venceu Flávio Bolsonaro por apenas um voto no 2º turno
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/26/cidade-paranaense-onde-lula-venceu-flavio-bolsonaro-por-apenas-um-voto-no-2o-turno.ghtml)_
+
