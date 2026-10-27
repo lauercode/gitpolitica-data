@@ -71,3 +71,6 @@
 - **[2026-10-25 17:39 UTC]** Hugo Motta exalta urnas eletrônicas; Alcolumbre faz apelo por 'pacificação'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/hugo-motta-exalta-urnas-eletronicas-alcolumbre-faz-apelo-por-pacificacao.ghtml)_
 
+- **[2026-10-27 17:46 UTC]** PT vai apoiar reeleição de Hugo Motta à Presidência da Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-vai-apoiar-reeleicao-de-hugo-motta-a-presidencia-da-camara.shtml)_
+
