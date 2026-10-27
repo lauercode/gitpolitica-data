@@ -77,3 +77,6 @@
 - **[2026-10-26 11:59 UTC]** E.E. Prof. Izanete Victor dos Santos, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/e-e-prof-izanete-victor-dos-santos-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
 
+- **[2026-10-26 11:59 UTC]** E.E. Sao Bento, 6ª zona eleitoral: resultado da votação em Santana (AP) no 2º turno
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/e-e-sao-bento-6a-zona-eleitoral-resultado-da-votacao-em-santana-ap-no-2o-turno.ghtml)_
+
