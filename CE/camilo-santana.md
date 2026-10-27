@@ -17,3 +17,6 @@
 - **[2026-10-19 12:46 UTC]** PT fugiu do tema da segurança, e Lula já concordava com redução da maioridade, diz Camilo Santana
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-fugiu-do-tema-da-seguranca-e-lula-ja-concordava-com-reducao-da-maioridade-diz-camilo-santana.shtml)_
 
+- **[2026-10-27 14:13 UTC]** Promotor Lincoln Gakiya, que investiga PCC, e Camilo Santana são cotados para novo ministério de Segurança de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/promotor-lincoln-gakiya-que-investiga-pcc-e-camilo-santana-sao-cotados-para-novo-ministerio-de-seguranca-de-lula.shtml)_
+
