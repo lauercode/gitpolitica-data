@@ -2360,3 +2360,6 @@
 - **[2026-10-26 22:25 UTC]** Flávio pedirá cassação da chapa de Lula e evita falar em anulação da eleição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-desiste-anular-eleicao-pedira-cassacao-chapa-lula/)_
 
+- **[2026-10-26 22:54 UTC]** Flávio muda a rota e agora diz que vai pedir ao TSE cassação da chapa Lula-Alckmin
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cr9dzne66j1go?at_medium=RSS&at_campaign=rss)_
+
