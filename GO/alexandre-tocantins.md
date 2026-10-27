@@ -176,3 +176,6 @@
 - **[2026-10-26 14:41 UTC]** Vicentinho amplia votação no 2º turno e se torna o governador mais votado do Tocantins; veja evolução
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/vicentinho-amplia-votacao-no-2o-turno-e-se-torna-o-governador-mais-votado-do-tocantins-veja-evolucao.ghtml)_
 
+- **[2026-10-26 13:30 UTC]** Lula vence em Crixás do Tocantins após empate com Flávio Bolsonaro no 1º turno
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/lula-vence-em-crixas-do-tocantins-apos-empate-com-flavio-bolsonaro-no-1o-turno.ghtml)_
+
