@@ -9043,3 +9043,6 @@
 - **[2026-10-26 13:26 UTC]** Como é Marquinho (PR), a única cidade do Brasil onde Lula e Flávio Bolsonaro empataram no 2º turno
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/26/cidade-parana-empata-votacao-presidente.ghtml)_
 
+- **[2026-10-26 18:32 UTC]** Lula vira em Galinhos e vence em 166 municípios do RN; Flávio ganha apenas em Parnamirim
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/lula-vira-em-galinhos-e-vence-em-166-municipios-do-rn-flavio-ganha-apenas-em-parnamirim.ghtml)_
+
