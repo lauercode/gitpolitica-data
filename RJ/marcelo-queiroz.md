@@ -47,3 +47,6 @@
 - **[2026-10-06 21:47 UTC]** Resultado das eleições 2026 em Peixe (TO): votação para presidente na Escola Municipal Herculano de Queiroz, na 20ª zona eleitoral
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-peixe-to-votacao-para-presidente-na-escola-municipal-herculano-de-queiroz-na-20a-zona-eleitoral.ghtml)_
 
+- **[2026-10-27 11:26 UTC]** Deputado Marcelo Queiroz volta a ser alvo da PF em investigação sobre castração de animais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/deputado-marcelo-queiroz-volta-a-ser-alvo-da-pf-em-investigacao-sobre-castracao-de-animais.shtml)_
+
