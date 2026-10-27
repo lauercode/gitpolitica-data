@@ -9091,3 +9091,6 @@
 - **[2026-10-26 22:17 UTC]** PL, partido de Flávio Bolsonaro, reconhece resultado da eleição, mas cobra esclarecimentos
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/pl-reconhece-resultado-das-eleicoes.ghtml)_
 
+- **[2026-10-26 20:40 UTC]** Polícia vai investigar vídeo em que homem negro aparece acorrentado em ato de apoio a Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/26/investigacao-acorrentado-barra.ghtml)_
+
