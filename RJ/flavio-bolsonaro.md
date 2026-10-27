@@ -9220,3 +9220,6 @@
 - **[2026-10-27 16:49 UTC]** Imprensa internacional repercute fuga de Flávio Bolsonaro do Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/imprensa-internacional-repercute-fuga-de-flavio-bolsonaro-do-brasil.shtml)_
 
+- **[2026-10-27 16:29 UTC]** 'Adeus, pátria e família' e 'onde está Wally'; memes brincam com notícia de fuga de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/adeus-patria-e-familia-e-onde-esta-wally-memes-brincam-sobre-suposta-fuga-de-flavio-bolsonaro-do-brasil.shtml)_
+
