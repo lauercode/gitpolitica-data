@@ -9010,3 +9010,6 @@
 - **[2026-10-26 17:37 UTC]** Partidos aliados de Flávio Bolsonaro reconhecem vitória de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/partidos-aliados-de-flavio-bolsonaro-reconhem-vitoria-de-lula-e-parabenizam-presidente.ghtml)_
 
+- **[2026-10-26 18:42 UTC]** Polícia vai investigar vídeo em que homem negro aparece acorrentado em ato pró-Flávio
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/sociedade/policia-vai-investigar-video-em-que-homem-negro-aparece-acorrentado-em-ato-pro-flavio/)_
+
