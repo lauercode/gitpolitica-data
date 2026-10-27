@@ -9052,3 +9052,6 @@
 - **[2026-10-26 21:52 UTC]** PL, partido de Flávio Bolsonaro, reconhece resultado da eleição
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pl-partido-de-flavio-bolsonaro-reconhece-resultado-da-eleicao/)_
 
+- **[2026-10-27 05:00 UTC]** Podcast discute dia seguinte à reeleição de Lula e situação política de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-discute-dia-seguinte-a-reeleicao-de-lula-e-situacao-politica-de-flavio-bolsonaro.shtml)_
+
