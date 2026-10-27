@@ -11,3 +11,6 @@
 - **[2026-10-26 11:35 UTC]** Santana do Mundaú (AL): resultado do local de votação por zonas eleitorais no 2º turno
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/26/santana-do-mundau-al-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
 
+- **[2026-10-26 11:32 UTC]** 19ª zona eleitoral de Santana do Ipanema (AL): votos por local de votação no 2º turno
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/26/19a-zona-eleitoral-de-santana-do-ipanema-al-votos-por-local-de-votacao-no-2o-turno.ghtml)_
+
