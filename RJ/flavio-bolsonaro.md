@@ -9049,3 +9049,6 @@
 - **[2026-10-26 18:04 UTC]** Lula amplia vantagem e recebe 175 mil votos a mais no segundo turno no RN; Flávio ganha 16,9 mil
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/lula-amplia-vantagem-e-recebe-175-mil-votos-a-mais-no-segundo-turno-no-rn-flavio-ganha-169-mil.ghtml)_
 
+- **[2026-10-26 21:52 UTC]** PL, partido de Flávio Bolsonaro, reconhece resultado da eleição
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pl-partido-de-flavio-bolsonaro-reconhece-resultado-da-eleicao/)_
+
