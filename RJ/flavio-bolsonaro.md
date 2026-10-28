@@ -9805,3 +9805,6 @@
 - **[2026-10-28 13:24 UTC]** Flávio Bolsonaro chega aos EUA em jato particular após fuga do Brasil
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/jatinho-flavio-bolsonaro-e-familia-pousa-aeroporto-miami-eua.ghtml)_
 
+- **[2026-10-28 14:33 UTC]** Oposição exige explicações a Milei por fuga de Flávio pela Argentina
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/oposicao-exige-explicacoes-a-milei-por-fuga-de-flavio-pela-argentina/)_
+
