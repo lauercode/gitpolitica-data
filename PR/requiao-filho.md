@@ -116,3 +116,6 @@
 - **[2026-10-21 10:41 UTC]** Perfis falsos no Facebook usam nome de Requião Filho para oferecer investimentos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/perfis-falsos-no-facebook-usam-nome-de-requiao-filho-para-oferecer-investimentos.shtml)_
 
+- **[2026-10-27 19:11 UTC]** Requião Filho pede que deputados do PL e do Novo sejam investigados por defenderem demissão de petistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/requiao-filho-pede-que-deputados-do-pl-sejam-investigados-por-defenderem-demissao-de-petistas.shtml)_
+
