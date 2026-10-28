@@ -9820,3 +9820,6 @@
 - **[2026-10-28 19:06 UTC]** Trump diz que não vai se "envolver", após carta de Flávio Bolsonaro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/trump-diz-que-nao-vai-se-envolver-apos-carta-de-flavio-bolsonaro)_
 
+- **[2026-10-28 21:57 UTC]** Reeleição de Lula e viagem de Flávio Bolsonaro aos EUA repercutem no Plenário
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1314703-reeleicao-de-lula-e-viagem-de-flavio-bolsonaro-aos-eua-repercutem-no-plenario)_
+
