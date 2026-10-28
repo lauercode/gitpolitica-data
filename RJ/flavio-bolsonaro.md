@@ -9784,3 +9784,6 @@
 - **[2026-10-28 17:32 UTC]** O que é asilo político? Entenda o caso de Flávio Bolsonaro nos EUA
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/28/o-que-e-asilo-politico-entenda-o-caso-de-flavio-bolsonaro-nos-eua.ghtml)_
 
+- **[2026-10-28 16:31 UTC]** Sem reconhecimento sobre vitória, ida de Flávio não altera relação com EUA, que segue como maior desafio internacional do Lula 4
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/governo-americano-no-contatou-brasil-aps-eleio-e-eua-seguem-como-maior-desafio-estrangeiro-no-lula-4.ghtml)_
+
