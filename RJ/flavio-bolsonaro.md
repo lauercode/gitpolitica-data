@@ -9514,3 +9514,6 @@
 - **[2026-10-27 22:49 UTC]** Quais seriam os caminhos possíveis para Flávio ficar legalmente nos EUA
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd6dz9ej226o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 06:10 UTC]** Flávio Bolsonaro chega aos EUA e governo Trump diz que lhe dará visto; as notícias dessa 3ªf
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
+
