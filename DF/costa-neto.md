@@ -17,3 +17,6 @@
 - **[2026-10-28 15:25 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Valdemar Costa Neto em prisão domiciliar
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-valdemar-costa-neto-em-prisao-domiciliar.ghtml)_
 
+- **[2026-10-28 21:21 UTC]** Alexandre de Moraes autoriza que Valdemar Costa Neto visite Bolsonaro em prisão domiciliar
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/alexandre-de-moraes-autoriza-que-valdemar-costa-neto-visite-bolsonaro-em-prisao-domiciliar.ghtml)_
+
