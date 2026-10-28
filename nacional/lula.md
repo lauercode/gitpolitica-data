@@ -2534,3 +2534,6 @@
 - **[2026-10-28 18:40 UTC]** Membro da coordenação de campanha de Lula chama Flávio de palhaço e fanfarrão após carta
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/membro-da-coordenacao-de-campanha-de-lula-chama-flavio-de-palhaco-e-fanfarrao-apos-carta.shtml)_
 
+- **[2026-10-28 17:37 UTC]** Flávio Bolsonaro disse que não fugiria do país e provocou Lula em debate por ter filho na Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-disse-que-nao-fugiria-do-pais-e-provocou-lula-em-debate-por-ter-filho-na-espanha.shtml)_
+
