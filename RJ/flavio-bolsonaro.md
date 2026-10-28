@@ -9547,3 +9547,6 @@
 - **[2026-10-28 08:00 UTC]** Aposta frustrada em vitória de Flávio derruba cotas de fundos
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/28/aposta-frustrada-em-vitoria-de-flavio-derruba-cotas-de-fundos.ghtml)_
 
+- **[2026-10-28 08:00 UTC]** Flávio Bolsonaro foge para os EUA e vai receber visto do governo Trump
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/28/flavio-bolsonaro-foge-para-os-eua-e-vai-receber-visto-do-governo-trump.ghtml)_
+
