@@ -9340,3 +9340,6 @@
 - **[2026-10-27 20:11 UTC]** "Estamos surpresos" diz coordenador da campanha sobre sumiço de Flávio
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/estamos-surpresos-diz-coordenador-da-campanha-sobre-sumico-de-flavio)_
 
+- **[2026-10-27 22:18 UTC]** Parlamentares da Argentina pedem investigação sobre possível fuga de Flávio pelo país, diz jornal
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/parlamentares-da-argentina-pedem-investigacao-sobre-possivel-fuga-de-flavio-pelo-pais-diz-jornal.ghtml)_
+
