@@ -50,3 +50,6 @@
 - **[2026-10-24 13:44 UTC]** Carlos Bolsonaro diz que pai ressurge das cinzas 'mais forte ainda' com resultado de Flávio na eleição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/carlos-bolsonaro-diz-que-pai-ressurge-das-cinzas-mais-forte-ainda-com-resultado-de-flavio-na-eleicao.shtml)_
 
+- **[2026-10-28 17:09 UTC]** 'Desculpa, pai, a gente falhou', diz Carlos Bolsonaro em vídeo após derrota eleitoral do irmão
+  _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/28/desculpa-pai-a-gente-falhou-diz-carlos-bolsonaro-video-derrota-eleitoral-do-irmao.ghtml)_
+
