@@ -9931,3 +9931,6 @@
 - **[2026-10-28 22:27 UTC]** Tarcísio diz entender indignação de Flávio, mas defende respeito ao resultado das urnas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tarcisio-diz-entender-indignacao-de-flavio-mas-defende-respeito-ao-resultado-das-urnas/)_
 
+- **[2026-10-28 22:05 UTC]** Flávio Bolsonaro viaja para os Estados Unidos após restrições impostas pelo STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-viaja-para-os-estados-unidos-apos-restricoes-impostas-pelo-stf/)_
+
