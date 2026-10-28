@@ -9817,3 +9817,6 @@
 - **[2026-10-28 16:01 UTC]** PF investiga circunstâncias da fuga de Flávio Bolsonaro do Brasil
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pf-investiga-circunstancias-da-fuga-de-flavio-bolsonaro-do-brasil)_
 
+- **[2026-10-28 19:06 UTC]** Trump diz que não vai se "envolver", após carta de Flávio Bolsonaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/trump-diz-que-nao-vai-se-envolver-apos-carta-de-flavio-bolsonaro)_
+
