@@ -83,3 +83,6 @@
 - **[2026-10-28 08:18 UTC]** Colisão de trens na Espanha deixa ao menos 30 mortos
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/colisao-de-trens-na-espanha-deixa-ao-menos-30-mortos/)_
 
+- **[2026-10-28 12:12 UTC]** Número de mortos em acidente entre trens na Espanha passa de 60
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-10/numero-de-mortos-em-acidente-entre-trens-na-espanha-passa-de-60)_
+
