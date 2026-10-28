@@ -9745,3 +9745,6 @@
 - **[2026-10-28 14:59 UTC]** Ida de Flávio aos EUA via Argentina deve elevar tensões entre Lula e Milei
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/ida-flavio-eua-via-argentina-deve-elevar-tensoes-lula-milei/)_
 
+- **[2026-10-28 14:54 UTC]** Avião que levou Flávio a Miami fez bate-volta de Buenos Aires ao Rio 5 dias antes do 2º turno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aviao-que-levou-flavio-a-miami-fez-bate-volta-de-buenos-aires-ao-rio-5-dias-antes-do-2-turno/)_
+
