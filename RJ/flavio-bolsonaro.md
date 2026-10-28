@@ -9937,3 +9937,6 @@
 - **[2026-10-28 21:22 UTC]** Leia a íntegra da carta em que Flávio se declara líder do Brasil e da oposição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/leia-a-integra-da-carta-em-que-flavio-se-declara-lider-do-brasil-e-da-oposicao/)_
 
+- **[2026-10-28 22:21 UTC]** Nos EUA, Flávio Bolsonaro se declara líder do Brasil e da oposição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nos-eua-flavio-bolsonaro-se-declara-presidente-eleito/)_
+
