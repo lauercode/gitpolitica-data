@@ -9664,3 +9664,6 @@
 - **[2026-10-28 15:55 UTC]** 'Covarde', 'exílio político': o que disseram os aliados de Lula e Flávio sobre fuga do senador
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/covarde-exilio-politico-o-que-disseram-os-alidaos-de-lula-e-flavio-sobre-fuga-do-senador.ghtml)_
 
+- **[2026-10-28 14:32 UTC]** Flávio Bolsonaro chega aos EUA; ACOMPANHE
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/ao-vivo/voo-flavio-bolsonaro-eua.ghtml)_
+
