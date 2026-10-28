@@ -9559,3 +9559,6 @@
 - **[2026-10-28 09:03 UTC]** Avião com Flávio Bolsonaro e família segue para Miami
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/aviao-com-flavio-bolsonaro-e-familia-segue-para-miami)_
 
+- **[2026-10-28 06:00 UTC]** Flávio Bolsonaro cruza fronteira argentina e segue para o Equador
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/flavio-bolsonaro-cruza-fronteira-argentina-e-segue-para-o-equador)_
+
