@@ -9847,3 +9847,6 @@
 - **[2026-10-28 20:24 UTC]** Após fuga, Flávio se diz 'presidente eleito', apaga post e passa a se chamar de 'líder do Brasil'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/apos-fugir-do-brasil-flavio-fala-em-fraude-na-eleicao-e-se-autoproclama-presidente.ghtml)_
 
+- **[2026-10-28 19:55 UTC]** Proibição de Flávio Bolsonaro deixar o país era medida lógica após cancelamento do passaporte, diz Moraes
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/proibicao-de-flavio-bolsonaro-deixar-o-pais-era-medida-logica-apos-cancelamento-do-passaporte-diz-moraes.ghtml)_
+
