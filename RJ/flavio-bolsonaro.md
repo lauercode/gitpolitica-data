@@ -9628,3 +9628,6 @@
 - **[2026-10-26 22:03 UTC]** Lula ganha mais de 9 mil votos e Flávio Bolsonaro perde 11 mil no 2º turno em Roraima; compare
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/26/lula-ganha-votos-e-flavio-bolsonaro-perde-no-2-turno-em-roraima.ghtml)_
 
+- **[2026-10-28 13:24 UTC]** Jatinho com Flávio Bolsonaro e família pousa em aeroporto de Miami
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/jatinho-flavio-bolsonaro-e-familia-pousa-aeroporto-miami-eua.ghtml)_
+
