@@ -9763,3 +9763,6 @@
 - **[2026-10-28 19:03 UTC]** Flávio Bolsonaro usou passaporte brasileiro cancelado para entrar nos EUA; siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 14:18 UTC]** Flávio Bolsonaro desembarca na Flórida
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c98rz4k7kzvno?at_medium=RSS&at_campaign=rss)_
+
