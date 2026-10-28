@@ -107,3 +107,6 @@
 - **[2026-10-27 13:46 UTC]** Menino de 5 anos é encontrado sozinho chorando e com ferimentos em área de mata e polícia do RS investiga o que aconteceu
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/27/menino-de-5-anos-e-encontrado-sozinho-chorando-e-com-ferimentos-em-sao-leopoldo.ghtml)_
 
+- **[2026-10-28 13:14 UTC]** Menino que caiu de telhado no RS recebe alta do hospital e vai para casa do pai; padrasto segue preso
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/28/menino-que-caiu-de-telhado-no-rs-recebe-alta.ghtml)_
+
