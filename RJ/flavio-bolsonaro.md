@@ -9448,3 +9448,6 @@
 - **[2026-10-27 17:56 UTC]** Após fuga de Flávio, presidente do PL se reúne com Michelle para discutir o ‘futuro do partido’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-fuga-de-flavio-presidente-do-pl-se-reune-com-michelle-para-discutir-o-futuro-do-partido/)_
 
+- **[2026-10-28 03:30 UTC]** A rota de fuga de Flávio Bolsonaro - O Assunto #1834
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/10/28/a-rota-de-fuga-de-flavio-bolsonaro-o-assunto-1834.ghtml)_
+
