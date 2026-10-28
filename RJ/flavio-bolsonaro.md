@@ -9403,3 +9403,6 @@
 - **[2026-10-27 23:03 UTC]** EUA dizem que darão visto a Flávio Bolsonaro: relação entre Trump e Lula pode azedar mais?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm3vq700565wo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 22:49 UTC]** Quais seriam os caminhos possíveis para Flávio Bolsonaro ficar legalmente nos EUA
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd6dz9ej226o?at_medium=RSS&at_campaign=rss)_
+
