@@ -9751,3 +9751,6 @@
 - **[2026-10-28 14:35 UTC]** Flávio viajou aos EUA utilizando passaporte italiano
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-viajou-eua-utilizando-passaporte-italiano/)_
 
+- **[2026-10-28 14:05 UTC]** PF tenta traçar rota de Flávio até a fronteira e estrutura de apoio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-tenta-tracar-rota-de-flavio-ate-a-fronteira-e-estrutura-de-apoio/)_
+
