@@ -26,3 +26,6 @@
 - **[2026-10-27 18:00 UTC]** Globo decide reprisar 'A Dona do Pedaço' após 'Avenida Brasil' no Vale a Pena Ver de Novo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-decide-reprisar-a-dona-do-pedaco-apos-avenida-brasil-no-vale-a-pena-ver-de-novo.shtml)_
 
+- **[2026-10-28 04:00 UTC]** Novo almanaque vai explicar o que é violência menstrual e como ela afeta a vida de meninas e mulheres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/novo-almanaque-vai-explicar-o-que-e-violencia-menstrual-e-como-ela-afeta-a-vida-de-meninas-e-mulheres.shtml)_
+
