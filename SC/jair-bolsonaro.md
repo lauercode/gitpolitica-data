@@ -158,3 +158,6 @@
 - **[2026-10-26 01:25 UTC]** Flávio supera votação de Jair Bolsonaro em 2022, mas Lula amplia vantagem e vence eleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/flavio-supera-votacao-de-jair-bolsonaro-em-2022-mas-lula-amplia-vantagem-e-vence-eleicao.ghtml)_
 
+- **[2026-10-28 15:25 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Valdemar Costa Neto em prisão domiciliar
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-valdemar-costa-neto-em-prisao-domiciliar.ghtml)_
+
