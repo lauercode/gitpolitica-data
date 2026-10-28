@@ -9850,3 +9850,6 @@
 - **[2026-10-28 19:55 UTC]** Proibição de Flávio Bolsonaro deixar o país era medida lógica após cancelamento do passaporte, diz Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/proibicao-de-flavio-bolsonaro-deixar-o-pais-era-medida-logica-apos-cancelamento-do-passaporte-diz-moraes.ghtml)_
 
+- **[2026-10-28 19:30 UTC]** PF avalia pedir prisão preventiva de Flávio Bolsonaro após fuga
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/28/pf-flavio-bolsonaro-ordem-judicial.ghtml)_
+
