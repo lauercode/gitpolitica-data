@@ -9859,3 +9859,6 @@
 - **[2026-10-28 20:11 UTC]** Carta golpista de Flávio é rejeitada por aliados próximos, que veem postura perigosa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/carta-golpista-de-flavio-e-rejeitada-por-aliados-proximos-que-veem-postura-perigosa.shtml)_
 
+- **[2026-10-28 20:11 UTC]** Flávio, asilado ou fugitivo da Justiça?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/10/flavio-asilado-ou-fugitivo-da-justica.shtml)_
+
