@@ -9484,3 +9484,6 @@
 - **[2026-10-28 04:20 UTC]** Moraes ordena cancelamento de passaporte de Flávio Bolsonaro após eleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-ordena-cancelamento-de-passaporte-de-flavio-bolsonaro-apos-eleicoes/)_
 
+- **[2026-10-28 03:26 UTC]** Erika Hilton pede a Moraes o bloqueio de contas de Flávio e da esposa
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/erika-hilton-pede-a-moraes-o-bloqueio-de-contas-de-flavio-e-da-esposa/)_
+
