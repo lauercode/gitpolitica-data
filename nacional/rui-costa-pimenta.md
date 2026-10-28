@@ -20,3 +20,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Rui Costa Pimenta, candidato a presidente em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-rui-costa-pimenta-candidato-a-presidente-em-2026.ghtml)_
 
+- **[2026-10-28 00:53 UTC]** Rui Pimenta, do PCO, diz que Moraes persegue Flávio e que STF exerce “ditadura”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rui-pimenta-do-pco-diz-que-moraes-persegue-flavio-e-que-stf-exerce-ditadura/)_
+
