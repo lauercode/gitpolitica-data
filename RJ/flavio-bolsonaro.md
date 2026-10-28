@@ -9772,3 +9772,6 @@
 - **[2026-10-28 18:09 UTC]** Às vésperas de eleições nos EUA, fuga de Flávio  abre flanco para ofensiva democrata contra Trump
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/s-vsperas-de-eleies-nos-eua-fuga-de-flvio-abre-flanco-para-ofensiva-democrata-contra-trump.ghtml)_
 
+- **[2026-10-28 18:00 UTC]** PF: Restrições de passaporte não dão status de foragido a Flávio nem autorizavam prisão ou vigilância permanente
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/pf-restries-de-passaporte-no-do-status-de-foragido-a-flvio-nem-autorizavam-priso-ou-vigilncia-permanente.ghtml)_
+
