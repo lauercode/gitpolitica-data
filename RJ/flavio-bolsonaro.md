@@ -9985,3 +9985,6 @@
 - **[2026-10-28 19:43 UTC]** Especialista acredita que fuga de Flávio levará a rearranjo de poder na direita
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/especialista-acredita-que-fuga-de-flvio-levar-a-rearranjo-de-poder-na-direita.ghtml)_
 
+- **[2026-10-28 19:17 UTC]** Flávio, Eduardo e aliados montaram ‘operação despiste’ com desinformação sobre viagem aos EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/flavio-eduardo-e-aliados-montaram-operacao-despiste-com-desinformacao-sobre-viagem-aos-eua.ghtml)_
+
