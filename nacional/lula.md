@@ -2522,3 +2522,6 @@
 - **[2026-10-28 21:18 UTC]** Partido de Flávio Bolsonaro e aliados já reconheceram vitória de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/partido-de-flavio-bolsonaro-e-aliados-ja-reconheceram-vitoria-de-lula.ghtml)_
 
+- **[2026-10-28 19:35 UTC]** Conversas sobre composição de Lula 4 devem se acelerar após COP, diz presidente do PT
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/2026/lula-4-composicao-edinho-silva.ghtml)_
+
