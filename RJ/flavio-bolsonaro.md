@@ -9997,3 +9997,6 @@
 - **[2026-10-28 19:11 UTC]** Decisão de Moraes foi correta e Flávio Bolsonaro é um covarde, avalia Kakay
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/decisao-de-moraes-foi-correta-e-flavio-bolsonaro-e-um-covarde-avalia-kakay/)_
 
+- **[2026-10-28 19:03 UTC]** Trump diz que não vai se ‘envolver’ após Flávio Bolsonaro divulgar carta golpista
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/trump-diz-que-nao-vai-se-envolver-apos-flavio-bolsonaro-divulgar-carta-golpista/)_
+
