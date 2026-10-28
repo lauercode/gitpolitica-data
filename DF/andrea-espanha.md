@@ -71,3 +71,6 @@
 - **[2026-10-28 08:05 UTC]** Acidente entre trens de alta velocidade mata ao menos 64 pessoas na Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/acidente-entre-trens-de-alta-velocidade-mata-ao-menos-30-pessoas-na-espanha.shtml)_
 
+- **[2026-10-28 13:16 UTC]** Ao menos 64 pessoas morreram e dezenas ficaram feridas em um acidente com trem de alta velocidade na Espanha
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmly074jvgglo?at_medium=RSS&at_campaign=rss)_
+
