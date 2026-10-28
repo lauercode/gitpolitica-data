@@ -9460,3 +9460,6 @@
 - **[2026-10-28 02:32 UTC]** Trump diz que aprovaria visto de Flávio, mas que não sabe o paradeiro do senador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/trump-diz-que-aprovaria-visto-de-flavio-mas-que-nao-sabe-o-paradeiro-do-senador.shtml)_
 
+- **[2026-10-28 02:06 UTC]** Flávio Bolsonaro desembarca nos EUA após fugir do Brasil, diz jornal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-desembarca-nos-eua-apos-fugir-do-brasil-diz-jornal.shtml)_
+
