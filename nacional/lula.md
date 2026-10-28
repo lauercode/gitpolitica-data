@@ -2498,3 +2498,6 @@
 - **[2026-10-28 12:35 UTC]** Ministros de Lula e do STF criticam decisões da PF e de Moraes sobre Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/28/ministros-de-lula-e-do-stf-criticam-decisoes-da-pf-e-de-moraes-sobre-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-26 22:03 UTC]** Lula ganha mais de 9 mil votos e Flávio Bolsonaro perde 11 mil no 2º turno em Roraima; compare
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/26/lula-ganha-votos-e-flavio-bolsonaro-perde-no-2-turno-em-roraima.ghtml)_
+
