@@ -59,3 +59,6 @@
 - **[2026-10-26 05:26 UTC]** Bahia, Pernambuco e São Paulo lideram queda na taxa de abstenção; veja percentuais por estado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/bahia-pernambuco-sao-paulo-maiores-quedas-taxa-abstencao-percentual-estado.ghtml)_
 
+- **[2026-10-28 16:51 UTC]** Suspeito de estuprar e engravidar adolescente é preso em Pernambuco após levar vítima de abrigo na Paraíba para a Bahia
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/ba/bahia/noticia/2026/10/28/suspeito-de-estuprar-e-engravidar-adolescente-e-preso-em-pernambuco-apos-levar-vitima-de-abrigo-na-paraiba-para-a-bahia.ghtml)_
+
