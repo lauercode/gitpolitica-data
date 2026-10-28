@@ -9613,3 +9613,6 @@
 - **[2026-10-28 12:05 UTC]** Argentina confirma que Flávio passou pelo país antes de seguir para Miami
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/argentina-flavio-passagem-equador-eua/)_
 
+- **[2026-10-28 13:27 UTC]** Argentina diz que Flávio Bolsonaro entrou no país na noite da terça-feira; acompanhe
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
+
