@@ -2486,3 +2486,6 @@
 - **[2026-10-28 02:44 UTC]** Lula critica Flávio, e aliados falam em 'perseguição'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm3vq7q59ne6o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 21:37 UTC]** Lula diz que saída de Flávio Bolsonaro do país deve ser 'culpa na consciência'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/cidadao-que-foge-do-pais-e-porque-teme-alguma-coisa-afirma-lula-sobre-flavio-bolsonaro.ghtml)_
+
