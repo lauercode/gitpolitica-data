@@ -9499,3 +9499,6 @@
 - **[2026-10-28 00:56 UTC]** Flávio Bolsonaro deixa o Brasil após sofrer restrições da Justiça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-deixa-o-brasil-apos-sofrer-restricoes-da-justica/)_
 
+- **[2026-10-28 00:53 UTC]** Rui Pimenta, do PCO, diz que Moraes persegue Flávio e que STF exerce “ditadura”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rui-pimenta-do-pco-diz-que-moraes-persegue-flavio-e-que-stf-exerce-ditadura/)_
+
