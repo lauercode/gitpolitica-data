@@ -9760,3 +9760,6 @@
 - **[2026-10-27 21:59 UTC]** Governo Trump vai conceder vistos a Flávio Bolsonaro e sua família, diz imprensa dos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/governo-trump-vai-conceder-vistos-a-flavio-bolsonaro-e-sua-familia-diz-imprensa-dos-eua/)_
 
+- **[2026-10-28 19:03 UTC]** Flávio Bolsonaro usou passaporte brasileiro cancelado para entrar nos EUA; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
+
