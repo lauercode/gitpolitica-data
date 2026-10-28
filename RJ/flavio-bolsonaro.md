@@ -9934,3 +9934,6 @@
 - **[2026-10-28 22:05 UTC]** Flávio Bolsonaro viaja para os Estados Unidos após restrições impostas pelo STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-viaja-para-os-estados-unidos-apos-restricoes-impostas-pelo-stf/)_
 
+- **[2026-10-28 21:22 UTC]** Leia a íntegra da carta em que Flávio se declara líder do Brasil e da oposição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/leia-a-integra-da-carta-em-que-flavio-se-declara-lider-do-brasil-e-da-oposicao/)_
+
