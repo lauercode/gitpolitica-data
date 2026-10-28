@@ -38,3 +38,6 @@
 - **[2026-10-27 21:17 UTC]** Fachin arquiva investigações contra Eduardo e Malafaia e cobra informação da PF sobre Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/fachin-arquiva-investigaes-contra-eduardo-e-malafaia-e-cobra-informao-da-pf-sobre-bolsonaro.ghtml)_
 
+- **[2026-10-28 11:45 UTC]** Malafaia diz achar fuga de Flávio 'corretíssima', e Rodovalho compara o senador a Cristo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/malafaia-diz-achar-fuga-de-flavio-corretissima-e-rodovalho-compara-o-senador-a-cristo.shtml)_
+
