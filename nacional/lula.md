@@ -2531,3 +2531,6 @@
 - **[2026-10-28 19:56 UTC]** Ministro de Lula faz evento com Einstein, hospital que foi tema da campanha de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/ministro-de-lula-faz-evento-com-einstein-hospital-que-foi-tema-da-campanha-de-flavio.shtml)_
 
+- **[2026-10-28 18:40 UTC]** Membro da coordenação de campanha de Lula chama Flávio de palhaço e fanfarrão após carta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/membro-da-coordenacao-de-campanha-de-lula-chama-flavio-de-palhaco-e-fanfarrao-apos-carta.shtml)_
+
