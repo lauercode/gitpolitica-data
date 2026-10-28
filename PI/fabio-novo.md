@@ -20,3 +20,6 @@
 - **[2026-10-26 07:28 UTC]** EEEM São José - Novo, 22ª zona eleitoral: resultado da votação em Óbidos (PA) no 2º turno
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/eeem-sao-jose-novo-22a-zona-eleitoral-resultado-da-votacao-em-obidos-pa-no-2o-turno.ghtml)_
 
+- **[2026-10-27 19:11 UTC]** Requião Filho pede que deputados do PL e do Novo sejam investigados por defenderem demissão de petistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/requiao-filho-pede-que-deputados-do-pl-sejam-investigados-por-defenderem-demissao-de-petistas.shtml)_
+
