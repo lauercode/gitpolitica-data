@@ -9625,3 +9625,6 @@
 - **[2026-10-28 11:28 UTC]** Argentina confirma que Flávio Bolsonaro cruzou fronteira pelo Paraná com a família; entenda como funciona a fiscalização na ponte
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/28/argentina-confirma-que-flavio-bolsonaro-cruzou-fronteira-pelo-parana.ghtml)_
 
+- **[2026-10-26 22:03 UTC]** Lula ganha mais de 9 mil votos e Flávio Bolsonaro perde 11 mil no 2º turno em Roraima; compare
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/26/lula-ganha-votos-e-flavio-bolsonaro-perde-no-2-turno-em-roraima.ghtml)_
+
