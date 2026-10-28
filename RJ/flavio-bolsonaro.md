@@ -9988,3 +9988,6 @@
 - **[2026-10-28 19:17 UTC]** Flávio, Eduardo e aliados montaram ‘operação despiste’ com desinformação sobre viagem aos EUA
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/flavio-eduardo-e-aliados-montaram-operacao-despiste-com-desinformacao-sobre-viagem-aos-eua.ghtml)_
 
+- **[2026-10-28 18:58 UTC]** Baires Fly: quem é a empresa que levou Flávio Bolsonaro aos EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/baires-fly-quem-e-a-empresa-que-levou-flavio-bolsonaro-aos-eua.ghtml)_
+
