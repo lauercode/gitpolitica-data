@@ -9748,3 +9748,6 @@
 - **[2026-10-28 14:54 UTC]** Avião que levou Flávio a Miami fez bate-volta de Buenos Aires ao Rio 5 dias antes do 2º turno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aviao-que-levou-flavio-a-miami-fez-bate-volta-de-buenos-aires-ao-rio-5-dias-antes-do-2-turno/)_
 
+- **[2026-10-28 14:35 UTC]** Flávio viajou aos EUA utilizando passaporte italiano
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-viajou-eua-utilizando-passaporte-italiano/)_
+
