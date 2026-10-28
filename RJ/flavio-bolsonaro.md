@@ -9799,3 +9799,6 @@
 - **[2026-10-28 14:24 UTC]** Entenda o que a PF disse ao STF para reter o passaporte de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/entenda-o-que-a-pf-disse-ao-stf-para-reter-o-passaporte-de-flvio-bolsonaro.ghtml)_
 
+- **[2026-10-28 13:47 UTC]** Democratas criticam Trump por conceder visto a Flávio Bolsonaro nos EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/democratas-criticam-trump-por-conceder-visto-a-flvio-bolsonaro-nos-eua.ghtml)_
+
