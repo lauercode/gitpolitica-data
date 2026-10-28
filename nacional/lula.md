@@ -2468,3 +2468,6 @@
 - **[2026-10-27 19:30 UTC]** Fuga de Flávio é problema para a direita e para Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fuga-de-flavio-e-problema-para-a-direita-e-para-lula.shtml)_
 
+- **[2026-10-27 17:57 UTC]** Antonio Tabet diz ter ajudado a escrever respostas de Lula para Flávio em debates
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/antonio-tabet-diz-ter-ajudado-a-escrever-respostas-de-lula-para-flavio-em-debates.shtml)_
+
