@@ -101,3 +101,6 @@
 - **[2026-10-28 16:17 UTC]** Chacina de Pioz: STJ nega por unanimidade recurso de paraibano acusado de ajudar em morte de família na Espanha
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/28/chacina-de-pioz-stj-unanimidade-contra-recurso-paraibano-acusado-ajudar-morte-familia-espanha.ghtml)_
 
+- **[2026-10-28 17:16 UTC]** Colisão entre trens deixa 68 mortos na Espanha
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-10/colisao-entre-trens-deixa-68-mortos-na-espanha)_
+
