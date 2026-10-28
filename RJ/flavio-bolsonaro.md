@@ -9508,3 +9508,6 @@
 - **[2026-10-28 00:08 UTC]** Flávio Bolsonaro vai para os EUA após derrota nas eleições: o que acontece agora?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 02:44 UTC]** Lula critica Flávio, e aliados falam em 'perseguição'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm3vq7q59ne6o?at_medium=RSS&at_campaign=rss)_
+
