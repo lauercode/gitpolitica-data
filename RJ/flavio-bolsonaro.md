@@ -9742,3 +9742,6 @@
 - **[2026-10-28 16:29 UTC]** “Bolsonarismo continuará vivendo”, diz jurista sobre viagem de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsonarismo-continuara-vivendo-diz-jurista-sobre-exilio-de-flavio/)_
 
+- **[2026-10-28 14:59 UTC]** Ida de Flávio aos EUA via Argentina deve elevar tensões entre Lula e Milei
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/ida-flavio-eua-via-argentina-deve-elevar-tensoes-lula-milei/)_
+
