@@ -9958,3 +9958,6 @@
 - **[2026-10-28 22:35 UTC]** Para ministros do STF, carta golpista de Flávio Bolsonaro é 'patética' e não merece resposta
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/para-ministros-do-stf-carta-golpista-de-flavio-bolsonaro-e-patetica-e-nao-merece-resposta-contundente.ghtml)_
 
+- **[2026-10-28 22:23 UTC]** Marinho atribui a 'erro de confecção' autodeclaração de Flávio Bolsonaro como presidente em carta golpista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/marinho-atribui-a-erro-de-confeccao-autodeclaracao-de-flavio-bolsonaro-como-presidente-em-carta-golpista.ghtml)_
+
