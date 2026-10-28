@@ -9502,3 +9502,6 @@
 - **[2026-10-28 00:53 UTC]** Rui Pimenta, do PCO, diz que Moraes persegue Flávio e que STF exerce “ditadura”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rui-pimenta-do-pco-diz-que-moraes-persegue-flavio-e-que-stf-exerce-ditadura/)_
 
+- **[2026-10-28 00:20 UTC]** Sigilo, rapidez e fragilidade de ordem contra Flávio reforçam tese de perseguição política
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sigilo-rapidez-e-fragilidade-de-ordem-contra-flavio-reforcam-tese-de-perseguicao-politica/)_
+
