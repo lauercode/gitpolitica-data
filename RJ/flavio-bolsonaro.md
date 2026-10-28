@@ -9505,3 +9505,6 @@
 - **[2026-10-28 00:20 UTC]** Sigilo, rapidez e fragilidade de ordem contra Flávio reforçam tese de perseguição política
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sigilo-rapidez-e-fragilidade-de-ordem-contra-flavio-reforcam-tese-de-perseguicao-politica/)_
 
+- **[2026-10-28 00:08 UTC]** Flávio Bolsonaro vai para os EUA após derrota nas eleições: o que acontece agora?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss)_
+
