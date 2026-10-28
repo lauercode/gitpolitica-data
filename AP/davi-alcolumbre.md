@@ -530,3 +530,6 @@
 - **[2026-10-28 17:44 UTC]** Aliado de Lula, presidente da CCJ defende anistia pelo 8 de janeiro e admite conversas com Alcolumbre
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/aliado-de-lula-presidente-da-ccj-defende-anistia-pelo-8-de-janeiro-e-admite-conversas-com-alcolumbre.ghtml)_
 
+- **[2026-10-28 12:29 UTC]** Damares diz que anistia a Bolsonaro não é suficiente para apoiar reeleição de Alcolumbre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/damares-diz-que-anistia-a-bolsonaro-nao-e-suficiente-para-apoiar-reeleicao-de-alcolumbre.shtml)_
+
