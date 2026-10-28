@@ -9793,3 +9793,6 @@
 - **[2026-10-28 15:34 UTC]** Fuga de Flávio Bolsonaro para EUA abre novo foco de tensão entre Brasil e governo Trump, avalia especialista
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/fuga-de-flavio-bolsonaro-para-eua-abre-novo-foco-de-tensao-entre-brasil-e-governo-trump-avalia-especialista.ghtml)_
 
+- **[2026-10-28 15:20 UTC]** Flávio Bolsonaro entrou na Argentina com passaporte italiano; PF não tinha ordem para deter senador
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/flavio-bolsonaro-entrou-na-argentina-com-passaporte-italiano-pf-nao-tinha-ordem-para-deter-senador.ghtml)_
+
