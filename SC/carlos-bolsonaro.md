@@ -53,3 +53,6 @@
 - **[2026-10-28 17:09 UTC]** 'Desculpa, pai, a gente falhou', diz Carlos Bolsonaro em vídeo após derrota eleitoral do irmão
   _fonte: [G1 - Política:](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/28/desculpa-pai-a-gente-falhou-diz-carlos-bolsonaro-video-derrota-eleitoral-do-irmao.ghtml)_
 
+- **[2026-10-28 14:17 UTC]** Carlos Bolsonaro visita Jair e diz que pai ainda tenta 'assimilar' últimos acontecimentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carlos-bolsonaro-visita-jair-e-diz-que-pai-ainda-tenta-assimilar-ultimos-acontecimentos.shtml)_
+
