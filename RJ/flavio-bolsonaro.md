@@ -9472,3 +9472,6 @@
 - **[2026-10-27 22:00 UTC]** Leitores comentam fuga de Flávio Bolsonaro para os EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/leitores-comentam-fuga-de-flavio-bolsonaro-para-os-eua.shtml)_
 
+- **[2026-10-27 22:00 UTC]** Revanche de Moraes e fuga de Flávio maculam a política
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/revanche-de-moraes-e-fuga-de-flavio-maculam-a-politica.shtml)_
+
