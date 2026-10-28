@@ -110,3 +110,6 @@
 - **[2026-10-28 13:14 UTC]** Menino que caiu de telhado no RS recebe alta do hospital e vai para casa do pai; padrasto segue preso
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/28/menino-que-caiu-de-telhado-no-rs-recebe-alta.ghtml)_
 
+- **[2026-10-28 20:24 UTC]** Menino de 5 anos achado ferido no RS ganha proteção com Lei Henry Borel
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/28/menino-5-anos-achado-protecao-pedida-lei-henry-borel.ghtml)_
+
