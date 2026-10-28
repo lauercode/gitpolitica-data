@@ -2510,3 +2510,6 @@
 - **[2026-10-28 17:29 UTC]** Aliada de Milei reconhece vitória de Lula, mas diz que Justiça brasileira não é imparcial com Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/aliada-milei-reconhece-vitoria-lula-mas-diz-justica-brasileira-nao-imparcial-flavio/)_
 
+- **[2026-10-28 14:59 UTC]** Ida de Flávio aos EUA via Argentina deve elevar tensões entre Lula e Milei
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/ida-flavio-eua-via-argentina-deve-elevar-tensoes-lula-milei/)_
+
