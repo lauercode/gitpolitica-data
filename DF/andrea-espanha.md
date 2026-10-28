@@ -86,3 +86,6 @@
 - **[2026-10-28 12:12 UTC]** Número de mortos em acidente entre trens na Espanha passa de 60
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-10/numero-de-mortos-em-acidente-entre-trens-na-espanha-passa-de-60)_
 
+- **[2026-10-28 13:46 UTC]** Itamaraty se solidariza com vítimas de acidente na Espanha; ainda não há informações sobre brasilieros
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/itamaraty-presta-solidariedade-a-familias-de-vitimas-de-acidente-com-trens-na-espanha.ghtml)_
+
