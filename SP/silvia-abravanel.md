@@ -20,3 +20,6 @@
 - **[2026-10-28 08:00 UTC]** Virginia se manifesta após críticas de Silvia Abravanel: 'Desrespeitar ultrapassa limites'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/virginia-se-manifesta-apos-criticas-de-silvia-abravanel-desrespeitar-ultrapassa-limites.shtml)_
 
+- **[2026-10-28 12:45 UTC]** Saiba por que Virginia e Silvia Abravanel estão batendo boca nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/saiba-por-que-virginia-e-silvia-abravanel-estao-batendo-boca-nas-redes.shtml)_
+
