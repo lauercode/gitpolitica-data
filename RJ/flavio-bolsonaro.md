@@ -9823,3 +9823,6 @@
 - **[2026-10-28 21:57 UTC]** Reeleição de Lula e viagem de Flávio Bolsonaro aos EUA repercutem no Plenário
   _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1314703-reeleicao-de-lula-e-viagem-de-flavio-bolsonaro-aos-eua-repercutem-no-plenario)_
 
+- **[2026-10-28 20:19 UTC]** PF investiga circunstâncias da saída de Flávio Bolsonaro do país
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/pf-investiga-circunstancias-da-saida-de-flavio-bolsonaro-do-pais)_
+
