@@ -245,3 +245,6 @@
 - **[2026-10-26 12:08 UTC]** São Salvador do Tocantins (TO): resultado do local de votação por zonas eleitorais no 2º turno
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/sao-salvador-do-tocantins-to-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
 
+- **[2026-10-27 22:06 UTC]** Governador eleito do Tocantins, Vicentinho Júnior define equipe de transição; veja nomes
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/27/governador-eleito-do-tocantins-vicentinho-junior-define-equipe-de-transicao-veja-nomes.ghtml)_
+
