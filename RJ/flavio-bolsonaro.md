@@ -9580,3 +9580,6 @@
 - **[2026-10-28 12:32 UTC]** Voo de Flávio Bolsonaro entra no espaço aéreo dos EUA; VEJA rota
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/veja-rota-de-voo-flavio-bolsonaro-a-caminho-dos-eua.ghtml)_
 
+- **[2026-10-28 10:52 UTC]** FOTOS: veja como é o jatinho particular que está levando Flávio Bolsonaro e família aos EUA
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/veja-fotos-jatinho-particular-fuga-flavio-bolsonaro-eua.ghtml)_
+
