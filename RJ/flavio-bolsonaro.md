@@ -9757,3 +9757,6 @@
 - **[2026-10-28 14:16 UTC]** Flávio Bolsonaro chega aos EUA e desembarca com a família
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-chega-miami-desembarca-familia/)_
 
+- **[2026-10-27 21:59 UTC]** Governo Trump vai conceder vistos a Flávio Bolsonaro e sua família, diz imprensa dos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/governo-trump-vai-conceder-vistos-a-flavio-bolsonaro-e-sua-familia-diz-imprensa-dos-eua/)_
+
