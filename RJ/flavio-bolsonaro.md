@@ -9955,3 +9955,6 @@
 - **[2026-10-28 22:39 UTC]** Após carta golpista de Flávio, Nunes Marques reafirma normalidade das eleições
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/apos-carta-golpista-de-flavio-nunes-marques-reafirma-normalidade-das-eleicoes.ghtml)_
 
+- **[2026-10-28 22:35 UTC]** Para ministros do STF, carta golpista de Flávio Bolsonaro é 'patética' e não merece resposta
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/para-ministros-do-stf-carta-golpista-de-flavio-bolsonaro-e-patetica-e-nao-merece-resposta-contundente.ghtml)_
+
