@@ -62,3 +62,6 @@
 - **[2026-10-24 21:00 UTC]** Michelle Bolsonaro e Bia Kicis vão indicar secretários de novo governo Celina no DF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/michelle-bolsonaro-e-bia-kicis-vao-indicar-secretarios-de-novo-governo-celina-no-df.shtml)_
 
+- **[2026-10-27 21:15 UTC]** Valdemar posta foto com Michelle Bolsonaro: 'conversa sobre o futuro'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/valdemar-posta-foto-com-michelle-bolsonaro-conversa-sobre-o-futuro.ghtml)_
+
