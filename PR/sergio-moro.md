@@ -155,3 +155,6 @@
 - **[2026-10-27 13:50 UTC]** Sergio Moro anuncia Aparecida de Fátima Gavioli para a Secretaria da Educação do Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/10/27/sergio-moro-anuncia-secretaria-da-educacao-do-parana.ghtml)_
 
+- **[2026-10-27 21:27 UTC]** Transição entre governo de Ratinho Junior (PSD) e de Sergio Moro (PL) começa em novembro, com equipe de 20 pessoas
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/10/27/transicao-governo-ratinho-junior-e-sergio-moro.ghtml)_
+
