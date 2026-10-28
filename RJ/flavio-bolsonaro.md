@@ -9637,3 +9637,6 @@
 - **[2026-10-28 10:04 UTC]** STF diz não haver operação da PF relacionada a Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/stf-diz-nao-haver-operacao-da-pf-relacionada-a-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-28 10:00 UTC]** Voo com Flávio Bolsonaro e família faz escala no Equador rumo aos EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/avio-com-flvio-bolsonaro-e-famlia-pousa-no-equador-vindo-da-argentina.ghtml)_
+
