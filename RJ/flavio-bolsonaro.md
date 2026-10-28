@@ -9586,3 +9586,6 @@
 - **[2026-10-28 09:51 UTC]** STF diz que não há ordem judicial para busca e apreensão em endereço relacionado a Flávio
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/stf-diz-que-nao-ha-ordem-judicial-para-busca-e-apreensao-em-endereco-relacionado-a-flavio.ghtml)_
 
+- **[2026-10-28 05:21 UTC]** Voo de Flávio Bolsonaro e família deixa Equador com destino a Miami, nos EUA, diz governo da Argentina
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/flavio-bolsonaro-e-familia-entraram-na-argentina-e-seguiram-em-voo-privado-para-o-equador-diz-migracao-argentina.ghtml)_
+
