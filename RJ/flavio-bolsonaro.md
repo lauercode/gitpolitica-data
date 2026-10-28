@@ -9964,3 +9964,6 @@
 - **[2026-10-28 22:11 UTC]** Líder do governo na Câmara vê ameaça à democracia em carta de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/lider-do-governo-na-camara-ve-ameaca-a-democracia-em-carta-de-flavio-e-pede-mobilizacao-da-sociedade.ghtml)_
 
+- **[2026-10-28 22:04 UTC]** Entenda por que Flávio Bolsonaro fugiu do Brasil para os EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/entenda-por-que-flavio-bolsonaro-fugiu-do-brasil-para-os-eua.ghtml)_
+
