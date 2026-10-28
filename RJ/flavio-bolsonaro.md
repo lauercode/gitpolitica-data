@@ -9676,3 +9676,6 @@
 - **[2026-10-27 20:46 UTC]** Além de Flávio Bolsonaro: veja outros bolsonaristas que deixaram o país
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/zambelli-eduardo-bolsonaro-e-mais-veja-bolsonaristas-que-deixaram-o-brasil.ghtml)_
 
+- **[2026-10-28 15:47 UTC]** Deputado italiano questiona modo como Flávio Bolsonaro ganhou cidadania
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/deputado-italiano-questiona-modo-como-flavio-bolsonaro-ganhou-cidadania.shtml)_
+
