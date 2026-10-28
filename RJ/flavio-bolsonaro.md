@@ -9880,3 +9880,6 @@
 - **[2026-10-28 19:37 UTC]** Kassio volta a defender no TSE resultado das eleições sem citar carta golpista de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-volta-a-defender-no-tse-resultado-das-eleicoes-sem-citar-carta-golpista-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-28 19:21 UTC]** 'Nem eu nem PL podemos dizer que houve fraude nas eleições', diz chefe de campanha de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nem-eu-nem-pl-podemos-dizer-que-houve-fraude-nas-eleicoes-diz-chefe-de-campanha-de-flavio.shtml)_
+
