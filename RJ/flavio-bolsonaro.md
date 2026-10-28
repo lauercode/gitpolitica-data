@@ -9391,3 +9391,6 @@
 - **[2026-10-27 21:36 UTC]** Rogério Marinho cita surpresa com viagem de Flávio e questiona medidas de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-cita-surpresa-com-viagem-de-flavio-e-questiona-medidas-de-moraes/)_
 
+- **[2026-10-27 21:18 UTC]** Vice de Flávio Bolsonaro reconhece derrota e promete oposição no Congresso
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vice-de-flavio-bolsonaro-reconhece-derrota-e-promete-oposicao-no-congresso/)_
+
