@@ -2459,3 +2459,6 @@
 - **[2026-10-27 20:56 UTC]** Lula classifica saída de Flávio Bolsonaro do Brasil como “vergonhosa”
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-classifica-saida-de-flavio-bolsonaro-do-brasil-como-vergonhosa)_
 
+- **[2026-10-27 21:26 UTC]** Lula diz que é 'vergonhoso' Flávio fugir do país: 'O Brasil é a segunda pátria dele. A primeira é lambe-botas dos EUA'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/lula-diz-que-flavio-bolsonaro-fugiu-do-brasil-e-que-deve-ter-culpa-na-consciencia.ghtml)_
+
