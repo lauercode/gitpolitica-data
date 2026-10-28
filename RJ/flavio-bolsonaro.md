@@ -9973,3 +9973,6 @@
 - **[2026-10-28 21:46 UTC]** Após carta golpista de Flávio Bolsonaro, Trump diz que não irá 'se envolver'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/apos-carta-golpista-de-flavio-bolsonaro-trump-diz-que-nao-ira-se-envolver.ghtml)_
 
+- **[2026-10-28 21:36 UTC]** Antes de recuo em carta, aliados rechaçaram autodeclaração de Flávio Bolsonaro como 'verdadeiro presidente'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/antes-de-recuo-aliados-rechacaram-autodeclaracao-de-flavio-bolsonaro-como-verdadeiro-presidente.ghtml)_
+
