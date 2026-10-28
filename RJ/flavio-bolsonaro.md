@@ -10003,3 +10003,6 @@
 - **[2026-10-28 18:39 UTC]** Flávio Bolsonaro, o Guaidó de Taubaté, deveria desconfiar de Trump
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-o-guaido-de-taubate-deveria-desconfiar-de-trump/)_
 
+- **[2026-10-28 18:29 UTC]** Flávio Bolsonaro apaga trecho de carta golpista em que se autoproclamava presidente e agora diz ser ‘líder’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-apaga-trecho-de-carta-golpista-em-que-se-autoproclama-presidente-e-agora-diz-ser-lider-do-brasil/)_
+
