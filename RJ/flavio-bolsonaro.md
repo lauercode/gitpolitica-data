@@ -9496,3 +9496,6 @@
 - **[2026-10-28 01:08 UTC]** O que se sabe sobre a saída de Flávio Bolsonaro do Brasil após ordem de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil-apos-ordem-de-moraes/)_
 
+- **[2026-10-28 00:56 UTC]** Flávio Bolsonaro deixa o Brasil após sofrer restrições da Justiça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-deixa-o-brasil-apos-sofrer-restricoes-da-justica/)_
+
