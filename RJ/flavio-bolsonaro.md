@@ -9775,3 +9775,6 @@
 - **[2026-10-28 18:00 UTC]** PF: Restrições de passaporte não dão status de foragido a Flávio nem autorizavam prisão ou vigilância permanente
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/pf-restries-de-passaporte-no-do-status-de-foragido-a-flvio-nem-autorizavam-priso-ou-vigilncia-permanente.ghtml)_
 
+- **[2026-10-28 17:50 UTC]** Flávio nos EUA pode reforçar ofensiva contra ministros do STF, avalia cientista político
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/flvio-nos-eua-pode-reforar-ofensiva-contra-ministros-do-stf-avalia-cientista-poltico.ghtml)_
+
