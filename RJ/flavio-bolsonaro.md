@@ -9790,3 +9790,6 @@
 - **[2026-10-28 16:31 UTC]** Após fuga de Flávio, Bolsonaro pede que Moraes autorize visita de presidente do PL
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/apos-fuga-de-flavio-bolsonaro-pede-que-moraes-autorize-visita-de-presidente-do-pl.ghtml)_
 
+- **[2026-10-28 15:34 UTC]** Fuga de Flávio Bolsonaro para EUA abre novo foco de tensão entre Brasil e governo Trump, avalia especialista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/fuga-de-flavio-bolsonaro-para-eua-abre-novo-foco-de-tensao-entre-brasil-e-governo-trump-avalia-especialista.ghtml)_
+
