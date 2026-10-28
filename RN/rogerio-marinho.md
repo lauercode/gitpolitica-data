@@ -94,3 +94,6 @@
 - **[2026-10-27 22:23 UTC]** Rogério Marinho se diz ‘surpreso’ com fuga de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/rogerio-marinho-se-diz-surpreso-com-fuga-de-flavio-bolsonaro/)_
 
+- **[2026-10-28 22:59 UTC]** Rogério Marinho trata acusações de fraude eleitoral feitas por Flávio como desabafo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-trata-acusacoes-de-fraude-eleitoral-feitas-por-flavio-como-desabafo/)_
+
