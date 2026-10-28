@@ -9718,3 +9718,6 @@
 - **[2026-10-28 18:35 UTC]** Flávio Bolsonaro embarca para os Estados Unidos com passaporte europeu
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-embarca-para-os-estados-unidos-com-passaporte-europeu/)_
 
+- **[2026-10-28 18:31 UTC]** Saída de Flávio Bolsonaro do Brasil desafia articulação da oposição a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/saida-de-flavio-bolsonaro-do-brasil-desafia-articulacao-da-oposicao-a-lula/)_
+
