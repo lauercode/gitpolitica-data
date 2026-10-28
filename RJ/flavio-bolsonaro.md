@@ -9337,3 +9337,6 @@
 - **[2026-10-27 20:43 UTC]** Após fuga, EUA vão emitir visto para Flávio Bolsonaro e família
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/apos-fuga-eua-vao-emitir-visto-para-flavio-bolsonaro-e-familia)_
 
+- **[2026-10-27 20:11 UTC]** "Estamos surpresos" diz coordenador da campanha sobre sumiço de Flávio
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/estamos-surpresos-diz-coordenador-da-campanha-sobre-sumico-de-flavio)_
+
