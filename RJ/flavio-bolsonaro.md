@@ -9802,3 +9802,6 @@
 - **[2026-10-28 13:47 UTC]** Democratas criticam Trump por conceder visto a Flávio Bolsonaro nos EUA
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/democratas-criticam-trump-por-conceder-visto-a-flvio-bolsonaro-nos-eua.ghtml)_
 
+- **[2026-10-28 13:24 UTC]** Flávio Bolsonaro chega aos EUA em jato particular após fuga do Brasil
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/jatinho-flavio-bolsonaro-e-familia-pousa-aeroporto-miami-eua.ghtml)_
+
