@@ -164,3 +164,6 @@
 - **[2026-10-28 14:32 UTC]** Carlos pede desculpas a Jair Bolsonaro após fuga de Flávio: ‘A gente falhou’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/carlos-pede-desculpas-a-jair-bolsonaro-apos-fuga-de-flavio-a-gente-falhou/)_
 
+- **[2026-10-28 13:13 UTC]** Jair Bolsonaro pede a Moraes autorização para receber visita de presidente do PL
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/jair-bolsonaro-pede-a-moraes-autorizacao-para-receber-visita-de-presidente-do-pl/)_
+
