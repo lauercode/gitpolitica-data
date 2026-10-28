@@ -212,3 +212,6 @@
 - **[2026-10-27 10:20 UTC]** Janones, o Brizola que mandou a militância ficar sem banho
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/blogs/daniel-camargos/janones-o-brizola-que-mandou-a-militancia-ficar-sem-banho/)_
 
+- **[2026-10-27 23:00 UTC]** Esquerda internacional importa 'cartilha' de Janones e usa o 'L' como símbolo antiultradireita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/esquerda-internacional-importa-cartilha-de-janones-e-usa-o-l-como-simbolo-antiultradireita.shtml)_
+
