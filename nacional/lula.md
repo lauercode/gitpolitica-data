@@ -2462,3 +2462,6 @@
 - **[2026-10-27 21:26 UTC]** Lula diz que é 'vergonhoso' Flávio fugir do país: 'O Brasil é a segunda pátria dele. A primeira é lambe-botas dos EUA'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/lula-diz-que-flavio-bolsonaro-fugiu-do-brasil-e-que-deve-ter-culpa-na-consciencia.ghtml)_
 
+- **[2026-10-27 19:34 UTC]** Lula comemora 81 anos e diz que fuga de Flávio é vergonhosa, mas reprova decisão de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-comemora-81-anos-e-diz-que-fuga-de-flavio-e-vergonhosa-mas-reprova-decisao-de-moraes.shtml)_
+
