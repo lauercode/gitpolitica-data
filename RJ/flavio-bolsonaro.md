@@ -9394,3 +9394,6 @@
 - **[2026-10-27 21:18 UTC]** Vice de Flávio Bolsonaro reconhece derrota e promete oposição no Congresso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vice-de-flavio-bolsonaro-reconhece-derrota-e-promete-oposicao-no-congresso/)_
 
+- **[2026-10-27 20:55 UTC]** Flávio Bolsonaro é alvo de medidas judiciais e juristas apontam perseguição política
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-alvo-medidas-judiciais-juristas-apontam-perseguicao-politica/)_
+
