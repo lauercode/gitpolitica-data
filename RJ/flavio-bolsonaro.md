@@ -9409,3 +9409,6 @@
 - **[2026-10-28 00:11 UTC]** Após fuga de Flávio Bolsonaro, equipe jurídica descarta novas ações no TSE: ‘Não entraremos com mais nada’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/apos-fuga-de-flavio-bolsonaro-equipe-juridica-descarta-novas-acoes-no-tse-nao-entraremos-com-mais-nada.ghtml)_
 
+- **[2026-10-27 23:29 UTC]** No dia da saída de Flávio Bolsonaro do país, Valdemar e Michelle se reúnem para discutir 'futuro do PL'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/no-dia-da-saida-de-flavio-bolsonaro-do-pais-valdemar-e-michelle-se-reunem-para-discutir-futuro-do-pl.ghtml)_
+
