@@ -9730,3 +9730,6 @@
 - **[2026-10-28 17:29 UTC]** Aliada de Milei reconhece vitória de Lula, mas diz que Justiça brasileira não é imparcial com Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/aliada-milei-reconhece-vitoria-lula-mas-diz-justica-brasileira-nao-imparcial-flavio/)_
 
+- **[2026-10-28 17:44 UTC]** PF diz que viagem de Flávio aos EUA não caracteriza fuga e nem prisão
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-viagem-flavio-eua-nao-caracteriza-fuga-nem-prisao/)_
+
