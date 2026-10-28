@@ -14,3 +14,6 @@
 - **[2026-10-28 04:02 UTC]** Previsão do tempo hoje para Rio Branco (AC): sol o dia todo, com muitas nuvens de manhã; à noite, pancadas de chuva
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/10/28/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml)_
 
+- **[2026-10-27 10:00 UTC]** Escola com fezes de morcegos e estrutura precária deixa alunos sem aulas presenciais no Baixo Rio Branco: 'Abandonada'
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/10/27/escola-com-fezes-de-morcegos-e-estrutura-precaria-deixa-alunos-sem-aulas-presenciais-no-baixo-rio-branco-abandonada.ghtml)_
+
