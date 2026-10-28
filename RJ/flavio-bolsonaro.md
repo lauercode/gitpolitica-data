@@ -9787,3 +9787,6 @@
 - **[2026-10-28 16:31 UTC]** Sem reconhecimento sobre vitória, ida de Flávio não altera relação com EUA, que segue como maior desafio internacional do Lula 4
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/governo-americano-no-contatou-brasil-aps-eleio-e-eua-seguem-como-maior-desafio-estrangeiro-no-lula-4.ghtml)_
 
+- **[2026-10-28 16:31 UTC]** Após fuga de Flávio, Bolsonaro pede que Moraes autorize visita de presidente do PL
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/apos-fuga-de-flavio-bolsonaro-pede-que-moraes-autorize-visita-de-presidente-do-pl.ghtml)_
+
