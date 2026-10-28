@@ -9490,3 +9490,6 @@
 - **[2026-10-28 02:50 UTC]** Valdemar e Michelle discutem futuro do PL após Flávio deixar o país
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/valdemar-e-michelle-discutem-futuro-do-pl-apos-flavio-deixar-o-pais/)_
 
+- **[2026-10-28 02:37 UTC]** Flávio tem cidadania italiana desde 2023; PF não pode cancelar passaporte estrangeiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-tem-cidadania-italiana-desde-2023-pf-nao-pode-cancelar-passaporte-estrangeiro/)_
+
