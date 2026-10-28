@@ -38,3 +38,6 @@
 - **[2026-10-27 17:38 UTC]** Tebet diz que Lula entendeu 'recado das ruas' e prevê governo mais aberto a aliados fora do PT
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/27/tebet-entrevista-estudio-i.ghtml)_
 
+- **[2026-10-28 20:34 UTC]** Tebet defende ajuste fiscal em meio a divergências no governo Lula sobre corte de gastos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tebet-defende-ajuste-fiscal-em-meio-a-divergencias-no-governo-lula-sobre-corte-de-gastos/)_
+
