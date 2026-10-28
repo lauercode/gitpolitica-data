@@ -9685,3 +9685,6 @@
 - **[2026-10-28 15:17 UTC]** Flávio Bolsonaro entrou nos EUA com registro humanitário que autoriza permanência de um ano
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-entrou-nos-eua-com-registro-humanitario-que-autoriza-permanencia-de-um-ano.shtml)_
 
+- **[2026-10-28 14:43 UTC]** Restrições sobre passaportes não fazem de Flávio Bolsonaro foragido, diz PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/restricoes-sobre-passaportes-nao-fazem-de-flavio-bolsonaro-foragido-diz-pf.shtml)_
+
