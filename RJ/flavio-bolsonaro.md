@@ -9520,3 +9520,6 @@
 - **[2026-10-28 05:36 UTC]** Trump diz que aprovaria visto para Flávio, mas que não sabe ao certo paradeiro do senador
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/trump-diz-que-aprovaria-visto-para-flvio-mas-que-no-sabe-ao-certo-paradeiro-do-senador.ghtml)_
 
+- **[2026-10-27 21:37 UTC]** Lula diz que saída de Flávio Bolsonaro do país deve ser 'culpa na consciência'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/cidadao-que-foge-do-pais-e-porque-teme-alguma-coisa-afirma-lula-sobre-flavio-bolsonaro.ghtml)_
+
