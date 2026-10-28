@@ -9808,3 +9808,6 @@
 - **[2026-10-28 14:33 UTC]** Oposição exige explicações a Milei por fuga de Flávio pela Argentina
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/oposicao-exige-explicacoes-a-milei-por-fuga-de-flavio-pela-argentina/)_
 
+- **[2026-10-28 14:32 UTC]** Carlos pede desculpas a Jair Bolsonaro após fuga de Flávio: ‘A gente falhou’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/carlos-pede-desculpas-a-jair-bolsonaro-apos-fuga-de-flavio-a-gente-falhou/)_
+
