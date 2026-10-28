@@ -9727,3 +9727,6 @@
 - **[2026-10-28 18:04 UTC]** Flávio esteve com Tarcísio e Derrite antes de deixar o país e não mencionou plano, diz advogado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-esteve-com-tarcisio-e-derrite-na-vespera-e-nao-mencionou-saida-do-pais-diz-advogado/)_
 
+- **[2026-10-28 17:29 UTC]** Aliada de Milei reconhece vitória de Lula, mas diz que Justiça brasileira não é imparcial com Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/aliada-milei-reconhece-vitoria-lula-mas-diz-justica-brasileira-nao-imparcial-flavio/)_
+
