@@ -9400,3 +9400,6 @@
 - **[2026-10-28 00:23 UTC]** Governo Trump diz que dará visto a Flávio Bolsonaro e permitirá entrada dele e família nos EUA
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 23:03 UTC]** EUA dizem que darão visto a Flávio Bolsonaro: relação entre Trump e Lula pode azedar mais?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm3vq700565wo?at_medium=RSS&at_campaign=rss)_
+
