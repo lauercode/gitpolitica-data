@@ -9415,3 +9415,6 @@
 - **[2026-10-27 23:16 UTC]** Aliados demonstram irritação e consideram 'vergonhosa' saída de Flávio Bolsonaro do país
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/aliados-demonstram-irritacao-e-consideram-vergonhosa-saida-de-flavio-bolsonaro-do-pais.ghtml)_
 
+- **[2026-10-27 22:51 UTC]** Trump deve explicações ao Congresso americano sobre fuga de Flávio Bolsonaro, diz deputado às vésperas de eleição nos EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/27/trump-deve-explicacoes-ao-congresso-americano-sobre-fuga-de-flavio-bolsonaro-diz-deputado-as-vesperas-de-eleicao-nos-eua.ghtml)_
+
