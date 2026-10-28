@@ -17,3 +17,6 @@
 - **[2026-10-27 12:32 UTC]** Silvia Abravanel critica Virginia e comentário sugere que avó fique com filhas dela
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/silvia-abravanel-critica-virginia-e-comentario-sugere-que-avo-fique-com-filhas-dela.shtml)_
 
+- **[2026-10-28 08:00 UTC]** Virginia se manifesta após críticas de Silvia Abravanel: 'Desrespeitar ultrapassa limites'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/virginia-se-manifesta-apos-criticas-de-silvia-abravanel-desrespeitar-ultrapassa-limites.shtml)_
+
