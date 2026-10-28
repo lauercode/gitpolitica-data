@@ -9694,3 +9694,6 @@
 - **[2026-10-28 14:05 UTC]** Em 42 h, Flávio Bolsonaro foi de 'nunca pensei em sair do país' a chegada a Miami, veja cronologia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-42h-flavio-bolsonaro-foi-de-nunca-pensei-em-sair-do-pais-a-chegada-a-miami-veja-cronologia.shtml)_
 
+- **[2026-10-28 12:01 UTC]** Deputada argentina pede investigação sobre passagem de Flávio Bolsonaro pelo país
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/deputada-argentina-pede-investigacao-sobre-passagem-de-flavio-bolsonaro-pelo-pais.shtml)_
+
