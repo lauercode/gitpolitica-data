@@ -74,3 +74,6 @@
 - **[2026-10-27 17:46 UTC]** PT vai apoiar reeleição de Hugo Motta à Presidência da Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-vai-apoiar-reeleicao-de-hugo-motta-a-presidencia-da-camara.shtml)_
 
+- **[2026-10-27 21:03 UTC]** Bancada do PT deve declarar apoio à recondução de Hugo Motta para presidência da Câmara
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/bancada-do-pt-deve-declarar-apoio-a-reconducao-de-hugo-motta-para-presidencia-da-camara.ghtml)_
+
