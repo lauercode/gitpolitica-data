@@ -10009,3 +10009,6 @@
 - **[2026-10-28 18:20 UTC]** Em carta golpista, Flávio Bolsonaro sugere ter recebido ajuda de Milei e Trump em fuga
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/em-carta-golpista-flavio-bolsonaro-sugere-ter-recebido-ajuda-de-milei-e-trump-em-fuga/)_
 
+- **[2026-10-28 18:07 UTC]** Flávio Bolsonaro usa brasão com ‘Brazil’ escrito com z em carta golpista
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-usa-brasao-com-brazil-escrito-com-z-em-carta-golpista/)_
+
