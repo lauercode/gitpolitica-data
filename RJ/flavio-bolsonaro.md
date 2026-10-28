@@ -10000,3 +10000,6 @@
 - **[2026-10-28 19:03 UTC]** Trump diz que não vai se ‘envolver’ após Flávio Bolsonaro divulgar carta golpista
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/trump-diz-que-nao-vai-se-envolver-apos-flavio-bolsonaro-divulgar-carta-golpista/)_
 
+- **[2026-10-28 18:39 UTC]** Flávio Bolsonaro, o Guaidó de Taubaté, deveria desconfiar de Trump
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-o-guaido-de-taubate-deveria-desconfiar-de-trump/)_
+
