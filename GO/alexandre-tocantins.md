@@ -251,3 +251,6 @@
 - **[2026-10-27 18:01 UTC]** Cidade do Tocantins zera tarifa de ônibus durante todos os dias da semana; entenda
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/27/cidade-do-tocantins-zera-tarifa-de-onibus-durante-todos-os-dias-da-semana-entenda.ghtml)_
 
+- **[2026-10-28 18:43 UTC]** Justiça do Tocantins segue com expediente judicial suspenso oito dias após suspeita de incidente cibernético
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/28/justica-do-tocantins-segue-com-expediente-judicial-suspenso-oito-dias-apos-suspeita-de-incidente-cibernetico.ghtml)_
+
