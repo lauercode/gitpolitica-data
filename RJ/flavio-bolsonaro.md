@@ -9778,3 +9778,6 @@
 - **[2026-10-28 17:50 UTC]** Flávio nos EUA pode reforçar ofensiva contra ministros do STF, avalia cientista político
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/flvio-nos-eua-pode-reforar-ofensiva-contra-ministros-do-stf-avalia-cientista-poltico.ghtml)_
 
+- **[2026-10-28 17:38 UTC]** Rota de fuga: entenda como Flávio Bolsonaro chegou aos Estados Unidos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/fuga-de-flavio-bolsonaro-aos-eua-teve-versoes-conflitantes-veja-a-cronologia.ghtml)_
+
