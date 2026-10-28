@@ -9661,3 +9661,6 @@
 - **[2026-10-28 16:32 UTC]** Flávio Bolsonaro despistou escolta do Senado antes de viajar para os EUA; saiba bastidores
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/octavio-guedes/post/2026/10/28/flavio-bolsonaro-despistou-escolta.ghtml)_
 
+- **[2026-10-28 15:55 UTC]** 'Covarde', 'exílio político': o que disseram os aliados de Lula e Flávio sobre fuga do senador
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/covarde-exilio-politico-o-que-disseram-os-alidaos-de-lula-e-flavio-sobre-fuga-do-senador.ghtml)_
+
