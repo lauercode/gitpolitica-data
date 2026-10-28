@@ -9550,3 +9550,6 @@
 - **[2026-10-28 08:00 UTC]** Flávio Bolsonaro foge para os EUA e vai receber visto do governo Trump
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/28/flavio-bolsonaro-foge-para-os-eua-e-vai-receber-visto-do-governo-trump.ghtml)_
 
+- **[2026-10-28 06:05 UTC]** Argentina desmente aliados de Flávio e diz que senador só embarcou do país na noite de terça
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/argentina-desmente-aliados-de-flvio-e-diz-que-senador-s-embarcou-do-pas-na-noite-de-tera.ghtml)_
+
