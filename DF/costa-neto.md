@@ -20,3 +20,6 @@
 - **[2026-10-28 21:21 UTC]** Alexandre de Moraes autoriza que Valdemar Costa Neto visite Bolsonaro em prisão domiciliar
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/alexandre-de-moraes-autoriza-que-valdemar-costa-neto-visite-bolsonaro-em-prisao-domiciliar.ghtml)_
 
+- **[2026-10-28 18:46 UTC]** Moraes autoriza visita de Valdemar Costa Neto a Jair Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/moraes-autoriza-visita-de-valdemar-costa-neto-a-jair-bolsonaro/)_
+
