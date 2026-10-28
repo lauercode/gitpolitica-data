@@ -9478,3 +9478,6 @@
 - **[2026-10-27 21:39 UTC]** Flávio, o mártir do pau oco, quer criar nova revolta dos Bolsonaros contra o 'sistema'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/flavio-o-martir-do-pau-oco-quer-criar-nova-revolta-dos-bolsonaros-contra-o-sistema.shtml)_
 
+- **[2026-10-28 05:09 UTC]** Flávio Bolsonaro desembarca nos Estados Unidos após proibição judicial
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-desembarca-nos-estados-unidos-apos-proibicao-judicial/)_
+
