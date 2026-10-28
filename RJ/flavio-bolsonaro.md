@@ -9646,3 +9646,6 @@
 - **[2026-10-28 10:29 UTC]** Flávio Bolsonaro chega aos Estados Unidos depois de fugir do Brasil
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-chega-aos-estados-unidos-depois-de-fugir-do-brasil)_
 
+- **[2026-10-28 11:09 UTC]** Flávio Bolsonaro desembarca nos EUA com a família após fugir do Brasil
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-10/em-fuga-flavio-bolsonaro-desembarca-nos-eua-com-familia)_
+
