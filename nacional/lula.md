@@ -2489,3 +2489,6 @@
 - **[2026-10-27 21:37 UTC]** Lula diz que saída de Flávio Bolsonaro do país deve ser 'culpa na consciência'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/cidadao-que-foge-do-pais-e-porque-teme-alguma-coisa-afirma-lula-sobre-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-27 19:03 UTC]** Tarcísio reconhece vitória de Lula, fala em 'força da direita' e prega oposição ao presidente
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/27/tarcsio-reconhece-vitria-de-lula-critica-governo-e-diz-que-no-vai-se-calar-sobre-excessos.ghtml)_
+
