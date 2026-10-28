@@ -9889,3 +9889,6 @@
 - **[2026-10-28 19:09 UTC]** Tarcísio diz entender sentimento de Flávio, mas que eleição acabou e urnas devem ser respeitadas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-diz-entender-sentimento-de-flavio-mas-que-eleicao-acabou-e-urnas-devem-ser-respeitadas.shtml)_
 
+- **[2026-10-28 19:08 UTC]** Mourão diz que conteúdo de carta de Flávio é 'pura ação política' e que não existe apoio a golpe
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mourao-diz-que-conteudo-de-carta-de-flavio-e-pura-acao-politica-e-que-nao-existe-apoio-a-golpe.shtml)_
+
