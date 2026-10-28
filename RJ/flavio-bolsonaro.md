@@ -9511,3 +9511,6 @@
 - **[2026-10-28 02:44 UTC]** Lula critica Flávio, e aliados falam em 'perseguição'
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm3vq7q59ne6o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 22:49 UTC]** Quais seriam os caminhos possíveis para Flávio ficar legalmente nos EUA
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd6dz9ej226o?at_medium=RSS&at_campaign=rss)_
+
