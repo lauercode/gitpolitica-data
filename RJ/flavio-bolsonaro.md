@@ -9697,3 +9697,6 @@
 - **[2026-10-28 12:01 UTC]** Deputada argentina pede investigação sobre passagem de Flávio Bolsonaro pelo país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/deputada-argentina-pede-investigacao-sobre-passagem-de-flavio-bolsonaro-pelo-pais.shtml)_
 
+- **[2026-10-28 11:45 UTC]** Malafaia diz achar fuga de Flávio 'corretíssima', e Rodovalho compara o senador a Cristo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/malafaia-diz-achar-fuga-de-flavio-corretissima-e-rodovalho-compara-o-senador-a-cristo.shtml)_
+
