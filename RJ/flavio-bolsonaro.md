@@ -9493,3 +9493,6 @@
 - **[2026-10-28 02:37 UTC]** Flávio tem cidadania italiana desde 2023; PF não pode cancelar passaporte estrangeiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-tem-cidadania-italiana-desde-2023-pf-nao-pode-cancelar-passaporte-estrangeiro/)_
 
+- **[2026-10-28 01:08 UTC]** O que se sabe sobre a saída de Flávio Bolsonaro do Brasil após ordem de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil-apos-ordem-de-moraes/)_
+
