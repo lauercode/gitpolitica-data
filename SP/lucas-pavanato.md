@@ -50,3 +50,6 @@
 - **[2026-10-27 17:37 UTC]** Lucas Pavanato xinga Caetano Veloso, e cantor processa deputado eleito
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/lucas-pavanato-xinga-caetano-veloso-e-cantor-processa-deputado-eleito.shtml)_
 
+- **[2026-10-27 19:00 UTC]** MPSP vai investigar Lucas Pavanato por possível discriminação
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/mpsp-vai-investigar-lucas-pavanato-por-possivel-discriminacao)_
+
