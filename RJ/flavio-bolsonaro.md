@@ -9811,3 +9811,6 @@
 - **[2026-10-28 14:32 UTC]** Carlos pede desculpas a Jair Bolsonaro após fuga de Flávio: ‘A gente falhou’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/carlos-pede-desculpas-a-jair-bolsonaro-apos-fuga-de-flavio-a-gente-falhou/)_
 
+- **[2026-10-28 18:22 UTC]** Em carta golpista, Flávio agradece Milei e Trump por apoio para fuga
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-carta-golpista-flavio-agradece-milei-e-trump-por-apoio-para-fuga)_
+
