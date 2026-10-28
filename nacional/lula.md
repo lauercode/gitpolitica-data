@@ -2525,3 +2525,6 @@
 - **[2026-10-28 19:35 UTC]** Conversas sobre composição de Lula 4 devem se acelerar após COP, diz presidente do PT
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/2026/lula-4-composicao-edinho-silva.ghtml)_
 
+- **[2026-10-28 20:03 UTC]** Lula e Flávio no lero-lero
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/lula-e-flavio-no-lero-lero.shtml)_
+
