@@ -9853,3 +9853,6 @@
 - **[2026-10-28 19:30 UTC]** PF avalia pedir prisão preventiva de Flávio Bolsonaro após fuga
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/28/pf-flavio-bolsonaro-ordem-judicial.ghtml)_
 
+- **[2026-10-28 13:25 UTC]** Flávio Bolsonaro chega aos Estados Unidos após fugir do Brasil
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/voo-flavio-bolsonaro-chega-aos-eua.ghtml)_
+
