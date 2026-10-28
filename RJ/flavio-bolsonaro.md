@@ -9553,3 +9553,6 @@
 - **[2026-10-28 06:05 UTC]** Argentina desmente aliados de Flávio e diz que senador só embarcou do país na noite de terça
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/argentina-desmente-aliados-de-flvio-e-diz-que-senador-s-embarcou-do-pas-na-noite-de-tera.ghtml)_
 
+- **[2026-10-28 09:08 UTC]** STF nega ter ordenado buscas em endereços de Flávio Bolsonaro
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/stf-nega-ter-ordenado-buscas-em-enderecos-de-flavio-bolsonaro)_
+
