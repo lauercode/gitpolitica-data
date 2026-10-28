@@ -9412,3 +9412,6 @@
 - **[2026-10-27 23:29 UTC]** No dia da saída de Flávio Bolsonaro do país, Valdemar e Michelle se reúnem para discutir 'futuro do PL'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/no-dia-da-saida-de-flavio-bolsonaro-do-pais-valdemar-e-michelle-se-reunem-para-discutir-futuro-do-pl.ghtml)_
 
+- **[2026-10-27 23:16 UTC]** Aliados demonstram irritação e consideram 'vergonhosa' saída de Flávio Bolsonaro do país
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/aliados-demonstram-irritacao-e-consideram-vergonhosa-saida-de-flavio-bolsonaro-do-pais.ghtml)_
+
