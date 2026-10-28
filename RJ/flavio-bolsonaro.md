@@ -9610,3 +9610,6 @@
 - **[2026-10-28 13:06 UTC]** STF nega existência de busca e apreensão contra Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-nega-existencia-de-busca-e-apreensao-contra-flavio/)_
 
+- **[2026-10-28 12:05 UTC]** Argentina confirma que Flávio passou pelo país antes de seguir para Miami
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/argentina-flavio-passagem-equador-eua/)_
+
