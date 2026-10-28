@@ -2492,3 +2492,6 @@
 - **[2026-10-27 19:03 UTC]** Tarcísio reconhece vitória de Lula, fala em 'força da direita' e prega oposição ao presidente
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/27/tarcsio-reconhece-vitria-de-lula-critica-governo-e-diz-que-no-vai-se-calar-sobre-excessos.ghtml)_
 
+- **[2026-10-28 13:18 UTC]** Lula será aconselhado a não falar mais em Flávio e dizer que caso é problema do senador com Judiciário
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/28/lula-sera-aconselhado-a-nao-falar-mais-em-flavio-e-dizer-que-caso-e-problema-do-senador-com-judiciario.ghtml)_
+
