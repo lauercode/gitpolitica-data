@@ -9946,3 +9946,6 @@
 - **[2026-10-28 14:57 UTC]** Flávio Bolsonaro nos EUA: o que se sabe sobre a saída do senador do Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 23:11 UTC]** Ricardo Nunes descarta apoio à carta golpista de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/ricardo-nunes-descarta-apoio-a-carta-golpista-de-flavio-bolsonaro.ghtml)_
+
