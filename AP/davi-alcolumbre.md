@@ -512,3 +512,6 @@
 - **[2026-10-27 19:27 UTC]** Federação União-PP anuncia apoio à reeleição de Alcolumbre para a presidência do Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/federao-unio-pp-anuncia-apoio-reeleio-de-alcolumbre-para-a-presidncia-do-senado.ghtml)_
 
+- **[2026-10-27 20:55 UTC]** Maior bancada no Senado, PL se divide sobre enfrentar ou não Alcolumbre pela presidência do Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/maior-bancada-no-senado-pl-se-divide-sobre-enfrentar-ou-nao-alcolumbre-pela-presidencia-do-senado.ghtml)_
+
