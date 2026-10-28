@@ -9616,3 +9616,6 @@
 - **[2026-10-28 13:27 UTC]** Argentina diz que Flávio Bolsonaro entrou no país na noite da terça-feira; acompanhe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 12:06 UTC]** O que se sabe sobre saída de Flávio Bolsonaro do Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss)_
+
