@@ -68,3 +68,6 @@
 - **[2026-10-28 08:27 UTC]** Pelo menos 30 pessoas morrem na Espanha após colisão entre dois trens
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/pelo-menos-30-pessoas-morrem-na-espanha-apos-colisao-entre-dois-trens)_
 
+- **[2026-10-28 08:05 UTC]** Acidente entre trens de alta velocidade mata ao menos 64 pessoas na Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/acidente-entre-trens-de-alta-velocidade-mata-ao-menos-30-pessoas-na-espanha.shtml)_
+
