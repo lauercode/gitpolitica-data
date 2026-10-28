@@ -9943,3 +9943,6 @@
 - **[2026-10-28 23:27 UTC]** Após se declarar 'verdadeiro presidente do Brasil', Flávio muda carta e se diz 'líder do Brasil'; siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 14:57 UTC]** Flávio Bolsonaro nos EUA: o que se sabe sobre a saída do senador do Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss)_
+
