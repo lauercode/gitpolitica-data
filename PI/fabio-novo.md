@@ -23,3 +23,6 @@
 - **[2026-10-27 19:11 UTC]** Requião Filho pede que deputados do PL e do Novo sejam investigados por defenderem demissão de petistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/requiao-filho-pede-que-deputados-do-pl-sejam-investigados-por-defenderem-demissao-de-petistas.shtml)_
 
+- **[2026-10-27 18:00 UTC]** Globo decide reprisar 'A Dona do Pedaço' após 'Avenida Brasil' no Vale a Pena Ver de Novo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-decide-reprisar-a-dona-do-pedaco-apos-avenida-brasil-no-vale-a-pena-ver-de-novo.shtml)_
+
