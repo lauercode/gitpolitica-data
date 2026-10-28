@@ -2516,3 +2516,6 @@
 - **[2026-10-28 15:59 UTC]** Assessor de Jair Renan é investigado por agredir primo com garrafadas na cabeça após vitória de Lula
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/28/assessor-de-jair-renan-investigado-por-agredir-primo-apos-vitoria-de-lula-florianopolis.ghtml)_
 
+- **[2026-10-28 21:57 UTC]** Reeleição de Lula e viagem de Flávio Bolsonaro aos EUA repercutem no Plenário
+  _fonte: [Agência Câmara - Política](https://www.camara.leg.br/noticias/1314703-reeleicao-de-lula-e-viagem-de-flavio-bolsonaro-aos-eua-repercutem-no-plenario)_
+
