@@ -9541,3 +9541,6 @@
 - **[2026-10-28 08:04 UTC]** Flávio Bolsonaro sai do Brasil após derrota nas eleições: o que acontece agora?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 09:16 UTC]** Flávio Bolsonaro deixa o Brasil e governo Trump diz que dará visto a senador e família
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
+
