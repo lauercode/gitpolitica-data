@@ -9583,3 +9583,6 @@
 - **[2026-10-28 10:52 UTC]** FOTOS: veja como é o jatinho particular que está levando Flávio Bolsonaro e família aos EUA
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/veja-fotos-jatinho-particular-fuga-flavio-bolsonaro-eua.ghtml)_
 
+- **[2026-10-28 09:51 UTC]** STF diz que não há ordem judicial para busca e apreensão em endereço relacionado a Flávio
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/stf-diz-que-nao-ha-ordem-judicial-para-busca-e-apreensao-em-endereco-relacionado-a-flavio.ghtml)_
+
