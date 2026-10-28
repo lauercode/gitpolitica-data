@@ -9901,3 +9901,6 @@
 - **[2026-10-28 18:46 UTC]** Trump diz que não quer se envolver após carta golpista de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/trump-diz-que-nao-quer-se-envolver-apos-carta-golpista-de-flavio.shtml)_
 
+- **[2026-10-28 18:40 UTC]** Membro da coordenação de campanha de Lula chama Flávio de palhaço e fanfarrão após carta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/membro-da-coordenacao-de-campanha-de-lula-chama-flavio-de-palhaco-e-fanfarrao-apos-carta.shtml)_
+
