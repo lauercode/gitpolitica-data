@@ -9766,3 +9766,6 @@
 - **[2026-10-28 14:18 UTC]** Flávio Bolsonaro desembarca na Flórida
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c98rz4k7kzvno?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 15:11 UTC]** Flávio Bolsonaro usou passaporte italiano para deixar a Argentina em jatinho após atravessar fronteira pelo Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/28/flavio-bolsonaro-usou-documento-argentina.ghtml)_
+
