@@ -20,3 +20,6 @@
 - **[2026-09-11 19:13 UTC]** Homem é preso suspeito de matar irmão e sobrinho durante discussão no Agreste do RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/11/homem-e-preso-suspeito-de-matar-irmao-e-sobrinho-durante-discussao-no-agreste-do-rn.ghtml)_
 
+- **[2026-10-28 13:17 UTC]** Sobrinho-neto de Dilma Rousseff pede apreensão do passaporte de Nikolas Ferreira
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sobrinho-neto-dilma-rousseff-apreensao-passaporte-nikolas-ferreira/)_
+
