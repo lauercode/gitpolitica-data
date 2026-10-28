@@ -14,3 +14,6 @@
 - **[2026-10-06 17:31 UTC]** Resultado das eleições 2026 em Umbaúba (SE): votação para presidente no Emef Carlos Eduardo Ribeiro Santana (Antigo Bbn), na 35ª zona eleitoral
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-umbauba-se-votacao-para-presidente-no-emef-carlos-eduardo-ribeiro-santana-antigo-bbn-na-35a-zona-eleitoral.ghtml)_
 
+- **[2026-10-26 12:01 UTC]** Escola Municipal Indígena Dr. Eduardo Ribeiro., 9ª zona eleitoral: resultado da votação em Bonfim (RR) no 2º turno
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/26/escola-municipal-indigena-dr-eduardo-ribeiro-9a-zona-eleitoral-resultado-da-votacao-em-bonfim-rr-no-2o-turno.ghtml)_
+
