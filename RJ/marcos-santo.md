@@ -26,3 +26,6 @@
 - **[2026-10-26 10:48 UTC]** E. M. Divino Espírito Santo, 4ª zona eleitoral: resultado da votação em Parintins (AM) no 2º turno
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/e-m-divino-espirito-santo-4a-zona-eleitoral-resultado-da-votacao-em-parintins-am-no-2o-turno.ghtml)_
 
+- **[2018-07-16 13:43 UTC]** Senac tem mais de 90 cursos de férias no Espírito Santo; veja a lista
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/concursos-e-emprego/noticia/senac-tem-mais-de-90-cursos-de-ferias-no-espirito-santo-veja-a-lista.ghtml)_
+
