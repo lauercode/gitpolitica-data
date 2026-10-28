@@ -9325,3 +9325,6 @@
 - **[2026-10-27 15:48 UTC]** Flávio Bolsonaro foge para os EUA após descumprir ordem de Moraes
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-foge-para-os-eua-apos-descumprir-ordem-de-moraes/)_
 
+- **[2026-10-27 20:55 UTC]** Coordenador de campanha se diz surpreso com fuga de Flávio
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/coordenador-de-campanha-se-diz-surpreso-com-fuga-de-flavio)_
+
