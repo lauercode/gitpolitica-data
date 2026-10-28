@@ -9544,3 +9544,6 @@
 - **[2026-10-28 09:16 UTC]** Flávio Bolsonaro deixa o Brasil e governo Trump diz que dará visto a senador e família
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 08:00 UTC]** Aposta frustrada em vitória de Flávio derruba cotas de fundos
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/28/aposta-frustrada-em-vitoria-de-flavio-derruba-cotas-de-fundos.ghtml)_
+
