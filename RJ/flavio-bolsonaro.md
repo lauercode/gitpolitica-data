@@ -9361,3 +9361,6 @@
 - **[2026-10-27 19:49 UTC]** Polícia do Rio apura suposta encenação racista em ato pró-Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/policia-do-rio-apura-suposta-encenacao-racista-em-ato-pro-flavio-bolsonaro.shtml)_
 
+- **[2026-10-27 19:34 UTC]** Lula comemora 81 anos e diz que fuga de Flávio é vergonhosa, mas reprova decisão de Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-comemora-81-anos-e-diz-que-fuga-de-flavio-e-vergonhosa-mas-reprova-decisao-de-moraes.shtml)_
+
