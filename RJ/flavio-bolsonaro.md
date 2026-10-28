@@ -9874,3 +9874,6 @@
 - **[2026-10-28 19:49 UTC]** Derrotado conserva direitos, mas não decide quem venceu a eleição, diz Celso de Mello sobre Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/derrotado-conserva-direitos-mas-nao-decide-quem-venceu-a-eleicao-diz-celso-de-mello-sobre-flavio.shtml)_
 
+- **[2026-10-28 19:39 UTC]** Carta golpista de Flávio Bolsonaro remete à autoproclamação de líder venezuelano como presidente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carta-golpista-de-flavio-bolsonaro-remete-a-autoproclamacao-de-lider-venezuelano-como-presidente.shtml)_
+
