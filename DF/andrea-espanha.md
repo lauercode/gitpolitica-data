@@ -62,3 +62,6 @@
 - **[2026-10-26 22:16 UTC]** Chacina de Pioz: STJ forma maioria contra recurso de paraibano acusado de ajudar em morte de família na Espanha
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/26/chacina-de-pioz-stj-forma-maioria-contra-recurso-paraibano-acusado-ajudar-morte-familia-espanha.ghtml)_
 
+- **[2026-10-27 23:22 UTC]** Médica brasileira de 29 anos morre durante viagem à Espanha após disputar meia maratona
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/27/medica-brasileira-29-anos-morre-viagem-espanha-meia-maratona.ghtml)_
+
