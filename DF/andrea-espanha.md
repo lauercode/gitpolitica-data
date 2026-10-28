@@ -104,3 +104,6 @@
 - **[2026-10-28 17:16 UTC]** Colisão entre trens deixa 68 mortos na Espanha
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-10/colisao-entre-trens-deixa-68-mortos-na-espanha)_
 
+- **[2026-10-28 17:37 UTC]** Flávio Bolsonaro disse que não fugiria do país e provocou Lula em debate por ter filho na Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-disse-que-nao-fugiria-do-pais-e-provocou-lula-em-debate-por-ter-filho-na-espanha.shtml)_
+
