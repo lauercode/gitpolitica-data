@@ -9925,3 +9925,6 @@
 - **[2026-10-28 16:18 UTC]** Deputados democratas criticam governo Trump por conceder visto a Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/deputados-democratas-criticam-governo-trump-por-conceder-visto-a-flavio-bolsonaro.shtml)_
 
+- **[2026-10-28 22:59 UTC]** Rogério Marinho trata acusações de fraude eleitoral feitas por Flávio como desabafo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-trata-acusacoes-de-fraude-eleitoral-feitas-por-flavio-como-desabafo/)_
+
