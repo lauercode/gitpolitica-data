@@ -9622,3 +9622,6 @@
 - **[2026-10-27 18:27 UTC]** Lulista recebe Porsche de R$ 1,5 milhão após vencer aposta com eleitor de Flávio Bolsonaro; VÍDEO
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/10/27/lulista-recebe-porsche-de-r-15-milhao-apos-vencer-aposta-com-eleitor-de-flavio-bolsonaro-video.ghtml)_
 
+- **[2026-10-28 11:28 UTC]** Argentina confirma que Flávio Bolsonaro cruzou fronteira pelo Paraná com a família; entenda como funciona a fiscalização na ponte
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/28/argentina-confirma-que-flavio-bolsonaro-cruzou-fronteira-pelo-parana.ghtml)_
+
