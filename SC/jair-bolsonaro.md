@@ -161,3 +161,6 @@
 - **[2026-10-28 15:25 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Valdemar Costa Neto em prisão domiciliar
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-valdemar-costa-neto-em-prisao-domiciliar.ghtml)_
 
+- **[2026-10-28 14:32 UTC]** Carlos pede desculpas a Jair Bolsonaro após fuga de Flávio: ‘A gente falhou’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/carlos-pede-desculpas-a-jair-bolsonaro-apos-fuga-de-flavio-a-gente-falhou/)_
+
