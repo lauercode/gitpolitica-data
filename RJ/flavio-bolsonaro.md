@@ -9418,3 +9418,6 @@
 - **[2026-10-27 22:51 UTC]** Trump deve explicações ao Congresso americano sobre fuga de Flávio Bolsonaro, diz deputado às vésperas de eleição nos EUA
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/27/trump-deve-explicacoes-ao-congresso-americano-sobre-fuga-de-flavio-bolsonaro-diz-deputado-as-vesperas-de-eleicao-nos-eua.ghtml)_
 
+- **[2026-10-27 22:40 UTC]** PF apontou expressamente risco de Flávio Bolsonaro fugir do Brasil ao pedir apreensão de passaportes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/pf-apontou-expressamente-risco-de-flavio-bolsonaro-fugir-do-brasil-ao-pedir-apreensao-de-passaportes.ghtml)_
+
