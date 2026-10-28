@@ -9589,3 +9589,6 @@
 - **[2026-10-28 05:21 UTC]** Voo de Flávio Bolsonaro e família deixa Equador com destino a Miami, nos EUA, diz governo da Argentina
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/flavio-bolsonaro-e-familia-entraram-na-argentina-e-seguiram-em-voo-privado-para-o-equador-diz-migracao-argentina.ghtml)_
 
+- **[2026-10-28 01:16 UTC]** Flávio Bolsonaro chega aos EUA, diz BBC; governo argentino afirma que senador ainda está a caminho
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/flavio-bolsonaro-chega-aos-eua-diz-bbc.ghtml)_
+
