@@ -9439,3 +9439,6 @@
 - **[2026-10-27 17:38 UTC]** Flávio Bolsonaro chega aos EUA e governo americano diz que concederá visto ao senador
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/flavio-bolsonaro-esta-em-um-aviao-em-direcao-aos-eua-segundo-autoridade-americana-diz-agencia.ghtml)_
 
+- **[2026-10-27 18:58 UTC]** EUA dará visto a Flávio Bolsonaro e sua família
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/eua-dara-visto-a-flavio-bolsonaro-e-sua-familia/)_
+
