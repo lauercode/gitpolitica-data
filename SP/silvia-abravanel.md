@@ -23,3 +23,6 @@
 - **[2026-10-28 12:45 UTC]** Saiba por que Virginia e Silvia Abravanel estão batendo boca nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/saiba-por-que-virginia-e-silvia-abravanel-estao-batendo-boca-nas-redes.shtml)_
 
+- **[2026-10-28 16:20 UTC]** Virginia Fonseca cancela ida ao Teleton no SBT após discutir com Silvia Abravanel nas redes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/virginia-fonseca-cancela-ida-ao-teleton-no-sbt-apos-discutir-com-silvia-abravanel-nas-redes.shtml)_
+
