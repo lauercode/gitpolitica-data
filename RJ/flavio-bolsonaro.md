@@ -9835,3 +9835,6 @@
 - **[2026-10-28 22:17 UTC]** Flávio Bolsonaro recebeu autorização para ficar 1 ano nos EUA
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/flavio-bolsonaro-recebeu-autorizacao-para-ficar-1-ano-nos-eua.ghtml)_
 
+- **[2026-10-28 22:15 UTC]** 'Entendo indignação, mas caminho é seguir em frente', diz Tarcísio após Flávio Bolsonaro divulgar carta em que se declara 'líder do Brasil'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/28/entendo-indignacao-mas-caminho-e-seguir-em-frente-diz-tarcisio-apos-flavio-bolsonaro-divulgar-carta-em-que-se-declara-presidente-do-brasil.ghtml)_
+
