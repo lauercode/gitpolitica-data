@@ -9736,3 +9736,6 @@
 - **[2026-10-28 16:59 UTC]** Avião de Flávio Bolsonaro pousa em Miami após rota evitar o espaço aéreo brasileiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aviao-de-flavio-bolsonaro-pousa-em-miami-apos-rota-evitar-o-espaco-aereo-brasileiro/)_
 
+- **[2026-10-28 16:52 UTC]** Mãe de Flávio lamenta saída do país: “meu coração sangra”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mae-de-flavio-reage-a-saida-do-pais-meu-coracao-sangra/)_
+
