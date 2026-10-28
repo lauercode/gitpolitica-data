@@ -9643,3 +9643,6 @@
 - **[2026-10-28 08:33 UTC]** Onde está Flávio Bolsonaro? Registros oficiais revelam rota após versões contraditórias
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/onde-esta-flavio-bolsonaro-registros-oficiais-revelam-rota-apos-versoes-contraditorias/)_
 
+- **[2026-10-28 10:29 UTC]** Flávio Bolsonaro chega aos Estados Unidos depois de fugir do Brasil
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-chega-aos-estados-unidos-depois-de-fugir-do-brasil)_
+
