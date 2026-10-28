@@ -9424,3 +9424,6 @@
 - **[2026-10-27 22:38 UTC]** Brasil pode pedir extradição de Flávio Bolsonaro, mas Trump é obstáculo, dizem especialistas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/brasil-pode-pedir-extradicao-de-flavio-bolsonaro-mas-trump-e-obstaculo-dizem-especialistas.ghtml)_
 
+- **[2026-10-27 22:10 UTC]** Rogério Marinho se diz surpreso com saída de Flávio Bolsonaro e fala em perseguição política
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/rogerio-marinho-se-diz-surpreso-com-saida-de-flavio-bolsonaro-e-fala-em-perseguicao-politica.ghtml)_
+
