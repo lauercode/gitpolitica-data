@@ -9673,3 +9673,6 @@
 - **[2026-10-28 10:52 UTC]** FOTOS: veja como é o jatinho particular que levou Flávio Bolsonaro e família aos EUA
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/veja-fotos-jatinho-particular-fuga-flavio-bolsonaro-eua.ghtml)_
 
+- **[2026-10-27 20:46 UTC]** Além de Flávio Bolsonaro: veja outros bolsonaristas que deixaram o país
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/zambelli-eduardo-bolsonaro-e-mais-veja-bolsonaristas-que-deixaram-o-brasil.ghtml)_
+
