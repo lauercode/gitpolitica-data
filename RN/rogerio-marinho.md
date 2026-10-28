@@ -88,3 +88,6 @@
 - **[2026-10-27 22:57 UTC]** Rogério Marinho minimiza apoio do União Brasil-PP à reeleição de Alcolumbre no Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/rogerio-marinho-minimiza-apoio-do-uniao-brasil-pp-a-reeleicao-de-alcolumbre-no-senado.ghtml)_
 
+- **[2026-10-27 22:10 UTC]** Rogério Marinho se diz surpreso com saída de Flávio Bolsonaro e fala em perseguição política
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/rogerio-marinho-se-diz-surpreso-com-saida-de-flavio-bolsonaro-e-fala-em-perseguicao-politica.ghtml)_
+
