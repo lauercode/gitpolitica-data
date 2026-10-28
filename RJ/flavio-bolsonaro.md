@@ -9406,3 +9406,6 @@
 - **[2026-10-27 22:49 UTC]** Quais seriam os caminhos possíveis para Flávio Bolsonaro ficar legalmente nos EUA
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmd6dz9ej226o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 00:11 UTC]** Após fuga de Flávio Bolsonaro, equipe jurídica descarta novas ações no TSE: ‘Não entraremos com mais nada’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/apos-fuga-de-flavio-bolsonaro-equipe-juridica-descarta-novas-acoes-no-tse-nao-entraremos-com-mais-nada.ghtml)_
+
