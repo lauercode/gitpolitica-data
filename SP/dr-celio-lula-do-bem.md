@@ -173,3 +173,6 @@
 - **[2026-10-26 21:30 UTC]** Nunes entrou na campanha de Flávio e vitória de Lula aumentou em SP, diz vereador do PT
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/nunes-entrou-na-campanha-de-flavio-e-vitoria-de-lula-aumentou-em-sp-diz-vereador-do-pt.shtml)_
 
+- **[2026-10-28 13:04 UTC]** Após reeleger Lula, esquerda mobiliza protestos contra Ricardo Nunes em SP
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-reeleger-lula-esquerda-mobiliza-protestos-contra-ricardo-nunes-em-sp/)_
+
