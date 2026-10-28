@@ -97,3 +97,6 @@
 - **[2026-10-28 22:59 UTC]** Rogério Marinho trata acusações de fraude eleitoral feitas por Flávio como desabafo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-trata-acusacoes-de-fraude-eleitoral-feitas-por-flavio-como-desabafo/)_
 
+- **[2026-10-28 23:12 UTC]** Rogério Marinho diz que seguirá líder da oposição no Senado e cogita candidatura à presidência da Casa
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/rogerio-marinho-diz-que-seguira-lider-da-oposicao-no-senado-e-cogita-candidatura-a-presidencia-da-casa.ghtml)_
+
