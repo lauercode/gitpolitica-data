@@ -9709,3 +9709,6 @@
 - **[2026-10-28 09:24 UTC]** Avião que levou Flávio aos EUA desviou do espaço aéreo brasileiro para evitar interceptação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/aviao-que-levaria-flavio-aos-eua-desviou-do-espaco-aereo-brasileiro-para-evitar-interceptacao.shtml)_
 
+- **[2026-10-28 09:21 UTC]** Fuga de Flávio tem guerra de informações; veja versões e saiba o que precisa ser esclarecido
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fuga-de-flavio-bolsonaro-vira-guerra-de-contrainformacao.shtml)_
+
