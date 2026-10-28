@@ -2513,3 +2513,6 @@
 - **[2026-10-28 14:59 UTC]** Ida de Flávio aos EUA via Argentina deve elevar tensões entre Lula e Milei
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/ida-flavio-eua-via-argentina-deve-elevar-tensoes-lula-milei/)_
 
+- **[2026-10-28 15:59 UTC]** Assessor de Jair Renan é investigado por agredir primo com garrafadas na cabeça após vitória de Lula
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/28/assessor-de-jair-renan-investigado-por-agredir-primo-apos-vitoria-de-lula-florianopolis.ghtml)_
+
