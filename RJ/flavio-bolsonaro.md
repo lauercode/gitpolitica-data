@@ -9865,3 +9865,6 @@
 - **[2026-10-28 20:05 UTC]** Parlamentar do PSOL pede que Flávio Bolsonaro seja investigado por crime de lesa-pátria
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/parlamentar-do-psol-pede-que-flavio-bolsonaro-seja-investigado-por-crime-de-lesa-patria.shtml)_
 
+- **[2026-10-28 20:03 UTC]** Lula e Flávio no lero-lero
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/lula-e-flavio-no-lero-lero.shtml)_
+
