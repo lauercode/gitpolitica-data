@@ -9940,3 +9940,6 @@
 - **[2026-10-28 22:21 UTC]** Nos EUA, Flávio Bolsonaro se declara líder do Brasil e da oposição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nos-eua-flavio-bolsonaro-se-declara-presidente-eleito/)_
 
+- **[2026-10-28 23:27 UTC]** Após se declarar 'verdadeiro presidente do Brasil', Flávio muda carta e se diz 'líder do Brasil'; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
+
