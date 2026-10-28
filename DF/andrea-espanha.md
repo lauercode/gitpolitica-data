@@ -65,3 +65,6 @@
 - **[2026-10-27 23:22 UTC]** Médica brasileira de 29 anos morre durante viagem à Espanha após disputar meia maratona
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/27/medica-brasileira-29-anos-morre-viagem-espanha-meia-maratona.ghtml)_
 
+- **[2026-10-28 08:27 UTC]** Pelo menos 30 pessoas morrem na Espanha após colisão entre dois trens
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/pelo-menos-30-pessoas-morrem-na-espanha-apos-colisao-entre-dois-trens)_
+
