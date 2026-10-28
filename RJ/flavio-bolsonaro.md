@@ -9658,3 +9658,6 @@
 - **[2026-10-28 17:17 UTC]** Após fuga de Flávio, PF diz que não tinha autorização judicial para prender, monitorar ou tomar outras medidas contra o senador
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/pf-diz-que-restricoes-a-passaportes-de-flavio-nao-autorizavam-prisao-vigilancia-permanente-ou-outras-medidas-contra-o-senador.ghtml)_
 
+- **[2026-10-28 16:32 UTC]** Flávio Bolsonaro despistou escolta do Senado antes de viajar para os EUA; saiba bastidores
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/octavio-guedes/post/2026/10/28/flavio-bolsonaro-despistou-escolta.ghtml)_
+
