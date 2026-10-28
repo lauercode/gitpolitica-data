@@ -9451,3 +9451,6 @@
 - **[2026-10-28 03:30 UTC]** A rota de fuga de Flávio Bolsonaro - O Assunto #1834
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/10/28/a-rota-de-fuga-de-flavio-bolsonaro-o-assunto-1834.ghtml)_
 
+- **[2026-10-28 01:16 UTC]** Flávio Bolsonaro chega aos EUA, diz BBC
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/flavio-bolsonaro-chega-aos-eua-diz-bbc.ghtml)_
+
