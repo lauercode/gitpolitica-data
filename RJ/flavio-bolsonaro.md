@@ -10006,3 +10006,6 @@
 - **[2026-10-28 18:29 UTC]** Flávio Bolsonaro apaga trecho de carta golpista em que se autoproclamava presidente e agora diz ser ‘líder’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-apaga-trecho-de-carta-golpista-em-que-se-autoproclama-presidente-e-agora-diz-ser-lider-do-brasil/)_
 
+- **[2026-10-28 18:20 UTC]** Em carta golpista, Flávio Bolsonaro sugere ter recebido ajuda de Milei e Trump em fuga
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/em-carta-golpista-flavio-bolsonaro-sugere-ter-recebido-ajuda-de-milei-e-trump-em-fuga/)_
+
