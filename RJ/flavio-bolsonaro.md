@@ -9475,3 +9475,6 @@
 - **[2026-10-27 22:00 UTC]** Revanche de Moraes e fuga de Flávio maculam a política
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/revanche-de-moraes-e-fuga-de-flavio-maculam-a-politica.shtml)_
 
+- **[2026-10-27 21:39 UTC]** Flávio, o mártir do pau oco, quer criar nova revolta dos Bolsonaros contra o 'sistema'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/flavio-o-martir-do-pau-oco-quer-criar-nova-revolta-dos-bolsonaros-contra-o-sistema.shtml)_
+
