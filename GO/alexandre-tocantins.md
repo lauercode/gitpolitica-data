@@ -254,3 +254,6 @@
 - **[2026-10-28 18:43 UTC]** Justiça do Tocantins segue com expediente judicial suspenso oito dias após suspeita de incidente cibernético
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/28/justica-do-tocantins-segue-com-expediente-judicial-suspenso-oito-dias-apos-suspeita-de-incidente-cibernetico.ghtml)_
 
+- **[2026-10-28 19:26 UTC]** Homem é morto com golpes de faca no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/28/homem-e-morto-com-golpes-de-faca-no-interior-do-tocantins.ghtml)_
+
