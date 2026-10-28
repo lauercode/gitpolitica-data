@@ -26,3 +26,6 @@
 - **[2026-10-27 16:52 UTC]** União Brasil e PP apoiam reeleição de Alcolumbre para chefia do Senado e escanteiam Tereza Cristina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/uniao-brasil-e-pp-apoiam-reeleicao-de-alcolumbre-para-chefia-do-senado-e-escanteiam-tereza-cristina.shtml)_
 
+- **[2026-10-28 12:55 UTC]** Tereza Cristina critica apoio do União Brasil e PP à reeleição de Alcolumbre no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tereza-cristina-critica-apoio-uniao-brasil-pp-reeleicao-alcolumbre/)_
+
