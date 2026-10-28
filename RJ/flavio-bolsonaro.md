@@ -9724,3 +9724,6 @@
 - **[2026-10-28 18:28 UTC]** Malafaia defende saída de Flávio do Brasil e acusa Moraes de perseguição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/malafaia-defende-saida-de-flavio-do-brasil-e-acusa-moraes-de-perseguicao/)_
 
+- **[2026-10-28 18:04 UTC]** Flávio esteve com Tarcísio e Derrite antes de deixar o país e não mencionou plano, diz advogado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-esteve-com-tarcisio-e-derrite-na-vespera-e-nao-mencionou-saida-do-pais-diz-advogado/)_
+
