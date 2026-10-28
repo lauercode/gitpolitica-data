@@ -9343,3 +9343,6 @@
 - **[2026-10-27 22:18 UTC]** Parlamentares da Argentina pedem investigação sobre possível fuga de Flávio pelo país, diz jornal
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/parlamentares-da-argentina-pedem-investigacao-sobre-possivel-fuga-de-flavio-pelo-pais-diz-jornal.ghtml)_
 
+- **[2026-10-27 21:26 UTC]** Lula diz que é 'vergonhoso' Flávio fugir do país: 'O Brasil é a segunda pátria dele. A primeira é lambe-botas dos EUA'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/lula-diz-que-flavio-bolsonaro-fugiu-do-brasil-e-que-deve-ter-culpa-na-consciencia.ghtml)_
+
