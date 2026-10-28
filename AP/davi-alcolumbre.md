@@ -524,3 +524,6 @@
 - **[2026-10-28 04:00 UTC]** Alcolumbre planeja articular indulto ou anistia a Bolsonaro em busca de votos da direita para se reeleger
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-planeja-articular-indulto-ou-anistia-a-bolsonaro-em-busca-de-votos-da-direita-para-se-reeleger.shtml)_
 
+- **[2026-10-28 12:55 UTC]** Tereza Cristina critica apoio do União Brasil e PP à reeleição de Alcolumbre no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tereza-cristina-critica-apoio-uniao-brasil-pp-reeleicao-alcolumbre/)_
+
