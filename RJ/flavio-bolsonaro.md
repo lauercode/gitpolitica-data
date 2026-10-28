@@ -9526,3 +9526,6 @@
 - **[2026-10-27 17:38 UTC]** Flávio Bolsonaro descumpre ordem de Moraes, não entrega passaporte e foge para os EUA
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/flavio-bolsonaro-esta-em-um-aviao-em-direcao-aos-eua-segundo-autoridade-americana-diz-agencia.ghtml)_
 
+- **[2026-10-27 22:23 UTC]** Rogério Marinho se diz ‘surpreso’ com fuga de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/rogerio-marinho-se-diz-surpreso-com-fuga-de-flavio-bolsonaro/)_
+
