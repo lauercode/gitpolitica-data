@@ -9994,3 +9994,6 @@
 - **[2026-10-28 19:26 UTC]** ‘Perder eleição não é motivo para asilo’, dizem deputados democratas sobre Flávio
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/perder-eleicao-nao-e-motivo-para-asilo-dizem-deputados-democratas-sobre-flavio/)_
 
+- **[2026-10-28 19:11 UTC]** Decisão de Moraes foi correta e Flávio Bolsonaro é um covarde, avalia Kakay
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/decisao-de-moraes-foi-correta-e-flavio-bolsonaro-e-um-covarde-avalia-kakay/)_
+
