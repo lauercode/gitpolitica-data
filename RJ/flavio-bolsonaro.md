@@ -9682,3 +9682,6 @@
 - **[2026-10-28 15:33 UTC]** Assessor de Milei monitorou fuga de Flávio Bolsonaro desde início, diz jornal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/assessor-de-milei-monitorou-fuga-de-flavio-bolsonaro-desde-inicio-diz-jornal.shtml)_
 
+- **[2026-10-28 15:17 UTC]** Flávio Bolsonaro entrou nos EUA com registro humanitário que autoriza permanência de um ano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-entrou-nos-eua-com-registro-humanitario-que-autoriza-permanencia-de-um-ano.shtml)_
+
