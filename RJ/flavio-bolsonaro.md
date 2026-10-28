@@ -9892,3 +9892,6 @@
 - **[2026-10-28 19:08 UTC]** Mourão diz que conteúdo de carta de Flávio é 'pura ação política' e que não existe apoio a golpe
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mourao-diz-que-conteudo-de-carta-de-flavio-e-pura-acao-politica-e-que-nao-existe-apoio-a-golpe.shtml)_
 
+- **[2026-10-28 18:52 UTC]** Com chanchada política, Flávio menospreza Brasil e apoiadores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcosaugustogoncalves/2026/10/com-chanchada-politica-flavio-menospreza-brasil-e-apoiadores.shtml)_
+
