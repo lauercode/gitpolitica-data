@@ -9907,3 +9907,6 @@
 - **[2026-10-28 17:37 UTC]** Flávio Bolsonaro disse que não fugiria do país e provocou Lula em debate por ter filho na Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-disse-que-nao-fugiria-do-pais-e-provocou-lula-em-debate-por-ter-filho-na-espanha.shtml)_
 
+- **[2026-10-28 17:21 UTC]** Flávio Bolsonaro erra e chama país de 'Estados Unidos do Brazil'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-erra-e-chama-pais-de-estados-unidos-do-brasil.shtml)_
+
