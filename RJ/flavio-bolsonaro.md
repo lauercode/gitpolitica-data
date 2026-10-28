@@ -9568,3 +9568,6 @@
 - **[2026-10-28 13:25 UTC]** Voo que estaria levando Flávio Bolsonaro chega aos EUA
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/voo-flavio-bolsonaro-chega-aos-eua.ghtml)_
 
+- **[2026-10-28 13:18 UTC]** Lula será aconselhado a não falar mais em Flávio e dizer que caso é problema do senador com Judiciário
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/28/lula-sera-aconselhado-a-nao-falar-mais-em-flavio-e-dizer-que-caso-e-problema-do-senador-com-judiciario.ghtml)_
+
