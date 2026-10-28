@@ -9376,3 +9376,6 @@
 - **[2026-10-27 19:27 UTC]** Richarlison ironiza fuga de Flávio Bolsonaro: 'Então não tem ninguém na ilha?'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/richarlison-ironiza-fuga-de-flavio-bolsonaro-entao-nao-tem-ninguem-na-ilha.shtml)_
 
+- **[2026-10-27 18:56 UTC]** Bons negócios com Flávio e Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/bons-negocios-com-flavio-e-trump.shtml)_
+
