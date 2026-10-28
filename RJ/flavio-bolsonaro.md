@@ -9634,3 +9634,6 @@
 - **[2026-10-28 12:40 UTC]** Principais jornais do mundo repercutem fuga de Flávio Bolsonaro para os EUA
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/principais-jornais-do-mundo-repercutem-fuga-de-flvio-bolsonaro-para-os-eua.ghtml)_
 
+- **[2026-10-28 10:04 UTC]** STF diz não haver operação da PF relacionada a Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/stf-diz-nao-haver-operacao-da-pf-relacionada-a-flavio-bolsonaro.ghtml)_
+
