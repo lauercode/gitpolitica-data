@@ -9739,3 +9739,6 @@
 - **[2026-10-28 16:52 UTC]** Mãe de Flávio lamenta saída do país: “meu coração sangra”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mae-de-flavio-reage-a-saida-do-pais-meu-coracao-sangra/)_
 
+- **[2026-10-28 16:29 UTC]** “Bolsonarismo continuará vivendo”, diz jurista sobre viagem de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsonarismo-continuara-vivendo-diz-jurista-sobre-exilio-de-flavio/)_
+
