@@ -14,3 +14,6 @@
 - **[2026-10-05 16:53 UTC]** Jair Bolsonaro ‘pode ser forte candidato’ para disputar Presidência em 4 anos, diz Costa Neto
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/jair-bolsonaro-pode-ser-forte-candidato-para-disputar-presidncia-em-4-anos-diz-costa-neto.ghtml)_
 
+- **[2026-10-28 15:25 UTC]** Jair Bolsonaro pede a Moraes para receber visita de Valdemar Costa Neto em prisão domiciliar
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/jair-bolsonaro-pede-a-moraes-para-receber-visita-de-valdemar-costa-neto-em-prisao-domiciliar.ghtml)_
+
