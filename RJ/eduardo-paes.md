@@ -65,3 +65,6 @@
 - **[2026-10-14 18:12 UTC]** Eduardo Paes abre nova frente no STF para tentar realização de 2º turno no RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-paes-abre-nova-frente-no-stf-para-tentar-realizacao-de-2o-turno-no-rj.shtml)_
 
+- **[2026-10-28 13:00 UTC]** PT e aliados de Eduardo Paes discutem herança de virada de Lula no Rio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-e-aliados-de-eduardo-paes-discutem-heranca-de-virada-de-lula-no-rio.shtml)_
+
