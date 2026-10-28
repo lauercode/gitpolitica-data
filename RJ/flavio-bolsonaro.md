@@ -9655,3 +9655,6 @@
 - **[2026-10-28 18:06 UTC]** PF suspeita que Flávio Bolsonaro tenha entrado na Argentina por outro caminho
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/28/pf-flavio-bolsonaro-entrada-argentina.ghtml)_
 
+- **[2026-10-28 17:17 UTC]** Após fuga de Flávio, PF diz que não tinha autorização judicial para prender, monitorar ou tomar outras medidas contra o senador
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/pf-diz-que-restricoes-a-passaportes-de-flavio-nao-autorizavam-prisao-vigilancia-permanente-ou-outras-medidas-contra-o-senador.ghtml)_
+
