@@ -110,3 +110,6 @@
 - **[2026-10-27 15:24 UTC]** Nikolas Ferreira sai das urnas cotado para Presidência e com “bancada própria” no Congresso
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/nikolas-ferreira-cotado-presidente-republica/)_
 
+- **[2026-10-27 23:34 UTC]** MPF arquiva denúncia de Nikolas Ferreira contra redator da lei das bets
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/mpf-arquiva-denuncia-de-nikolas-ferreira-contra-redator-da-lei-das-bets.shtml)_
+
