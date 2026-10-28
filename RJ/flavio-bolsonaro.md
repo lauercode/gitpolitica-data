@@ -9352,3 +9352,6 @@
 - **[2026-10-27 21:03 UTC]** Governo Trump dará visto para Flávio Bolsonaro e permitirá entrada dele nos EUA
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/governo-dos-eua-concedera-vistos-a-flavio-bolsonaro-e-sua-familia.ghtml)_
 
+- **[2026-10-27 17:11 UTC]** Imprensa internacional dá destaque à suspeita de fuga de Flávio Bolsonaro após derrota eleitoral
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/suspeita-de-fuga-de-flavio-bolsonaro-repercute-na-imprensa-internacional.ghtml)_
+
