@@ -9733,3 +9733,6 @@
 - **[2026-10-28 17:44 UTC]** PF diz que viagem de Flávio aos EUA não caracteriza fuga e nem prisão
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-viagem-flavio-eua-nao-caracteriza-fuga-nem-prisao/)_
 
+- **[2026-10-28 16:59 UTC]** Avião de Flávio Bolsonaro pousa em Miami após rota evitar o espaço aéreo brasileiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aviao-de-flavio-bolsonaro-pousa-em-miami-apos-rota-evitar-o-espaco-aereo-brasileiro/)_
+
