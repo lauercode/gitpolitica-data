@@ -9688,3 +9688,6 @@
 - **[2026-10-28 14:43 UTC]** Restrições sobre passaportes não fazem de Flávio Bolsonaro foragido, diz PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/restricoes-sobre-passaportes-nao-fazem-de-flavio-bolsonaro-foragido-diz-pf.shtml)_
 
+- **[2026-10-28 14:24 UTC]** Flávio Bolsonaro fugiu em jato de empresa citada em esquema de corrupção que derrubou aliado de Milei
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-fugiu-em-jato-de-empresa-citada-em-esquema-de-corrupcao-que-derrubou-aliado-de-milei.shtml)_
+
