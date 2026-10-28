@@ -9721,3 +9721,6 @@
 - **[2026-10-28 18:31 UTC]** Saída de Flávio Bolsonaro do Brasil desafia articulação da oposição a Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/saida-de-flavio-bolsonaro-do-brasil-desafia-articulacao-da-oposicao-a-lula/)_
 
+- **[2026-10-28 18:28 UTC]** Malafaia defende saída de Flávio do Brasil e acusa Moraes de perseguição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/malafaia-defende-saida-de-flavio-do-brasil-e-acusa-moraes-de-perseguicao/)_
+
