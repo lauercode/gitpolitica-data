@@ -9862,3 +9862,6 @@
 - **[2026-10-28 20:11 UTC]** Flávio, asilado ou fugitivo da Justiça?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/10/flavio-asilado-ou-fugitivo-da-justica.shtml)_
 
+- **[2026-10-28 20:05 UTC]** Parlamentar do PSOL pede que Flávio Bolsonaro seja investigado por crime de lesa-pátria
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/parlamentar-do-psol-pede-que-flavio-bolsonaro-seja-investigado-por-crime-de-lesa-patria.shtml)_
+
