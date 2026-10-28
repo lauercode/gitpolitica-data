@@ -9517,3 +9517,6 @@
 - **[2026-10-28 06:10 UTC]** Flávio Bolsonaro chega aos EUA e governo Trump diz que lhe dará visto; as notícias dessa 3ªf
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 05:36 UTC]** Trump diz que aprovaria visto para Flávio, mas que não sabe ao certo paradeiro do senador
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/trump-diz-que-aprovaria-visto-para-flvio-mas-que-no-sabe-ao-certo-paradeiro-do-senador.ghtml)_
+
