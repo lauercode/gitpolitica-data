@@ -9619,3 +9619,6 @@
 - **[2026-10-28 12:06 UTC]** O que se sabe sobre saída de Flávio Bolsonaro do Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 18:27 UTC]** Lulista recebe Porsche de R$ 1,5 milhão após vencer aposta com eleitor de Flávio Bolsonaro; VÍDEO
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/10/27/lulista-recebe-porsche-de-r-15-milhao-apos-vencer-aposta-com-eleitor-de-flavio-bolsonaro-video.ghtml)_
+
