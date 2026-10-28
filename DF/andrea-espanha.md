@@ -80,3 +80,6 @@
 - **[2026-10-28 11:28 UTC]** Colisão de trens de alta velocidade deixa ao menos 30 mortos na Espanha
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/coliso-de-trens-de-alta-velocidade-deixa-ao-menos-30-mortos-na-espanha.ghtml)_
 
+- **[2026-10-28 08:18 UTC]** Colisão de trens na Espanha deixa ao menos 30 mortos
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/colisao-de-trens-na-espanha-deixa-ao-menos-30-mortos/)_
+
