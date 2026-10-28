@@ -85,3 +85,6 @@
 - **[2026-10-27 21:36 UTC]** Rogério Marinho cita surpresa com viagem de Flávio e questiona medidas de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-cita-surpresa-com-viagem-de-flavio-e-questiona-medidas-de-moraes/)_
 
+- **[2026-10-27 22:57 UTC]** Rogério Marinho minimiza apoio do União Brasil-PP à reeleição de Alcolumbre no Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/rogerio-marinho-minimiza-apoio-do-uniao-brasil-pp-a-reeleicao-de-alcolumbre-no-senado.ghtml)_
+
