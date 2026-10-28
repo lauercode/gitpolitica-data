@@ -515,3 +515,6 @@
 - **[2026-10-27 20:55 UTC]** Maior bancada no Senado, PL se divide sobre enfrentar ou não Alcolumbre pela presidência do Senado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/maior-bancada-no-senado-pl-se-divide-sobre-enfrentar-ou-nao-alcolumbre-pela-presidencia-do-senado.ghtml)_
 
+- **[2026-10-27 22:57 UTC]** Rogério Marinho minimiza apoio do União Brasil-PP à reeleição de Alcolumbre no Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/rogerio-marinho-minimiza-apoio-do-uniao-brasil-pp-a-reeleicao-de-alcolumbre-no-senado.ghtml)_
+
