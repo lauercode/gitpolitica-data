@@ -77,3 +77,6 @@
 - **[2026-10-28 12:50 UTC]** Médica, corredora e 'cheia de planos': quem era brasileira de 29 anos que morreu na Espanha após meia maratona
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/28/quem-era-brasileira-de-29-anos-que-morreu-na-espanha-apos-meia-maratona.ghtml)_
 
+- **[2026-10-28 11:28 UTC]** Colisão de trens de alta velocidade deixa ao menos 30 mortos na Espanha
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/coliso-de-trens-de-alta-velocidade-deixa-ao-menos-30-mortos-na-espanha.ghtml)_
+
