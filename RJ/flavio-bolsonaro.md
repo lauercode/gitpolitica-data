@@ -9796,3 +9796,6 @@
 - **[2026-10-28 15:20 UTC]** Flávio Bolsonaro entrou na Argentina com passaporte italiano; PF não tinha ordem para deter senador
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/flavio-bolsonaro-entrou-na-argentina-com-passaporte-italiano-pf-nao-tinha-ordem-para-deter-senador.ghtml)_
 
+- **[2026-10-28 14:24 UTC]** Entenda o que a PF disse ao STF para reter o passaporte de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/entenda-o-que-a-pf-disse-ao-stf-para-reter-o-passaporte-de-flvio-bolsonaro.ghtml)_
+
