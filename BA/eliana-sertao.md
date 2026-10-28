@@ -14,3 +14,6 @@
 - **[2026-10-27 16:33 UTC]** MP instaura inquérito para apurar condições precárias em escola estadual no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/27/mp-instaura-inquerito-para-apurar-condicoes-precarias-em-escola-estadual-no-sertao-da-paraiba.ghtml)_
 
+- **[2026-10-28 13:28 UTC]** Corpo de idoso é encontrado em estado de decomposição no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/28/corpo-de-idoso-e-encontrado-em-estado-de-decomposicao-no-sertao-da-paraiba.ghtml)_
+
