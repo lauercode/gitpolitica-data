@@ -9604,3 +9604,6 @@
 - **[2026-10-28 09:13 UTC]** Jatinho em que Flávio e família estariam viajando para os EUA está à venda; valor pode chegar a R$ 48 milhões
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/jatinho-em-que-flavio-e-familia-estariam-viajando-para-os-eua-esta-a-venda-valor-pode-chega-a-r-48-milhoes.shtml)_
 
+- **[2026-10-28 02:38 UTC]** Avião que levaria Flávio Bolsonaro e família parte do Equador em direção a Miami
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-entra-na-argentina-e-segue-em-voo-privado-ao-equador-diz-migracao.shtml)_
+
