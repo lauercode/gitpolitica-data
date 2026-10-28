@@ -2528,3 +2528,6 @@
 - **[2026-10-28 20:03 UTC]** Lula e Flávio no lero-lero
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/lula-e-flavio-no-lero-lero.shtml)_
 
+- **[2026-10-28 19:56 UTC]** Ministro de Lula faz evento com Einstein, hospital que foi tema da campanha de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/ministro-de-lula-faz-evento-com-einstein-hospital-que-foi-tema-da-campanha-de-flavio.shtml)_
+
