@@ -98,3 +98,6 @@
 - **[2026-10-28 15:43 UTC]** Ao menos 68 pessoas morreram e dezenas ficaram feridas em acidente com trem de alta velocidade na Espanha
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmly074jvgglo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 16:17 UTC]** Chacina de Pioz: STJ nega por unanimidade recurso de paraibano acusado de ajudar em morte de família na Espanha
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/28/chacina-de-pioz-stj-unanimidade-contra-recurso-paraibano-acusado-ajudar-morte-familia-espanha.ghtml)_
+
