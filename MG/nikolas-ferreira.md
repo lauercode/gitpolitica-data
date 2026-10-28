@@ -113,3 +113,6 @@
 - **[2026-10-27 23:34 UTC]** MPF arquiva denúncia de Nikolas Ferreira contra redator da lei das bets
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/mpf-arquiva-denuncia-de-nikolas-ferreira-contra-redator-da-lei-das-bets.shtml)_
 
+- **[2026-10-28 13:17 UTC]** Sobrinho-neto de Dilma Rousseff pede apreensão do passaporte de Nikolas Ferreira
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sobrinho-neto-dilma-rousseff-apreensao-passaporte-nikolas-ferreira/)_
+
