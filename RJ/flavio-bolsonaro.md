@@ -9832,3 +9832,6 @@
 - **[2026-10-28 22:51 UTC]** 'Ridículo', 'ofensa', 'olhar para frente': a reação após Flávio fugir, se dizer 'presidente eleito', apagar e falar que é 'líder do Brasil'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/ridiculo-ofensa-olhar-para-frente-a-reacao-apos-flavio-fugir-se-dizer-presidente-eleito-apagar-e-falar-que-e-lider-do-brasil.ghtml)_
 
+- **[2026-10-28 22:17 UTC]** Flávio Bolsonaro recebeu autorização para ficar 1 ano nos EUA
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/flavio-bolsonaro-recebeu-autorizacao-para-ficar-1-ano-nos-eua.ghtml)_
+
