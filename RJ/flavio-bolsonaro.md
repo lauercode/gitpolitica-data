@@ -9841,3 +9841,6 @@
 - **[2026-10-28 21:18 UTC]** Partido de Flávio Bolsonaro e aliados já reconheceram vitória de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/partido-de-flavio-bolsonaro-e-aliados-ja-reconheceram-vitoria-de-lula.ghtml)_
 
+- **[2026-10-28 21:02 UTC]** Veja a repercussão da fuga de Flávio Bolsonaro do Brasil entre ex-presidenciáveis
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/repercussao-ex-presidenciaveis-fuga-de-flavio-bolsonaro.ghtml)_
+
