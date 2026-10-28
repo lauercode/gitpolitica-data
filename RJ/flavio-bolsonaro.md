@@ -9430,3 +9430,6 @@
 - **[2026-10-27 21:37 UTC]** Cidadão que foge do país é porque teme alguma coisa, afirma Lula sobre Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/cidadao-que-foge-do-pais-e-porque-teme-alguma-coisa-afirma-lula-sobre-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-27 21:16 UTC]** Advogado de Flávio, Wassef diz ter sido surpreendido por notícias sobre saída do país
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/advogado-de-flvio-wassef-diz-ter-sido-surpreendido-por-notcias-sobre-sada-do-pas.ghtml)_
+
