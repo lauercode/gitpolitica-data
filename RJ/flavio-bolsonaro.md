@@ -9910,3 +9910,6 @@
 - **[2026-10-28 17:21 UTC]** Flávio Bolsonaro erra e chama país de 'Estados Unidos do Brazil'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-erra-e-chama-pais-de-estados-unidos-do-brasil.shtml)_
 
+- **[2026-10-28 17:20 UTC]** Carta golpista em que Flávio se diz presidente eleito tinha brasão com 'Brazil' escrito com z
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carta-golpista-em-que-flavio-se-diz-presidente-eleito-tinha-brasao-com-brazil-escrito-com-z.shtml)_
+
