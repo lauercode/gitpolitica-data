@@ -9388,3 +9388,6 @@
 - **[2026-10-27 22:58 UTC]** Lula chama viagem de Flávio de “vergonhosa” e lembra da própria prisão na Lava Jato
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-chama-viagem-de-flavio-de-vergonhosa-e-lembra-da-propria-prisao-na-lava-jato/)_
 
+- **[2026-10-27 21:36 UTC]** Rogério Marinho cita surpresa com viagem de Flávio e questiona medidas de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-cita-surpresa-com-viagem-de-flavio-e-questiona-medidas-de-moraes/)_
+
