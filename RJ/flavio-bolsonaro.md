@@ -9769,3 +9769,6 @@
 - **[2026-10-28 15:11 UTC]** Flávio Bolsonaro usou passaporte italiano para deixar a Argentina em jatinho após atravessar fronteira pelo Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/28/flavio-bolsonaro-usou-documento-argentina.ghtml)_
 
+- **[2026-10-28 18:09 UTC]** Às vésperas de eleições nos EUA, fuga de Flávio  abre flanco para ofensiva democrata contra Trump
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/s-vsperas-de-eleies-nos-eua-fuga-de-flvio-abre-flanco-para-ofensiva-democrata-contra-trump.ghtml)_
+
