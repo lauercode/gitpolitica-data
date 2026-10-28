@@ -9487,3 +9487,6 @@
 - **[2026-10-28 03:26 UTC]** Erika Hilton pede a Moraes o bloqueio de contas de Flávio e da esposa
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/erika-hilton-pede-a-moraes-o-bloqueio-de-contas-de-flavio-e-da-esposa/)_
 
+- **[2026-10-28 02:50 UTC]** Valdemar e Michelle discutem futuro do PL após Flávio deixar o país
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/valdemar-e-michelle-discutem-futuro-do-pl-apos-flavio-deixar-o-pais/)_
+
