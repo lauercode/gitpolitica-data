@@ -9706,3 +9706,6 @@
 - **[2026-10-28 10:24 UTC]** Flávio Bolsonaro e família desembarcam em Miami após fuga do Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aviao-em-que-flavio-bolsonaro-estaria-pousa-em-miami.shtml)_
 
+- **[2026-10-28 09:24 UTC]** Avião que levou Flávio aos EUA desviou do espaço aéreo brasileiro para evitar interceptação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/aviao-que-levaria-flavio-aos-eua-desviou-do-espaco-aereo-brasileiro-para-evitar-interceptacao.shtml)_
+
