@@ -17,3 +17,6 @@
 - **[2026-10-26 01:12 UTC]** Vitória de Lula é afirmação contra tentações autocráticas, diz Celso de Mello, ex-ministro do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vitoria-de-lula-e-afirmacao-contra-tentacoes-autocraticas-diz-celso-de-mello-ex-ministro-do-stf.shtml)_
 
+- **[2026-10-28 19:49 UTC]** Derrotado conserva direitos, mas não decide quem venceu a eleição, diz Celso de Mello sobre Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/derrotado-conserva-direitos-mas-nao-decide-quem-venceu-a-eleicao-diz-celso-de-mello-sobre-flavio.shtml)_
+
