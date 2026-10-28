@@ -2504,3 +2504,6 @@
 - **[2026-10-28 17:44 UTC]** Aliado de Lula, presidente da CCJ defende anistia pelo 8 de janeiro e admite conversas com Alcolumbre
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/aliado-de-lula-presidente-da-ccj-defende-anistia-pelo-8-de-janeiro-e-admite-conversas-com-alcolumbre.ghtml)_
 
+- **[2026-10-28 18:31 UTC]** Saída de Flávio Bolsonaro do Brasil desafia articulação da oposição a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/saida-de-flavio-bolsonaro-do-brasil-desafia-articulacao-da-oposicao-a-lula/)_
+
