@@ -41,3 +41,6 @@
 - **[2026-10-24 14:30 UTC]** Ativistas espalham faixas em SP, RJ e BA sobre caso Ana Clara, citado por Lula contra Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ativistas-espalham-faixas-em-sp-e-no-rj-sobre-caso-ana-clara-citado-por-lula-contra-flavio-bolsonaro.shtml)_
 
+- **[2026-10-27 20:41 UTC]** Vaquinha arrecada R$ 1,5 milhão em menos de 6 horas para mãe de Ana Clara, morta aos 5 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/vaquinha-arrecada-r-15-milhao-em-menos-de-6-horas-para-mae-de-ana-clara-morta-aos-5-anos.shtml)_
+
