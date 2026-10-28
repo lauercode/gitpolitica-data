@@ -9883,3 +9883,6 @@
 - **[2026-10-28 19:21 UTC]** 'Nem eu nem PL podemos dizer que houve fraude nas eleições', diz chefe de campanha de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nem-eu-nem-pl-podemos-dizer-que-houve-fraude-nas-eleicoes-diz-chefe-de-campanha-de-flavio.shtml)_
 
+- **[2026-10-28 19:14 UTC]** Governo prega cautela e pretende 'ignorar' Flávio Bolsonaro nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/governo-prega-cautela-e-pretende-ignorar-flavio-bolsonaro-nos-eua.shtml)_
+
