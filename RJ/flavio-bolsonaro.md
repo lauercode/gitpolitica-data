@@ -9529,3 +9529,6 @@
 - **[2026-10-27 22:23 UTC]** Rogério Marinho se diz ‘surpreso’ com fuga de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/rogerio-marinho-se-diz-surpreso-com-fuga-de-flavio-bolsonaro/)_
 
+- **[2026-10-28 05:00 UTC]** Podcast discute reações e impactos iniciais da fuga de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-discute-reacoes-e-impactos-iniciais-da-fuga-de-flavio-bolsonaro.shtml)_
+
