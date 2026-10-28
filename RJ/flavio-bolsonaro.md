@@ -9781,3 +9781,6 @@
 - **[2026-10-28 17:38 UTC]** Rota de fuga: entenda como Flávio Bolsonaro chegou aos Estados Unidos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/fuga-de-flavio-bolsonaro-aos-eua-teve-versoes-conflitantes-veja-a-cronologia.ghtml)_
 
+- **[2026-10-28 17:32 UTC]** O que é asilo político? Entenda o caso de Flávio Bolsonaro nos EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/28/o-que-e-asilo-politico-entenda-o-caso-de-flavio-bolsonaro-nos-eua.ghtml)_
+
