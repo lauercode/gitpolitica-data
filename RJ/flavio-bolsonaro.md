@@ -9421,3 +9421,6 @@
 - **[2026-10-27 22:40 UTC]** PF apontou expressamente risco de Flávio Bolsonaro fugir do Brasil ao pedir apreensão de passaportes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/pf-apontou-expressamente-risco-de-flavio-bolsonaro-fugir-do-brasil-ao-pedir-apreensao-de-passaportes.ghtml)_
 
+- **[2026-10-27 22:38 UTC]** Brasil pode pedir extradição de Flávio Bolsonaro, mas Trump é obstáculo, dizem especialistas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/brasil-pode-pedir-extradicao-de-flavio-bolsonaro-mas-trump-e-obstaculo-dizem-especialistas.ghtml)_
+
