@@ -9961,3 +9961,6 @@
 - **[2026-10-28 22:23 UTC]** Marinho atribui a 'erro de confecção' autodeclaração de Flávio Bolsonaro como presidente em carta golpista
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/marinho-atribui-a-erro-de-confeccao-autodeclaracao-de-flavio-bolsonaro-como-presidente-em-carta-golpista.ghtml)_
 
+- **[2026-10-28 22:11 UTC]** Líder do governo na Câmara vê ameaça à democracia em carta de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/lider-do-governo-na-camara-ve-ameaca-a-democracia-em-carta-de-flavio-e-pede-mobilizacao-da-sociedade.ghtml)_
+
