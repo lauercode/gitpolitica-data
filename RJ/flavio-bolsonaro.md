@@ -9949,3 +9949,6 @@
 - **[2026-10-28 23:11 UTC]** Ricardo Nunes descarta apoio à carta golpista de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/ricardo-nunes-descarta-apoio-a-carta-golpista-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-28 22:40 UTC]** Apesar de Flávio Bolsonaro, PL, vice e aliados reconhecem vitória de Lula; PT chama senador de ‘Guaidó Tupiniquim’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/apesar-de-flavio-bolsonaro-pl-vice-e-aliados-reconheceram-vitoria-de-lula-pt-chama-senador-de-guaido-tupiniquim.ghtml)_
+
