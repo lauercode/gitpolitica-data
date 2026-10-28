@@ -533,3 +533,6 @@
 - **[2026-10-28 12:29 UTC]** Damares diz que anistia a Bolsonaro não é suficiente para apoiar reeleição de Alcolumbre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/damares-diz-que-anistia-a-bolsonaro-nao-e-suficiente-para-apoiar-reeleicao-de-alcolumbre.shtml)_
 
+- **[2026-10-28 14:25 UTC]** Alcolumbre convoca sessão do Senado para discutir MP e PL
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/alcolumbre-convoca-sesso-do-senado-para-discutir-mp-e-pl.ghtml)_
+
