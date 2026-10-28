@@ -9631,3 +9631,6 @@
 - **[2026-10-28 13:24 UTC]** Jatinho com Flávio Bolsonaro e família pousa em aeroporto de Miami
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/jatinho-flavio-bolsonaro-e-familia-pousa-aeroporto-miami-eua.ghtml)_
 
+- **[2026-10-28 12:40 UTC]** Principais jornais do mundo repercutem fuga de Flávio Bolsonaro para os EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/principais-jornais-do-mundo-repercutem-fuga-de-flvio-bolsonaro-para-os-eua.ghtml)_
+
