@@ -2480,3 +2480,6 @@
 - **[2026-10-27 21:37 UTC]** Cidadão que foge do país é porque teme alguma coisa, afirma Lula sobre Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/cidadao-que-foge-do-pais-e-porque-teme-alguma-coisa-afirma-lula-sobre-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-27 18:52 UTC]** Lula diz que fuga de Flávio Bolsonaro mostra que ele ‘deve alguma coisa’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/lula-diz-que-fuga-de-flavio-bolsonaro-mostra-que-ele-deve-alguma-coisa/)_
+
