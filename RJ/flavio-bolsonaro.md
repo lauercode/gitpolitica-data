@@ -9670,3 +9670,6 @@
 - **[2026-10-28 13:45 UTC]** VÍDEO mostra momento em que Flávio Bolsonaro e família desembarcam nos EUA
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/video-mostra-momento-flavio-bolsonaro-desembarca-eua.ghtml)_
 
+- **[2026-10-28 10:52 UTC]** FOTOS: veja como é o jatinho particular que levou Flávio Bolsonaro e família aos EUA
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/veja-fotos-jatinho-particular-fuga-flavio-bolsonaro-eua.ghtml)_
+
