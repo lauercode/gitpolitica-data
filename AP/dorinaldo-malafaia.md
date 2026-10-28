@@ -32,3 +32,6 @@
 - **[2026-10-27 20:44 UTC]** Fachin arquiva investigações sobre Eduardo e Malafaia ligadas ao inquérito das fake news
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-arquiva-investigacoes-sobre-eduardo-e-malafaia-ligadas-ao-inquerito-das-fake-news/)_
 
+- **[2026-10-27 20:13 UTC]** Fachin arquiva inquéritos contra Eduardo Bolsonaro, Malafaia e Fiuza
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/fachin-arquiva-inqueritos-contra-eduardo-bolsonaro-malafaia-e-fiuza)_
+
