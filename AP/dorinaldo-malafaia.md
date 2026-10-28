@@ -35,3 +35,6 @@
 - **[2026-10-27 20:13 UTC]** Fachin arquiva inquéritos contra Eduardo Bolsonaro, Malafaia e Fiuza
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-10/fachin-arquiva-inqueritos-contra-eduardo-bolsonaro-malafaia-e-fiuza)_
 
+- **[2026-10-27 21:17 UTC]** Fachin arquiva investigações contra Eduardo e Malafaia e cobra informação da PF sobre Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/fachin-arquiva-investigaes-contra-eduardo-e-malafaia-e-cobra-informao-da-pf-sobre-bolsonaro.ghtml)_
+
