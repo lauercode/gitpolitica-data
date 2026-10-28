@@ -9979,3 +9979,6 @@
 - **[2026-10-28 20:02 UTC]** Fuga de Flávio reitera interferência de Trump em política doméstica do Brasil, diz analista
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/fuga-de-flvio-reitera-interferncia-de-trump-em-poltica-domstica-do-brasil-diz-analista.ghtml)_
 
+- **[2026-10-28 19:51 UTC]** Em carta com teor golpista, Flávio Bolsonaro se declara presidente e depois recua
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/derrotado-na-urna-flavio-bolsonaro-divulga-declaracao-apos-fuga-e-diz-ser-verdadeiro-presidente.ghtml)_
+
