@@ -91,3 +91,6 @@
 - **[2026-10-27 22:10 UTC]** Rogério Marinho se diz surpreso com saída de Flávio Bolsonaro e fala em perseguição política
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/rogerio-marinho-se-diz-surpreso-com-saida-de-flavio-bolsonaro-e-fala-em-perseguicao-politica.ghtml)_
 
+- **[2026-10-27 22:23 UTC]** Rogério Marinho se diz ‘surpreso’ com fuga de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/rogerio-marinho-se-diz-surpreso-com-fuga-de-flavio-bolsonaro/)_
+
