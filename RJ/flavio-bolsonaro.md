@@ -9856,3 +9856,6 @@
 - **[2026-10-28 13:25 UTC]** Flávio Bolsonaro chega aos Estados Unidos após fugir do Brasil
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/voo-flavio-bolsonaro-chega-aos-eua.ghtml)_
 
+- **[2026-10-28 20:11 UTC]** Carta golpista de Flávio é rejeitada por aliados próximos, que veem postura perigosa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/carta-golpista-de-flavio-e-rejeitada-por-aliados-proximos-que-veem-postura-perigosa.shtml)_
+
