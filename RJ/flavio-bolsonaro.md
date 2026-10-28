@@ -9466,3 +9466,6 @@
 - **[2026-10-28 01:02 UTC]** Flávio Bolsonaro estava escondido na Argentina e acaba de decolar para os EUA, diz canal argentino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-bolsonaro-estava-escondido-na-argentina-e-acaba-de-decolar-para-os-eua-diz-canal-argentino.shtml)_
 
+- **[2026-10-27 23:00 UTC]** Fuga do Brasil dá base para prisão preventiva de Flávio Bolsonaro, dizem especialistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fuga-do-brasil-da-base-para-prisao-preventiva-de-flavio-bolsonaro-dizem-especialistas.shtml)_
+
