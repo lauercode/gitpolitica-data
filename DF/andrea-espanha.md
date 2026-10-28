@@ -74,3 +74,6 @@
 - **[2026-10-28 13:16 UTC]** Ao menos 64 pessoas morreram e dezenas ficaram feridas em um acidente com trem de alta velocidade na Espanha
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmly074jvgglo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 12:50 UTC]** Médica, corredora e 'cheia de planos': quem era brasileira de 29 anos que morreu na Espanha após meia maratona
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/28/quem-era-brasileira-de-29-anos-que-morreu-na-espanha-apos-meia-maratona.ghtml)_
+
