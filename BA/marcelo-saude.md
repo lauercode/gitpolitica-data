@@ -32,3 +32,6 @@
 - **[2026-10-28 11:00 UTC]** Lula pode escolher amiga de Dilma para Ministério da Saúde
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vozes/coluna-esplanada/lula-pode-escolher-amiga-de-dilma-para-ministerio-da-saude/)_
 
+- **[2026-10-28 17:17 UTC]** Servidor da Secretaria de Saúde é executado a tiros na frente de casa em Anapu, no PA; prefeitura decreta luto
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/28/servidor-da-secretaria-de-saude-e-executado-a-tiros-na-frente-de-casa-em-anapu-no-pa-prefeitura-decreta-luto.ghtml)_
+
