@@ -2495,3 +2495,6 @@
 - **[2026-10-28 13:18 UTC]** Lula será aconselhado a não falar mais em Flávio e dizer que caso é problema do senador com Judiciário
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/28/lula-sera-aconselhado-a-nao-falar-mais-em-flavio-e-dizer-que-caso-e-problema-do-senador-com-judiciario.ghtml)_
 
+- **[2026-10-28 12:35 UTC]** Ministros de Lula e do STF criticam decisões da PF e de Moraes sobre Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/28/ministros-de-lula-e-do-stf-criticam-decisoes-da-pf-e-de-moraes-sobre-flavio-bolsonaro.ghtml)_
+
