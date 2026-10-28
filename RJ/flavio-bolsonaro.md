@@ -9385,3 +9385,6 @@
 - **[2026-10-27 17:51 UTC]** PF apontou risco concreto de Flávio Bolsonaro fugir do país ao pedir apreensão de passaporte a Moraes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes.shtml)_
 
+- **[2026-10-27 22:58 UTC]** Lula chama viagem de Flávio de “vergonhosa” e lembra da própria prisão na Lava Jato
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-chama-viagem-de-flavio-de-vergonhosa-e-lembra-da-propria-prisao-na-lava-jato/)_
+
