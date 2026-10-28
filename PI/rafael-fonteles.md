@@ -38,3 +38,6 @@
 - **[2026-10-27 13:22 UTC]** Durigan diz que Rafael Fonteles é um ‘excelente nome’ para o Ministério da Fazenda
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/27/durigan-diz-que-rafael-fonteles-e-um-excelente-nome-para-o-ministerio-da-fazenda.ghtml)_
 
+- **[2026-10-27 23:00 UTC]** Rafael Fonteles, cotado para ministro, foi de prodígio da matemática a gestor pragmático da esquerda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/rafael-fonteles-cotado-para-ministro-foi-de-prodigio-da-matematica-a-gestor-pragmatico-da-esquerda.shtml)_
+
