@@ -9754,3 +9754,6 @@
 - **[2026-10-28 14:05 UTC]** PF tenta traçar rota de Flávio até a fronteira e estrutura de apoio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-tenta-tracar-rota-de-flavio-ate-a-fronteira-e-estrutura-de-apoio/)_
 
+- **[2026-10-28 14:16 UTC]** Flávio Bolsonaro chega aos EUA e desembarca com a família
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-chega-miami-desembarca-familia/)_
+
