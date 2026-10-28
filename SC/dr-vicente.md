@@ -14,3 +14,6 @@
 - **[2026-10-26 10:49 UTC]** E. M. Dr. Vicente de Mendonça Junior, 3ª zona eleitoral: resultado da votação em Itacoatiara (AM) no 2º turno
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/e-m-dr-vicente-de-mendonca-junior-3a-zona-eleitoral-resultado-da-votacao-em-itacoatiara-am-no-2o-turno.ghtml)_
 
+- **[2026-10-26 12:01 UTC]** Escola Municipal Indígena Augusto Vicente., 9ª zona eleitoral: resultado da votação em Bonfim (RR) no 2º turno
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/26/escola-municipal-indigena-augusto-vicente-9a-zona-eleitoral-resultado-da-votacao-em-bonfim-rr-no-2o-turno.ghtml)_
+
