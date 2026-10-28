@@ -9982,3 +9982,6 @@
 - **[2026-10-28 19:51 UTC]** Em carta com teor golpista, Flávio Bolsonaro se declara presidente e depois recua
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/derrotado-na-urna-flavio-bolsonaro-divulga-declaracao-apos-fuga-e-diz-ser-verdadeiro-presidente.ghtml)_
 
+- **[2026-10-28 19:43 UTC]** Especialista acredita que fuga de Flávio levará a rearranjo de poder na direita
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/especialista-acredita-que-fuga-de-flvio-levar-a-rearranjo-de-poder-na-direita.ghtml)_
+
