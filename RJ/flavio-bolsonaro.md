@@ -9649,3 +9649,6 @@
 - **[2026-10-28 11:09 UTC]** Flávio Bolsonaro desembarca nos EUA com a família após fugir do Brasil
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-10/em-fuga-flavio-bolsonaro-desembarca-nos-eua-com-familia)_
 
+- **[2026-10-28 18:14 UTC]** Flávio Bolsonaro usou passaporte diplomático cancelado para entrar nos EUA
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/flavio-bolsonaro-usou-passaporte-diplomatico-cancelado-para-entrar-nos-eua.ghtml)_
+
