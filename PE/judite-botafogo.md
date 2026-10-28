@@ -8,3 +8,6 @@
 - **[2026-10-27 08:14 UTC]** Botafogo fica atrás da Chapecoense em critério defensivo no Brasileirão
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/botafogo-fica-atras-da-chapecoense-em-criterio-defensivo-no-brasileirao/)_
 
+- **[2026-10-28 13:04 UTC]** Remo recebe o Botafogo na esperança de por fim a sequência de jogos sem vitória
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/remo-recebe-o-botafogo-na-esperanca-de-por-fim-a-sequencia-de-jogos-sem-vitoria/)_
+
