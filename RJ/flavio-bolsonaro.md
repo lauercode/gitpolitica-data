@@ -9457,3 +9457,6 @@
 - **[2026-10-28 02:38 UTC]** Flávio Bolsonaro entra na Argentina e segue em voo privado ao Equador, diz Migração
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-entra-na-argentina-e-segue-em-voo-privado-ao-equador-diz-migracao.shtml)_
 
+- **[2026-10-28 02:32 UTC]** Trump diz que aprovaria visto de Flávio, mas que não sabe o paradeiro do senador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/trump-diz-que-aprovaria-visto-de-flavio-mas-que-nao-sabe-o-paradeiro-do-senador.shtml)_
+
