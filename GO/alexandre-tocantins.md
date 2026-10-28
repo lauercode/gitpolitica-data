@@ -248,3 +248,6 @@
 - **[2026-10-27 22:06 UTC]** Governador eleito do Tocantins, Vicentinho Júnior define equipe de transição; veja nomes
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/27/governador-eleito-do-tocantins-vicentinho-junior-define-equipe-de-transicao-veja-nomes.ghtml)_
 
+- **[2026-10-27 18:01 UTC]** Cidade do Tocantins zera tarifa de ônibus durante todos os dias da semana; entenda
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/27/cidade-do-tocantins-zera-tarifa-de-onibus-durante-todos-os-dias-da-semana-entenda.ghtml)_
+
