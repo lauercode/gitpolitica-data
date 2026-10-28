@@ -20,3 +20,6 @@
 - **[2026-10-27 16:08 UTC]** Sâmia Bomfim pede que Flávio Bolsonaro perca mandato após fuga para os EUA
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/samia-bomfim-pede-que-flavio-bolsonaro-perca-mandato-apos-fuga-para-os-eua/)_
 
+- **[2026-10-28 15:41 UTC]** Sâmia Bomfim protocola PEC para garantir soberania digital nacional
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/samia-bomfim-protocola-pec-para-garantir-soberania-digital-nacional.shtml)_
+
