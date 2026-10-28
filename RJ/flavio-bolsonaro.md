@@ -9565,3 +9565,6 @@
 - **[2026-10-28 07:57 UTC]** Após derrota eleitoral, Flávio Bolsonaro foge em voo para os EUA
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/apos-derrota-eleitoral-flavio-bolsonaro-foge-em-voo-para-aos-eua)_
 
+- **[2026-10-28 13:25 UTC]** Voo que estaria levando Flávio Bolsonaro chega aos EUA
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/voo-flavio-bolsonaro-chega-aos-eua.ghtml)_
+
