@@ -9481,3 +9481,6 @@
 - **[2026-10-28 05:09 UTC]** Flávio Bolsonaro desembarca nos Estados Unidos após proibição judicial
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-desembarca-nos-estados-unidos-apos-proibicao-judicial/)_
 
+- **[2026-10-28 04:20 UTC]** Moraes ordena cancelamento de passaporte de Flávio Bolsonaro após eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-ordena-cancelamento-de-passaporte-de-flavio-bolsonaro-apos-eleicoes/)_
+
