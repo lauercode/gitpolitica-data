@@ -9667,3 +9667,6 @@
 - **[2026-10-28 14:32 UTC]** Flávio Bolsonaro chega aos EUA; ACOMPANHE
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/ao-vivo/voo-flavio-bolsonaro-eua.ghtml)_
 
+- **[2026-10-28 13:45 UTC]** VÍDEO mostra momento em que Flávio Bolsonaro e família desembarcam nos EUA
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/video-mostra-momento-flavio-bolsonaro-desembarca-eua.ghtml)_
+
