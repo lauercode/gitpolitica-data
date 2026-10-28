@@ -9826,3 +9826,6 @@
 - **[2026-10-28 20:19 UTC]** PF investiga circunstâncias da saída de Flávio Bolsonaro do país
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/pf-investiga-circunstancias-da-saida-de-flavio-bolsonaro-do-pais)_
 
+- **[2026-10-28 20:12 UTC]** Sem provas, Flávio Bolsonaro diz que eleições no país foram fraudadas
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/sem-provas-flavio-bolsonaro-diz-que-eleicoes-no-pais-foram-fraudadas)_
+
