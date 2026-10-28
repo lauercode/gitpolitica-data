@@ -9928,3 +9928,6 @@
 - **[2026-10-28 22:59 UTC]** Rogério Marinho trata acusações de fraude eleitoral feitas por Flávio como desabafo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-trata-acusacoes-de-fraude-eleitoral-feitas-por-flavio-como-desabafo/)_
 
+- **[2026-10-28 22:27 UTC]** Tarcísio diz entender indignação de Flávio, mas defende respeito ao resultado das urnas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tarcisio-diz-entender-indignacao-de-flavio-mas-defende-respeito-ao-resultado-das-urnas/)_
+
