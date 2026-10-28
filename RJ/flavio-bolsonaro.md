@@ -9679,3 +9679,6 @@
 - **[2026-10-28 15:47 UTC]** Deputado italiano questiona modo como Flávio Bolsonaro ganhou cidadania
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/deputado-italiano-questiona-modo-como-flavio-bolsonaro-ganhou-cidadania.shtml)_
 
+- **[2026-10-28 15:33 UTC]** Assessor de Milei monitorou fuga de Flávio Bolsonaro desde início, diz jornal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/assessor-de-milei-monitorou-fuga-de-flavio-bolsonaro-desde-inicio-diz-jornal.shtml)_
+
