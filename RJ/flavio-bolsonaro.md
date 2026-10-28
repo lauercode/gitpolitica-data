@@ -9469,3 +9469,6 @@
 - **[2026-10-27 23:00 UTC]** Fuga do Brasil dá base para prisão preventiva de Flávio Bolsonaro, dizem especialistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fuga-do-brasil-da-base-para-prisao-preventiva-de-flavio-bolsonaro-dizem-especialistas.shtml)_
 
+- **[2026-10-27 22:00 UTC]** Leitores comentam fuga de Flávio Bolsonaro para os EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/leitores-comentam-fuga-de-flavio-bolsonaro-para-os-eua.shtml)_
+
