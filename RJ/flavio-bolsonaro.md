@@ -9922,3 +9922,6 @@
 - **[2026-10-28 16:50 UTC]** Flávio muda carta golpista e troca autodeclaração de 'presidente' para 'líder do Brasil'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/em-carta-divulgada-por-aliados-flavio-bolsonaro-se-diz-presidente-eleito-do-brasil-apos-chegar-aos-eua-fugido.shtml)_
 
+- **[2026-10-28 16:18 UTC]** Deputados democratas criticam governo Trump por conceder visto a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/deputados-democratas-criticam-governo-trump-por-conceder-visto-a-flavio-bolsonaro.shtml)_
+
