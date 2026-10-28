@@ -10012,3 +10012,6 @@
 - **[2026-10-28 18:07 UTC]** Flávio Bolsonaro usa brasão com ‘Brazil’ escrito com z em carta golpista
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-usa-brasao-com-brazil-escrito-com-z-em-carta-golpista/)_
 
+- **[2026-10-28 17:20 UTC]** Flávio Bolsonaro divulga carta golpista e se autoproclama o ‘verdadeiro presidente eleito’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-se-autoproclama-o-verdadeiro-presidente-eleito-apos-fugir-para-os-eua/)_
+
