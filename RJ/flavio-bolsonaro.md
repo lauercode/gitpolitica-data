@@ -9436,3 +9436,6 @@
 - **[2026-10-27 20:54 UTC]** Aliados defendem saída de Flávio Bolsonaro do Brasil
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/aliados-defendem-sada-de-flvio-bolsonaro-do-brasil.ghtml)_
 
+- **[2026-10-27 17:38 UTC]** Flávio Bolsonaro chega aos EUA e governo americano diz que concederá visto ao senador
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/flavio-bolsonaro-esta-em-um-aviao-em-direcao-aos-eua-segundo-autoridade-americana-diz-agencia.ghtml)_
+
