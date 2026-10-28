@@ -9355,3 +9355,6 @@
 - **[2026-10-27 17:11 UTC]** Imprensa internacional dá destaque à suspeita de fuga de Flávio Bolsonaro após derrota eleitoral
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/suspeita-de-fuga-de-flavio-bolsonaro-repercute-na-imprensa-internacional.ghtml)_
 
+- **[2026-10-27 19:57 UTC]** Moro diz que não há normalidade institucional e que 'Flávio deixar o país é compreensível'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/moro-diz-que-nao-ha-normalidade-institucional-e-que-flavio-deixar-o-pais-e-compreensivel.shtml)_
+
