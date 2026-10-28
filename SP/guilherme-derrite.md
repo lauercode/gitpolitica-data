@@ -107,3 +107,6 @@
 - **[2026-10-23 17:38 UTC]** Derrite defende que adolescentes cumpram pena em presídios comuns após eventual redução da maioridade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/derrite-defende-que-adolescentes-cumpram-pena-em-presidios-comuns-apos-eventual-reducao-da-maioridade.shtml)_
 
+- **[2026-10-28 18:04 UTC]** Flávio esteve com Tarcísio e Derrite antes de deixar o país e não mencionou plano, diz advogado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-esteve-com-tarcisio-e-derrite-na-vespera-e-nao-mencionou-saida-do-pais-diz-advogado/)_
+
