@@ -9829,3 +9829,6 @@
 - **[2026-10-28 20:12 UTC]** Sem provas, Flávio Bolsonaro diz que eleições no país foram fraudadas
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/sem-provas-flavio-bolsonaro-diz-que-eleicoes-no-pais-foram-fraudadas)_
 
+- **[2026-10-28 22:51 UTC]** 'Ridículo', 'ofensa', 'olhar para frente': a reação após Flávio fugir, se dizer 'presidente eleito', apagar e falar que é 'líder do Brasil'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/ridiculo-ofensa-olhar-para-frente-a-reacao-apos-flavio-fugir-se-dizer-presidente-eleito-apagar-e-falar-que-e-lider-do-brasil.ghtml)_
+
