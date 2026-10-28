@@ -2483,3 +2483,6 @@
 - **[2026-10-27 18:52 UTC]** Lula diz que fuga de Flávio Bolsonaro mostra que ele ‘deve alguma coisa’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/lula-diz-que-fuga-de-flavio-bolsonaro-mostra-que-ele-deve-alguma-coisa/)_
 
+- **[2026-10-28 02:44 UTC]** Lula critica Flávio, e aliados falam em 'perseguição'
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm3vq7q59ne6o?at_medium=RSS&at_campaign=rss)_
+
