@@ -9397,3 +9397,6 @@
 - **[2026-10-27 20:55 UTC]** Flávio Bolsonaro é alvo de medidas judiciais e juristas apontam perseguição política
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-alvo-medidas-judiciais-juristas-apontam-perseguicao-politica/)_
 
+- **[2026-10-28 00:23 UTC]** Governo Trump diz que dará visto a Flávio Bolsonaro e permitirá entrada dele e família nos EUA
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
+
