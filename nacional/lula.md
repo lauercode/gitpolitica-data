@@ -2471,3 +2471,6 @@
 - **[2026-10-27 17:57 UTC]** Antonio Tabet diz ter ajudado a escrever respostas de Lula para Flávio em debates
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/antonio-tabet-diz-ter-ajudado-a-escrever-respostas-de-lula-para-flavio-em-debates.shtml)_
 
+- **[2026-10-27 22:58 UTC]** Lula chama viagem de Flávio de “vergonhosa” e lembra da própria prisão na Lava Jato
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-chama-viagem-de-flavio-de-vergonhosa-e-lembra-da-propria-prisao-na-lava-jato/)_
+
