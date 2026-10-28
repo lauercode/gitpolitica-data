@@ -9916,3 +9916,6 @@
 - **[2026-10-28 17:00 UTC]** Sem se explicar a seus eleitores, Flávio deixa o país com pecha de culpado e fujão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/10/sem-se-explicar-a-seus-eleitores-flavio-deixa-o-pais-com-pecha-de-culpado-e-fujao.shtml)_
 
+- **[2026-10-28 16:51 UTC]** Flávio Bolsonaro diz que é o verdadeiro presidente eleito do Brasil e agradece a Milei e Trump por ajuda em fuga
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-bolsonaro-diz-que-e-o-verdadeiro-presidente-eleito-do-brasil-e-agradece-a-milei-e-trump-por-ajuda-em-fuga.shtml)_
+
