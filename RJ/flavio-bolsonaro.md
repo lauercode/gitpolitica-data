@@ -9562,3 +9562,6 @@
 - **[2026-10-28 06:00 UTC]** Flávio Bolsonaro cruza fronteira argentina e segue para o Equador
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/flavio-bolsonaro-cruza-fronteira-argentina-e-segue-para-o-equador)_
 
+- **[2026-10-28 07:57 UTC]** Após derrota eleitoral, Flávio Bolsonaro foge em voo para os EUA
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/apos-derrota-eleitoral-flavio-bolsonaro-foge-em-voo-para-aos-eua)_
+
