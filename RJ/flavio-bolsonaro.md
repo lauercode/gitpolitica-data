@@ -9454,3 +9454,6 @@
 - **[2026-10-28 01:16 UTC]** Flávio Bolsonaro chega aos EUA, diz BBC
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/flavio-bolsonaro-chega-aos-eua-diz-bbc.ghtml)_
 
+- **[2026-10-28 02:38 UTC]** Flávio Bolsonaro entra na Argentina e segue em voo privado ao Equador, diz Migração
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-entra-na-argentina-e-segue-em-voo-privado-ao-equador-diz-migracao.shtml)_
+
