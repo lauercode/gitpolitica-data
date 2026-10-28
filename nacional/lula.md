@@ -2477,3 +2477,6 @@
 - **[2026-10-27 23:03 UTC]** EUA dizem que darão visto a Flávio Bolsonaro: relação entre Trump e Lula pode azedar mais?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm3vq700565wo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 21:37 UTC]** Cidadão que foge do país é porque teme alguma coisa, afirma Lula sobre Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/cidadao-que-foge-do-pais-e-porque-teme-alguma-coisa-afirma-lula-sobre-flavio-bolsonaro.ghtml)_
+
