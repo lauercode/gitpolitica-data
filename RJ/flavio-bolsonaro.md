@@ -9640,3 +9640,6 @@
 - **[2026-10-28 10:00 UTC]** Voo com Flávio Bolsonaro e família faz escala no Equador rumo aos EUA
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/avio-com-flvio-bolsonaro-e-famlia-pousa-no-equador-vindo-da-argentina.ghtml)_
 
+- **[2026-10-28 08:33 UTC]** Onde está Flávio Bolsonaro? Registros oficiais revelam rota após versões contraditórias
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/onde-esta-flavio-bolsonaro-registros-oficiais-revelam-rota-apos-versoes-contraditorias/)_
+
