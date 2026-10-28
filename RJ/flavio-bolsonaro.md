@@ -9838,3 +9838,6 @@
 - **[2026-10-28 22:15 UTC]** 'Entendo indignação, mas caminho é seguir em frente', diz Tarcísio após Flávio Bolsonaro divulgar carta em que se declara 'líder do Brasil'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/28/entendo-indignacao-mas-caminho-e-seguir-em-frente-diz-tarcisio-apos-flavio-bolsonaro-divulgar-carta-em-que-se-declara-presidente-do-brasil.ghtml)_
 
+- **[2026-10-28 21:18 UTC]** Partido de Flávio Bolsonaro e aliados já reconheceram vitória de Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/partido-de-flavio-bolsonaro-e-aliados-ja-reconheceram-vitoria-de-lula.ghtml)_
+
