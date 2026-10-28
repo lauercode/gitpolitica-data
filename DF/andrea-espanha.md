@@ -110,3 +110,6 @@
 - **[2026-10-28 20:19 UTC]** O que pode ter causado colisão entre trens na Espanha
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckvg704vp1l2o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 21:39 UTC]** Acidente de trem, dezenas de mortos: entenda o que aconteceu na Espanha hoje
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/28/acidente-de-trem-dezenas-de-mortos-entenda-o-que-aconteceu-na-espanha.ghtml)_
+
