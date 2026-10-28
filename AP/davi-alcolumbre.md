@@ -521,3 +521,6 @@
 - **[2026-10-27 17:35 UTC]** União Brasil e PP anunciam apoio à reeleição de Alcolumbre para presidência do Senado
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/uniao-brasil-e-pp-anunciam-apoio-a-reeleicao-de-alcolumbre-para-presidencia-do-senado/)_
 
+- **[2026-10-28 04:00 UTC]** Alcolumbre planeja articular indulto ou anistia a Bolsonaro em busca de votos da direita para se reeleger
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-planeja-articular-indulto-ou-anistia-a-bolsonaro-em-busca-de-votos-da-direita-para-se-reeleger.shtml)_
+
