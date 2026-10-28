@@ -9574,3 +9574,6 @@
 - **[2026-10-28 12:35 UTC]** Ministros de Lula e do STF criticam decisões da PF e de Moraes sobre Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/28/ministros-de-lula-e-do-stf-criticam-decisoes-da-pf-e-de-moraes-sobre-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-28 12:34 UTC]** Análise: Flávio Bolsonaro não é um problema de política, mas de polícia
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/28/analise-flavio-bolsonaro-nao-e-um-problema-de-politica-mas-de-policia.ghtml)_
+
