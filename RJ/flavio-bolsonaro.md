@@ -9379,3 +9379,6 @@
 - **[2026-10-27 18:56 UTC]** Bons negócios com Flávio e Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/bons-negocios-com-flavio-e-trump.shtml)_
 
+- **[2026-10-27 17:57 UTC]** Antonio Tabet diz ter ajudado a escrever respostas de Lula para Flávio em debates
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/antonio-tabet-diz-ter-ajudado-a-escrever-respostas-de-lula-para-flavio-em-debates.shtml)_
+
