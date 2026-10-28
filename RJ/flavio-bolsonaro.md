@@ -9442,3 +9442,6 @@
 - **[2026-10-27 18:58 UTC]** EUA dará visto a Flávio Bolsonaro e sua família
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/eua-dara-visto-a-flavio-bolsonaro-e-sua-familia/)_
 
+- **[2026-10-27 18:52 UTC]** Lula diz que fuga de Flávio Bolsonaro mostra que ele ‘deve alguma coisa’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/lula-diz-que-fuga-de-flavio-bolsonaro-mostra-que-ele-deve-alguma-coisa/)_
+
