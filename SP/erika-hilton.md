@@ -122,3 +122,6 @@
 - **[2026-10-28 03:26 UTC]** Erika Hilton pede a Moraes o bloqueio de contas de Flávio e da esposa
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/erika-hilton-pede-a-moraes-o-bloqueio-de-contas-de-flavio-e-da-esposa/)_
 
+- **[2026-10-28 06:00 UTC]** Erika Hilton deixará o PSOL e migrará para o PT em janeiro, afirmam correligionários
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/erika-hilton-deixara-o-psol-e-migrara-para-o-pt-em-janeiro-afirmam-correligionarios.shtml)_
+
