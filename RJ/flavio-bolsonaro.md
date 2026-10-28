@@ -9844,3 +9844,6 @@
 - **[2026-10-28 21:02 UTC]** Veja a repercussão da fuga de Flávio Bolsonaro do Brasil entre ex-presidenciáveis
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/repercussao-ex-presidenciaveis-fuga-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-28 20:24 UTC]** Após fuga, Flávio se diz 'presidente eleito', apaga post e passa a se chamar de 'líder do Brasil'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/apos-fugir-do-brasil-flavio-fala-em-fraude-na-eleicao-e-se-autoproclama-presidente.ghtml)_
+
