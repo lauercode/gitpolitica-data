@@ -9382,3 +9382,6 @@
 - **[2026-10-27 17:57 UTC]** Antonio Tabet diz ter ajudado a escrever respostas de Lula para Flávio em debates
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/antonio-tabet-diz-ter-ajudado-a-escrever-respostas-de-lula-para-flavio-em-debates.shtml)_
 
+- **[2026-10-27 17:51 UTC]** PF apontou risco concreto de Flávio Bolsonaro fugir do país ao pedir apreensão de passaporte a Moraes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pf-apontou-risco-concreto-de-flavio-bolsonaro-fugir-do-pais-ao-pedir-apreensao-de-passaporte-a-moraes.shtml)_
+
