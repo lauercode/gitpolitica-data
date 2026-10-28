@@ -29,3 +29,6 @@
 - **[2018-07-16 13:43 UTC]** Senac tem mais de 90 cursos de férias no Espírito Santo; veja a lista
   _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/es/espirito-santo/concursos-e-emprego/noticia/senac-tem-mais-de-90-cursos-de-ferias-no-espirito-santo-veja-a-lista.ghtml)_
 
+- **[2017-07-06 17:45 UTC]** Atletas buscam ainda mais medalhas de ouro nos Jogos Universitários do Espírito Santo 2017
+  _fonte: [G1 - Regiões: Espírito Santo](https://g1.globo.com/espirito-santo/especial-publicitario/rede-doctum/educacao-e-sociedade/noticia/2017/07/atletas-buscam-ainda-mais-medalhas-de-ouro-nos-jogos-universitarios-do-espirito-santo-2017.html)_
+
