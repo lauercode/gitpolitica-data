@@ -2507,3 +2507,6 @@
 - **[2026-10-28 18:31 UTC]** Saída de Flávio Bolsonaro do Brasil desafia articulação da oposição a Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/saida-de-flavio-bolsonaro-do-brasil-desafia-articulacao-da-oposicao-a-lula/)_
 
+- **[2026-10-28 17:29 UTC]** Aliada de Milei reconhece vitória de Lula, mas diz que Justiça brasileira não é imparcial com Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/aliada-milei-reconhece-vitoria-lula-mas-diz-justica-brasileira-nao-imparcial-flavio/)_
+
