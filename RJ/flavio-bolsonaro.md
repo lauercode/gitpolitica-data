@@ -9577,3 +9577,6 @@
 - **[2026-10-28 12:34 UTC]** Análise: Flávio Bolsonaro não é um problema de política, mas de polícia
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/28/analise-flavio-bolsonaro-nao-e-um-problema-de-politica-mas-de-policia.ghtml)_
 
+- **[2026-10-28 12:32 UTC]** Voo de Flávio Bolsonaro entra no espaço aéreo dos EUA; VEJA rota
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/28/veja-rota-de-voo-flavio-bolsonaro-a-caminho-dos-eua.ghtml)_
+
