@@ -50,3 +50,6 @@
 - **[2026-10-27 20:31 UTC]** Michelle e Carlos não se gostam, mas vão tentar manter bolsonarismo vivo, aponta Sérgio Abranches
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmzxl3evpl2ko?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-27 23:29 UTC]** No dia da saída de Flávio Bolsonaro do país, Valdemar e Michelle se reúnem para discutir 'futuro do PL'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/no-dia-da-saida-de-flavio-bolsonaro-do-pais-valdemar-e-michelle-se-reunem-para-discutir-futuro-do-pl.ghtml)_
+
