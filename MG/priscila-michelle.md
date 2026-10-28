@@ -56,3 +56,6 @@
 - **[2026-10-27 17:56 UTC]** Após fuga de Flávio, presidente do PL se reúne com Michelle para discutir o ‘futuro do partido’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-fuga-de-flavio-presidente-do-pl-se-reune-com-michelle-para-discutir-o-futuro-do-partido/)_
 
+- **[2026-10-28 02:50 UTC]** Valdemar e Michelle discutem futuro do PL após Flávio deixar o país
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/valdemar-e-michelle-discutem-futuro-do-pl-apos-flavio-deixar-o-pais/)_
+
