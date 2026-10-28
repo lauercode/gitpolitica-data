@@ -9331,3 +9331,6 @@
 - **[2026-10-27 19:50 UTC]** “Ato vergonhoso”, diz Lula sobre fuga de Flávio Bolsonaro
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-vergonhoso-diz-lula-sobre-fuga-de-flavio-bolsonaro)_
 
+- **[2026-10-27 20:56 UTC]** Lula classifica saída de Flávio Bolsonaro do Brasil como “vergonhosa”
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/lula-classifica-saida-de-flavio-bolsonaro-do-brasil-como-vergonhosa)_
+
