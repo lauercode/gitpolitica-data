@@ -9967,3 +9967,6 @@
 - **[2026-10-28 22:04 UTC]** Entenda por que Flávio Bolsonaro fugiu do Brasil para os EUA
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/entenda-por-que-flavio-bolsonaro-fugiu-do-brasil-para-os-eua.ghtml)_
 
+- **[2026-10-28 21:47 UTC]** Tarcísio diz que entende 'indignação' e 'revolta' de Flávio, mas defende respeito ao resultado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/tarcsio-diz-que-entende-indignao-de-flvio-mas-defende-respeito-ao-resultado-em-entrevista-a-jornal.ghtml)_
+
