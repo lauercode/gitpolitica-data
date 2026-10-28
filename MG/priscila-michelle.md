@@ -53,3 +53,6 @@
 - **[2026-10-27 23:29 UTC]** No dia da saída de Flávio Bolsonaro do país, Valdemar e Michelle se reúnem para discutir 'futuro do PL'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/no-dia-da-saida-de-flavio-bolsonaro-do-pais-valdemar-e-michelle-se-reunem-para-discutir-futuro-do-pl.ghtml)_
 
+- **[2026-10-27 17:56 UTC]** Após fuga de Flávio, presidente do PL se reúne com Michelle para discutir o ‘futuro do partido’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-fuga-de-flavio-presidente-do-pl-se-reune-com-michelle-para-discutir-o-futuro-do-partido/)_
+
