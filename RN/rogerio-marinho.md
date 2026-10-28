@@ -82,3 +82,6 @@
 - **[2026-10-09 19:47 UTC]** Rogério Marinho diz que PL não vai apoiar Allyson após candidato não assumir apoio a Flávio Bolsonaro no RN
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/09/rogerio-marinho-diz-que-pl-nao-vai-apoiar-allyson-apos-candidato-nao-assumir-apoio-a-flavio-bolsonaro-no-rn.ghtml)_
 
+- **[2026-10-27 21:36 UTC]** Rogério Marinho cita surpresa com viagem de Flávio e questiona medidas de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-cita-surpresa-com-viagem-de-flavio-e-questiona-medidas-de-moraes/)_
+
