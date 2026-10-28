@@ -9538,3 +9538,6 @@
 - **[2026-10-28 02:38 UTC]** Avião que levaria Flávio Bolsonaro e família chega ao Equador após senador deixar o Brasil pela Argentina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-entra-na-argentina-e-segue-em-voo-privado-ao-equador-diz-migracao.shtml)_
 
+- **[2026-10-28 08:04 UTC]** Flávio Bolsonaro sai do Brasil após derrota nas eleições: o que acontece agora?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss)_
+
