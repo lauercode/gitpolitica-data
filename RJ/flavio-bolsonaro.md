@@ -9349,3 +9349,6 @@
 - **[2026-10-27 21:05 UTC]** Ex-coordenador de campanha afirma que Flávio Bolsonaro queria 'dar um tempo' e diz não saber paradeiro dele
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/rogerio-marinho-fala-sobre-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-27 21:03 UTC]** Governo Trump dará visto para Flávio Bolsonaro e permitirá entrada dele nos EUA
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/27/governo-dos-eua-concedera-vistos-a-flavio-bolsonaro-e-sua-familia.ghtml)_
+
