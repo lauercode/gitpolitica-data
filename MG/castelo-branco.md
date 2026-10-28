@@ -41,3 +41,6 @@
 - **[2026-10-23 16:24 UTC]** Fernando Castelo Branco recebe Michel Temer em lançamento de livro em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/fernando-castelo-branco-recebe-michel-temer-em-lancamento-de-livro-em-sp.shtml)_
 
+- **[2026-10-26 12:01 UTC]** Escola Municipal Professora Eulina Paulina de Oliveira Castelo Branco, 8ª zona eleitoral: resultado da votação em Rorainópolis (RR) no 2º turno
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/26/escola-municipal-professora-eulina-paulina-de-oliveira-castelo-branco-8a-zona-eleitoral-resultado-da-votacao-em-rorainopolis-rr-no-2o-turno.ghtml)_
+
