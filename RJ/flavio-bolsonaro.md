@@ -9913,3 +9913,6 @@
 - **[2026-10-28 17:20 UTC]** Carta golpista em que Flávio se diz presidente eleito tinha brasão com 'Brazil' escrito com z
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carta-golpista-em-que-flavio-se-diz-presidente-eleito-tinha-brasao-com-brazil-escrito-com-z.shtml)_
 
+- **[2026-10-28 17:00 UTC]** Sem se explicar a seus eleitores, Flávio deixa o país com pecha de culpado e fujão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/10/sem-se-explicar-a-seus-eleitores-flavio-deixa-o-pais-com-pecha-de-culpado-e-fujao.shtml)_
+
