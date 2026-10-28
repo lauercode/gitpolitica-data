@@ -9814,3 +9814,6 @@
 - **[2026-10-28 18:22 UTC]** Em carta golpista, Flávio agradece Milei e Trump por apoio para fuga
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-carta-golpista-flavio-agradece-milei-e-trump-por-apoio-para-fuga)_
 
+- **[2026-10-28 16:01 UTC]** PF investiga circunstâncias da fuga de Flávio Bolsonaro do Brasil
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pf-investiga-circunstancias-da-fuga-de-flavio-bolsonaro-do-brasil)_
+
