@@ -10339,3 +10339,6 @@
 - **[2026-10-29 20:55 UTC]** Derrota de Flávio deixa PL de 'ressaca' e partido é escanteado de negociação por espaços e pautas na Câmara
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/derrota-de-flavio-deixa-pl-de-ressaca-e-partido-e-escanteado-de-negociacao-por-espacos-e-pautas-na-camara.ghtml)_
 
+- **[2026-10-29 20:31 UTC]** Quem é Jason Miller, funcionário da Casa Branca que ajudou em fuga de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/quem-e-jason-miller-funcionario-da-casa-branca-que-ajudou-em-fuga-de-flavio-bolsonaro.ghtml)_
+
