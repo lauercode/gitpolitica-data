@@ -10345,3 +10345,6 @@
 - **[2026-10-29 20:05 UTC]** Licença de entrada concedida a Flávio nos EUA explodiu com Biden e caiu com Trump, mas tem acelerado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/licena-de-entrada-concedida-a-flvio-nos-eua-explodiu-com-biden-e-caiu-com-trump-mas-tem-acelerado.ghtml)_
 
+- **[2026-10-29 19:36 UTC]** Ajuda argentina na fuga de Flávio Bolsonaro afeta cooperação jurídica com Brasil, afirma especialista
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/ajuda-argentina-na-fuga-de-flvio-afeta-cooperao-jurdica-com-brasil-afirma-especialista.ghtml)_
+
