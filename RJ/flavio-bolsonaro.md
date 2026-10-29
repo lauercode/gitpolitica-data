@@ -10213,3 +10213,6 @@
 - **[2026-10-29 14:53 UTC]** Jornal americano diz que Flávio é alvo de vingança e que Brasil ruma para a autocracia
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/jornal-americano-diz-flavio-alvo-vinganca-brasil-ruma-autocracia/)_
 
+- **[2026-10-29 14:02 UTC]** Wall Street Journal acusa justiça brasileira de vingança política contra Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/wall-street-journal-acusa-justica-brasileira-de-vinganca-politica-contra-flavio-bolsonaro/)_
+
