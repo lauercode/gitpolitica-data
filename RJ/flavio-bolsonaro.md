@@ -10051,3 +10051,6 @@
 - **[2026-10-28 22:00 UTC]** 'É incrível o estrago contra o Brasil e as suas instituições', diz leitor sobre carta golpista de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/e-incrivel-o-estrago-contra-o-brasil-e-as-suas-instituicoes-diz-leitor-sobre-carta-golpista-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-28 21:46 UTC]** Advogados acionam PF por uso de brasão do Brasil em carta de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/advogados-acionam-pf-por-uso-de-brasao-do-brasil-em-carta-de-flavio-bolsonaro.shtml)_
+
