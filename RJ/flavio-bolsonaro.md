@@ -10174,3 +10174,6 @@
 - **[2026-10-29 16:06 UTC]** Após derrota e fuga de Flávio Bolsonaro, veja quem da família terá cargo após se eleger em 2026
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/familia-bolsonaro-cargos-2027.ghtml)_
 
+- **[2026-10-29 15:27 UTC]** EUA pediram a Flávio Bolsonaro que retirasse de carta trecho em que se dizia ‘presidente eleito’
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/29/eua-pediram-a-flavio-bolsonaro-que-retirasse-de-carta-trecho-em-que-se-dizia-presidente-eleito.ghtml)_
+
