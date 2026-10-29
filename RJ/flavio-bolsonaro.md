@@ -10219,3 +10219,6 @@
 - **[2026-10-29 13:53 UTC]** “Legitimação internacional”: o que está por trás de viagem do Flávio nos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/legitimacao-internacional-a-estrategia-de-flavio-nos-eua/)_
 
+- **[2026-10-29 14:34 UTC]** “Não gostei, ninguém aprovou”, reage presidente do PL à carta de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nao-gostei-reage-presidente-pl-carta-flavio-bolsonaro/)_
+
