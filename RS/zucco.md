@@ -77,3 +77,6 @@
 - **[2026-10-27 16:56 UTC]** Governador eleito do RS, Zucco anuncia primeiros 5 nomes do futuro secretariado
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/27/zucco-secretariado.ghtml)_
 
+- **[2026-10-29 17:28 UTC]** Zucco anuncia primeiras indicações políticas para futuro governo do RS; primeiro escalão chega a 8 nomes
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/29/zucco-anuncia-novos-nomes-secretariado.ghtml)_
+
