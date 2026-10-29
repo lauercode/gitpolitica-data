@@ -10237,3 +10237,6 @@
 - **[2026-10-29 13:32 UTC]** Quem são Rui Barbosa, de Gaulle e outros líderes da América Latina citados por Flávio
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 14:57 UTC]** Flávio nos EUA: o que se sabe sobre saída do senador do Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss)_
+
