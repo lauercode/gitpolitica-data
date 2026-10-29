@@ -10102,3 +10102,6 @@
 - **[2026-10-28 21:16 UTC]** Rogério Marinho contradiz Flávio Bolsonaro e diz que não há provas de fraude eleitoral
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/rogerio-marinho-contradiz-flavio-bolsonaro-e-diz-que-nao-ha-provas-de-fraude-eleitoral/)_
 
+- **[2026-10-28 20:31 UTC]** União Brasil, que apoiou Flávio no 2º turno, cobra respeito ao resultado das urnas
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/uniao-brasil-que-apoiou-flavio-no-2o-turno-cobra-respeito-ao-resultado-das-urnas/)_
+
