@@ -10294,3 +10294,6 @@
 - **[2026-10-29 17:39 UTC]** Fuga vira redes sociais contra Flávio Bolsonaro, e grupos de mensagens dão apoio a senador por margem estreita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fuga-vira-redes-sociais-contra-flavio-bolsonaro-e-grupos-de-mensagens-dao-apoio-a-senador-por-margem-estreita.shtml)_
 
+- **[2026-10-29 17:19 UTC]** Veja manifestações de autoridades e partidos políticos após carta golpista de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-manifestacoes-de-autoridades-e-partidos-politicos-apos-carta-golpista-de-flavio-bolsonaro.shtml)_
+
