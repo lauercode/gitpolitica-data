@@ -221,3 +221,6 @@
 - **[2026-10-29 10:11 UTC]** Toffoli invoca imunidade parlamentar e rejeita queixa-crime de Flávio contra Janones por injúria
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/toffoli-invoca-imunidade-parlamentar-e-rejeita-queixa-crime-de-flavio-contra-janones-por-injuria/)_
 
+- **[2026-10-29 15:38 UTC]** Reconhecido por Lula após atuação na campanha, Janones se reúne com petista para traçar futuro: 'Precisa de força no Congresso'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/reconhecido-por-atuacao-na-campanha-digital-janones-se-reune-com-lula-para-tracar-futuro-precisa-de-forca-no-congresso.ghtml)_
+
