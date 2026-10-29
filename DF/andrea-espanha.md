@@ -119,3 +119,6 @@
 - **[2026-10-29 03:00 UTC]** 'Estava feliz': médica brasileira que morreu na Espanha após correr em meia maratona fazia viagem ao lado da mãe
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/29/medica-brasileira-morreu-espanha-correr-meia-maratona-viagem-mae.ghtml)_
 
+- **[2026-10-29 08:00 UTC]** Tragédia na Espanha
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/29/tragedia-na-espanha.ghtml)_
+
