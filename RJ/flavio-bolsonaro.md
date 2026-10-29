@@ -10225,3 +10225,6 @@
 - **[2026-10-29 12:35 UTC]** Jato que levou Flávio a Miami volta a Buenos Aires sem entrar no espaço aéreo brasileiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/jato-que-levou-flavio-a-miami-volta-a-buenos-aires-sem-entrar-no-espaco-aereo-brasileiro/)_
 
+- **[2026-10-29 11:37 UTC]** Ajuda de Trump e Milei, passaporte italiano e visto humanitário: jornal detalha operação para levar Flávio aos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/jornal-detalha-operacao-levar-flavio-eua/)_
+
