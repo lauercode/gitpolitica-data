@@ -10327,3 +10327,6 @@
 - **[2026-10-29 21:43 UTC]** Governo Lula descarta escalar crise com Trump por Flávio Bolsonaro; siga
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-29 18:21 UTC]** 'Ele achou que já estava eleito': os erros da campanha de Flávio Bolsonaro no segundo turno apontados por analistas
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmrryxg991d8o?at_medium=RSS&at_campaign=rss)_
+
