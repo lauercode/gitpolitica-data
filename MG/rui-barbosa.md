@@ -32,3 +32,6 @@
 - **[2026-10-29 13:32 UTC]** Quem são Rui Barbosa, de Gaulle e outros líderes da América Latina citados por Flávio
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-29 13:32 UTC]** Quem são Rui Barbosa, de Gaulle, Guaidó e outros líderes citados por Flávio
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss)_
+
