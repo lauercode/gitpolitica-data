@@ -179,3 +179,6 @@
 - **[2026-10-29 13:00 UTC]** Derrota de Flávio dificulta soltura de Jair Bolsonaro por indulto ou por via judicial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/derrota-de-flavio-dificulta-soltura-de-jair-bolsonaro-por-indulto-ou-por-via-judicial.shtml)_
 
+- **[2026-10-29 21:34 UTC]** Rui Costa questiona articulação a favor de Alcolumbre que prevê anistia ou indulto a Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/29/rui-costa-articulacao-alcolumbre-senado-anistia-indulto-jair-bolsonaro.ghtml)_
+
