@@ -10321,3 +10321,6 @@
 - **[2026-10-29 19:30 UTC]** Rui Costa defende distanciamento do governo sobre viagem de Flávio aos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rui-costa-defende-distanciamento-governo-viagem-flavio-eua/)_
 
+- **[2026-10-29 20:01 UTC]** Pragmatismo x ideologia: como Trump vai de fato lidar com as declarações de Flávio Bolsonaro sobre o Brasil?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c64g18gdvqwjo?at_medium=RSS&at_campaign=rss)_
+
