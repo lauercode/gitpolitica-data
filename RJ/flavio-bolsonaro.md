@@ -10246,3 +10246,6 @@
 - **[2026-10-29 15:13 UTC]** Após carta de Flávio Bolsonaro, Jorginho Mello diz que 'não é hora de aprofundar feridas' e fala em respeitar resultado das urnas
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/29/jorginho-mello-fala-apos-eleicoes-carta-flavio.ghtml)_
 
+- **[2026-10-29 15:36 UTC]** Flávio se isola na direita e sofre desgaste nas redes, mas articulação externa preocupa
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/flvio-se-isola-na-direita-e-sofre-desgaste-nas-redes-mas-articulao-externa-preocupa.ghtml)_
+
