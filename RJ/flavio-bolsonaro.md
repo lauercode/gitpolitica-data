@@ -10087,3 +10087,6 @@
 - **[2026-10-29 01:10 UTC]** Carta golpista de Flávio é de 'extraordinária gravidade', diz ministro aposentado do STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/carta-golpista-de-flavio-e-de-extraordinaria-gravidade-diz-ministro-aposentado-do-stf.ghtml)_
 
+- **[2026-10-29 00:06 UTC]** Coligação de Lula diz que vontade do Brasil será respeitada, após carta golpista de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/coligacao-de-lula-diz-que-vontade-do-brasil-sera-respeitada-apos-carta-golpista-de-flavio-bolsonaro.ghtml)_
+
