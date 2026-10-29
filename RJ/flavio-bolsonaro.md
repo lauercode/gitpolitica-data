@@ -10234,3 +10234,6 @@
 - **[2026-10-29 01:09 UTC]** Saída de Flávio Bolsonaro para os EUA pode ampliar cerco judicial contra aliados e família
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/saida-de-flavio-bolsonaro-dos-eua-pode-ampliar-cerco-judicial-contra-aliados-e-familia/)_
 
+- **[2026-10-29 13:32 UTC]** Quem são Rui Barbosa, de Gaulle e outros líderes da América Latina citados por Flávio
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss)_
+
