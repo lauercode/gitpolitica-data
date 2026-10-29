@@ -14,3 +14,6 @@
 - **[2026-10-08 22:11 UTC]** Equipe de Flávio descarta superministério como o de Paulo Guedes, de Jair Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/equipe-de-flvio-descarta-superministrio-como-o-de-guedes-e-garante-mdic-separado.ghtml)_
 
+- **[2026-10-29 13:56 UTC]** PF investiga Paulo Guedes por suspeita de crime contra o sistema financeiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/pf-investiga-paulo-guedes-suspeita-crime-contra-sistema-financeiro/)_
+
