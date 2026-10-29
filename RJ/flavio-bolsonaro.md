@@ -10060,3 +10060,6 @@
 - **[2026-10-28 21:19 UTC]** Nunes não comenta carta golpista de Flávio e diz que oposição deve fiscalizar Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/nunes-nao-comenta-carta-golpista-de-flavio-e-diz-que-oposicao-deve-fiscalizar-lula.shtml)_
 
+- **[2026-10-28 21:16 UTC]** Carta de Flávio Bolsonaro mente sobre 'fraude eleitoral' e distorce fatos; veja
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carta-de-flavio-bolsonaro-mente-sobre-fraude-eleitoral-e-distorce-fatos-veja.shtml)_
+
