@@ -10039,3 +10039,6 @@
 - **[2026-10-28 22:44 UTC]** Moraes autoriza presidente do PL a visitar Bolsonaro após derrota e fuga de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/moraes-autoriza-presidente-do-pl-a-visitar-bolsonaro-apos-derrota-e-fuga-de-flavio.shtml)_
 
+- **[2026-10-28 22:35 UTC]** Eduardo e Ramagem publicam fotos com Flávio Bolsonaro após fuga de senador para os EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-e-ramagem-publicam-fotos-com-flavio-bolsonaro-apos-fuga-de-senador-para-os-eua.shtml)_
+
