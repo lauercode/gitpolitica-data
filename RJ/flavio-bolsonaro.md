@@ -10222,3 +10222,6 @@
 - **[2026-10-29 14:34 UTC]** “Não gostei, ninguém aprovou”, reage presidente do PL à carta de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nao-gostei-reage-presidente-pl-carta-flavio-bolsonaro/)_
 
+- **[2026-10-29 12:35 UTC]** Jato que levou Flávio a Miami volta a Buenos Aires sem entrar no espaço aéreo brasileiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/jato-que-levou-flavio-a-miami-volta-a-buenos-aires-sem-entrar-no-espaco-aereo-brasileiro/)_
+
