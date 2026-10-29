@@ -10153,3 +10153,6 @@
 - **[2026-10-29 08:00 UTC]** Em carta golpista, Flávio Bolsonaro se declara ‘presidente’; depois recua e se diz ‘líder’ do país
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/29/em-carta-golpista-flavio-bolsonaro-se-declara-presidente-depois-recua-e-se-diz-lider-do-pais.ghtml)_
 
+- **[2026-10-29 08:00 UTC]** ‘Governo paralelo’ de Guaidó foi um fiasco; o de Flávio é só um desejo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/governo-paralelo-de-guaido-foi-um-fiasco-o-de-flavio-e-so-um-desejo.ghtml)_
+
