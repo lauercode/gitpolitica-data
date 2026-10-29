@@ -10258,3 +10258,6 @@
 - **[2026-10-29 11:20 UTC]** Democratas usam caso Flávio para capitalizar críticas à política migratória de Trump
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/29/democratas-usam-caso-flvio-para-capitalizar-crticas-poltica-migratria-de-trump.ghtml)_
 
+- **[2026-10-29 13:44 UTC]** Vice-líder do governo lança ofensiva para tornar Flávio Bolsonaro inelegível
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/vice-lider-do-governo-lanca-ofensiva-para-tornar-flavio-bolsonaro-inelegivel/)_
+
