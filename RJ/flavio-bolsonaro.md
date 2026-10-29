@@ -10264,3 +10264,6 @@
 - **[2026-10-29 12:43 UTC]** Carta de Flávio Bolsonaro nos EUA pode configurar crime
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/carta-de-flavio-bolsonaro-nos-eua-pode-configurar-crime/)_
 
+- **[2026-10-29 11:11 UTC]** Valdemar Costa Neto critica a carta golpista de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/valdemar-costa-neto-critica-a-carta-golpista-de-flavio-bolsonaro/)_
+
