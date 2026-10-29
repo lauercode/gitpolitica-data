@@ -10084,3 +10084,6 @@
 - **[2026-10-28 23:27 UTC]** Após carta de Flávio, Nunes Marques diz que eleições ocorreram em “absoluta normalidade”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-carta-de-flavio-nunes-marques-diz-que-eleicoes-ocorreram-em-absoluta-normalidade/)_
 
+- **[2026-10-29 01:10 UTC]** Carta golpista de Flávio é de 'extraordinária gravidade', diz ministro aposentado do STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/carta-golpista-de-flavio-e-de-extraordinaria-gravidade-diz-ministro-aposentado-do-stf.ghtml)_
+
