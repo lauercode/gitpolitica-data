@@ -100,3 +100,6 @@
 - **[2026-10-28 23:12 UTC]** Rogério Marinho diz que seguirá líder da oposição no Senado e cogita candidatura à presidência da Casa
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/rogerio-marinho-diz-que-seguira-lider-da-oposicao-no-senado-e-cogita-candidatura-a-presidencia-da-casa.ghtml)_
 
+- **[2026-10-28 21:16 UTC]** Rogério Marinho contradiz Flávio Bolsonaro e diz que não há provas de fraude eleitoral
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/rogerio-marinho-contradiz-flavio-bolsonaro-e-diz-que-nao-ha-provas-de-fraude-eleitoral/)_
+
