@@ -10267,3 +10267,6 @@
 - **[2026-10-29 11:11 UTC]** Valdemar Costa Neto critica a carta golpista de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/valdemar-costa-neto-critica-a-carta-golpista-de-flavio-bolsonaro/)_
 
+- **[2026-10-29 20:26 UTC]** Para aliados, Flávio esvazia liderança política ao apresentar dupla personalidade: moderado na campanha e extremista em carta
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/29/aliados-avaliam-que-flavio-esvazia-lideranca-politica-ao-se-apresentar-moderado-na-campanha-e-extremista-em-carta-apos-fuga.ghtml)_
+
