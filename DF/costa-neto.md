@@ -29,3 +29,6 @@
 - **[2026-10-29 12:16 UTC]** Valdemar Costa Neto diz que não gostou da carta publicada por Flávio
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/valdemar-costa-neto-diz-que-nao-gostou-da-carta-publicada-por-flavio)_
 
+- **[2026-10-29 13:14 UTC]** 'Não gostei', diz Valdemar Costa Neto sobre carta de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/nao-gostei-diz-valdemar-costa-neto-sobre-carta-de-flavio-bolsonaro.ghtml)_
+
