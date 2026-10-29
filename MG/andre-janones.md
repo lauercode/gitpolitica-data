@@ -230,3 +230,6 @@
 - **[2026-10-29 16:19 UTC]** Cotado à Esplanada,  Janones diz que pode ajudar mais o governo como deputado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/cotado-esplanada-janones-diz-que-pode-ajudar-mais-o-governo-como-deputado.ghtml)_
 
+- **[2026-10-29 15:57 UTC]** Janones descarta se filiar ao PT e diz que seguirá na Rede
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/janones-descarta-se-filiar-ao-pt-e-diz-que-seguira-na-rede.shtml)_
+
