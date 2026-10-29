@@ -218,3 +218,6 @@
 - **[2026-10-27 23:00 UTC]** Janones se diz estrategista digital por acaso e faz das redes e do caos sua sobrevivência na política
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-se-diz-estrategista-digital-por-acaso-e-faz-das-redes-e-do-caos-sua-sobrevivencia-na-politica.shtml)_
 
+- **[2026-10-29 10:11 UTC]** Toffoli invoca imunidade parlamentar e rejeita queixa-crime de Flávio contra Janones por injúria
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/toffoli-invoca-imunidade-parlamentar-e-rejeita-queixa-crime-de-flavio-contra-janones-por-injuria/)_
+
