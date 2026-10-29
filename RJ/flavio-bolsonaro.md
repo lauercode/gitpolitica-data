@@ -10126,3 +10126,6 @@
 - **[2026-10-29 04:00 UTC]** Auxílio de Milei para fuga de Flávio Bolsonaro agrava deterioração da relação do Brasil com a Argentina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/auxilio-de-milei-para-fuga-de-flavio-bolsonaro-agrava-deterioracao-da-relacao-do-brasil-com-a-argentina.shtml)_
 
+- **[2026-10-29 00:19 UTC]** Pastor de Flávio Bolsonaro diz que não tem 'terceiro turno' e que as eleições terminaram
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pastor-de-flavio-bolsonaro-diz-que-nao-tem-terceiro-turno-e-que-as-eleicoes-terminaram.shtml)_
+
