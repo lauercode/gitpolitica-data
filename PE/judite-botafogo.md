@@ -11,3 +11,6 @@
 - **[2026-10-28 13:04 UTC]** Remo recebe o Botafogo na esperança de por fim a sequência de jogos sem vitória
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/remo-recebe-o-botafogo-na-esperanca-de-por-fim-a-sequencia-de-jogos-sem-vitoria/)_
 
+- **[2026-10-29 00:20 UTC]** Remo bate o Botafogo e encerra jejum de vitórias no Brasileirão
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/remo-bate-o-botafogo-e-encerra-jejum-de-vitorias-no-brasileirao/)_
+
