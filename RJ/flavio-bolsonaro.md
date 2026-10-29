@@ -10165,3 +10165,6 @@
 - **[2026-10-29 10:05 UTC]** Qual o futuro do bolsonarismo após Flávio Bolsonaro ir para os EUA?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw98zmy9gnj8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-29 13:06 UTC]** Fuga e carta golpista ampliam isolamento de Flávio Bolsonaro
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/fuga-e-carta-golpista-ampliam-isolamento-de-flavio-bolsonaro)_
+
