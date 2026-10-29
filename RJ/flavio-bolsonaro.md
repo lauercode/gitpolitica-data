@@ -10120,3 +10120,6 @@
 - **[2026-10-29 03:00 UTC]** Flávio Bolsonaro: veja o que pode acontecer com o mandato de senador após fuga para os EUA
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/flavio-bolsonaro-veja-o-que-pode-acontecer-com-o-mandato-de-senador-apos-fuga-para-os-eua.ghtml)_
 
+- **[2026-10-29 05:00 UTC]** Podcast trata de golpismo de Flávio Bolsonaro e analisa risco diplomático após fuga
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-trata-de-golpismo-de-flavio-bolsonaro-e-analisa-risco-diplomatico-apos-fuga.shtml)_
+
