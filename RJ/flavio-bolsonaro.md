@@ -10216,3 +10216,6 @@
 - **[2026-10-29 14:02 UTC]** Wall Street Journal acusa justiça brasileira de vingança política contra Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/wall-street-journal-acusa-justica-brasileira-de-vinganca-politica-contra-flavio-bolsonaro/)_
 
+- **[2026-10-29 13:53 UTC]** “Legitimação internacional”: o que está por trás de viagem do Flávio nos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/legitimacao-internacional-a-estrategia-de-flavio-nos-eua/)_
+
