@@ -539,3 +539,6 @@
 - **[2026-10-29 08:00 UTC]** Marinho e Tereza Cristina articulam frente contra Alcolumbre
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/marinho-e-tereza-cristina-articulam-frente-contra-alcolumbre.ghtml)_
 
+- **[2026-10-29 10:53 UTC]** Alcolumbre articula acordo para conter impeachment de ministros do STF e admite discutir indulto a Bolsonaro em busca da reeleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/29/alcolumbre-acordo-indulto-bolsonaro.ghtml)_
+
