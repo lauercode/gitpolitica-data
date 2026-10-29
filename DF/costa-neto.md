@@ -32,3 +32,6 @@
 - **[2026-10-29 13:14 UTC]** 'Não gostei', diz Valdemar Costa Neto sobre carta de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/nao-gostei-diz-valdemar-costa-neto-sobre-carta-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-29 11:11 UTC]** Valdemar Costa Neto critica a carta golpista de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/valdemar-costa-neto-critica-a-carta-golpista-de-flavio-bolsonaro/)_
+
