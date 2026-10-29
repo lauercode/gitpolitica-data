@@ -10231,3 +10231,6 @@
 - **[2026-10-29 11:20 UTC]** Tarcísio volta a cogitar Presidência após saída de Flávio do país
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tarcisio-volta-a-cogitar-presidenia-em-2030-apos-saida-de-flavio-do-pais/)_
 
+- **[2026-10-29 01:09 UTC]** Saída de Flávio Bolsonaro para os EUA pode ampliar cerco judicial contra aliados e família
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/saida-de-flavio-bolsonaro-dos-eua-pode-ampliar-cerco-judicial-contra-aliados-e-familia/)_
+
