@@ -206,3 +206,6 @@
 - **[2026-10-26 08:30 UTC]** Cidades com voto casado em Lula e Tarcísio passam de 33 para 66 no 2º turno em SP
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/26/cidades-com-voto-casado-em-lula-e-tarcisio-passam-de-33-para-66-no-2o-turno-em-sp.ghtml)_
 
+- **[2026-10-29 04:15 UTC]** Polícia de SP mata uma pessoa a cada 12 horas sob a gestão Tarcísio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-de-sp-mata-uma-pessoa-a-cada-12-horas-sob-a-gestao-tarcisio.shtml)_
+
