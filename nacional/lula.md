@@ -2537,3 +2537,6 @@
 - **[2026-10-28 17:37 UTC]** Flávio Bolsonaro disse que não fugiria do país e provocou Lula em debate por ter filho na Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-disse-que-nao-fugiria-do-pais-e-provocou-lula-em-debate-por-ter-filho-na-espanha.shtml)_
 
+- **[2026-10-28 23:00 UTC]** Petistas veem Flávio tentar sabotar relação Lula-Trump e se enfraquecer ao se proclamar presidente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/petistas-veem-flavio-tentar-sabotar-relacao-lula-trump-e-se-enfraquecer-ao-se-proclamar-presidente.shtml)_
+
