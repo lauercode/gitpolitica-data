@@ -10063,3 +10063,6 @@
 - **[2026-10-28 21:16 UTC]** Carta de Flávio Bolsonaro mente sobre 'fraude eleitoral' e distorce fatos; veja
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carta-de-flavio-bolsonaro-mente-sobre-fraude-eleitoral-e-distorce-fatos-veja.shtml)_
 
+- **[2026-10-28 20:54 UTC]** Carta de Flávio Bolsonaro tem ao menos 4 versões, com troca de brasão e mudanças no texto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/carta-de-flavio-bolsonaro-tem-ao-menos-4-versoes-com-troca-de-brasao-e-mudancas-no-texto.shtml)_
+
