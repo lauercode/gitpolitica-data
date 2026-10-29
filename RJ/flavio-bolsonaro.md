@@ -10096,3 +10096,6 @@
 - **[2026-10-28 19:17 UTC]** Flávio Bolsonaro, Eduardo e aliados montaram 'operação despiste' com desinformação sobre fuga aos EUA
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/flavio-eduardo-e-aliados-montaram-operacao-despiste-com-desinformacao-sobre-viagem-aos-eua.ghtml)_
 
+- **[2026-10-28 23:00 UTC]** Centrão isola golpismo de Flávio Bolsonaro e reforça respeito ao resultado das urnas
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/centrao-isola-golpismo-de-flavio-bolsonaro-e-reforca-respeito-ao-resultado-das-urnas/)_
+
