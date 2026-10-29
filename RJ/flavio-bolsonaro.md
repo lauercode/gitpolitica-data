@@ -10318,3 +10318,6 @@
 - **[2026-10-29 20:57 UTC]** Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-reune-argumentos-para-pedir-asilo-nos-eua-e-mostrar-que-sofre-perseguicao/)_
 
+- **[2026-10-29 19:30 UTC]** Rui Costa defende distanciamento do governo sobre viagem de Flávio aos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rui-costa-defende-distanciamento-governo-viagem-flavio-eua/)_
+
