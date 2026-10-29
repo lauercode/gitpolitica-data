@@ -10333,3 +10333,6 @@
 - **[2026-10-29 13:32 UTC]** Quem são Rui Barbosa, de Gaulle, Guaidó e outros líderes citados por Flávio
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-29 21:14 UTC]** Jason Miller, que teria ajudado na fuga de Flávio, já depôs à PF e foi recebido por Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/jason-miller-que-teria-ajudado-na-fuga-de-flavio-ja-depos-a-pf-e-foi-recebido-por-bolsonaro.ghtml)_
+
