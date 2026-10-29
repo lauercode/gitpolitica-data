@@ -10315,3 +10315,6 @@
 - **[2026-10-29 14:11 UTC]** Aliados de Flávio Bolsonaro culpam ChatGPT por vaivém em versões da carta golpista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aliados-de-flavio-bolsonaro-culpam-chatgpt-por-vaivem-em-versoes-da-carta-golpista.shtml)_
 
+- **[2026-10-29 20:57 UTC]** Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-reune-argumentos-para-pedir-asilo-nos-eua-e-mostrar-que-sofre-perseguicao/)_
+
