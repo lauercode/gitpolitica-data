@@ -536,3 +536,6 @@
 - **[2026-10-28 14:25 UTC]** Alcolumbre convoca sessão do Senado para discutir MP e PL
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/alcolumbre-convoca-sesso-do-senado-para-discutir-mp-e-pl.ghtml)_
 
+- **[2026-10-29 08:00 UTC]** Marinho e Tereza Cristina articulam frente contra Alcolumbre
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/marinho-e-tereza-cristina-articulam-frente-contra-alcolumbre.ghtml)_
+
