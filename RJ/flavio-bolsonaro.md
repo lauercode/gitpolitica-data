@@ -10168,3 +10168,6 @@
 - **[2026-10-29 13:06 UTC]** Fuga e carta golpista ampliam isolamento de Flávio Bolsonaro
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/fuga-e-carta-golpista-ampliam-isolamento-de-flavio-bolsonaro)_
 
+- **[2026-10-29 12:16 UTC]** Valdemar Costa Neto diz que não gostou da carta publicada por Flávio
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/valdemar-costa-neto-diz-que-nao-gostou-da-carta-publicada-por-flavio)_
+
