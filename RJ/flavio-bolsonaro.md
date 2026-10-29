@@ -10147,3 +10147,6 @@
 - **[2026-10-29 08:00 UTC]** Oposição a Milei cobra explicações sobre possível ajuda a Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/oposicao-a-milei-cobra-explicacoes-sobre-possivel-ajuda-a-flavio.ghtml)_
 
+- **[2026-10-29 08:00 UTC]** Se Flávio Bolsonaro tinha pressa é porque sabe o que fez
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/coluna/se-flavio-bolsonaro-tinha-pressa-e-porque-sabe-o-que-fez.ghtml)_
+
