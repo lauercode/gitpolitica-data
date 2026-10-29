@@ -10249,3 +10249,6 @@
 - **[2026-10-29 15:36 UTC]** Flávio se isola na direita e sofre desgaste nas redes, mas articulação externa preocupa
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/flvio-se-isola-na-direita-e-sofre-desgaste-nas-redes-mas-articulao-externa-preocupa.ghtml)_
 
+- **[2026-10-29 15:18 UTC]** Presidente do PL diz que Flávio se despediu do pai antes de ir para EUA, e depois corrige: 'Bolsonaro não sabia'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/jair-bolsonaro-nao-sabia-da-fuga-de-flavio-para-os-eua-diz-presidente-do-pl.ghtml)_
+
