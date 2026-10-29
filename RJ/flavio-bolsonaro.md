@@ -10072,3 +10072,6 @@
 - **[2026-10-29 02:06 UTC]** Ives Gandra diz que Flávio errou ao se declarar presidente e critica interferência do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ives-gandra-diz-que-flavio-errou-ao-se-declarar-presidente-e-critica-interferencia-do-stf/)_
 
+- **[2026-10-29 01:22 UTC]** Flávio Bolsonaro declara liderança da oposição a partir dos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-declara-lideranca-da-oposicao-a-partir-dos-eua/)_
+
