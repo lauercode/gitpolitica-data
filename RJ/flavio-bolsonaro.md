@@ -10141,3 +10141,6 @@
 - **[2026-10-29 08:41 UTC]** Qual o futuro do bolsonarismo após Flávio Bolsonaro deixar o Brasil e se declarar 'o verdadeiro presidente do Brasil'?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw98zmy9gnj8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-29 09:17 UTC]** Após se declarar 'presidente', Flávio muda carta e se diz 'líder do Brasil'; o que aconteceu na 4ªf
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
+
