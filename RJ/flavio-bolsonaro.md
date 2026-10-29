@@ -10171,3 +10171,6 @@
 - **[2026-10-29 12:16 UTC]** Valdemar Costa Neto diz que não gostou da carta publicada por Flávio
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/valdemar-costa-neto-diz-que-nao-gostou-da-carta-publicada-por-flavio)_
 
+- **[2026-10-29 16:06 UTC]** Após derrota e fuga de Flávio Bolsonaro, veja quem da família terá cargo após se eleger em 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/familia-bolsonaro-cargos-2027.ghtml)_
+
