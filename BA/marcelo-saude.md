@@ -38,3 +38,6 @@
 - **[2026-10-29 11:29 UTC]** Concurso da Saúde do TO tem mais de 60 mil inscritos; saiba como consultar local de prova
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/29/concurso-da-saude-do-to-tem-mais-de-60-mil-inscritos-saiba-como-consultar-local-de-prova.ghtml)_
 
+- **[2026-10-29 17:00 UTC]** Ministro da Saúde de Lula encontra Lottenberg, médico 'indicado' por Flávio para o seu lugar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ministro-da-saude-de-lula-encontra-lottenberg-medico-indicado-por-flavio-para-o-seu-lugar.shtml)_
+
