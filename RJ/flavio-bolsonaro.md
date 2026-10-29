@@ -10117,3 +10117,6 @@
 - **[2026-10-29 03:30 UTC]** Flávio nos EUA e o bolsonarismo à distância - O Assunto #1835
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/10/29/flavio-nos-eua-e-o-bolsonarismo-a-distancia-o-assunto-1835.ghtml)_
 
+- **[2026-10-29 03:00 UTC]** Flávio Bolsonaro: veja o que pode acontecer com o mandato de senador após fuga para os EUA
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/flavio-bolsonaro-veja-o-que-pode-acontecer-com-o-mandato-de-senador-apos-fuga-para-os-eua.ghtml)_
+
