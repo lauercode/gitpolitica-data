@@ -10033,3 +10033,6 @@
 - **[2026-10-28 23:00 UTC]** Fuga de Flávio precipita ascensão de Tarcísio, e direita aposta em nomes do Senado para liderar oposição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fuga-de-flavio-precipita-ascensao-de-tarcisio-e-direita-aposta-em-nomes-do-senado-para-liderar-oposicao.shtml)_
 
+- **[2026-10-28 23:00 UTC]** Flávio Bolsonaro enfrenta isolamento após carta golpista e operação despiste com fuga para os EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-enfrenta-isolamento-apos-carta-golpista-e-operacao-despiste-com-fuga-para-os-eua.shtml)_
+
