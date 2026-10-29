@@ -20,3 +20,6 @@
 - **[2026-10-29 09:30 UTC]** Suspeitos são flagrados assaltando loja de importados no Sertão da PB e causam prejuízo de cerca de R$ 70 mil
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/29/suspeitos-sao-flagrados-assaltando-loja-de-importados-no-sertao-da-pb.ghtml)_
 
+- **[2026-10-29 10:45 UTC]** Operação investiga crimes de abuso sexual infantojuvenil na internet, no Sertão da PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/29/operacao-investiga-crimes-de-abuso-sexual-infantojuvenil-na-internet-no-sertao-da-pb.ghtml)_
+
