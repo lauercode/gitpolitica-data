@@ -26,3 +26,6 @@
 - **[2026-10-28 23:30 UTC]** Alexandre de Moraes autoriza visita de Valdemar Costa Neto a Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/alexandre-de-moraes-autoriza-visita-de-valdemar-costa-neto-a-bolsonaro.ghtml)_
 
+- **[2026-10-29 12:16 UTC]** Valdemar Costa Neto diz que não gostou da carta publicada por Flávio
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/valdemar-costa-neto-diz-que-nao-gostou-da-carta-publicada-por-flavio)_
+
