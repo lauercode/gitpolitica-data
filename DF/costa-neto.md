@@ -23,3 +23,6 @@
 - **[2026-10-28 18:46 UTC]** Moraes autoriza visita de Valdemar Costa Neto a Jair Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/moraes-autoriza-visita-de-valdemar-costa-neto-a-jair-bolsonaro/)_
 
+- **[2026-10-28 23:30 UTC]** Alexandre de Moraes autoriza visita de Valdemar Costa Neto a Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/alexandre-de-moraes-autoriza-visita-de-valdemar-costa-neto-a-bolsonaro.ghtml)_
+
