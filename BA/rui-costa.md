@@ -26,3 +26,6 @@
 - **[2026-10-25 12:14 UTC]** PT pede prisão do prefeito de Salvador por falta de ônibus na eleição e Rui Costa o acusa de crime; TRE manda prender secretário
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/rui-costa-diz-que-pt-pedira-prisao-de-prefeito-de-salvador-falta-de-onibus-das-ruas-na-eleicao.shtml)_
 
+- **[2026-10-29 21:34 UTC]** Rui Costa questiona articulação a favor de Alcolumbre que prevê anistia ou indulto a Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/29/rui-costa-articulacao-alcolumbre-senado-anistia-indulto-jair-bolsonaro.ghtml)_
+
