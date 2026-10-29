@@ -254,3 +254,6 @@
 - **[2026-10-26 11:31 UTC]** Segundo turno das Eleições 2026 em Santa Catarina: votação, apuração e resultados
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-santa-catarina-votacao-apuracao-resultados.ghtml)_
 
+- **[2026-10-29 15:11 UTC]** Segundo turno das eleições de 2022 teve mais votos depois das 17h do que em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/segundo-turno-das-eleicoes-de-2022-teve-mais-votos-depois-das-17h-do-que-em-2026.shtml)_
+
