@@ -125,3 +125,6 @@
 - **[2026-10-29 13:02 UTC]** Tragédia na Espanha: colisão de trens provoca 69 mortes
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-10/tragedia-na-espanha-colisao-de-trens-provoca-69-mortes)_
 
+- **[2026-10-29 15:25 UTC]** Brasileira está entre os feridos por acidente com trens de alta velocidade na Espanha
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/brasileira-esta-entre-os-feridos-de-acidente-entre-trens-na-espanha.ghtml)_
+
