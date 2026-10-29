@@ -10057,3 +10057,6 @@
 - **[2026-10-28 21:20 UTC]** Flávio não é perseguido, não há ditadura judicial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/10/flavio-nao-e-perseguido-nao-ha-ditadura-judicial.shtml)_
 
+- **[2026-10-28 21:19 UTC]** Nunes não comenta carta golpista de Flávio e diz que oposição deve fiscalizar Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/nunes-nao-comenta-carta-golpista-de-flavio-e-diz-que-oposicao-deve-fiscalizar-lula.shtml)_
+
