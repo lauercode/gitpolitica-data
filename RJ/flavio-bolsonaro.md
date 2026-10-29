@@ -10201,3 +10201,6 @@
 - **[2026-10-29 12:00 UTC]** Indecência de Flávio Bolsonaro não é simples jogo de cena
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/bernardo-carvalho/2026/10/indecencia-de-flavio-bolsonaro-nao-e-simples-jogo-de-cena.shtml)_
 
+- **[2026-10-29 10:01 UTC]** Valdemar diz que ninguém aprovou carta golpista de Flávio e que Bolsonaro não sabia de fuga do filho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/valdemar-costa-neto-diz-que-nao-gostou-de-carta-golpista-de-flavio-bolsonaro.shtml)_
+
