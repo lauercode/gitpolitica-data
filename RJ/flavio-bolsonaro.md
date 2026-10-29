@@ -10324,3 +10324,6 @@
 - **[2026-10-29 20:01 UTC]** Pragmatismo x ideologia: como Trump vai de fato lidar com as declarações de Flávio Bolsonaro sobre o Brasil?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c64g18gdvqwjo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-29 21:43 UTC]** Governo Lula descarta escalar crise com Trump por Flávio Bolsonaro; siga
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
+
