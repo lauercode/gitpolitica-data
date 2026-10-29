@@ -10252,3 +10252,6 @@
 - **[2026-10-29 15:18 UTC]** Presidente do PL diz que Flávio se despediu do pai antes de ir para EUA, e depois corrige: 'Bolsonaro não sabia'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/jair-bolsonaro-nao-sabia-da-fuga-de-flavio-para-os-eua-diz-presidente-do-pl.ghtml)_
 
+- **[2026-10-29 13:14 UTC]** 'Não gostei', diz Valdemar Costa Neto sobre carta de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/nao-gostei-diz-valdemar-costa-neto-sobre-carta-de-flavio-bolsonaro.ghtml)_
+
