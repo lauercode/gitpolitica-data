@@ -10270,3 +10270,6 @@
 - **[2026-10-29 20:26 UTC]** Para aliados, Flávio esvazia liderança política ao apresentar dupla personalidade: moderado na campanha e extremista em carta
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/29/aliados-avaliam-que-flavio-esvazia-lideranca-politica-ao-se-apresentar-moderado-na-campanha-e-extremista-em-carta-apos-fuga.ghtml)_
 
+- **[2026-10-29 19:28 UTC]** Governo quer manter pragmatismo com EUA e Argentina e não pretende reagir à fuga de Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/governo-quer-manter-pragmatismo-com-eua-e-argentina-e-nao-pretende-reagir-a-fuga-de-flavio-bolsonaro.ghtml)_
+
