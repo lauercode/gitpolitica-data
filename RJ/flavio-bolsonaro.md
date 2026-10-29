@@ -10180,3 +10180,6 @@
 - **[2026-10-29 12:06 UTC]** Valdemar diz que 'ninguém aprovou' carta de Flávio, e que ele não avisou ao pai que sairia do país
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/valdemar-critica-carta-em-que-flavio-se-diz-lider-do-brasil-antes-de-visitar-jair-bolsonaro-nao-gostei.ghtml)_
 
+- **[2026-10-29 11:48 UTC]** Carta golpista isola Flávio, que perde apoio até entre líderes da direita e enfraquece oposição bolsonarista a Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/29/carta-golpista-isola-flavio-que-perde-apoio-ate-entre-lideres-da-direita-e-enfraquece-oposicao-bolsonarista-a-lula.ghtml)_
+
