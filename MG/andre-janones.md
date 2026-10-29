@@ -236,3 +236,6 @@
 - **[2026-10-29 20:00 UTC]** Janones deve continuar na Câmara em vez de assumir ministério no Lula 4
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/janones-deve-continuar-camara-em-vez-de-assumir-ministerio-lula-4/)_
 
+- **[2026-10-29 18:42 UTC]** Em áudio ao canal de Janones, Lula agradece por voto e promete pronunciamento na semana que vem
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/29/em-audio-ao-canal-de-janones-lula-agradece-por-voto-e-promete-pronunciamento-na-semana-que-vem.ghtml)_
+
