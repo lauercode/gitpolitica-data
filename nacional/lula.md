@@ -2564,3 +2564,6 @@
 - **[2026-10-29 18:34 UTC]** Observatório Eleitoral defende lisura da vitória de Lula e condena golpismo de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/observatorio-eleitoral-defende-lisura-da-vitoria-de-lula-e-condena-golpismo-de-flavio.shtml)_
 
+- **[2026-10-29 17:47 UTC]** PSD espera ser recompensado por Lula por ter resistido à pressão para apoiar Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/psd-espera-ser-recompensado-por-lula-por-ter-resistido-a-pressao-para-apoiar-flavio.shtml)_
+
