@@ -14,3 +14,6 @@
 - **[2026-10-29 00:20 UTC]** Remo bate o Botafogo e encerra jejum de vitórias no Brasileirão
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/remo-bate-o-botafogo-e-encerra-jejum-de-vitorias-no-brasileirao/)_
 
+- **[2026-10-29 06:45 UTC]** Remo volta a vencer após 12 jogos e complica Botafogo no Brasileirão
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/remo-volta-vencer-apos-12-jogos-e-complica-botafogo-no-brasileirao)_
+
