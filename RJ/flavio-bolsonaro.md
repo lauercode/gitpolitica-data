@@ -10090,3 +10090,6 @@
 - **[2026-10-29 00:06 UTC]** Coligação de Lula diz que vontade do Brasil será respeitada, após carta golpista de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/coligacao-de-lula-diz-que-vontade-do-brasil-sera-respeitada-apos-carta-golpista-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-28 19:51 UTC]** Flávio chega aos EUA, divulga carta de teor golpista, se declara 'presidente' e recua
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/derrotado-na-urna-flavio-bolsonaro-divulga-declaracao-apos-fuga-e-diz-ser-verdadeiro-presidente.ghtml)_
+
