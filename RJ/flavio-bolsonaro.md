@@ -10021,3 +10021,6 @@
 - **[2026-10-29 00:15 UTC]** Ex-presidente do STF reage à carta de Flávio Bolsonaro: 'legitimidade não nasce da convicção pessoal de um candidato vencido'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/ex-presidente-do-stf-reage-a-carta-de-flavio-bolsonaro-legitimidade-nao-nasce-da-conviccao-pessoal-de-um-candidato-vencido.ghtml)_
 
+- **[2026-10-28 23:50 UTC]** Após carta de Flávio, Ricardo Nunes diz que TSE já definiu o presidente e é preciso 'serenidade'
+  _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/28/ricardo-nunes-diz-que-tse-ja-definiu-o-novo-presidente-apos-carta-em-que-flavio-se-autointula-lider-do-brasil.ghtml)_
+
