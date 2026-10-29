@@ -10042,3 +10042,6 @@
 - **[2026-10-28 22:35 UTC]** Eduardo e Ramagem publicam fotos com Flávio Bolsonaro após fuga de senador para os EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-e-ramagem-publicam-fotos-com-flavio-bolsonaro-apos-fuga-de-senador-para-os-eua.shtml)_
 
+- **[2026-10-28 22:10 UTC]** Oposição da Argentina exige explicações de Milei sobre fuga de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/oposicao-da-argentina-exige-explicacoes-de-milei-sobre-fuga-de-flavio.shtml)_
+
