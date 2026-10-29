@@ -10342,3 +10342,6 @@
 - **[2026-10-29 20:31 UTC]** Quem é Jason Miller, funcionário da Casa Branca que ajudou em fuga de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/quem-e-jason-miller-funcionario-da-casa-branca-que-ajudou-em-fuga-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-29 20:05 UTC]** Licença de entrada concedida a Flávio nos EUA explodiu com Biden e caiu com Trump, mas tem acelerado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/licena-de-entrada-concedida-a-flvio-nos-eua-explodiu-com-biden-e-caiu-com-trump-mas-tem-acelerado.ghtml)_
+
