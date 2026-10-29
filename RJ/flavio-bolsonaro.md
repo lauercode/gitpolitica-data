@@ -10192,3 +10192,6 @@
 - **[2026-10-29 12:21 UTC]** Kassio e Mendonça tentam se desvincular de Flávio após carta golpista e falam em perda de bom senso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-e-mendonca-tentam-se-desvincular-de-flavio-apos-carta-golpista-e-falam-em-perda-de-bom-senso.shtml)_
 
+- **[2026-10-29 12:07 UTC]** Wall Street Journal acusa governo Lula de perseguição política a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/wall-street-journal-acusa-governo-lula-de-perseguicao-politica-a-flavio-bolsonaro.shtml)_
+
