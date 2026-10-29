@@ -10105,3 +10105,6 @@
 - **[2026-10-28 20:31 UTC]** União Brasil, que apoiou Flávio no 2º turno, cobra respeito ao resultado das urnas
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/uniao-brasil-que-apoiou-flavio-no-2o-turno-cobra-respeito-ao-resultado-das-urnas/)_
 
+- **[2026-10-28 20:09 UTC]** Flávio Bolsonaro confessa de Miami seus crimes contra o Estado Democrático de Direito
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/opiniao/flavio-bolsonaro-confessa-de-miami-seus-crimes-contra-o-estado-democratico-de-direito/)_
+
