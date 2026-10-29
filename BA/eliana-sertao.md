@@ -17,3 +17,6 @@
 - **[2026-10-28 13:28 UTC]** Corpo de idoso é encontrado em estado de decomposição no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/28/corpo-de-idoso-e-encontrado-em-estado-de-decomposicao-no-sertao-da-paraiba.ghtml)_
 
+- **[2026-10-29 09:30 UTC]** Suspeitos são flagrados assaltando loja de importados no Sertão da PB e causam prejuízo de cerca de R$ 70 mil
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/29/suspeitos-sao-flagrados-assaltando-loja-de-importados-no-sertao-da-pb.ghtml)_
+
