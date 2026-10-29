@@ -134,3 +134,6 @@
 - **[2026-10-29 13:20 UTC]** Família de médica brasileira que morreu na Espanha após correr meia maratona aguarda liberação de corpo para fazer traslado
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/29/familia-de-medica-brasileira-que-morreu-na-espanha-apos-correr-meia-maratona-aguarda-liberacao-de-corpo-para-fazer-traslado.ghtml)_
 
+- **[2026-10-29 12:37 UTC]** Equipes buscam vítimas de colisão de trens na Espanha; mortes chegam a 69
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/29/equipes-buscam-vtimas-de-coliso-de-trens-na-espanha-mortes-chegam-a-69.ghtml)_
+
