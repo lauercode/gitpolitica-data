@@ -254,3 +254,6 @@
 - **[2026-10-26 21:14 UTC]** Queimadas no Pará podem levar fumaça ao Amazonas nos próximos dias, diz governador Roberto Cidade
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/26/queimadas-no-para-podem-levar-fumaca-ao-amazonas-nos-proximos-dias-diz-governador-roberto-cidade.ghtml)_
 
+- **[2026-10-29 20:34 UTC]** Omar Aziz e Roberto Cidade iniciam transição de governo no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/29/omar-aziz-e-roberto-cidade-iniciam-transicao-de-governo-no-amazonas.ghtml)_
+
