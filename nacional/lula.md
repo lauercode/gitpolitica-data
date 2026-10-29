@@ -2540,3 +2540,6 @@
 - **[2026-10-28 23:00 UTC]** Petistas veem Flávio tentar sabotar relação Lula-Trump e se enfraquecer ao se proclamar presidente
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/petistas-veem-flavio-tentar-sabotar-relacao-lula-trump-e-se-enfraquecer-ao-se-proclamar-presidente.shtml)_
 
+- **[2026-10-28 23:00 UTC]** Ex-presidentes do PT veem necessidade de que governo Lula 4 fale com novas bases políticas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ex-presidentes-do-pt-veem-necessidade-de-que-governo-lula-4-fale-com-novas-bases-politicas.shtml)_
+
