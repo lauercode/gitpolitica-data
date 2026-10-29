@@ -29,3 +29,6 @@
 - **[2026-10-28 22:35 UTC]** Eduardo e Ramagem publicam fotos com Flávio Bolsonaro após fuga de senador para os EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-e-ramagem-publicam-fotos-com-flavio-bolsonaro-apos-fuga-de-senador-para-os-eua.shtml)_
 
+- **[2026-10-29 03:15 UTC]** Flávio Bolsonaro se encontra com Eduardo e Ramagem nos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-se-encontra-com-eduardo-e-ramagem-nos-eua/)_
+
