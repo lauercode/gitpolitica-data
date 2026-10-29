@@ -10306,3 +10306,6 @@
 - **[2026-10-29 16:18 UTC]** Direita entra em parafuso com fuga de Flávio, e Tarcísio desponta como novo líder; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/direita-entra-em-parafuso-com-fuga-de-flavio-e-tarcisio-desponta-como-novo-lider-veja-video.shtml)_
 
+- **[2026-10-29 14:57 UTC]** Para receber Flávio, Trump recorre a modelo de acolhida humanitária que destruiu
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/para-receber-flavio-trump-recorre-a-modelo-de-acolhida-humanitaria-que-destruiu.shtml)_
+
