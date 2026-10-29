@@ -10189,3 +10189,6 @@
 - **[2026-10-29 12:48 UTC]** Flávio ignora Senado e não comunica saída do país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-ignora-senado-e-nao-comunica-saida-do-pais.shtml)_
 
+- **[2026-10-29 12:21 UTC]** Kassio e Mendonça tentam se desvincular de Flávio após carta golpista e falam em perda de bom senso
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-e-mendonca-tentam-se-desvincular-de-flavio-apos-carta-golpista-e-falam-em-perda-de-bom-senso.shtml)_
+
