@@ -10135,3 +10135,6 @@
 - **[2026-10-29 05:10 UTC]** Polícia Federal investiga rede de apoio usada por Flávio Bolsonaro para sair do país
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-investiga-rede-de-apoio-usada-por-flavio-bolsonaro-para-sair-do-pais/)_
 
+- **[2026-10-29 03:15 UTC]** Flávio Bolsonaro se encontra com Eduardo e Ramagem nos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-se-encontra-com-eduardo-e-ramagem-nos-eua/)_
+
