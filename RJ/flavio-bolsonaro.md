@@ -10069,3 +10069,6 @@
 - **[2026-10-28 20:30 UTC]** Flávio pode virar o Vorcaro da política
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/10/flavio-pode-virar-o-vorcaro-da-politica.shtml)_
 
+- **[2026-10-29 02:06 UTC]** Ives Gandra diz que Flávio errou ao se declarar presidente e critica interferência do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ives-gandra-diz-que-flavio-errou-ao-se-declarar-presidente-e-critica-interferencia-do-stf/)_
+
