@@ -10114,3 +10114,6 @@
 - **[2026-10-28 19:49 UTC]** Apoio estrangeiro não confere mandato presidencial, diz Celso de Mello sobre Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/apoio-estrangeiro-nao-confere-mandato-presidencial-diz-celso-de-mello-sobre-flavio-bolsonaro/)_
 
+- **[2026-10-29 03:30 UTC]** Flávio nos EUA e o bolsonarismo à distância - O Assunto #1835
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/10/29/flavio-nos-eua-e-o-bolsonarismo-a-distancia-o-assunto-1835.ghtml)_
+
