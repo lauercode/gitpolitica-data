@@ -10186,3 +10186,6 @@
 - **[2026-10-29 13:00 UTC]** Derrota de Flávio dificulta soltura de Jair Bolsonaro por indulto ou por via judicial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/derrota-de-flavio-dificulta-soltura-de-jair-bolsonaro-por-indulto-ou-por-via-judicial.shtml)_
 
+- **[2026-10-29 12:48 UTC]** Flávio ignora Senado e não comunica saída do país
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-ignora-senado-e-nao-comunica-saida-do-pais.shtml)_
+
