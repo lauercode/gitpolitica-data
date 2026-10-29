@@ -173,3 +173,6 @@
 - **[2026-10-28 19:29 UTC]** Não há qualquer chance de anular a condenação de Jair Bolsonaro, diz Kakay
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/nao-ha-qualquer-chance-de-anular-a-condenacao-de-jair-bolsonaro-diz-kakay/)_
 
+- **[2026-10-29 03:00 UTC]** Esposa de homem agredido por assessor de Jair Renan Bolsonaro em SC diz que garrafa quase atingiu filho de 1 ano
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/29/esposa-homem-agredido-assessor-jair-renan-bolsonaro-sc-diz-garrafa-quase-atingiu-filho.ghtml)_
+
