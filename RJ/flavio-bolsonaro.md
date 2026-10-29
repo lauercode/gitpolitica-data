@@ -10276,3 +10276,6 @@
 - **[2026-10-29 18:36 UTC]** Lula vira em 3 regiões metropolitanas e cresce mais de 30% em outras 6 do 1º para o 2º turno; Flávio perde votos em 7
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/29/desempenho-lual-flavio-bolsonaro-regioes-metropolitanas.ghtml)_
 
+- **[2026-10-29 16:53 UTC]** Só um dos 15 aliados que estavam ao lado de Flávio no discurso após eleição reproduziu carta nas redes; maioria se calou
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/so-um-dos-15-aliados-que-estavam-ao-lado-de-flavio-no-discurso-apos-eleicao-reproduziu-carta-nas-redes-maioria-se-calou.ghtml)_
+
