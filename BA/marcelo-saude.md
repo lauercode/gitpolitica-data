@@ -35,3 +35,6 @@
 - **[2026-10-28 17:17 UTC]** Servidor da Secretaria de Saúde é executado a tiros na frente de casa em Anapu, no PA; prefeitura decreta luto
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/10/28/servidor-da-secretaria-de-saude-e-executado-a-tiros-na-frente-de-casa-em-anapu-no-pa-prefeitura-decreta-luto.ghtml)_
 
+- **[2026-10-29 11:29 UTC]** Concurso da Saúde do TO tem mais de 60 mil inscritos; saiba como consultar local de prova
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/29/concurso-da-saude-do-to-tem-mais-de-60-mil-inscritos-saiba-como-consultar-local-de-prova.ghtml)_
+
