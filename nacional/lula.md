@@ -2546,3 +2546,6 @@
 - **[2026-10-28 21:19 UTC]** Nunes não comenta carta golpista de Flávio e diz que oposição deve fiscalizar Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/nunes-nao-comenta-carta-golpista-de-flavio-e-diz-que-oposicao-deve-fiscalizar-lula.shtml)_
 
+- **[2026-10-29 01:20 UTC]** Coligação de Lula rejeita contestação eleitoral de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/coligacao-de-lula-rejeita-contestacao-eleitoral-de-flavio-bolsonaro/)_
+
