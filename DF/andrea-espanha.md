@@ -116,3 +116,6 @@
 - **[2026-10-28 20:19 UTC]** O que pode ter causado colisão entre trens de alta velocidade que deixou ao menos 68 mortos na Espanha
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ckvg704vp1l2o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-29 03:00 UTC]** 'Estava feliz': médica brasileira que morreu na Espanha após correr em meia maratona fazia viagem ao lado da mãe
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/29/medica-brasileira-morreu-espanha-correr-meia-maratona-viagem-mae.ghtml)_
+
