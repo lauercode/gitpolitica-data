@@ -542,3 +542,6 @@
 - **[2026-10-29 10:53 UTC]** Alcolumbre articula acordo para conter impeachment de ministros do STF e admite discutir indulto a Bolsonaro em busca da reeleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/29/alcolumbre-acordo-indulto-bolsonaro.ghtml)_
 
+- **[2026-10-29 21:34 UTC]** Rui Costa questiona articulação a favor de Alcolumbre que prevê anistia ou indulto a Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/29/rui-costa-articulacao-alcolumbre-senado-anistia-indulto-jair-bolsonaro.ghtml)_
+
