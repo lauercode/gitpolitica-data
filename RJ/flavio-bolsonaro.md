@@ -10282,3 +10282,6 @@
 - **[2026-10-29 12:06 UTC]** Valdemar diz que 'ninguém aprovou' carta de Flávio e que ele não avisou ao pai que sairia do país
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/valdemar-critica-carta-em-que-flavio-se-diz-lider-do-brasil-antes-de-visitar-jair-bolsonaro-nao-gostei.ghtml)_
 
+- **[2026-10-29 18:37 UTC]** Ninguém quer trocar a fralda de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/ninguem-quer-trocar-a-fralda-de-flavio.shtml)_
+
