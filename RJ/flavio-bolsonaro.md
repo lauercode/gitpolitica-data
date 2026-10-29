@@ -10078,3 +10078,6 @@
 - **[2026-10-29 01:20 UTC]** Coligação de Lula rejeita contestação eleitoral de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/coligacao-de-lula-rejeita-contestacao-eleitoral-de-flavio-bolsonaro/)_
 
+- **[2026-10-29 01:09 UTC]** Saída de Flávio Bolsonaro dos EUA pode ampliar cerco judicial contra aliados e família
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/saida-de-flavio-bolsonaro-dos-eua-pode-ampliar-cerco-judicial-contra-aliados-e-familia/)_
+
