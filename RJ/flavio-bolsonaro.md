@@ -10207,3 +10207,6 @@
 - **[2026-10-29 10:00 UTC]** PT procurou partidos de centro e direita para isolar Flávio Bolsonaro após carta golpista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-procurou-partidos-de-centro-e-direita-para-isolar-flavio-bolsonaro-apos-carta-golpista.shtml)_
 
+- **[2026-10-29 09:15 UTC]** Veja votos de Lula e Flávio Bolsonaro nas escolas e faculdades de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-votos-de-lula-e-flavio-bolsonaro-nas-escolas-e-faculdades-de-sao-paulo.shtml)_
+
