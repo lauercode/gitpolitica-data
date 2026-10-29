@@ -10099,3 +10099,6 @@
 - **[2026-10-28 23:00 UTC]** Centrão isola golpismo de Flávio Bolsonaro e reforça respeito ao resultado das urnas
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/centrao-isola-golpismo-de-flavio-bolsonaro-e-reforca-respeito-ao-resultado-das-urnas/)_
 
+- **[2026-10-28 21:16 UTC]** Rogério Marinho contradiz Flávio Bolsonaro e diz que não há provas de fraude eleitoral
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/rogerio-marinho-contradiz-flavio-bolsonaro-e-diz-que-nao-ha-provas-de-fraude-eleitoral/)_
+
