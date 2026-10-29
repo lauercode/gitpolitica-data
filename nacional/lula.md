@@ -2567,3 +2567,6 @@
 - **[2026-10-29 17:47 UTC]** PSD espera ser recompensado por Lula por ter resistido à pressão para apoiar Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/psd-espera-ser-recompensado-por-lula-por-ter-resistido-a-pressao-para-apoiar-flavio.shtml)_
 
+- **[2026-10-29 17:00 UTC]** Ministro da Saúde de Lula encontra Lottenberg, médico 'indicado' por Flávio para o seu lugar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ministro-da-saude-de-lula-encontra-lottenberg-medico-indicado-por-flavio-para-o-seu-lugar.shtml)_
+
