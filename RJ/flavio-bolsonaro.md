@@ -10273,3 +10273,6 @@
 - **[2026-10-29 19:28 UTC]** Governo quer manter pragmatismo com EUA e Argentina e não pretende reagir à fuga de Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/governo-quer-manter-pragmatismo-com-eua-e-argentina-e-nao-pretende-reagir-a-fuga-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-29 18:36 UTC]** Lula vira em 3 regiões metropolitanas e cresce mais de 30% em outras 6 do 1º para o 2º turno; Flávio perde votos em 7
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/29/desempenho-lual-flavio-bolsonaro-regioes-metropolitanas.ghtml)_
+
