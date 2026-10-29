@@ -10210,3 +10210,6 @@
 - **[2026-10-29 09:15 UTC]** Veja votos de Lula e Flávio Bolsonaro nas escolas e faculdades de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-votos-de-lula-e-flavio-bolsonaro-nas-escolas-e-faculdades-de-sao-paulo.shtml)_
 
+- **[2026-10-29 14:53 UTC]** Jornal americano diz que Flávio é alvo de vingança e que Brasil ruma para a autocracia
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/jornal-americano-diz-flavio-alvo-vinganca-brasil-ruma-autocracia/)_
+
