@@ -10075,3 +10075,6 @@
 - **[2026-10-29 01:22 UTC]** Flávio Bolsonaro declara liderança da oposição a partir dos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-declara-lideranca-da-oposicao-a-partir-dos-eua/)_
 
+- **[2026-10-29 01:20 UTC]** Coligação de Lula rejeita contestação eleitoral de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/coligacao-de-lula-rejeita-contestacao-eleitoral-de-flavio-bolsonaro/)_
+
