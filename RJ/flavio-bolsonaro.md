@@ -10111,3 +10111,6 @@
 - **[2026-10-28 19:58 UTC]** Nunes Marques diz que eleição transcorreu com ‘absoluta normalidade’ após carta golpista de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/nunes-marques-diz-que-eleicao-transcorreu-com-absoluta-normalidade-apos-carta-golpista-de-flavio-bolsonaro/)_
 
+- **[2026-10-28 19:49 UTC]** Apoio estrangeiro não confere mandato presidencial, diz Celso de Mello sobre Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/apoio-estrangeiro-nao-confere-mandato-presidencial-diz-celso-de-mello-sobre-flavio-bolsonaro/)_
+
