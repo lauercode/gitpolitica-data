@@ -20,3 +20,6 @@
 - **[2026-10-06 10:06 UTC]** Resultado das eleições 2026 em Touros (RN): votação para presidente na Escola Municipal Dr. Orlando Flavio Junqueira Ayres, na 14ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-touros-rn-votacao-para-presidente-na-escola-municipal-dr-orlando-flavio-junqueira-ayres-na-14a-zona-eleitoral.ghtml)_
 
+- **[2026-10-29 13:05 UTC]** Casa ou hotel em Orlando: custo total da viagem define a escolha das famílias
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/10/29/casa-ou-hotel-em-orlando-custo-total-da-viagem-define-a-escolha-das-familias-1.ghtml)_
+
