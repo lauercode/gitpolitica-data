@@ -10255,3 +10255,6 @@
 - **[2026-10-29 13:14 UTC]** 'Não gostei', diz Valdemar Costa Neto sobre carta de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/nao-gostei-diz-valdemar-costa-neto-sobre-carta-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-29 11:20 UTC]** Democratas usam caso Flávio para capitalizar críticas à política migratória de Trump
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/29/democratas-usam-caso-flvio-para-capitalizar-crticas-poltica-migratria-de-trump.ghtml)_
+
