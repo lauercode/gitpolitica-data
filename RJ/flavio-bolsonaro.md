@@ -10177,3 +10177,6 @@
 - **[2026-10-29 15:27 UTC]** EUA pediram a Flávio Bolsonaro que retirasse de carta trecho em que se dizia ‘presidente eleito’
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/29/eua-pediram-a-flavio-bolsonaro-que-retirasse-de-carta-trecho-em-que-se-dizia-presidente-eleito.ghtml)_
 
+- **[2026-10-29 12:06 UTC]** Valdemar diz que 'ninguém aprovou' carta de Flávio, e que ele não avisou ao pai que sairia do país
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/valdemar-critica-carta-em-que-flavio-se-diz-lider-do-brasil-antes-de-visitar-jair-bolsonaro-nao-gostei.ghtml)_
+
