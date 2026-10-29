@@ -10132,3 +10132,6 @@
 - **[2026-10-29 00:00 UTC]** Sem registro em Foz, rota de Flávio Bolsonaro até Argentina motiva teorias e pressiona PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/sem-registro-em-foz-rota-de-flavio-bolsonaro-ate-argentina-motiva-teorias-e-pressiona-pf.shtml)_
 
+- **[2026-10-29 05:10 UTC]** Polícia Federal investiga rede de apoio usada por Flávio Bolsonaro para sair do país
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-investiga-rede-de-apoio-usada-por-flavio-bolsonaro-para-sair-do-pais/)_
+
