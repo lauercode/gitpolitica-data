@@ -10093,3 +10093,6 @@
 - **[2026-10-28 19:51 UTC]** Flávio chega aos EUA, divulga carta de teor golpista, se declara 'presidente' e recua
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/derrotado-na-urna-flavio-bolsonaro-divulga-declaracao-apos-fuga-e-diz-ser-verdadeiro-presidente.ghtml)_
 
+- **[2026-10-28 19:17 UTC]** Flávio Bolsonaro, Eduardo e aliados montaram 'operação despiste' com desinformação sobre fuga aos EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/28/flavio-eduardo-e-aliados-montaram-operacao-despiste-com-desinformacao-sobre-viagem-aos-eua.ghtml)_
+
