@@ -29,3 +29,6 @@
 - **[2026-10-07 02:08 UTC]** Resultado das eleições 2026 em Redenção (PA): votação para presidente no Emef Rui Barbosa (Rt 1), na 59ª zona eleitoral
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-redencao-pa-votacao-para-presidente-no-emef-rui-barbosa-rt-1-na-59a-zona-eleitoral.ghtml)_
 
+- **[2026-10-29 13:32 UTC]** Quem são Rui Barbosa, de Gaulle e outros líderes da América Latina citados por Flávio
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss)_
+
