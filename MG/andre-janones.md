@@ -233,3 +233,6 @@
 - **[2026-10-29 15:57 UTC]** Janones descarta se filiar ao PT e diz que seguirá na Rede
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/janones-descarta-se-filiar-ao-pt-e-diz-que-seguira-na-rede.shtml)_
 
+- **[2026-10-29 20:00 UTC]** Janones deve continuar na Câmara em vez de assumir ministério no Lula 4
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/janones-deve-continuar-camara-em-vez-de-assumir-ministerio-lula-4/)_
+
