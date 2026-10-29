@@ -10123,3 +10123,6 @@
 - **[2026-10-29 05:00 UTC]** Podcast trata de golpismo de Flávio Bolsonaro e analisa risco diplomático após fuga
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-trata-de-golpismo-de-flavio-bolsonaro-e-analisa-risco-diplomatico-apos-fuga.shtml)_
 
+- **[2026-10-29 04:00 UTC]** Auxílio de Milei para fuga de Flávio Bolsonaro agrava deterioração da relação do Brasil com a Argentina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/auxilio-de-milei-para-fuga-de-flavio-bolsonaro-agrava-deterioracao-da-relacao-do-brasil-com-a-argentina.shtml)_
+
