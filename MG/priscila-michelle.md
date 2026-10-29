@@ -59,3 +59,6 @@
 - **[2026-10-28 02:50 UTC]** Valdemar e Michelle discutem futuro do PL após Flávio deixar o país
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/valdemar-e-michelle-discutem-futuro-do-pl-apos-flavio-deixar-o-pais/)_
 
+- **[2026-10-29 12:06 UTC]** Flávio já deve se lançar candidato a presidente em 2030 para barrar Tarcísio e Michelle
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-ja-deve-se-lancar-candidato-a-presidente-em-2030-para-barrar-tarcisio-e-michelle.shtml)_
+
