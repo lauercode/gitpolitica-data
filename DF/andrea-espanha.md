@@ -131,3 +131,6 @@
 - **[2026-10-29 09:52 UTC]** Mortes em colisão de trens na Espanha sobem para 69; equipes buscam vítimas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/mortes-em-colisao-de-trens-na-espanha-sobem-para-69-equipes-buscam-vitimas.shtml)_
 
+- **[2026-10-29 13:20 UTC]** Família de médica brasileira que morreu na Espanha após correr meia maratona aguarda liberação de corpo para fazer traslado
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/29/familia-de-medica-brasileira-que-morreu-na-espanha-apos-correr-meia-maratona-aguarda-liberacao-de-corpo-para-fazer-traslado.ghtml)_
+
