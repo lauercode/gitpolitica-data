@@ -10138,3 +10138,6 @@
 - **[2026-10-29 03:15 UTC]** Flávio Bolsonaro se encontra com Eduardo e Ramagem nos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-se-encontra-com-eduardo-e-ramagem-nos-eua/)_
 
+- **[2026-10-29 08:41 UTC]** Qual o futuro do bolsonarismo após Flávio Bolsonaro deixar o Brasil e se declarar 'o verdadeiro presidente do Brasil'?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cw98zmy9gnj8o?at_medium=RSS&at_campaign=rss)_
+
