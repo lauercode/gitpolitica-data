@@ -10015,3 +10015,6 @@
 - **[2026-10-28 17:20 UTC]** Flávio Bolsonaro divulga carta golpista e se autoproclama o ‘verdadeiro presidente eleito’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-se-autoproclama-o-verdadeiro-presidente-eleito-apos-fugir-para-os-eua/)_
 
+- **[2026-10-28 21:11 UTC]** Após declaração de Flávio Bolsonaro, Trump diz que não vai se envolver
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-10/apos-declaracao-de-flavio-bolsonaro-trump-diz-que-nao-vai-se-envolver)_
+
