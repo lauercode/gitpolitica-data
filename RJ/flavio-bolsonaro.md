@@ -10156,3 +10156,6 @@
 - **[2026-10-29 08:00 UTC]** ‘Governo paralelo’ de Guaidó foi um fiasco; o de Flávio é só um desejo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/governo-paralelo-de-guaido-foi-um-fiasco-o-de-flavio-e-so-um-desejo.ghtml)_
 
+- **[2026-10-29 08:00 UTC]** Aliados rejeitam tom golpista de carta de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/aliados-rejeitam-tom-golpista-de-carta-de-flavio.ghtml)_
+
