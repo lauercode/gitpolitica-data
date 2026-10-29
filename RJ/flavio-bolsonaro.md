@@ -10297,3 +10297,6 @@
 - **[2026-10-29 17:19 UTC]** Veja manifestações de autoridades e partidos políticos após carta golpista de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-manifestacoes-de-autoridades-e-partidos-politicos-apos-carta-golpista-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-29 17:00 UTC]** Ministro da Saúde de Lula encontra Lottenberg, médico 'indicado' por Flávio para o seu lugar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ministro-da-saude-de-lula-encontra-lottenberg-medico-indicado-por-flavio-para-o-seu-lugar.shtml)_
+
