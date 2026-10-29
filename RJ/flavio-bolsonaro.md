@@ -10129,3 +10129,6 @@
 - **[2026-10-29 00:19 UTC]** Pastor de Flávio Bolsonaro diz que não tem 'terceiro turno' e que as eleições terminaram
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pastor-de-flavio-bolsonaro-diz-que-nao-tem-terceiro-turno-e-que-as-eleicoes-terminaram.shtml)_
 
+- **[2026-10-29 00:00 UTC]** Sem registro em Foz, rota de Flávio Bolsonaro até Argentina motiva teorias e pressiona PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/sem-registro-em-foz-rota-de-flavio-bolsonaro-ate-argentina-motiva-teorias-e-pressiona-pf.shtml)_
+
