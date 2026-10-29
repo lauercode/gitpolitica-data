@@ -10183,3 +10183,6 @@
 - **[2026-10-29 11:48 UTC]** Carta golpista isola Flávio, que perde apoio até entre líderes da direita e enfraquece oposição bolsonarista a Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/29/carta-golpista-isola-flavio-que-perde-apoio-ate-entre-lideres-da-direita-e-enfraquece-oposicao-bolsonarista-a-lula.ghtml)_
 
+- **[2026-10-29 13:00 UTC]** Derrota de Flávio dificulta soltura de Jair Bolsonaro por indulto ou por via judicial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/derrota-de-flavio-dificulta-soltura-de-jair-bolsonaro-por-indulto-ou-por-via-judicial.shtml)_
+
