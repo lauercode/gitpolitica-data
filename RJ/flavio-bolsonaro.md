@@ -10045,3 +10045,6 @@
 - **[2026-10-28 22:10 UTC]** Oposição da Argentina exige explicações de Milei sobre fuga de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/oposicao-da-argentina-exige-explicacoes-de-milei-sobre-fuga-de-flavio.shtml)_
 
+- **[2026-10-28 22:10 UTC]** Anitta faz chacota de carta divulgada por Flávio Bolsonaro: 'Venho aqui me autodeclarar sem celulite'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/anitta-faz-chacota-de-carta-divulgada-por-flavio-bolsonaro-venho-aqui-me-autodeclarar-sem-celulite.shtml)_
+
