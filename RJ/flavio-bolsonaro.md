@@ -10144,3 +10144,6 @@
 - **[2026-10-29 09:17 UTC]** Após se declarar 'presidente', Flávio muda carta e se diz 'líder do Brasil'; o que aconteceu na 4ªf
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-29 08:00 UTC]** Oposição a Milei cobra explicações sobre possível ajuda a Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/oposicao-a-milei-cobra-explicacoes-sobre-possivel-ajuda-a-flavio.ghtml)_
+
