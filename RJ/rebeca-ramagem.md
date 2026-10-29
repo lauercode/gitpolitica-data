@@ -26,3 +26,6 @@
 - **[2026-10-25 17:42 UTC]** Ramagem diz em Miami que quer voltar ao Brasil com vitória de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ramagem-diz-em-miami-que-quer-voltar-ao-brasil-com-vitoria-de-flavio.shtml)_
 
+- **[2026-10-28 22:35 UTC]** Eduardo e Ramagem publicam fotos com Flávio Bolsonaro após fuga de senador para os EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eduardo-e-ramagem-publicam-fotos-com-flavio-bolsonaro-apos-fuga-de-senador-para-os-eua.shtml)_
+
