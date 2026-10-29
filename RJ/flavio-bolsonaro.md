@@ -10330,3 +10330,6 @@
 - **[2026-10-29 18:21 UTC]** 'Ele achou que já estava eleito': os erros da campanha de Flávio Bolsonaro no segundo turno apontados por analistas
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmrryxg991d8o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-29 13:32 UTC]** Quem são Rui Barbosa, de Gaulle, Guaidó e outros líderes citados por Flávio
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss)_
+
