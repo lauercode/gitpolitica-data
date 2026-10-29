@@ -2558,3 +2558,6 @@
 - **[2026-10-29 12:07 UTC]** Wall Street Journal acusa governo Lula de perseguição política a Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/wall-street-journal-acusa-governo-lula-de-perseguicao-politica-a-flavio-bolsonaro.shtml)_
 
+- **[2026-10-29 09:15 UTC]** Veja votos de Lula e Flávio Bolsonaro nas escolas e faculdades de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-votos-de-lula-e-flavio-bolsonaro-nas-escolas-e-faculdades-de-sao-paulo.shtml)_
+
