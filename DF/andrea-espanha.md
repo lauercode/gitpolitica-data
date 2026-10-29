@@ -128,3 +128,6 @@
 - **[2026-10-29 15:25 UTC]** Brasileira está entre os feridos por acidente com trens de alta velocidade na Espanha
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/brasileira-esta-entre-os-feridos-de-acidente-entre-trens-na-espanha.ghtml)_
 
+- **[2026-10-29 09:52 UTC]** Mortes em colisão de trens na Espanha sobem para 69; equipes buscam vítimas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/mortes-em-colisao-de-trens-na-espanha-sobem-para-69-equipes-buscam-vitimas.shtml)_
+
