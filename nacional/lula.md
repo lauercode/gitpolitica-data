@@ -2549,3 +2549,6 @@
 - **[2026-10-29 01:20 UTC]** Coligação de Lula rejeita contestação eleitoral de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/coligacao-de-lula-rejeita-contestacao-eleitoral-de-flavio-bolsonaro/)_
 
+- **[2026-10-29 08:58 UTC]** As propostas do presidente Lula para o seu quarto mandato
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm2ke83x1785o?at_medium=RSS&at_campaign=rss)_
+
