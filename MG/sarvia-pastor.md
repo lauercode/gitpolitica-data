@@ -26,3 +26,6 @@
 - **[2026-09-10 20:26 UTC]** Pastor investigado por crimes sexuais contra mulheres no Pará é preso no Rio de Janeiro
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/09/10/pastor-investigado-por-crimes-sexuais-contra-mulheres-no-para-e-preso-no-rio-de-janeiro.ghtml)_
 
+- **[2026-10-29 00:19 UTC]** Pastor de Flávio Bolsonaro diz que não tem 'terceiro turno' e que as eleições terminaram
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pastor-de-flavio-bolsonaro-diz-que-nao-tem-terceiro-turno-e-que-as-eleicoes-terminaram.shtml)_
+
