@@ -10261,3 +10261,6 @@
 - **[2026-10-29 13:44 UTC]** Vice-líder do governo lança ofensiva para tornar Flávio Bolsonaro inelegível
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/vice-lider-do-governo-lanca-ofensiva-para-tornar-flavio-bolsonaro-inelegivel/)_
 
+- **[2026-10-29 12:43 UTC]** Carta de Flávio Bolsonaro nos EUA pode configurar crime
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/carta-de-flavio-bolsonaro-nos-eua-pode-configurar-crime/)_
+
