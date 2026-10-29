@@ -10024,3 +10024,6 @@
 - **[2026-10-28 23:50 UTC]** Após carta de Flávio, Ricardo Nunes diz que TSE já definiu o presidente e é preciso 'serenidade'
   _fonte: [G1 - Política:](https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/28/ricardo-nunes-diz-que-tse-ja-definiu-o-novo-presidente-apos-carta-em-que-flavio-se-autointula-lider-do-brasil.ghtml)_
 
+- **[2026-10-28 23:40 UTC]** What are the investigations into Flávio Bolsonaro, the defeated presidential candidate who fled Brazil for the US?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/what-are-the-investigations-into-flavio-bolsonaro-the-defeated-presidential-candidate-who-fled-brazil-for-the-us.ghtml)_
+
