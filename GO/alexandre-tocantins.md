@@ -257,3 +257,6 @@
 - **[2026-10-28 19:26 UTC]** Homem é morto com golpes de faca no interior do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/28/homem-e-morto-com-golpes-de-faca-no-interior-do-tocantins.ghtml)_
 
+- **[2026-10-29 10:44 UTC]** Detran abre leilão de 296 veículos no Tocantins com lances a partir de R$ 30
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/29/detran-abre-leilao-de-296-veiculos-no-tocantins-com-lances-a-partir-de-r-30.ghtml)_
+
