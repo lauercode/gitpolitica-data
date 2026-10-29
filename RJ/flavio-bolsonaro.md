@@ -10054,3 +10054,6 @@
 - **[2026-10-28 21:46 UTC]** Advogados acionam PF por uso de brasão do Brasil em carta de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/advogados-acionam-pf-por-uso-de-brasao-do-brasil-em-carta-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-28 21:20 UTC]** Flávio não é perseguido, não há ditadura judicial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/10/flavio-nao-e-perseguido-nao-ha-ditadura-judicial.shtml)_
+
