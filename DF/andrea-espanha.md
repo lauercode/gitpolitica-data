@@ -122,3 +122,6 @@
 - **[2026-10-29 08:00 UTC]** Tragédia na Espanha
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/29/tragedia-na-espanha.ghtml)_
 
+- **[2026-10-29 13:02 UTC]** Tragédia na Espanha: colisão de trens provoca 69 mortes
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-10/tragedia-na-espanha-colisao-de-trens-provoca-69-mortes)_
+
