@@ -134,3 +134,6 @@
 - **[2026-10-05 19:10 UTC]** Jorginho Mello só não venceu em 10 das 295 cidades de SC; veja mapa da votação por município
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/10/05/jorginho-mello-reeleito-cidades-sc-veja-mapa-da-votacao.ghtml)_
 
+- **[2026-10-29 15:13 UTC]** Após carta de Flávio Bolsonaro, Jorginho Mello diz que 'não é hora de aprofundar feridas' e fala em respeitar resultado das urnas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/29/jorginho-mello-fala-apos-eleicoes-carta-flavio.ghtml)_
+
