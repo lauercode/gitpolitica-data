@@ -10243,3 +10243,6 @@
 - **[2026-10-28 11:49 UTC]** Flávio Bolsonaro pode ser considerado foragido?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c875peypvy6eo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-29 15:13 UTC]** Após carta de Flávio Bolsonaro, Jorginho Mello diz que 'não é hora de aprofundar feridas' e fala em respeitar resultado das urnas
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/29/jorginho-mello-fala-apos-eleicoes-carta-flavio.ghtml)_
+
