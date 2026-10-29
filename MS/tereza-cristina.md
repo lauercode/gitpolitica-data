@@ -29,3 +29,6 @@
 - **[2026-10-28 12:55 UTC]** Tereza Cristina critica apoio do União Brasil e PP à reeleição de Alcolumbre no Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tereza-cristina-critica-apoio-uniao-brasil-pp-reeleicao-alcolumbre/)_
 
+- **[2026-10-29 08:00 UTC]** Marinho e Tereza Cristina articulam frente contra Alcolumbre
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/marinho-e-tereza-cristina-articulam-frente-contra-alcolumbre.ghtml)_
+
