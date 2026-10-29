@@ -10150,3 +10150,6 @@
 - **[2026-10-29 08:00 UTC]** Se Flávio Bolsonaro tinha pressa é porque sabe o que fez
   _fonte: [Valor Econômico](https://valor.globo.com/politica/coluna/se-flavio-bolsonaro-tinha-pressa-e-porque-sabe-o-que-fez.ghtml)_
 
+- **[2026-10-29 08:00 UTC]** Em carta golpista, Flávio Bolsonaro se declara ‘presidente’; depois recua e se diz ‘líder’ do país
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/29/em-carta-golpista-flavio-bolsonaro-se-declara-presidente-depois-recua-e-se-diz-lider-do-pais.ghtml)_
+
