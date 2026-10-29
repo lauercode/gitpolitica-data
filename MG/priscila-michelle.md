@@ -62,3 +62,6 @@
 - **[2026-10-29 12:06 UTC]** Flávio já deve se lançar candidato a presidente em 2030 para barrar Tarcísio e Michelle
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-ja-deve-se-lancar-candidato-a-presidente-em-2030-para-barrar-tarcisio-e-michelle.shtml)_
 
+- **[2026-10-29 20:05 UTC]** Michelle chega ao Congresso como força política do clã Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/michelle-chega-ao-congresso-como-forca-politica-cla-bolsonaro/)_
+
