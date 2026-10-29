@@ -10279,3 +10279,6 @@
 - **[2026-10-29 16:53 UTC]** Só um dos 15 aliados que estavam ao lado de Flávio no discurso após eleição reproduziu carta nas redes; maioria se calou
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/so-um-dos-15-aliados-que-estavam-ao-lado-de-flavio-no-discurso-apos-eleicao-reproduziu-carta-nas-redes-maioria-se-calou.ghtml)_
 
+- **[2026-10-29 12:06 UTC]** Valdemar diz que 'ninguém aprovou' carta de Flávio e que ele não avisou ao pai que sairia do país
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/29/valdemar-critica-carta-em-que-flavio-se-diz-lider-do-brasil-antes-de-visitar-jair-bolsonaro-nao-gostei.ghtml)_
+
