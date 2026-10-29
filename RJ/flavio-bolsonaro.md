@@ -10309,3 +10309,6 @@
 - **[2026-10-29 14:57 UTC]** Para receber Flávio, Trump recorre a modelo de acolhida humanitária que destruiu
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/para-receber-flavio-trump-recorre-a-modelo-de-acolhida-humanitaria-que-destruiu.shtml)_
 
+- **[2026-10-29 14:35 UTC]** Flávio Bolsonaro teve ajuda de Trump e do governo americano para fugir para os Estados Unidos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-teve-ajuda-de-trump-e-do-governo-americano-para-fugir-para-os-estados-unidos.shtml)_
+
