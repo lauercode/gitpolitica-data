@@ -10228,3 +10228,6 @@
 - **[2026-10-29 11:37 UTC]** Ajuda de Trump e Milei, passaporte italiano e visto humanitário: jornal detalha operação para levar Flávio aos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/jornal-detalha-operacao-levar-flavio-eua/)_
 
+- **[2026-10-29 11:20 UTC]** Tarcísio volta a cogitar Presidência após saída de Flávio do país
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tarcisio-volta-a-cogitar-presidenia-em-2030-apos-saida-de-flavio-do-pais/)_
+
