@@ -10351,3 +10351,6 @@
 - **[2026-10-29 18:16 UTC]** Jato que levou Flávio Bolsonaro aos EUA foi conseguido por funcionário da Casa Branca, diz jornal
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/jato-que-levou-flavio-bolsonaro-para-para-os-eua-foi-conseguido-por-funcionario-da-casa-branca.ghtml)_
 
+- **[2026-10-29 15:42 UTC]** Jato que levou Flávio Bolsonaro aos EUA foi providenciado por assessor de Trump, diz ‘NYT’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/jato-que-levou-flavio-bolsonaro-aos-eua-foi-providenciado-por-assessor-de-trump-diz-nyt/)_
+
