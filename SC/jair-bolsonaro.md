@@ -170,3 +170,6 @@
 - **[2026-10-28 18:46 UTC]** Moraes autoriza visita de Valdemar Costa Neto a Jair Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/moraes-autoriza-visita-de-valdemar-costa-neto-a-jair-bolsonaro/)_
 
+- **[2026-10-28 19:29 UTC]** Não há qualquer chance de anular a condenação de Jair Bolsonaro, diz Kakay
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/nao-ha-qualquer-chance-de-anular-a-condenacao-de-jair-bolsonaro-diz-kakay/)_
+
