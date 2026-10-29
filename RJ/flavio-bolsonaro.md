@@ -10204,3 +10204,6 @@
 - **[2026-10-29 10:01 UTC]** Valdemar diz que ninguém aprovou carta golpista de Flávio e que Bolsonaro não sabia de fuga do filho
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/valdemar-costa-neto-diz-que-nao-gostou-de-carta-golpista-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-29 10:00 UTC]** PT procurou partidos de centro e direita para isolar Flávio Bolsonaro após carta golpista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-procurou-partidos-de-centro-e-direita-para-isolar-flavio-bolsonaro-apos-carta-golpista.shtml)_
+
