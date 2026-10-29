@@ -10027,3 +10027,6 @@
 - **[2026-10-28 23:40 UTC]** What are the investigations into Flávio Bolsonaro, the defeated presidential candidate who fled Brazil for the US?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/28/what-are-the-investigations-into-flavio-bolsonaro-the-defeated-presidential-candidate-who-fled-brazil-for-the-us.ghtml)_
 
+- **[2026-10-28 23:00 UTC]** Petistas veem Flávio tentar sabotar relação Lula-Trump e se enfraquecer ao se proclamar presidente
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/petistas-veem-flavio-tentar-sabotar-relacao-lula-trump-e-se-enfraquecer-ao-se-proclamar-presidente.shtml)_
+
