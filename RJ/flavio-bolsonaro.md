@@ -10048,3 +10048,6 @@
 - **[2026-10-28 22:10 UTC]** Anitta faz chacota de carta divulgada por Flávio Bolsonaro: 'Venho aqui me autodeclarar sem celulite'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/anitta-faz-chacota-de-carta-divulgada-por-flavio-bolsonaro-venho-aqui-me-autodeclarar-sem-celulite.shtml)_
 
+- **[2026-10-28 22:00 UTC]** 'É incrível o estrago contra o Brasil e as suas instituições', diz leitor sobre carta golpista de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/e-incrivel-o-estrago-contra-o-brasil-e-as-suas-instituicoes-diz-leitor-sobre-carta-golpista-de-flavio-bolsonaro.shtml)_
+
