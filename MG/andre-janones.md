@@ -227,3 +227,6 @@
 - **[2026-10-29 13:00 UTC]** Janones e militância deram impulso decisivo à campanha de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-e-militancia-deram-impulso-decisivo-a-campanha-de-lula.shtml)_
 
+- **[2026-10-29 16:19 UTC]** Cotado à Esplanada,  Janones diz que pode ajudar mais o governo como deputado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/cotado-esplanada-janones-diz-que-pode-ajudar-mais-o-governo-como-deputado.ghtml)_
+
