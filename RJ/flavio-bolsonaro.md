@@ -10081,3 +10081,6 @@
 - **[2026-10-29 01:09 UTC]** Saída de Flávio Bolsonaro dos EUA pode ampliar cerco judicial contra aliados e família
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/saida-de-flavio-bolsonaro-dos-eua-pode-ampliar-cerco-judicial-contra-aliados-e-familia/)_
 
+- **[2026-10-28 23:27 UTC]** Após carta de Flávio, Nunes Marques diz que eleições ocorreram em “absoluta normalidade”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-carta-de-flavio-nunes-marques-diz-que-eleicoes-ocorreram-em-absoluta-normalidade/)_
+
