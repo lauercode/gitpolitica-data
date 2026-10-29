@@ -10108,3 +10108,6 @@
 - **[2026-10-28 20:09 UTC]** Flávio Bolsonaro confessa de Miami seus crimes contra o Estado Democrático de Direito
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/opiniao/flavio-bolsonaro-confessa-de-miami-seus-crimes-contra-o-estado-democratico-de-direito/)_
 
+- **[2026-10-28 19:58 UTC]** Nunes Marques diz que eleição transcorreu com ‘absoluta normalidade’ após carta golpista de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/nunes-marques-diz-que-eleicao-transcorreu-com-absoluta-normalidade-apos-carta-golpista-de-flavio-bolsonaro/)_
+
