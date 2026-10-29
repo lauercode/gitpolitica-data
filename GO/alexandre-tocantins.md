@@ -260,3 +260,6 @@
 - **[2026-10-29 10:44 UTC]** Detran abre leilão de 296 veículos no Tocantins com lances a partir de R$ 30
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/29/detran-abre-leilao-de-296-veiculos-no-tocantins-com-lances-a-partir-de-r-30.ghtml)_
 
+- **[2026-10-29 21:38 UTC]** Enem 2026: g1 Tocantins transmite ao vivo a Supermaratona com aulas gratuitas; veja como participar e assistir
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/29/enem-2026-g1-tocantins-transmite-ao-vivo-a-supermaratona-com-aulas-gratuitas-veja-como-participar-e-assistir.ghtml)_
+
