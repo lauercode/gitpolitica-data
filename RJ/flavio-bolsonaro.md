@@ -10240,3 +10240,6 @@
 - **[2026-10-28 14:57 UTC]** Flávio nos EUA: o que se sabe sobre saída do senador do Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-28 11:49 UTC]** Flávio Bolsonaro pode ser considerado foragido?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c875peypvy6eo?at_medium=RSS&at_campaign=rss)_
+
