@@ -539,3 +539,6 @@
 - **[2026-10-16 22:13 UTC]** Paulo Vieira diz que Globo vetou visita a Lula para 'não levantar dúvidas sobre imparcialidade'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/paulo-vieira-diz-que-globo-vetou-visita-a-lula-para-nao-levantar-duvidas-sobre-imparcialidade.shtml)_
 
+- **[2026-10-29 13:42 UTC]** Pedro Paulo de Souza inaugura exposição 'Quanta Coisa Bonita no Mundo' em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pedro-paulo-de-souza-inaugura-exposicao-quanta-coisa-bonita-no-mundo-em-sp.shtml)_
+
