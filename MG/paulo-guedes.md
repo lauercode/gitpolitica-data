@@ -17,3 +17,6 @@
 - **[2026-10-29 13:56 UTC]** PF investiga Paulo Guedes por suspeita de crime contra o sistema financeiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/pf-investiga-paulo-guedes-suspeita-crime-contra-sistema-financeiro/)_
 
+- **[2026-10-29 18:39 UTC]** Ex-ministro Paulo Guedes é investigado pela PF por suspeita de crime financeiro
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/29/ex-ministro-paulo-guedes-investigado-pela-pf-por-suspeita-de-crime-contra-o-sistema-financeiro-nacional.ghtml)_
+
