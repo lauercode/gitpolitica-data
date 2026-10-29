@@ -10198,3 +10198,6 @@
 - **[2026-10-29 12:06 UTC]** Flávio já deve se lançar candidato a presidente em 2030 para barrar Tarcísio e Michelle
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-ja-deve-se-lancar-candidato-a-presidente-em-2030-para-barrar-tarcisio-e-michelle.shtml)_
 
+- **[2026-10-29 12:00 UTC]** Indecência de Flávio Bolsonaro não é simples jogo de cena
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/bernardo-carvalho/2026/10/indecencia-de-flavio-bolsonaro-nao-e-simples-jogo-de-cena.shtml)_
+
