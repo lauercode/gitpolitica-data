@@ -10489,3 +10489,6 @@
 - **[2026-10-30 15:47 UTC]** Democratas questionam Rubio sobre ida de Flávio aos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/democratas-questionam-rubio-sobre-ida-de-flavio-aos-eua/)_
 
+- **[2026-10-30 15:22 UTC]** Trump não pretende ajudar Flávio a chegar ao poder no Brasil, diz agência
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/trump-nao-pretende-ajudar-flavio-chegar-poder-brasil-diz-agencia/)_
+
