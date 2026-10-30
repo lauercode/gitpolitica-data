@@ -10471,3 +10471,6 @@
 - **[2026-10-30 14:00 UTC]** Economista Yanis Varoufakis critica STF após derrota de Flávio e diz que Judiciário ultrapassa limites no Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/economista-yanis-varoufakis-critica-stf-apos-derrota-de-flavio-e-diz-que-judiciario-ultrapassa-limites-no-brasil.shtml)_
 
+- **[2026-10-30 13:37 UTC]** Nikolas ignora carta golpista de Flávio Bolsonaro e defende boicote a empresas de petistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-ignora-carta-golpista-de-flavio-bolsonaro-e-defende-boicote-a-empresas-de-petistas.shtml)_
+
