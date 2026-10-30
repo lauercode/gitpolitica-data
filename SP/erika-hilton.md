@@ -125,3 +125,6 @@
 - **[2026-10-28 06:00 UTC]** Erika Hilton deixará o PSOL e migrará para o PT em janeiro, afirmam correligionários
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/erika-hilton-deixara-o-psol-e-migrara-para-o-pt-em-janeiro-afirmam-correligionarios.shtml)_
 
+- **[2026-10-30 15:13 UTC]** Narrador Sérgio Maurício é condenado a indenizar Erika Hilton por transfobia na internet
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/narrador-sergio-mauricio-e-condenado-a-indenizar-erika-hilton-por-transfobia-na-internet.shtml)_
+
