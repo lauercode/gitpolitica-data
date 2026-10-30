@@ -10375,3 +10375,6 @@
 - **[2026-10-30 00:33 UTC]** Esquerda intensifica ofensiva judicial contra Flávio Bolsonaro e a direita no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/esquerda-intensifica-ofensiva-judicial-contra-flavio-bolsonaro-direita-stf/)_
 
+- **[2026-10-29 23:50 UTC]** PT diz que ajuste fiscal não pode ser em cima dos pobres, critica fuga de Flávio Bolsonaro e faz alerta sobre Trump
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/pt-diz-que-ajuste-fiscal-nao-pode-ser-em-cima-dos-pobres-critica-fuga-de-flavio-bolsonaro-e-faz-alerta-sobre-trump.ghtml)_
+
