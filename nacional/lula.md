@@ -2579,3 +2579,6 @@
 - **[2026-10-29 23:00 UTC]** Lula tenta evitar que caso Flávio Bolsonaro vire crise diplomática por ajuda de Trump em fuga
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-tenta-evitar-que-caso-flavio-bolsonaro-vire-crise-diplomatica-por-ajuda-de-trump-em-fuga.shtml)_
 
+- **[2026-10-30 10:24 UTC]** Lula quer reunião com Trump ainda neste ano e deve ignorar fuga de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-quer-reuniao-com-trump-ainda-neste-ano-e-deve-ignorar-fuga-de-flavio.shtml)_
+
