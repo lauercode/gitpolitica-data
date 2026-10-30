@@ -32,3 +32,6 @@
 - **[2026-10-30 17:18 UTC]** Em meio à seca, abastecimento de água é suspenso em comunidade rural de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/30/em-meio-a-seca-abastecimento-de-agua-e-suspenso-em-comunidade-rural-de-rio-branco.ghtml)_
 
+- **[2026-10-30 16:46 UTC]** Homem é morto com tiro na cabeça e mulher fica ferida após ataque em bairro de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/30/homem-e-morto-com-tiro-na-cabeca-e-mulher-fica-ferida-apos-ataque-em-bairro-de-rio-branco.ghtml)_
+
