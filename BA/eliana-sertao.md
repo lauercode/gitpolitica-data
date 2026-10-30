@@ -23,3 +23,6 @@
 - **[2026-10-29 10:45 UTC]** Operação investiga crimes de abuso sexual infantojuvenil na internet, no Sertão da PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/29/operacao-investiga-crimes-de-abuso-sexual-infantojuvenil-na-internet-no-sertao-da-pb.ghtml)_
 
+- **[2026-10-30 11:55 UTC]** Pai e mãe são indiciados por matar bebê com mais de 20 golpes de faca no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/30/pai-e-mae-sao-indiciados-por-matar-bebe-com-mais-de-20-golpes-de-faca-no-sertao-da-paraiba.ghtml)_
+
