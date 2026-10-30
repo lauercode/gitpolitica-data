@@ -557,3 +557,6 @@
 - **[2026-10-29 23:00 UTC]** Alcolumbre viu excesso em ordem para apreensão de passaporte de Flávio e procurou STF para reclamar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-viu-excesso-em-ordem-para-apreensao-de-passaporte-de-flavio-e-procurou-stf-para-reclamar.shtml)_
 
+- **[2026-10-29 23:00 UTC]** Direita rejeita trocar apoio a Alcolumbre por plano de perdão a Bolsonaro e prioriza redução de penas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/direita-rejeita-trocar-apoio-a-alcolumbre-por-plano-de-indulto-a-bolsonaro-e-prioriza-reducao-de-penas.shtml)_
+
