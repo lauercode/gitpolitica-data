@@ -10399,3 +10399,6 @@
 - **[2026-10-29 23:00 UTC]** Alcolumbre viu excesso em ordem para apreensão de passaporte de Flávio e procurou STF para reclamar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-viu-excesso-em-ordem-para-apreensao-de-passaporte-de-flavio-e-procurou-stf-para-reclamar.shtml)_
 
+- **[2026-10-29 23:00 UTC]** Lula tenta evitar que caso Flávio Bolsonaro vire crise diplomática por ajuda de Trump em fuga
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-tenta-evitar-que-caso-flavio-bolsonaro-vire-crise-diplomatica-por-ajuda-de-trump-em-fuga.shtml)_
+
