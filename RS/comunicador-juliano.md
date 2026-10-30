@@ -20,3 +20,6 @@
 - **[2026-09-03 17:18 UTC]** Ex-colega de aula de Henrique, da dupla com Juliano, tem pedido atendido e refaz foto antiga com o cantor
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/09/03/ex-colega-de-aula-de-henrique-da-dupla-com-juliano-tem-pedido-atendido-e-refaz-foto-antiga-com-o-cantor.ghtml)_
 
+- **[2026-10-30 12:58 UTC]** Sertanejo Henrique, da dupla com Juliano, cai de cavalo durante vaquejada
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/30/sertanejo-henrique-da-dupla-com-juliano-cai-de-cavalo-durante-competicao-de-vaquejada.ghtml)_
+
