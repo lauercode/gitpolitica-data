@@ -10393,3 +10393,6 @@
 - **[2026-10-30 06:00 UTC]** Flávio Bolsonaro nos EUA: relembre a relação de afinidade e distância entre o senador e Trump
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/30/flavio-bolsonaro-nos-eua-relembre-a-relacao-de-afinidade-e-distancia-entre-o-senador-e-trump.ghtml)_
 
+- **[2026-10-30 03:00 UTC]** Carta de Flávio Bolsonaro e fuga do Brasil geram críticas até entre aliados e movimentam direita para 2030
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/30/repercussao-carta-de-flavio-bolsonaro-e-fuga-do-brasil.ghtml)_
+
