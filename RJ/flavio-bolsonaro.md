@@ -10396,3 +10396,6 @@
 - **[2026-10-30 03:00 UTC]** Carta de Flávio Bolsonaro e fuga do Brasil geram críticas até entre aliados e movimentam direita para 2030
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/30/repercussao-carta-de-flavio-bolsonaro-e-fuga-do-brasil.ghtml)_
 
+- **[2026-10-29 23:00 UTC]** Alcolumbre viu excesso em ordem para apreensão de passaporte de Flávio e procurou STF para reclamar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-viu-excesso-em-ordem-para-apreensao-de-passaporte-de-flavio-e-procurou-stf-para-reclamar.shtml)_
+
