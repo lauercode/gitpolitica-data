@@ -560,3 +560,6 @@
 - **[2026-10-29 23:00 UTC]** Direita rejeita trocar apoio a Alcolumbre por plano de perdão a Bolsonaro e prioriza redução de penas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/direita-rejeita-trocar-apoio-a-alcolumbre-por-plano-de-indulto-a-bolsonaro-e-prioriza-reducao-de-penas.shtml)_
 
+- **[2026-10-30 12:30 UTC]** Lula planeja montar frente ampla com Alcolumbre e Motta e nova relação com base
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-planeja-montar-frente-ampla-com-alcolumbre-e-motta-e-nova-relacao-com-base.shtml)_
+
