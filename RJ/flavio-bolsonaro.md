@@ -10372,3 +10372,6 @@
 - **[2026-10-30 00:58 UTC]** Flávio Bolsonaro articula pedido de asilo político nos Estados Unidos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-pedido-de-asilo-politico-nos-estados-unidos/)_
 
+- **[2026-10-30 00:33 UTC]** Esquerda intensifica ofensiva judicial contra Flávio Bolsonaro e a direita no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/esquerda-intensifica-ofensiva-judicial-contra-flavio-bolsonaro-direita-stf/)_
+
