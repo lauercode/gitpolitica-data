@@ -149,3 +149,6 @@
 - **[2026-10-30 14:28 UTC]** Ministro da Espanha descarta renúncia após 2° grande acidente sob sua gestão
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/30/ministro-da-espanha-descarta-renncia-aps-2-grande-acidente-sob-sua-gesto.ghtml)_
 
+- **[2026-10-30 09:46 UTC]** PIB da Espanha cresce 0,6% no 3º trimestre
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/30/pib-da-espanha-cresce-06percent-no-3o-trimestre.ghtml)_
+
