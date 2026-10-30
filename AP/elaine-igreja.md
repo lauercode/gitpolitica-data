@@ -32,3 +32,6 @@
 - **[2026-10-27 16:19 UTC]** Papa Leão 14 se reunirá com vítimas de abusos da Igreja em viagem à América do Sul
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/papa-leao-14-se-reunira-com-vitimas-de-abusos-da-igreja-em-viagem-a-america-do-sul.shtml)_
 
+- **[2026-10-30 15:00 UTC]** Lav Diaz examina com estética sóbria embate entre filipinos e Igreja
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/lav-diaz-examina-com-estetica-sobria-embate-entre-filipinos-e-igreja.shtml)_
+
