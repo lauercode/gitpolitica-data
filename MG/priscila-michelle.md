@@ -74,3 +74,6 @@
 - **[2026-10-30 17:57 UTC]** Bolsonaro defende união e rejeita busca por culpados pela derrota de Flávio, diz Michelle
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bolsonaro-defende-uniao-e-rejeita-busca-por-culpados-pela-derrota-de-flavio-diz-michelle/)_
 
+- **[2026-10-30 18:38 UTC]** Michelle chama Jair Bolsonaro de 'líder' e diz que ex-presidente pede união, não busca por culpados
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/30/michelle-chama-jair-bolsonaro-de-lder-e-diz-que-ex-presidente-pede-unio-no-busca-por-culpados.ghtml)_
+
