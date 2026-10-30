@@ -103,3 +103,6 @@
 - **[2026-10-28 21:16 UTC]** Rogério Marinho contradiz Flávio Bolsonaro e diz que não há provas de fraude eleitoral
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/rogerio-marinho-contradiz-flavio-bolsonaro-e-diz-que-nao-ha-provas-de-fraude-eleitoral/)_
 
+- **[2026-10-30 02:49 UTC]** Defesa de Bolsonaro pede autorização para visita de Rogério Marinho
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-bolsonaro-pede-autorizacao-para-visita-de-rogerio-marinho/)_
+
