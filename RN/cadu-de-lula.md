@@ -215,3 +215,6 @@
 - **[2026-10-26 19:58 UTC]** Governador eleito do Pará, Daniel Santos parabeniza Lula e Alckmin por reeleição
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/governador-eleito-do-para-daniel-santos-parabeniza-lula-e-alckmin-por-reeleicao.ghtml)_
 
+- **[2026-10-30 09:58 UTC]** Petista 'liberal'? Como governador Rafael Fonteles entrou no radar de Lula para comandar a economia do Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx1l37yrndmro?at_medium=RSS&at_campaign=rss)_
+
