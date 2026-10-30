@@ -26,3 +26,6 @@
 - **[2026-10-30 14:55 UTC]** Jovem morre e irmão de 12 anos fica ferido após colisão entre moto e carro em Rio Branco; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/30/jovem-morre-e-irmao-fica-ferido-apos-colisao-entre-moto-e-carro-em-rio-branco.ghtml)_
 
+- **[2026-10-30 11:00 UTC]** Cesta básica ultrapassa R$ 600 em Rio Branco com alta puxada pelo preço do tomate
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/30/cesta-basica-ultrapassa-r-600-em-rio-branco-com-alta-puxada-pelo-preco-do-tomate.ghtml)_
+
