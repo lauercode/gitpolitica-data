@@ -10384,3 +10384,6 @@
 - **[2026-10-29 19:31 UTC]** Cármen Lúcia vai relatar ação de André Janones contra Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/carmen-lucia-vai-relatar-acao-de-andre-janones-contra-flavio-bolsonaro/)_
 
+- **[2026-10-29 19:05 UTC]** Justiça da Argentina manda governo Milei preservar imagens de fuga de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/justica-da-argentina-manda-governo-milei-preservar-imagens-de-fuga-de-flavio-bolsonaro/)_
+
