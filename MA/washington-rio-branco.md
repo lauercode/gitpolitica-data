@@ -23,3 +23,6 @@
 - **[2026-10-29 16:23 UTC]** Ação em alusão à campanha 'Outubro Rosa' promove atendimentos de saúde e cidadania em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/29/acao-em-alusao-a-campanha-outubro-rosa-promove-atendimentos-de-saude-e-cidadania-em-rio-branco.ghtml)_
 
+- **[2026-10-30 14:55 UTC]** Jovem morre e irmão de 12 anos fica ferido após colisão entre moto e carro em Rio Branco; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/30/jovem-morre-e-irmao-fica-ferido-apos-colisao-entre-moto-e-carro-em-rio-branco.ghtml)_
+
