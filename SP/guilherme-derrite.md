@@ -110,3 +110,6 @@
 - **[2026-10-28 18:04 UTC]** Flávio esteve com Tarcísio e Derrite antes de deixar o país e não mencionou plano, diz advogado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-esteve-com-tarcisio-e-derrite-na-vespera-e-nao-mencionou-saida-do-pais-diz-advogado/)_
 
+- **[2026-10-29 22:18 UTC]** Derrite contraria PP e rejeita apoio à reeleição de Alcolumbre no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/derrite-contraria-pp-e-rejeita-apoio-a-reeleicao-de-alcolumbre-no-senado/)_
+
