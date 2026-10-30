@@ -10423,3 +10423,6 @@
 - **[2026-10-30 10:24 UTC]** Lula quer reunião com Trump ainda neste ano e deve ignorar fuga de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-quer-reuniao-com-trump-ainda-neste-ano-e-deve-ignorar-fuga-de-flavio.shtml)_
 
+- **[2026-10-30 10:10 UTC]** Voo de fuga de Flávio Bolsonaro foi pago por intermediário a partir dos EUA, diz dono do jato
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/voo-de-fuga-de-flavio-bolsonaro-foi-pago-por-intermediario-a-partir-dos-eua-diz-dono-do-jato.shtml)_
+
