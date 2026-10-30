@@ -10444,3 +10444,6 @@
 - **[2026-10-29 13:32 UTC]** Carta de Flávio: quem são Rui Barbosa, de Gaulle, Guaidó e outros líderes da América Latina citados
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-30 12:52 UTC]** Trump não planeja apoiar alegação de Flávio Bolsonaro sobre ser ‘líder do Brasil’, dizem fontes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/trump-no-planeja-apoiar-alegao-de-flvio-bolsonaro-sobre-ser-lder-do-brasil-dizem-fontes.ghtml)_
+
