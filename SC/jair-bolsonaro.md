@@ -182,3 +182,6 @@
 - **[2026-10-29 21:34 UTC]** Rui Costa questiona articulação a favor de Alcolumbre que prevê anistia ou indulto a Jair Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/29/rui-costa-articulacao-alcolumbre-senado-anistia-indulto-jair-bolsonaro.ghtml)_
 
+- **[2026-10-30 14:00 UTC]** Michelle defende Tarcísio contra ataques de aliados de Flávio e diz que Jair Bolsonaro é grato a ele
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/michelle-bolsonaro-defende-tarcisio-contra-ataques-de-aliados-de-flavio.shtml)_
+
