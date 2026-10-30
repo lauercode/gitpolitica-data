@@ -41,3 +41,6 @@
 - **[2026-10-29 17:00 UTC]** Ministro da Saúde de Lula encontra Lottenberg, médico 'indicado' por Flávio para o seu lugar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ministro-da-saude-de-lula-encontra-lottenberg-medico-indicado-por-flavio-para-o-seu-lugar.shtml)_
 
+- **[2026-10-30 12:01 UTC]** Novas regras do Ministério da Saúde aumentam possibilidades de doação
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-10/novas-regras-do-ministerio-da-saude-aumentam-possibilidades-de-doacao)_
+
