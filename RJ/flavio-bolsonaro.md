@@ -10408,3 +10408,6 @@
 - **[2026-10-30 08:00 UTC]** Governo dos EUA auxiliou Flávio em sua fuga
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/30/governo-dos-eua-auxiliou-flavio-em-sua-fuga.ghtml)_
 
+- **[2026-10-30 11:09 UTC]** Governo Lula não quer transformar em crise ajuda da Casa Branca para fuga de Flávio Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/30/governo-lula-nao-quer-transformar-em-crise-ajuda-da-casa-branca-para-fuga-de-flavio-bolsonaro.ghtml)_
+
