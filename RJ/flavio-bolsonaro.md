@@ -10390,3 +10390,6 @@
 - **[2026-10-29 18:25 UTC]** Advogados pedem à PF investigação sobre uso de brasão do Brasil em carta de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/advogados-pedem-a-pf-investigacao-sobre-uso-de-brasao-do-brasil-em-carta-de-flavio-bolsonaro/)_
 
+- **[2026-10-30 06:00 UTC]** Flávio Bolsonaro nos EUA: relembre a relação de afinidade e distância entre o senador e Trump
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/10/30/flavio-bolsonaro-nos-eua-relembre-a-relacao-de-afinidade-e-distancia-entre-o-senador-e-trump.ghtml)_
+
