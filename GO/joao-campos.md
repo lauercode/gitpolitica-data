@@ -116,3 +116,6 @@
 - **[2026-10-05 08:00 UTC]** Raquel Lyra vence João Campos e é reeleita em Pernambuco
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/raquel-lyra-vence-joao-campos-e-e-reeleita-em-pernambuco.ghtml)_
 
+- **[2026-10-30 08:00 UTC]** PSB negocia espaço no ministério para João Campos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/psb-negocia-espaco-no-ministerio-para-joao-campos.ghtml)_
+
