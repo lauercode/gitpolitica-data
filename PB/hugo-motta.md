@@ -77,3 +77,6 @@
 - **[2026-10-27 21:03 UTC]** Bancada do PT deve declarar apoio à recondução de Hugo Motta para presidência da Câmara
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/27/bancada-do-pt-deve-declarar-apoio-a-reconducao-de-hugo-motta-para-presidencia-da-camara.ghtml)_
 
+- **[2026-10-30 11:43 UTC]** Hugo Motta quer votar sistema distrital misto ainda neste ano
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/30/hugo-motta-quer-votar-sistema-distrital-misto-ainda-neste-ano.ghtml)_
+
