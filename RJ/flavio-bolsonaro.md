@@ -10465,3 +10465,6 @@
 - **[2026-10-30 14:54 UTC]** Trump usa governo de forma 'flagrante' e 'indevida' para proteger Flávio Bolsonaro, diz senadora democrata à Folha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/trump-usa-governo-de-forma-flagrante-e-indevida-para-proteger-flavio-bolsonaro-diz-senadora-democrata-a-folha.shtml)_
 
+- **[2026-10-30 14:00 UTC]** Michelle defende Tarcísio contra ataques de aliados de Flávio e diz que Jair Bolsonaro é grato a ele
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/michelle-bolsonaro-defende-tarcisio-contra-ataques-de-aliados-de-flavio.shtml)_
+
