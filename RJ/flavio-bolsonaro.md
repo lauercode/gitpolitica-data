@@ -10438,3 +10438,6 @@
 - **[2026-10-30 11:21 UTC]** Senador do PL evita projetar substituto a Flávio, mas chama Tarcísio de “líder inconteste”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senador-do-pl-evita-projetar-substituto-a-flavio-mas-chama-tarcisio-de-lider-inconteste/)_
 
+- **[2026-10-30 11:02 UTC]** Impasse na direita: como carta de Flávio colocou aliados em xeque
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/impasse-na-direita-como-carta-de-flavio-colocou-aliados-em-xeque/)_
+
