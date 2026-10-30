@@ -2576,3 +2576,6 @@
 - **[2026-10-29 21:30 UTC]** Lula não vai procurar Trump e diplomatas dizem que Flávio é 'página virada'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-nao-vai-procurar-trump-e-diplomatas-dizem-que-flavio-e-pagina-virada.shtml)_
 
+- **[2026-10-29 23:00 UTC]** Lula tenta evitar que caso Flávio Bolsonaro vire crise diplomática por ajuda de Trump em fuga
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-tenta-evitar-que-caso-flavio-bolsonaro-vire-crise-diplomatica-por-ajuda-de-trump-em-fuga.shtml)_
+
