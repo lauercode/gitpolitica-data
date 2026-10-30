@@ -10480,3 +10480,6 @@
 - **[2026-10-30 12:43 UTC]** Assessor de Trump que ajudou Flávio a fugir viu apuração das eleições ao lado de Eduardo Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/assessor-de-trump-que-ajudou-flavio-a-fugir-viu-apuracao-das-eleicoes-ao-lado-de-eduardo-bolsonaro.shtml)_
 
+- **[2026-10-30 19:43 UTC]** Itamaraty cobra explicações da Argentina sobre passagem de Flávio pelo país vizinho rumo aos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/itamaraty-cobra-explicacoes-da-argentina-sobre-passagem-de-flavio-pelo-pais-vizinho-rumo-aos-eua/)_
+
