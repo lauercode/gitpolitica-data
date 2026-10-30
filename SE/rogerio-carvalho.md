@@ -41,3 +41,6 @@
 - **[2026-10-06 17:27 UTC]** Resultado das eleições 2026 em Simão Dias (SE): votação para presidente na Escola Mun. Des. Gervasio de Carvalho Prata, na 22ª zona eleitoral
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-simao-dias-se-votacao-para-presidente-na-escola-mun-des-gervasio-de-carvalho-prata-na-22a-zona-eleitoral.ghtml)_
 
+- **[2026-10-30 14:27 UTC]** Senador reeleito Rogério Carvalho fala sobre prioridades para Sergipe no novo governo Lula
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/30/senador-reeleito-rogerio-carvalho-fala-sobre-prioridades-para-sergipe-no-novo-governo-lula.ghtml)_
+
