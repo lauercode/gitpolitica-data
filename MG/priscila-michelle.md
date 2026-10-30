@@ -65,3 +65,6 @@
 - **[2026-10-29 20:05 UTC]** Michelle chega ao Congresso como força política do clã Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/michelle-chega-ao-congresso-como-forca-politica-cla-bolsonaro/)_
 
+- **[2026-10-30 18:40 UTC]** Após críticas de aliados, Michelle diz que Bolsonaro pediu para direita se unir e não buscar culpados
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/apos-criticas-michelle-bolsonaro-faz-agradecimento-a-politicos-que-atuaram-na-campanha-de-flavio.ghtml)_
+
