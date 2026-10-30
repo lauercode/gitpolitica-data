@@ -10447,3 +10447,6 @@
 - **[2026-10-30 12:52 UTC]** Trump não planeja apoiar alegação de Flávio Bolsonaro sobre ser ‘líder do Brasil’, dizem fontes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/trump-no-planeja-apoiar-alegao-de-flvio-bolsonaro-sobre-ser-lder-do-brasil-dizem-fontes.ghtml)_
 
+- **[2026-10-30 11:16 UTC]** Deputados nos EUA cobram explicação de Rubio sobre a fuga de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/deputados-nos-eua-cobram-explicacao-de-rubio-sobre-a-fuga-de-flavio-bolsonaro/)_
+
