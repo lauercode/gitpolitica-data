@@ -10498,3 +10498,6 @@
 - **[2026-10-30 18:01 UTC]** Com baixo interesse do governo por cassação, Flávio deve concluir o mandato de senador
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/com-baixo-interesse-do-governo-por-cassacao-flavio-deve-concluir-o-mandato-de-senador.ghtml)_
 
+- **[2026-10-30 16:44 UTC]** Democratas cobram governo Trump sobre suposta ajuda à fuga de Flávio Bolsonaro para os EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/deputados-democratas-cobram-rubio-sobre-suposta-ajuda-do-governo-dos-eua-a-fuga-de-flavio.ghtml)_
+
