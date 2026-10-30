@@ -10462,3 +10462,6 @@
 - **[2026-10-30 15:46 UTC]** Itamaraty convoca diplomata de Milei após fuga de Flávio pela Argentina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/itamaraty-convoca-diplomata-de-milei-apos-fuga-de-flavio-pela-argentina.shtml)_
 
+- **[2026-10-30 14:54 UTC]** Trump usa governo de forma 'flagrante' e 'indevida' para proteger Flávio Bolsonaro, diz senadora democrata à Folha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/trump-usa-governo-de-forma-flagrante-e-indevida-para-proteger-flavio-bolsonaro-diz-senadora-democrata-a-folha.shtml)_
+
