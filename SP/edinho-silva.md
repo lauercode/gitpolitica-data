@@ -20,3 +20,6 @@
 - **[2026-10-16 16:11 UTC]** Edinho Silva diz que há espaço para negociar com setores que possam ser afetados pelo fim da escala 6X1
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/16/edinho-silva-diz-que-h-espao-para-negociar-com-setores-que-possam-ser-afetados-pelo-fim-da-escala-6x1.ghtml)_
 
+- **[2026-10-30 15:30 UTC]** Edinho Silva admite erro do PT após 2022 e promete “mudanças profundas” no partido
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/edinho-silva-admite-erro-pt-2022-promete-mudancas-profundas/)_
+
