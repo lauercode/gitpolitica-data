@@ -10387,3 +10387,6 @@
 - **[2026-10-29 19:05 UTC]** Justiça da Argentina manda governo Milei preservar imagens de fuga de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/justica-da-argentina-manda-governo-milei-preservar-imagens-de-fuga-de-flavio-bolsonaro/)_
 
+- **[2026-10-29 18:25 UTC]** Advogados pedem à PF investigação sobre uso de brasão do Brasil em carta de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/advogados-pedem-a-pf-investigacao-sobre-uso-de-brasao-do-brasil-em-carta-de-flavio-bolsonaro/)_
+
