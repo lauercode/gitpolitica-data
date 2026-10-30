@@ -185,3 +185,6 @@
 - **[2026-10-30 14:00 UTC]** Michelle defende Tarcísio contra ataques de aliados de Flávio e diz que Jair Bolsonaro é grato a ele
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/michelle-bolsonaro-defende-tarcisio-contra-ataques-de-aliados-de-flavio.shtml)_
 
+- **[2026-10-30 18:38 UTC]** Michelle chama Jair Bolsonaro de 'líder' e diz que ex-presidente pede união, não busca por culpados
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/30/michelle-chama-jair-bolsonaro-de-lder-e-diz-que-ex-presidente-pede-unio-no-busca-por-culpados.ghtml)_
+
