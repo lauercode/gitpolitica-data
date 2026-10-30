@@ -10429,3 +10429,6 @@
 - **[2026-10-30 14:38 UTC]** Após investida de Moraes contra Flávio, oposição busca unidade para liderar Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/apos-investida-de-moraes-contra-flavio-oposicao-busca-unidade-para-liderar-senado/)_
 
+- **[2026-10-30 12:03 UTC]** Voo que levou Flávio a Miami custou US$ 150 mil, diz dono da empresa
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/voo-que-levou-flavio-a-miami-custou-150-mil-diz-dono-da-empresa/)_
+
