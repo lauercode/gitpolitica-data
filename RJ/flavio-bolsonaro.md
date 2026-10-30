@@ -10474,3 +10474,6 @@
 - **[2026-10-30 13:37 UTC]** Nikolas ignora carta golpista de Flávio Bolsonaro e defende boicote a empresas de petistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-ignora-carta-golpista-de-flavio-bolsonaro-e-defende-boicote-a-empresas-de-petistas.shtml)_
 
+- **[2026-10-30 13:22 UTC]** Apoiadores de Flávio pedem no Instagram de Trump intervenção no Brasil e captura de Lula, aponta estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/apoiadores-de-flavio-pedem-intervencao-no-brasil-e-captura-de-lula-no-instagram-de-trump-aponta-estudo.shtml)_
+
