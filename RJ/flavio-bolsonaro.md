@@ -10366,3 +10366,6 @@
 - **[2026-10-29 19:34 UTC]** Chefe de gabinete de Milei defende atuação da Argentina na fuga de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/chefe-de-gabinete-de-milei-defende-atuacao-da-argentina-na-fuga-de-flavio.shtml)_
 
+- **[2026-10-29 16:53 UTC]** Brasil quer preservar negociação comercial com EUA mesmo após fuga de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/brasil-quer-preservar-negociacao-comercial-com-eua-apos-chegada-de-flavio-bolsonaro.shtml)_
+
