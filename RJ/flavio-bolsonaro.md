@@ -10378,3 +10378,6 @@
 - **[2026-10-29 23:50 UTC]** PT diz que ajuste fiscal não pode ser em cima dos pobres, critica fuga de Flávio Bolsonaro e faz alerta sobre Trump
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/pt-diz-que-ajuste-fiscal-nao-pode-ser-em-cima-dos-pobres-critica-fuga-de-flavio-bolsonaro-e-faz-alerta-sobre-trump.ghtml)_
 
+- **[2026-10-29 20:58 UTC]** Voo da fuga de Flávio Bolsonaro foi pago por intermediário a partir dos EUA
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/voo-da-fuga-de-flavio-bolsonaro-foi-pago-por-intermediario-a-partir-dos-eua/)_
+
