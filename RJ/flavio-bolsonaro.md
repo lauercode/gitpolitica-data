@@ -10405,3 +10405,6 @@
 - **[2026-10-30 08:00 UTC]** Vácuo deixado por Flávio acirra disputa por liderança da direita
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/vacuo-deixado-por-flavio-acirra-disputa-por-lideranca-da-direita.ghtml)_
 
+- **[2026-10-30 08:00 UTC]** Governo dos EUA auxiliou Flávio em sua fuga
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/10/30/governo-dos-eua-auxiliou-flavio-em-sua-fuga.ghtml)_
+
