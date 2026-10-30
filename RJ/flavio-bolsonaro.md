@@ -10441,3 +10441,6 @@
 - **[2026-10-30 11:02 UTC]** Impasse na direita: como carta de Flávio colocou aliados em xeque
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/impasse-na-direita-como-carta-de-flavio-colocou-aliados-em-xeque/)_
 
+- **[2026-10-29 13:32 UTC]** Carta de Flávio: quem são Rui Barbosa, de Gaulle, Guaidó e outros líderes da América Latina citados
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss)_
+
