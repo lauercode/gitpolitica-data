@@ -10420,3 +10420,6 @@
 - **[2026-10-30 10:55 UTC]** Deputados dos EUA cobram explicações de Rubio sobre ajuda a Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/deputados-dos-eua-cobram-explicacoes-de-rubio-sobre-ajuda-a-flavio-bolsonaro.shtml)_
 
+- **[2026-10-30 10:24 UTC]** Lula quer reunião com Trump ainda neste ano e deve ignorar fuga de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-quer-reuniao-com-trump-ainda-neste-ano-e-deve-ignorar-fuga-de-flavio.shtml)_
+
