@@ -245,3 +245,6 @@
 - **[2026-10-29 22:44 UTC]** Janones: de cobrador de ônibus a estrategista digital número 1 da esquerda brasileira
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/watch/cw1l325g5lyqo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-29 19:31 UTC]** Cármen Lúcia vai relatar ação de André Janones contra Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/carmen-lucia-vai-relatar-acao-de-andre-janones-contra-flavio-bolsonaro/)_
+
