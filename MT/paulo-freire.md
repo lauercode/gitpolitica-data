@@ -59,3 +59,6 @@
 - **[2026-10-27 13:13 UTC]** RN reconhece experiência de Paulo Freire em Angicos como patrimônio cultural imaterial
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/27/rn-reconhece-experiencia-de-paulo-freire-em-angicos-como-patrimonio-cultural-imaterial.ghtml)_
 
+- **[2026-10-30 08:00 UTC]** RN reconhece ação de Paulo Freire como patrimônio cultural imaterial
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-10/rn-reconhece-acao-de-paulo-freire-como-patrimonio-cultural-imaterial)_
+
