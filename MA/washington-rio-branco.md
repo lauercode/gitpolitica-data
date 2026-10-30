@@ -35,3 +35,6 @@
 - **[2026-10-30 16:46 UTC]** Homem é morto com tiro na cabeça e mulher fica ferida após ataque em bairro de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/30/homem-e-morto-com-tiro-na-cabeca-e-mulher-fica-ferida-apos-ataque-em-bairro-de-rio-branco.ghtml)_
 
+- **[2026-10-30 15:27 UTC]** Materiais fabricados para facilitar fuga são apreendidos em presídio de Rio Branco; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/30/materiais-fabricados-para-facilitar-fuga-sao-apreendidos-em-presidio-de-rio-branco.ghtml)_
+
