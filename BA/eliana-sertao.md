@@ -26,3 +26,6 @@
 - **[2026-10-30 11:55 UTC]** Pai e mãe são indiciados por matar bebê com mais de 20 golpes de faca no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/30/pai-e-mae-sao-indiciados-por-matar-bebe-com-mais-de-20-golpes-de-faca-no-sertao-da-paraiba.ghtml)_
 
+- **[2026-10-30 10:54 UTC]** Suspeitos são presos após assalto a loja de importados que causou prejuízo de R$ 70 mil no Sertão da PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/30/suspeitos-sao-presos-apos-assalto-a-loja-de-importados-que-causou-prejuizo-de-r-70-mil-no-sertao-da-pb.ghtml)_
+
