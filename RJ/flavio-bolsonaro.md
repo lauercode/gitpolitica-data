@@ -10486,3 +10486,6 @@
 - **[2026-10-30 17:57 UTC]** Bolsonaro defende união e rejeita busca por culpados pela derrota de Flávio, diz Michelle
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bolsonaro-defende-uniao-e-rejeita-busca-por-culpados-pela-derrota-de-flavio-diz-michelle/)_
 
+- **[2026-10-30 15:47 UTC]** Democratas questionam Rubio sobre ida de Flávio aos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/democratas-questionam-rubio-sobre-ida-de-flavio-aos-eua/)_
+
