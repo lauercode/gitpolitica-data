@@ -26,3 +26,6 @@
 - **[2026-10-27 16:03 UTC]** Show de Roberto Carlos anuncia novos ingressos solidários a partir de R$ 75 no Acre; saiba como adquirir
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/27/show-de-roberto-carlos-anuncia-novos-ingressos-solidarios-a-partir-de-r-75-no-acre-saiba-como-adquirir.ghtml)_
 
+- **[2026-10-30 15:38 UTC]** Globo define convidados do especial de Roberto Carlos; Maria Bethânia e Daniel participam
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-define-convidados-do-especial-de-roberto-carlos-maria-bethania-e-daniel-participam.shtml)_
+
