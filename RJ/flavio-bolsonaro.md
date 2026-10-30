@@ -10504,3 +10504,6 @@
 - **[2026-10-30 16:29 UTC]** Governo Tarcísio exonera servidora que criticou fala capacitista de Flávio Bolsonaro a Lula
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/governo-tarcisio-exonera-servidora-que-criticou-fala-capacitista-de-flavio-bolsonaro-a-lula/)_
 
+- **[2026-10-30 14:57 UTC]** Itamaraty convoca diplomata argentina, mas evita transformar fuga de Flávio Bolsonaro em crise com Milei
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/itamaraty-convoca-diplomata-argentina-mas-evita-transformar-fuga-de-flavio-bolsonaro-em-crise-com-milei/)_
+
