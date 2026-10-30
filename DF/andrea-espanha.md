@@ -146,3 +146,6 @@
 - **[2026-10-30 10:13 UTC]** Trem que colidiu na Espanha trafegava entre 160 e 200 km/h, diz relatório preliminar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/trem-que-colidiu-na-espanha-trafegava-entre-160-e-200-kmh-diz-relatorio-preliminar.shtml)_
 
+- **[2026-10-30 14:28 UTC]** Ministro da Espanha descarta renúncia após 2° grande acidente sob sua gestão
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/30/ministro-da-espanha-descarta-renncia-aps-2-grande-acidente-sob-sua-gesto.ghtml)_
+
