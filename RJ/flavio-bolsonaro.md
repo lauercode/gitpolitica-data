@@ -10492,3 +10492,6 @@
 - **[2026-10-30 15:22 UTC]** Trump não pretende ajudar Flávio a chegar ao poder no Brasil, diz agência
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/trump-nao-pretende-ajudar-flavio-chegar-poder-brasil-diz-agencia/)_
 
+- **[2026-10-30 19:30 UTC]** Dono de avião usado na fuga de Flávio Bolsonaro afirma que voo foi pago a partir dos EUA, diz agência
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/dono-de-avio-usado-na-fuga-de-flvio-bolsonaro-afirma-que-voo-foi-pago-a-partir-dos-eua-diz-agncia.ghtml)_
+
