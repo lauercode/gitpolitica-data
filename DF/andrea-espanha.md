@@ -155,3 +155,6 @@
 - **[2026-10-30 09:44 UTC]** Preços ao consumidores da Espanha se mantêm em 4,5% ao ano em outubro
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/30/precos-ao-consumidores-da-espanha-se-mantem-em-45percent-ao-ano-em-outubro.ghtml)_
 
+- **[2026-10-30 17:00 UTC]** Santander irá levar brasileiros para curso gratuito de IA na Espanha
+  _fonte: [Valor Econômico](https://valor.globo.com/carreira/empregos-oportunidades/post/2026/10/santander-ira-levar-brasileiros-para-curso-gratuito-de-ia-na-espanha.ghtml)_
+
