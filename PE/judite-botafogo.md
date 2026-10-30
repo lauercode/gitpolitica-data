@@ -17,3 +17,6 @@
 - **[2026-10-29 06:45 UTC]** Remo volta a vencer após 12 jogos e complica Botafogo no Brasileirão
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/remo-volta-vencer-apos-12-jogos-e-complica-botafogo-no-brasileirao)_
 
+- **[2026-10-30 16:10 UTC]** Mortes: Roadie dedicou três décadas ao Barão Vermelho e vibrou pelo Botafogo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mortes-roadie-dedicou-tres-decadas-ao-barao-vermelho-e-vibrou-pelo-botafogo.shtml)_
+
