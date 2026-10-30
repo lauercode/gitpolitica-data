@@ -10495,3 +10495,6 @@
 - **[2026-10-30 19:30 UTC]** Dono de avião usado na fuga de Flávio Bolsonaro afirma que voo foi pago a partir dos EUA, diz agência
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/dono-de-avio-usado-na-fuga-de-flvio-bolsonaro-afirma-que-voo-foi-pago-a-partir-dos-eua-diz-agncia.ghtml)_
 
+- **[2026-10-30 18:01 UTC]** Com baixo interesse do governo por cassação, Flávio deve concluir o mandato de senador
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/com-baixo-interesse-do-governo-por-cassacao-flavio-deve-concluir-o-mandato-de-senador.ghtml)_
+
