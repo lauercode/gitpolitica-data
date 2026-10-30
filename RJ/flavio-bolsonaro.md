@@ -10435,3 +10435,6 @@
 - **[2026-10-30 11:45 UTC]** Jornal dos EUA diz que caso Flávio expõe preocupações sobre Estado de Direito no Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/jornal-eua-diz-caso-flavio-expoe-preocupacoes-estado-direito-brasil/)_
 
+- **[2026-10-30 11:21 UTC]** Senador do PL evita projetar substituto a Flávio, mas chama Tarcísio de “líder inconteste”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senador-do-pl-evita-projetar-substituto-a-flavio-mas-chama-tarcisio-de-lider-inconteste/)_
+
