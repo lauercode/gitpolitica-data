@@ -10369,3 +10369,6 @@
 - **[2026-10-29 16:53 UTC]** Brasil quer preservar negociação comercial com EUA mesmo após fuga de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/brasil-quer-preservar-negociacao-comercial-com-eua-apos-chegada-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-30 00:58 UTC]** Flávio Bolsonaro articula pedido de asilo político nos Estados Unidos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-pedido-de-asilo-politico-nos-estados-unidos/)_
+
