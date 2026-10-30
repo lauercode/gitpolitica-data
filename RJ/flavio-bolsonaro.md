@@ -10468,3 +10468,6 @@
 - **[2026-10-30 14:00 UTC]** Michelle defende Tarcísio contra ataques de aliados de Flávio e diz que Jair Bolsonaro é grato a ele
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/michelle-bolsonaro-defende-tarcisio-contra-ataques-de-aliados-de-flavio.shtml)_
 
+- **[2026-10-30 14:00 UTC]** Economista Yanis Varoufakis critica STF após derrota de Flávio e diz que Judiciário ultrapassa limites no Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/economista-yanis-varoufakis-critica-stf-apos-derrota-de-flavio-e-diz-que-judiciario-ultrapassa-limites-no-brasil.shtml)_
+
