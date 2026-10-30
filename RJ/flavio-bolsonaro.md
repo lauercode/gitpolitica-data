@@ -10432,3 +10432,6 @@
 - **[2026-10-30 12:03 UTC]** Voo que levou Flávio a Miami custou US$ 150 mil, diz dono da empresa
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/voo-que-levou-flavio-a-miami-custou-150-mil-diz-dono-da-empresa/)_
 
+- **[2026-10-30 11:45 UTC]** Jornal dos EUA diz que caso Flávio expõe preocupações sobre Estado de Direito no Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/jornal-eua-diz-caso-flavio-expoe-preocupacoes-estado-direito-brasil/)_
+
