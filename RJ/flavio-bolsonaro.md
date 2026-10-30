@@ -10411,3 +10411,6 @@
 - **[2026-10-30 11:09 UTC]** Governo Lula não quer transformar em crise ajuda da Casa Branca para fuga de Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/30/governo-lula-nao-quer-transformar-em-crise-ajuda-da-casa-branca-para-fuga-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-30 10:55 UTC]** Ao se radicalizar, Flávio Bolsonaro se isola e perde apoio até de aliados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/30/flavio-bolsonaro-se-isola-e-perde-apoio-ate-de-aliados.ghtml)_
+
