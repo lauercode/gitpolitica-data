@@ -248,3 +248,6 @@
 - **[2026-10-29 19:31 UTC]** Cármen Lúcia vai relatar ação de André Janones contra Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/carmen-lucia-vai-relatar-acao-de-andre-janones-contra-flavio-bolsonaro/)_
 
+- **[2026-10-30 06:00 UTC]** Janones será homenageado na festa do Prerrô, grupo jurídico que apoia Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/janones-sera-homenageado-na-festa-do-prerro-grupo-juridico-que-apoia-lula.shtml)_
+
