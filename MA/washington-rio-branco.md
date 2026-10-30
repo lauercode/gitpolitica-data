@@ -29,3 +29,6 @@
 - **[2026-10-30 11:00 UTC]** Cesta básica ultrapassa R$ 600 em Rio Branco com alta puxada pelo preço do tomate
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/30/cesta-basica-ultrapassa-r-600-em-rio-branco-com-alta-puxada-pelo-preco-do-tomate.ghtml)_
 
+- **[2026-10-30 17:18 UTC]** Em meio à seca, abastecimento de água é suspenso em comunidade rural de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/30/em-meio-a-seca-abastecimento-de-agua-e-suspenso-em-comunidade-rural-de-rio-branco.ghtml)_
+
