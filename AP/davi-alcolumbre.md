@@ -548,3 +548,6 @@
 - **[2026-10-29 10:53 UTC]** Alcolumbre articula acordo para conter impeachment de ministros do STF e admite discutir indulto e anistia a Bolsonaro em busca da reeleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/29/alcolumbre-acordo-indulto-bolsonaro.ghtml)_
 
+- **[2026-10-29 22:18 UTC]** Derrite contraria PP e rejeita apoio à reeleição de Alcolumbre no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/derrite-contraria-pp-e-rejeita-apoio-a-reeleicao-de-alcolumbre-no-senado/)_
+
