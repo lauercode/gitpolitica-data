@@ -10501,3 +10501,6 @@
 - **[2026-10-30 16:44 UTC]** Democratas cobram governo Trump sobre suposta ajuda à fuga de Flávio Bolsonaro para os EUA
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/deputados-democratas-cobram-rubio-sobre-suposta-ajuda-do-governo-dos-eua-a-fuga-de-flavio.ghtml)_
 
+- **[2026-10-30 16:29 UTC]** Governo Tarcísio exonera servidora que criticou fala capacitista de Flávio Bolsonaro a Lula
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/governo-tarcisio-exonera-servidora-que-criticou-fala-capacitista-de-flavio-bolsonaro-a-lula/)_
+
