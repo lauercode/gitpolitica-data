@@ -10483,3 +10483,6 @@
 - **[2026-10-30 19:43 UTC]** Itamaraty cobra explicações da Argentina sobre passagem de Flávio pelo país vizinho rumo aos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/itamaraty-cobra-explicacoes-da-argentina-sobre-passagem-de-flavio-pelo-pais-vizinho-rumo-aos-eua/)_
 
+- **[2026-10-30 17:57 UTC]** Bolsonaro defende união e rejeita busca por culpados pela derrota de Flávio, diz Michelle
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/bolsonaro-defende-uniao-e-rejeita-busca-por-culpados-pela-derrota-de-flavio-diz-michelle/)_
+
