@@ -10450,3 +10450,6 @@
 - **[2026-10-30 11:16 UTC]** Deputados nos EUA cobram explicação de Rubio sobre a fuga de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/deputados-nos-eua-cobram-explicacao-de-rubio-sobre-a-fuga-de-flavio-bolsonaro/)_
 
+- **[2026-10-30 10:46 UTC]** Painel do TSE mostra reconhecimento global à vitória de Lula e isolamento do golpismo de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/painel-do-tse-mostra-reconhecimento-global-a-vitoria-de-lula-e-isolamento-do-golpismo-de-flavio-bolsonaro/)_
+
