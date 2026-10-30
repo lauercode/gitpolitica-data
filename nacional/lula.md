@@ -2588,3 +2588,6 @@
 - **[2026-10-30 16:46 UTC]** Lula tetra, Flávio tétrico!
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/josesimao/2026/10/lula-tetra-flavio-tetrico.shtml)_
 
+- **[2026-10-30 13:22 UTC]** Apoiadores de Flávio pedem no Instagram de Trump intervenção no Brasil e captura de Lula, aponta estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/apoiadores-de-flavio-pedem-intervencao-no-brasil-e-captura-de-lula-no-instagram-de-trump-aponta-estudo.shtml)_
+
