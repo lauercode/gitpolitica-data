@@ -10453,3 +10453,6 @@
 - **[2026-10-30 10:46 UTC]** Painel do TSE mostra reconhecimento global à vitória de Lula e isolamento do golpismo de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/painel-do-tse-mostra-reconhecimento-global-a-vitoria-de-lula-e-isolamento-do-golpismo-de-flavio-bolsonaro/)_
 
+- **[2026-10-30 17:54 UTC]** Itamaraty convoca representante da Embaixada da Argentina após Flávio cruzar fronteira do Brasil com o país vizinho e fugir para EUA
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/30/itamaraty-convoca-representante-da-embaixada-da-argentina-apos-flavio-cruzar-fronteira-do-brasil-com-o-pais-vizinho-e-fugir-para-eua.ghtml)_
+
