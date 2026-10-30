@@ -2582,3 +2582,6 @@
 - **[2026-10-30 10:24 UTC]** Lula quer reunião com Trump ainda neste ano e deve ignorar fuga de Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-quer-reuniao-com-trump-ainda-neste-ano-e-deve-ignorar-fuga-de-flavio.shtml)_
 
+- **[2026-10-30 10:46 UTC]** Painel do TSE mostra reconhecimento global à vitória de Lula e isolamento do golpismo de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/painel-do-tse-mostra-reconhecimento-global-a-vitoria-de-lula-e-isolamento-do-golpismo-de-flavio-bolsonaro/)_
+
