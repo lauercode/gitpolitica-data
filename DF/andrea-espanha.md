@@ -137,3 +137,6 @@
 - **[2026-10-29 12:37 UTC]** Equipes buscam vítimas de colisão de trens na Espanha; mortes chegam a 69
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/29/equipes-buscam-vtimas-de-coliso-de-trens-na-espanha-mortes-chegam-a-69.ghtml)_
 
+- **[2026-10-29 19:05 UTC]** Sobe para 69 número de mortos em colisão de trens na Espanha
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-10/sobe-para-69-numero-de-mortos-em-colisao-de-trens-na-espanha)_
+
