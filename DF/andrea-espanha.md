@@ -140,3 +140,6 @@
 - **[2026-10-29 19:05 UTC]** Sobe para 69 número de mortos em colisão de trens na Espanha
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-10/sobe-para-69-numero-de-mortos-em-colisao-de-trens-na-espanha)_
 
+- **[2026-10-30 00:50 UTC]** 'Não há palavras pra descrever a dor': a mobilização de um vilarejo para ajudar vítimas de acidente de trem na Espanha
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmdxwpr40zjzo?at_medium=RSS&at_campaign=rss)_
+
