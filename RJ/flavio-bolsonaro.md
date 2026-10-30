@@ -10360,3 +10360,6 @@
 - **[2026-10-29 20:35 UTC]** Washington Post critica STF e diz que fuga de Flávio expõe problemas na democracia brasileira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/washington-post-critica-stf-e-diz-que-fuga-de-flavio-expoe-problemas-na-democracia-brasileira.shtml)_
 
+- **[2026-10-29 20:06 UTC]** Quem é Jason Miller, conselheiro de Trump que ajudou Flávio Bolsonaro a deixar o Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-e-jason-miller-conselheiro-de-trump-que-ajudou-flavio-bolsonaro-a-deixar-o-brasil.shtml)_
+
