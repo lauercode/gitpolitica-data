@@ -11,3 +11,6 @@
 - **[2026-09-11 16:23 UTC]** Final da Copa do Mundo de 2030 vira batalha entre Marrocos e Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/final-da-copa-do-mundo-de-2030-vira-batalha-entre-marrocos-e-espanha.shtml)_
 
+- **[2026-10-30 12:13 UTC]** Rali Dakar é transferido para Portugal e Marrocos após ataques no Golfo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/rali-dakar-e-transferido-para-portugal-e-marrocos-apos-ataques-no-golfo.shtml)_
+
