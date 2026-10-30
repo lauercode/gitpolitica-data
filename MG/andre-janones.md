@@ -242,3 +242,6 @@
 - **[2026-10-29 15:27 UTC]** O milagre de Janones
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/carta-capital/o-milagre-de-janones/)_
 
+- **[2026-10-29 22:44 UTC]** Janones: de cobrador de ônibus a estrategista digital número 1 da esquerda brasileira
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/watch/cw1l325g5lyqo?at_medium=RSS&at_campaign=rss)_
+
