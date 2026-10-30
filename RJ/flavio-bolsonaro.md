@@ -10381,3 +10381,6 @@
 - **[2026-10-29 20:58 UTC]** Voo da fuga de Flávio Bolsonaro foi pago por intermediário a partir dos EUA
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/voo-da-fuga-de-flavio-bolsonaro-foi-pago-por-intermediario-a-partir-dos-eua/)_
 
+- **[2026-10-29 19:31 UTC]** Cármen Lúcia vai relatar ação de André Janones contra Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/carmen-lucia-vai-relatar-acao-de-andre-janones-contra-flavio-bolsonaro/)_
+
