@@ -29,3 +29,6 @@
 - **[2026-10-30 10:54 UTC]** Suspeitos são presos após assalto a loja de importados que causou prejuízo de R$ 70 mil no Sertão da PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/10/30/suspeitos-sao-presos-apos-assalto-a-loja-de-importados-que-causou-prejuizo-de-r-70-mil-no-sertao-da-pb.ghtml)_
 
+- **[2026-10-30 15:48 UTC]** Sem pasto e sem leite: seca no Sertão de Sergipe devasta lavouras e faz produtores perderem renda
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/30/sem-pasto-e-sem-leite-seca-no-sertao-de-sergipe-devasta-lavouras-e-faz-produtores-perderem-renda.ghtml)_
+
