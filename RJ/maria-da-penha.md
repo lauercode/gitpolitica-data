@@ -29,3 +29,6 @@
 - **[2026-10-11 22:00 UTC]** Lei Maria da Penha também deve proteger quem desafia o poder
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/lei-maria-da-penha-tambem-deve-proteger-quem-desafia-o-poder.shtml)_
 
+- **[2026-10-29 15:24 UTC]** Comissão aprova inclusão expressa de casais homoafetivos na Lei Maria da Penha
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1314824-comissao-aprova-inclusao-expressa-de-casais-homoafetivos-na-lei-maria-da-penha)_
+
