@@ -62,3 +62,6 @@
 - **[2026-10-28 16:51 UTC]** Suspeito de estuprar e engravidar adolescente é preso em Pernambuco após levar vítima de abrigo na Paraíba para a Bahia
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/ba/bahia/noticia/2026/10/28/suspeito-de-estuprar-e-engravidar-adolescente-e-preso-em-pernambuco-apos-levar-vitima-de-abrigo-na-paraiba-para-a-bahia.ghtml)_
 
+- **[2026-10-30 14:50 UTC]** Barbeiro influenciador de 14 anos é morto a tiros em cidade do interior de Pernambuco
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/barbeiro-influenciador-de-14-anos-e-morto-a-tiros-em-cidade-do-interior-de-pernambuco.shtml)_
+
