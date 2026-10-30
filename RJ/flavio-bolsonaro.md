@@ -10507,3 +10507,6 @@
 - **[2026-10-30 14:57 UTC]** Itamaraty convoca diplomata argentina, mas evita transformar fuga de Flávio Bolsonaro em crise com Milei
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/itamaraty-convoca-diplomata-argentina-mas-evita-transformar-fuga-de-flavio-bolsonaro-em-crise-com-milei/)_
 
+- **[2026-10-30 14:41 UTC]** Flávio Bolsonaro processa usuária do X e pede R$ 61 mil, mas perde na Justiça
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-processa-usuaria-do-x-e-pede-r-61-mil-mas-perde-na-justica/)_
+
