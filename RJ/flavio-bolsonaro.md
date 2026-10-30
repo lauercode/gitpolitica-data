@@ -10363,3 +10363,6 @@
 - **[2026-10-29 20:06 UTC]** Quem é Jason Miller, conselheiro de Trump que ajudou Flávio Bolsonaro a deixar o Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-e-jason-miller-conselheiro-de-trump-que-ajudou-flavio-bolsonaro-a-deixar-o-brasil.shtml)_
 
+- **[2026-10-29 19:34 UTC]** Chefe de gabinete de Milei defende atuação da Argentina na fuga de Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/chefe-de-gabinete-de-milei-defende-atuacao-da-argentina-na-fuga-de-flavio.shtml)_
+
