@@ -152,3 +152,6 @@
 - **[2026-10-30 09:46 UTC]** PIB da Espanha cresce 0,6% no 3º trimestre
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/30/pib-da-espanha-cresce-06percent-no-3o-trimestre.ghtml)_
 
+- **[2026-10-30 09:44 UTC]** Preços ao consumidores da Espanha se mantêm em 4,5% ao ano em outubro
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/10/30/precos-ao-consumidores-da-espanha-se-mantem-em-45percent-ao-ano-em-outubro.ghtml)_
+
