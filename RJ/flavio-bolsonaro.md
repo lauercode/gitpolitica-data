@@ -10603,3 +10603,6 @@
 - **[2026-10-31 17:56 UTC]** Secretário de Estado americano nega ajuda de governo dos EUA na fuga de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/31/secretario-de-estado-americano-nega-ajuda-de-governo-dos-eua-na-fuga-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-31 22:26 UTC]** Flávio Bolsonaro organiza saída estratégica do Brasil rumo aos Estados Unidos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-organiza-saida-estrategica-do-brasil-rumo-aos-estados-unidos/)_
+
