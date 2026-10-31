@@ -10594,3 +10594,6 @@
 - **[2026-10-31 14:11 UTC]** Marco Rubio, secretário de Estado dos EUA, nega que país tenha ajudado Flávio Bolsonaro a fugir
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/secretario-de-estado-marco-rubio-nega-ajuda-dos-eua-para-fuga-de-flavio-bolsonaro.shtml)_
 
+- **[2026-10-31 18:25 UTC]** A estratégia de Flávio para sair do Brasil: veículos de apoio e jatos alternativos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/a-estrategia-de-flavio-para-sair-do-brasil-veiculos-de-apoio-e-jatos-alternativos/)_
+
