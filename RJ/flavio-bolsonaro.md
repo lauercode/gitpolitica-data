@@ -10510,3 +10510,6 @@
 - **[2026-10-30 14:41 UTC]** Flávio Bolsonaro processa usuária do X e pede R$ 61 mil, mas perde na Justiça
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-bolsonaro-processa-usuaria-do-x-e-pede-r-61-mil-mas-perde-na-justica/)_
 
+- **[2026-10-30 03:00 UTC]** Carta de Flávio Bolsonaro e fuga do Brasil geram críticas entre aliados e movimentam direita para 2030
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/30/repercussao-carta-de-flavio-bolsonaro-e-fuga-do-brasil.ghtml)_
+
