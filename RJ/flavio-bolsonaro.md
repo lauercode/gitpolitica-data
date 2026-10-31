@@ -10558,3 +10558,6 @@
 - **[2026-10-31 03:57 UTC]** Flávio Bolsonaro lidera oposição a partir dos Estados Unidos após ordem do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-lidera-oposicao-a-partir-dos-estados-unidos-apos-ordem-do-stf/)_
 
+- **[2026-10-31 00:59 UTC]** Dos EUA, Flávio prevê crise econômica de Lula e fala em possível eleição antes de 2030
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dos-eua-flavio-preve-crise-economica-de-lula-e-fala-em-possivel-eleicao-antes-de-2030/)_
+
