@@ -10588,3 +10588,6 @@
 - **[2026-10-31 14:58 UTC]** Ação Popular pede suspensão de salário do senador Flávio Bolsonaro
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/acao-popular-pede-suspensao-de-salario-do-senador-flavio-bolsonaro)_
 
+- **[2026-10-31 16:22 UTC]** Agentes dos EUA assumiram controle de parte de aeroporto para fuga de Flávio, diz jornal argentino
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/agentes-dos-eua-assumiram-controle-de-parte-de-aeroporto-para-fuga-de-flavio-diz-jornal-argentino.shtml)_
+
