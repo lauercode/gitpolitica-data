@@ -41,3 +41,6 @@
 - **[2026-10-28 20:34 UTC]** Tebet defende ajuste fiscal em meio a divergências no governo Lula sobre corte de gastos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tebet-defende-ajuste-fiscal-em-meio-a-divergencias-no-governo-lula-sobre-corte-de-gastos/)_
 
+- **[2026-10-31 06:00 UTC]** Simone Tebet é cotada para o STF caso Lula decida indicar uma mulher para o tribunal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/simone-tebet-e-cotada-para-o-stf-caso-lula-decida-indicar-uma-mulher-para-o-tribunal.shtml)_
+
