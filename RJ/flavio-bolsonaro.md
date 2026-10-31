@@ -10540,3 +10540,6 @@
 - **[2026-10-30 17:58 UTC]** Chanceler da Argentina nega que Brasil tenha pedido explicações pela fuga de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/chanceler-da-argentina-nega-que-brasil-tenha-pedido-explicacoes-pela-fuga-de-bolsonaro/)_
 
+- **[2026-10-30 17:56 UTC]** Michelle se manifesta pela 1ª vez após derrota de Flávio e diz que não é momento de procurar culpados
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/michelle-se-manifesta-pela-1a-vez-apos-derrota-de-flavio-e-diz-que-nao-e-momento-de-procurar-culpados/)_
+
