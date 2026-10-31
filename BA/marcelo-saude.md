@@ -44,3 +44,6 @@
 - **[2026-10-30 12:01 UTC]** Novas regras do Ministério da Saúde aumentam possibilidades de doação
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-10/novas-regras-do-ministerio-da-saude-aumentam-possibilidades-de-doacao)_
 
+- **[2026-10-30 21:33 UTC]** É #FAKE que Lula anunciou corte de R$ 6 bilhões na Saúde e na Educação após eleição de 2026; vídeo foi exibido no ano retrasado
+  _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/10/30/e-fake-que-lula-anunciou-corte-de-r-6-bilhoes-na-saude-e-na-educacao-apos-eleicao-de-2026-video-foi-exibido-no-ano-retrasado.ghtml)_
+
