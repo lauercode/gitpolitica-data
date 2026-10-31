@@ -32,3 +32,6 @@
 - **[2026-10-29 15:24 UTC]** Comissão aprova inclusão expressa de casais homoafetivos na Lei Maria da Penha
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1314824-comissao-aprova-inclusao-expressa-de-casais-homoafetivos-na-lei-maria-da-penha)_
 
+- **[2026-10-31 14:14 UTC]** Em 7 anos, Patrulha Maria da Penha acompanhou mais de 135 mil mulheres
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/em-7-anos-patrulha-maria-da-penha-acompanhou-mais-de-135-mil-mulheres)_
+
