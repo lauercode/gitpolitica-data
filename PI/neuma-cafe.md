@@ -11,3 +11,6 @@
 - **[2026-10-31 07:00 UTC]** Café gigante e raríssimo é encontrado na Amazônia; espécie representa 0,01% da produção mundial
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/31/cafe-gigante-e-rarissimo-e-encontrado-na-amazonia-especie-representa-001percent-da-producao-mundial.ghtml)_
 
+- **[2026-10-31 12:09 UTC]** Café da Mantiqueira de Minas é eleito o melhor do Brasil no 'Oscar' da categoria; veja vencedores
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cafe-na-prensa/2026/10/cafe-da-mantiqueira-de-minas-e-eleito-o-melhor-do-brasil-no-oscar-da-categoria-veja-vencedores.shtml)_
+
