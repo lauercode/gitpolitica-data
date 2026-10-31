@@ -44,3 +44,6 @@
 - **[2026-10-28 18:28 UTC]** Malafaia defende saída de Flávio do Brasil e acusa Moraes de perseguição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/malafaia-defende-saida-de-flavio-do-brasil-e-acusa-moraes-de-perseguicao/)_
 
+- **[2026-10-31 20:28 UTC]** Malafaia sinaliza divórcio entre líderes gospel e bolsonarismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/10/malafaia-sinaliza-divorcio-entre-lideres-gospel-e-bolsonarismo.shtml)_
+
