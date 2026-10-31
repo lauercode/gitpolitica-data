@@ -10606,3 +10606,6 @@
 - **[2026-10-31 22:26 UTC]** Flávio Bolsonaro organiza saída estratégica do Brasil rumo aos Estados Unidos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-organiza-saida-estrategica-do-brasil-rumo-aos-estados-unidos/)_
 
+- **[2026-10-31 20:22 UTC]** Marco Rubio nega que governo Trump tenha auxiliado Flávio a ir para os EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/marco-rubio-afirma-que-governo-trump-nao-auxiliou-flavio-a-ir-para-eua/)_
+
