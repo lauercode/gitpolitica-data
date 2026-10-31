@@ -10513,3 +10513,6 @@
 - **[2026-10-30 03:00 UTC]** Carta de Flávio Bolsonaro e fuga do Brasil geram críticas entre aliados e movimentam direita para 2030
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/30/repercussao-carta-de-flavio-bolsonaro-e-fuga-do-brasil.ghtml)_
 
+- **[2026-10-30 20:50 UTC]** Mauro Vieira e Marco Rubio evitam tratar de fuga de Flávio Bolsonaro em reunião pré-G20
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/mauro-vieira-e-marco-rubio-evitam-tratar-de-fuga-de-flavio-bolsonaro-em-reuniao-pre-g20.shtml)_
+
