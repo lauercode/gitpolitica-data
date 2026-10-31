@@ -10576,3 +10576,6 @@
 - **[2026-10-31 11:48 UTC]** Vieira encontra Rubio nos EUA após vitória de Lula e fuga de Flávio
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vieira-encontra-rubio-nos-eua-apos-vitoria-de-lula-e-fuga-de-flavio)_
 
+- **[2026-10-31 12:00 UTC]** Três Poderes: Lula é o vencedor da semana e Flávio, o perdedor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tres-poderes-lula-e-o-vencedor-da-semana-e-flavio-o-perdedor.shtml)_
+
