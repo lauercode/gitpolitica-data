@@ -10585,3 +10585,6 @@
 - **[2026-10-31 13:45 UTC]** Ações pedem suspensão de salário de Flávio Bolsonaro após sua saída do Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acoes-pedem-suspensao-de-salario-de-flavio-bolsonaro-apos-sua-saida-do-brasil/)_
 
+- **[2026-10-31 14:58 UTC]** Ação Popular pede suspensão de salário do senador Flávio Bolsonaro
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/acao-popular-pede-suspensao-de-salario-do-senador-flavio-bolsonaro)_
+
