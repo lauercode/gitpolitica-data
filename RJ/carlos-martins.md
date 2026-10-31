@@ -20,3 +20,6 @@
 - **[2026-10-07 01:58 UTC]** Resultado das eleições 2026 em Manaus (AM): votação para presidente no E. M. José Carlos Martins Mestrinho, na 1ª zona eleitoral
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-manaus-am-votacao-para-presidente-no-e-m-jose-carlos-martins-mestrinho-na-1a-zona-eleitoral.ghtml)_
 
+- **[2026-10-29 16:45 UTC]** Escola de 1º Grau Carlos Martins, 132ª zona eleitoral: resultado da votação em Seberi (RS) no 1º turno
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/29/escola-de-1o-grau-carlos-martins-132a-zona-eleitoral-resultado-da-votacao-em-seberi-rs-no-1o-turno.ghtml)_
+
