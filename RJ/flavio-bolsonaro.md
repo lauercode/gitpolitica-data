@@ -10567,3 +10567,6 @@
 - **[2026-10-31 00:39 UTC]** Mauro Vieira conversa com Marco Rubio dias após fuga de Flávio Bolsonaro aos EUA
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/30/mauro-vieira-conversa-com-marco-rubio-dias-aps-fuga-de-flvio-bolsonaro-aos-eua.ghtml)_
 
+- **[2026-10-30 21:47 UTC]** Flávio retoma discurso golpista, ataca Moraes e nega que tenha avisado a Bolsonaro de fuga
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-retoma-discurso-golpista-ataca-moraes-e-nega-que-tenha-avisado-a-bolsonaro-de-fuga/)_
+
