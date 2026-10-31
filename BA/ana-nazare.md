@@ -20,3 +20,6 @@
 - **[2026-10-26 08:00 UTC]** Recírio: última procissão deve reunir 50 mil fiéis no encerramento do Círio de Nazaré 2026, em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/26/recirio-ultima-procissao-deve-reunir-50-mil-fieis-no-encerramento-do-cirio-de-nazare-2026-em-belem.ghtml)_
 
+- **[2026-10-30 00:15 UTC]** Unidade Escolar Municipal Nossa Senhora de Nazaré (1º Distrito), 4ª zona eleitoral: resultado da votação em Caxias (MA) no 1º turno
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/29/unidade-escolar-municipal-nossa-senhora-de-nazare-1o-distrito-4a-zona-eleitoral-resultado-da-votacao-em-caxias-ma-no-1o-turno.ghtml)_
+
