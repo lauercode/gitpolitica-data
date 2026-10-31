@@ -53,3 +53,6 @@
 - **[2026-10-30 21:04 UTC]** Toffoli rejeita pedido de Filipe Martins para deixar regime fechado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/toffoli-rejeita-pedido-de-filipe-martins-para-deixar-regime-fechado/)_
 
+- **[2026-10-31 01:04 UTC]** Ministro Dias Toffoli mantém Filipe Martins em regime de prisão fechado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministro-dias-toffoli-mantem-filipe-martins-em-regime-de-prisao-fechado/)_
+
