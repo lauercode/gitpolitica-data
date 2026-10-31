@@ -50,3 +50,6 @@
 - **[2026-10-07 02:12 UTC]** Resultado das eleições 2026 em Porto Alegre (RS): votação para presidente no Esc. Est. de 1 Grau Dr. Martins Costa Junior, na 159ª zona eleitoral
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-porto-alegre-rs-votacao-para-presidente-no-esc-est-de-1-grau-dr-martins-costa-junior-na-159a-zona-eleitoral.ghtml)_
 
+- **[2026-10-30 21:04 UTC]** Toffoli rejeita pedido de Filipe Martins para deixar regime fechado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/toffoli-rejeita-pedido-de-filipe-martins-para-deixar-regime-fechado/)_
+
