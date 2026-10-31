@@ -10519,3 +10519,6 @@
 - **[2026-10-30 18:27 UTC]** Deputada aposta em maioria democrata após midterms para investigar ajuda de Trump a Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/deputada-aposta-em-maioria-democrata-apos-midterms-para-investigar-ajuda-de-trump-a-flavio-bolsonaro.shtml)_
 
+- **[2026-10-30 15:46 UTC]** Itamaraty diz ter convocado diplomata após fuga de Flávio pela Argentina; Milei nega
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/itamaraty-convoca-diplomata-de-milei-apos-fuga-de-flavio-pela-argentina.shtml)_
+
