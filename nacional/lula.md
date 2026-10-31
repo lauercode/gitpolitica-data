@@ -2609,3 +2609,6 @@
 - **[2026-10-31 12:00 UTC]** Três Poderes: Lula é o vencedor da semana e Flávio, o perdedor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/tres-poderes-lula-e-o-vencedor-da-semana-e-flavio-o-perdedor.shtml)_
 
+- **[2026-10-31 14:16 UTC]** Por que Flávio prevê queda antecipada de Lula e admite disputar Presidência antes de 2030
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/por-que-flavio-preve-queda-antecipada-de-lula-e-admite-disputar-presidencia-antes-de-2030/)_
+
