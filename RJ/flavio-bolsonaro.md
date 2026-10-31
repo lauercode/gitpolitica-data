@@ -10516,3 +10516,6 @@
 - **[2026-10-30 20:50 UTC]** Mauro Vieira e Marco Rubio evitam tratar de fuga de Flávio Bolsonaro em reunião pré-G20
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/mauro-vieira-e-marco-rubio-evitam-tratar-de-fuga-de-flavio-bolsonaro-em-reuniao-pre-g20.shtml)_
 
+- **[2026-10-30 18:27 UTC]** Deputada aposta em maioria democrata após midterms para investigar ajuda de Trump a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/deputada-aposta-em-maioria-democrata-apos-midterms-para-investigar-ajuda-de-trump-a-flavio-bolsonaro.shtml)_
+
