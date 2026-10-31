@@ -20,3 +20,6 @@
 - **[2026-10-30 16:10 UTC]** Mortes: Roadie dedicou três décadas ao Barão Vermelho e vibrou pelo Botafogo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mortes-roadie-dedicou-tres-decadas-ao-barao-vermelho-e-vibrou-pelo-botafogo.shtml)_
 
+- **[2026-10-30 16:10 UTC]** Mortes: Roadie dedicou quase quatro décadas ao Barão Vermelho e vibrou pelo Botafogo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mortes-roadie-dedicou-tres-decadas-ao-barao-vermelho-e-vibrou-pelo-botafogo.shtml)_
+
