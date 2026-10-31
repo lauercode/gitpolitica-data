@@ -188,3 +188,6 @@
 - **[2026-10-30 18:38 UTC]** Michelle chama Jair Bolsonaro de 'líder' e diz que ex-presidente pede união, não busca por culpados
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/30/michelle-chama-jair-bolsonaro-de-lder-e-diz-que-ex-presidente-pede-unio-no-busca-por-culpados.ghtml)_
 
+- **[2026-10-30 17:23 UTC]** Jair Bolsonaro volta a soluçar e tem taquicardia dias após o 2º turno
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/jair-bolsonaro-volta-a-solucar-e-tem-taquicardia-dias-apos-o-2o-turno/)_
+
