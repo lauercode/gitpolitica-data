@@ -23,3 +23,6 @@
 - **[2026-10-30 12:58 UTC]** Sertanejo Henrique, da dupla com Juliano, cai de cavalo durante vaquejada
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/30/sertanejo-henrique-da-dupla-com-juliano-cai-de-cavalo-durante-competicao-de-vaquejada.ghtml)_
 
+- **[2026-10-30 21:12 UTC]** Após queda de cavalo, Henrique, da dupla com Juliano, volta a competir e derruba boi em vaquejada; VÍDEO
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/30/apos-queda-de-cavalo-henrique-da-dupla-com-juliano-volta-a-competir-e-derruba-boi-em-vaquejada-video.ghtml)_
+
