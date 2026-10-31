@@ -32,3 +32,6 @@
 - **[2026-10-31 03:00 UTC]** Novo segue sem reconhecer resultado das eleições; 27 partidos validam vitória de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/31/novo-segue-sem-reconhecer-resultado-das-eleicoes-27-partidos-validam-vitoria-de-lula.ghtml)_
 
+- **[2026-10-31 03:00 UTC]** Novo não reconhece resultado das eleições e Mobiliza não se manifesta sobre vitória de Lula nas urnas
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/31/novo-segue-sem-reconhecer-resultado-das-eleicoes-27-partidos-validam-vitoria-de-lula.ghtml)_
+
