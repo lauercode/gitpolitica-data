@@ -10570,3 +10570,6 @@
 - **[2026-10-30 21:47 UTC]** Flávio retoma discurso golpista, ataca Moraes e nega que tenha avisado a Bolsonaro de fuga
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flavio-retoma-discurso-golpista-ataca-moraes-e-nega-que-tenha-avisado-a-bolsonaro-de-fuga/)_
 
+- **[2026-10-31 04:00 UTC]** Rota de fuga de Flávio abriga foragido do 8/1 e foi usada por bolsonaristas que deixaram país
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/rota-de-fuga-de-flavio-abriga-foragido-do-81-e-foi-usada-por-bolsonaristas-que-deixaram-pais.shtml)_
+
