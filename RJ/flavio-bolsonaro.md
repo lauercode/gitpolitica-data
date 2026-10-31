@@ -10546,3 +10546,6 @@
 - **[2026-10-30 23:00 UTC]** Após fuga para EUA, Flávio pode ter desconto no salário e processo de cassação no Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apos-fuga-para-eua-flavio-pode-ter-desconto-no-salario-e-processo-de-cassacao-no-senado.shtml)_
 
+- **[2026-10-30 23:00 UTC]** Elos de Milei em fuga de Flávio Bolsonaro incluem suspeitas sobre jato e assessor; entenda o que se sabe
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/elos-de-milei-em-fuga-de-flavio-bolsonaro-incluem-suspeitas-sobre-jato-e-assessor-entenda-o-que-se-sabe.shtml)_
+
