@@ -575,3 +575,6 @@
 - **[2026-10-30 18:15 UTC]** Alcolumbre pauta PEC da Segurança para a próxima terça-feira; governo tenta acordo sobre maioridade penal
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/alcolumbre-pauta-pec-da-seguranca-para-a-proxima-terca-feira-governo-tenta-acordo-sobre-maioridade-penal/)_
 
+- **[2026-10-31 10:22 UTC]** Alcolumbre marca votação da PEC da Segurança Pública para terça-feira
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-marca-votacao-da-pec-da-seguranca-publica-para-terca-feira)_
+
