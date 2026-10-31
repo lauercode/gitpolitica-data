@@ -2597,3 +2597,6 @@
 - **[2026-10-30 23:55 UTC]** Papel de Flávio nos EUA na oposição a Lula e STF envolve ganhos, riscos e limites
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/papel-de-flavio-nos-eua-na-oposicao-a-lula-e-stf-envolve-ganhos-riscos-e-limites/)_
 
+- **[2026-10-31 04:59 UTC]** Flávio Bolsonaro projeta fim antecipado do governo Lula e atua dos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-projeta-fim-antecipado-do-governo-lula-e-atua-dos-eua/)_
+
