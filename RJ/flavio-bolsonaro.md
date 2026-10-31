@@ -10564,3 +10564,6 @@
 - **[2026-10-31 00:50 UTC]** Flávio reforça discurso golpista ao dizer que será candidato à Presidência antes de 2030 e apoia Marinho para o Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/flavio-reforca-discurso-golpista-ao-dizer-que-sera-candidato-a-presidencia-antes-de-2030-e-apoia-marinho-para-o-senado.ghtml)_
 
+- **[2026-10-31 00:39 UTC]** Mauro Vieira conversa com Marco Rubio dias após fuga de Flávio Bolsonaro aos EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/30/mauro-vieira-conversa-com-marco-rubio-dias-aps-fuga-de-flvio-bolsonaro-aos-eua.ghtml)_
+
