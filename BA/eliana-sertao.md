@@ -32,3 +32,6 @@
 - **[2026-10-30 15:48 UTC]** Sem pasto e sem leite: seca no Sertão de Sergipe devasta lavouras e faz produtores perderem renda
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/30/sem-pasto-e-sem-leite-seca-no-sertao-de-sergipe-devasta-lavouras-e-faz-produtores-perderem-renda.ghtml)_
 
+- **[2026-10-31 12:26 UTC]** Saneamento básico em Sergipe: Sertão sofre com falhas no serviço
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/31/saneamento-basico-em-sergipe-sertao-sofre-com-falhas-no-servico.ghtml)_
+
