@@ -10582,3 +10582,6 @@
 - **[2026-10-31 14:16 UTC]** Por que Flávio prevê queda antecipada de Lula e admite disputar Presidência antes de 2030
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/por-que-flavio-preve-queda-antecipada-de-lula-e-admite-disputar-presidencia-antes-de-2030/)_
 
+- **[2026-10-31 13:45 UTC]** Ações pedem suspensão de salário de Flávio Bolsonaro após sua saída do Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acoes-pedem-suspensao-de-salario-de-flavio-bolsonaro-apos-sua-saida-do-brasil/)_
+
