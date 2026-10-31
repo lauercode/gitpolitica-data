@@ -251,3 +251,6 @@
 - **[2026-10-30 06:00 UTC]** Janones será homenageado na festa do Prerrô, grupo jurídico que apoia Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/janones-sera-homenageado-na-festa-do-prerro-grupo-juridico-que-apoia-lula.shtml)_
 
+- **[2026-10-31 10:26 UTC]** Como 'método Janones' está inspirando a esquerda fora do Brasil
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62yj7vzv48o?at_medium=RSS&at_campaign=rss)_
+
