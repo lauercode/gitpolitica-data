@@ -14,3 +14,6 @@
 - **[2026-09-05 23:33 UTC]** Rock in Rio 2026: Vanessa Giácomo diz que pretende voltar às novelas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/rock-in-rio-2026-vanessa-giacomo-diz-que-pretende-voltar-as-novelas.shtml)_
 
+- **[2026-10-30 17:12 UTC]** 'Por Você': Zé insinua a Vanessa que sabe mais sobre o acidente do Gabriel
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/08/10/6557-por-voce-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post468007)_
+
