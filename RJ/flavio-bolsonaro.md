@@ -10597,3 +10597,6 @@
 - **[2026-10-31 18:25 UTC]** A estratégia de Flávio para sair do Brasil: veículos de apoio e jatos alternativos
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/a-estrategia-de-flavio-para-sair-do-brasil-veiculos-de-apoio-e-jatos-alternativos/)_
 
+- **[2026-10-31 17:46 UTC]** Ações judiciais buscam interromper pagamentos a Flávio Bolsonaro nos Estados Unidos
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/acoes-judiciais-buscam-interromper-pagamentos-a-flavio-bolsonaro-nos-estados-unidos/)_
+
