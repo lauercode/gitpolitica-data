@@ -23,3 +23,6 @@
 - **[2026-10-30 00:15 UTC]** Unidade Escolar Municipal Nossa Senhora de Nazaré (1º Distrito), 4ª zona eleitoral: resultado da votação em Caxias (MA) no 1º turno
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/29/unidade-escolar-municipal-nossa-senhora-de-nazare-1o-distrito-4a-zona-eleitoral-resultado-da-votacao-em-caxias-ma-no-1o-turno.ghtml)_
 
+- **[2026-10-30 08:51 UTC]** Escola Municipal de 1º Grau Castro Alves (Nazaré), 50ª zona eleitoral: resultado da votação em Pocinhos (PB) no 1º turno
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/30/escola-municipal-de-1o-grau-castro-alves-nazare-50a-zona-eleitoral-resultado-da-votacao-em-pocinhos-pb-no-1o-turno.ghtml)_
+
