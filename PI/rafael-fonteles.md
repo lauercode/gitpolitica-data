@@ -44,3 +44,6 @@
 - **[2026-10-30 09:58 UTC]** Petista 'liberal'? Como governador Rafael Fonteles entrou no radar de Lula para comandar a economia do Brasil
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cx1l37yrndmro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-30 17:13 UTC]** Quem é Rafael Fonteles, cotado para o Ministério da Fazenda no Lula 4
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/quem-e-rafael-fonteles-cotado-para-o-ministerio-da-fazenda-no-lula-4/)_
+
