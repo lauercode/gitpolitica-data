@@ -569,3 +569,6 @@
 - **[2026-10-30 17:32 UTC]** Alcolumbre pauta PEC da Segurança para terça e governo costura acordo sobre maioridade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/alcolumbre-pauta-pec-da-seguranca-para-terca-e-governo-costura-acordo-sobre-maioridade.shtml)_
 
+- **[2026-10-30 21:45 UTC]** Alcolumbre marca votação da PEC da Segurança Pública para terça (3)
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-marca-votacao-da-pec-da-seguranca-publica-para-terca-3/)_
+
