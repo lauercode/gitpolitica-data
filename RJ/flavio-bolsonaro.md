@@ -10534,3 +10534,6 @@
 - **[2026-10-30 20:16 UTC]** Governo Lula convoca representante da Argentina para pedir explicações sobre fuga de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/governo-lula-convoca-representante-argentina-para-pedir-esclarecimentos-sobre-fuga-de-flavio-bolsonaro.ghtml)_
 
+- **[2026-10-30 16:44 UTC]** Deputados democratas cobram Rubio sobre suposta ajuda do governo dos EUA a fuga de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/deputados-democratas-cobram-rubio-sobre-suposta-ajuda-do-governo-dos-eua-a-fuga-de-flavio.ghtml)_
+
