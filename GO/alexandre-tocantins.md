@@ -263,3 +263,6 @@
 - **[2026-10-29 21:38 UTC]** Enem 2026: g1 Tocantins transmite ao vivo a Supermaratona com aulas gratuitas; veja como participar e assistir
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/29/enem-2026-g1-tocantins-transmite-ao-vivo-a-supermaratona-com-aulas-gratuitas-veja-como-participar-e-assistir.ghtml)_
 
+- **[2026-10-30 22:05 UTC]** Ex-vendedor de geladinhos relembra trajetória até se tornar dentista no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/30/ex-vendedor-de-geladinhos-relembra-trajetoria-empreendedora-ate-se-tornar-dentista-no-interior-do-tocantins.ghtml)_
+
