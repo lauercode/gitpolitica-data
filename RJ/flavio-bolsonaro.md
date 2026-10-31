@@ -10573,3 +10573,6 @@
 - **[2026-10-31 04:00 UTC]** Rota de fuga de Flávio abriga foragido do 8/1 e foi usada por bolsonaristas que deixaram país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/rota-de-fuga-de-flavio-abriga-foragido-do-81-e-foi-usada-por-bolsonaristas-que-deixaram-pais.shtml)_
 
+- **[2026-10-31 11:48 UTC]** Vieira encontra Rubio nos EUA após vitória de Lula e fuga de Flávio
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vieira-encontra-rubio-nos-eua-apos-vitoria-de-lula-e-fuga-de-flavio)_
+
