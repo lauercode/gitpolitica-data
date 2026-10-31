@@ -10531,3 +10531,6 @@
 - **[2026-10-30 23:37 UTC]** Brasil diz ter convocado diplomata argentina para cobrar explicações sobre viagem de Flávio Bolsonaro
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/ck3r52z8zwlqo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-10-30 20:16 UTC]** Governo Lula convoca representante da Argentina para pedir explicações sobre fuga de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/governo-lula-convoca-representante-argentina-para-pedir-esclarecimentos-sobre-fuga-de-flavio-bolsonaro.ghtml)_
+
