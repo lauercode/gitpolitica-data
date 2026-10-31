@@ -65,3 +65,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Henrique Áreas, candidato a governador de Minas Gerais em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-henrique-areas-candidato-a-governador-de-minas-gerais-em-2026.ghtml)_
 
+- **[2026-10-31 06:00 UTC]** Áreas de vegetação nativa diminuíram e estão mais isoladas no Paraná, aponta levantamento
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/10/31/areas-de-vegetacao-nativa-diminuiram-e-estao-mais-isoladas-no-parana-aponta-levantamento.ghtml)_
+
