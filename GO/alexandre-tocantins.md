@@ -266,3 +266,6 @@
 - **[2026-10-30 22:05 UTC]** Ex-vendedor de geladinhos relembra trajetória até se tornar dentista no interior do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/30/ex-vendedor-de-geladinhos-relembra-trajetoria-empreendedora-ate-se-tornar-dentista-no-interior-do-tocantins.ghtml)_
 
+- **[2026-10-31 19:26 UTC]** Polícia recupera 18 cabeças de gado furtadas em fazenda no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/31/policia-recupera-18-cabecas-de-gado-furtadas-em-fazenda-no-interior-do-to.ghtml)_
+
