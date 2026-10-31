@@ -2594,3 +2594,6 @@
 - **[2026-10-30 16:29 UTC]** Governo Tarcísio exonera servidora que criticou fala capacitista de Flávio Bolsonaro a Lula
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/governo-tarcisio-exonera-servidora-que-criticou-fala-capacitista-de-flavio-bolsonaro-a-lula/)_
 
+- **[2026-10-30 23:55 UTC]** Papel de Flávio nos EUA na oposição a Lula e STF envolve ganhos, riscos e limites
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/papel-de-flavio-nos-eua-na-oposicao-a-lula-e-stf-envolve-ganhos-riscos-e-limites/)_
+
