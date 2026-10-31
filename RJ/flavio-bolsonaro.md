@@ -10525,3 +10525,6 @@
 - **[2026-10-30 13:37 UTC]** Nikolas zomba de críticas a carta golpista de Flávio e defende boicote a empresas de petistas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-ignora-carta-golpista-de-flavio-bolsonaro-e-defende-boicote-a-empresas-de-petistas.shtml)_
 
+- **[2026-10-30 23:55 UTC]** Papel de Flávio nos EUA na oposição a Lula e STF envolve ganhos, riscos e limites
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/papel-de-flavio-nos-eua-na-oposicao-a-lula-e-stf-envolve-ganhos-riscos-e-limites/)_
+
