@@ -10555,3 +10555,6 @@
 - **[2026-10-31 04:59 UTC]** Flávio Bolsonaro projeta fim antecipado do governo Lula e atua dos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-projeta-fim-antecipado-do-governo-lula-e-atua-dos-eua/)_
 
+- **[2026-10-31 03:57 UTC]** Flávio Bolsonaro lidera oposição a partir dos Estados Unidos após ordem do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-lidera-oposicao-a-partir-dos-estados-unidos-apos-ordem-do-stf/)_
+
