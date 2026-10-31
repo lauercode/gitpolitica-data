@@ -2600,3 +2600,6 @@
 - **[2026-10-31 04:59 UTC]** Flávio Bolsonaro projeta fim antecipado do governo Lula e atua dos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-projeta-fim-antecipado-do-governo-lula-e-atua-dos-eua/)_
 
+- **[2026-10-31 00:59 UTC]** Dos EUA, Flávio prevê crise econômica de Lula e fala em possível eleição antes de 2030
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dos-eua-flavio-preve-crise-economica-de-lula-e-fala-em-possivel-eleicao-antes-de-2030/)_
+
