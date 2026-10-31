@@ -10591,3 +10591,6 @@
 - **[2026-10-31 16:22 UTC]** Agentes dos EUA assumiram controle de parte de aeroporto para fuga de Flávio, diz jornal argentino
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/agentes-dos-eua-assumiram-controle-de-parte-de-aeroporto-para-fuga-de-flavio-diz-jornal-argentino.shtml)_
 
+- **[2026-10-31 14:11 UTC]** Marco Rubio, secretário de Estado dos EUA, nega que país tenha ajudado Flávio Bolsonaro a fugir
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/secretario-de-estado-marco-rubio-nega-ajuda-dos-eua-para-fuga-de-flavio-bolsonaro.shtml)_
+
