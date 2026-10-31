@@ -47,3 +47,6 @@
 - **[2026-10-30 21:33 UTC]** É #FAKE que Lula anunciou corte de R$ 6 bilhões na Saúde e na Educação após eleição de 2026; vídeo foi exibido no ano retrasado
   _fonte: [G1 - Política:](https://g1.globo.com/fato-ou-fake/noticia/2026/10/30/e-fake-que-lula-anunciou-corte-de-r-6-bilhoes-na-saude-e-na-educacao-apos-eleicao-de-2026-video-foi-exibido-no-ano-retrasado.ghtml)_
 
+- **[2026-10-31 15:00 UTC]** Concurso da Saúde do TO altera locais de prova em duas cidades; confira
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/31/concurso-da-saude-do-to-altera-locais-de-prova-em-duas-cidades-confira.ghtml)_
+
