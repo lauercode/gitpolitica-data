@@ -10537,3 +10537,6 @@
 - **[2026-10-30 16:44 UTC]** Deputados democratas cobram Rubio sobre suposta ajuda do governo dos EUA a fuga de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/deputados-democratas-cobram-rubio-sobre-suposta-ajuda-do-governo-dos-eua-a-fuga-de-flavio.ghtml)_
 
+- **[2026-10-30 17:58 UTC]** Chanceler da Argentina nega que Brasil tenha pedido explicações pela fuga de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/chanceler-da-argentina-nega-que-brasil-tenha-pedido-explicacoes-pela-fuga-de-bolsonaro/)_
+
