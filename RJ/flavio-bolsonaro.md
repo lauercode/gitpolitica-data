@@ -10561,3 +10561,6 @@
 - **[2026-10-31 00:59 UTC]** Dos EUA, Flávio prevê crise econômica de Lula e fala em possível eleição antes de 2030
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dos-eua-flavio-preve-crise-economica-de-lula-e-fala-em-possivel-eleicao-antes-de-2030/)_
 
+- **[2026-10-31 00:50 UTC]** Flávio reforça discurso golpista ao dizer que será candidato à Presidência antes de 2030 e apoia Marinho para o Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/flavio-reforca-discurso-golpista-ao-dizer-que-sera-candidato-a-presidencia-antes-de-2030-e-apoia-marinho-para-o-senado.ghtml)_
+
