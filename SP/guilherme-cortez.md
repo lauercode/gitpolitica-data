@@ -14,3 +14,6 @@
 - **[2026-10-30 16:25 UTC]** Esquerda precisa focar em soluções práticas para a vida do brasileiro, avalia Guilherme Cortez
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/entrevistas/esquerda-precisa-focar-em-solucoes-praticas-para-a-vida-do-brasileiro-avalia-guilherme-cortez/)_
 
+- **[2026-10-30 23:00 UTC]** Esquerda precisa abandonar discurso de superioridade moral, diz Guilherme Cortez
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/esquerda-precisa-abandonar-discurso-de-superioridade-moral-diz-guilherme-cortez.shtml)_
+
