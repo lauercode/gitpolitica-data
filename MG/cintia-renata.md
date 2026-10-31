@@ -38,3 +38,6 @@
 - **[2026-10-16 00:33 UTC]** VÍDEOS: Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/playlist/videos-renata-lo-prete-entrevista-lula-candidato-a-reeleicao-pelo-pt.ghtml)_
 
+- **[2026-10-30 23:47 UTC]** 'A Fazenda 18': Renata é flagrada ouvindo conversa escondida no chão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-renata-e-flagrada-ouvindo-conversa-escondida-no-chao.shtml)_
+
