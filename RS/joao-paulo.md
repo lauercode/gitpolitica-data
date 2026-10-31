@@ -29,3 +29,6 @@
 - **[2026-10-08 19:38 UTC]** Resultado das eleições 2026 em Lagoa Grande do Maranhão (MA): votação para presidente na Escola Municipal João Paulo Ii, na 74ª zona eleitoral
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/08/resultado-das-eleicoes-2026-em-lagoa-grande-do-maranhao-ma-votacao-para-presidente-na-escola-municipal-joao-paulo-ii-na-74a-zona-eleitoral.ghtml)_
 
+- **[2026-10-30 13:21 UTC]** Escola de 1º e 2º Graus João Paulo Ii, 51ª zona eleitoral: resultado da votação em São José da Tapera (AL) no 1º turno
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/30/escola-de-1o-e-2o-graus-joao-paulo-ii-51a-zona-eleitoral-resultado-da-votacao-em-sao-jose-da-tapera-al-no-1o-turno.ghtml)_
+
