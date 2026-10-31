@@ -158,3 +158,6 @@
 - **[2026-10-30 17:00 UTC]** Santander irá levar brasileiros para curso gratuito de IA na Espanha
   _fonte: [Valor Econômico](https://valor.globo.com/carreira/empregos-oportunidades/post/2026/10/santander-ira-levar-brasileiros-para-curso-gratuito-de-ia-na-espanha.ghtml)_
 
+- **[2026-10-31 23:07 UTC]** Médica brasileira que morreu na Espanha após correr em meia maratona sofreu morte súbita, aponta laudo
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/31/medica-brasileira-morreu-espanha-correr-meia-maratona-sofreu-morte-subita-aponta-laudo.ghtml)_
+
