@@ -10522,3 +10522,6 @@
 - **[2026-10-30 15:46 UTC]** Itamaraty diz ter convocado diplomata após fuga de Flávio pela Argentina; Milei nega
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/itamaraty-convoca-diplomata-de-milei-apos-fuga-de-flavio-pela-argentina.shtml)_
 
+- **[2026-10-30 13:37 UTC]** Nikolas zomba de críticas a carta golpista de Flávio e defende boicote a empresas de petistas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nikolas-ignora-carta-golpista-de-flavio-bolsonaro-e-defende-boicote-a-empresas-de-petistas.shtml)_
+
