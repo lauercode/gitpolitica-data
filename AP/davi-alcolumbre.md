@@ -563,3 +563,6 @@
 - **[2026-10-30 12:30 UTC]** Lula planeja montar frente ampla com Alcolumbre e Motta e nova relação com base
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-planeja-montar-frente-ampla-com-alcolumbre-e-motta-e-nova-relacao-com-base.shtml)_
 
+- **[2026-10-30 21:32 UTC]** Alcolumbre pauta votação da PEC da Segurança Pública para a próxima terça-feira
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/30/alcolumbre-pauta-votacao-da-pec-da-seguranca-publica-para-a-proxima-terca-feira.ghtml)_
+
