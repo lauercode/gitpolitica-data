@@ -10552,3 +10552,6 @@
 - **[2026-10-30 21:18 UTC]** Flávio diz que fuga não é fraqueza, insinua fraude sem provas e fala em 'novas eleições' antes de 2030
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-fuga-nao-e-fraqueza-e-fala-em-novas-eleicoes-antes-de-2030.shtml)_
 
+- **[2026-10-31 04:59 UTC]** Flávio Bolsonaro projeta fim antecipado do governo Lula e atua dos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-projeta-fim-antecipado-do-governo-lula-e-atua-dos-eua/)_
+
