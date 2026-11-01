@@ -53,3 +53,6 @@
 - **[2026-11-01 14:05 UTC]** O que estudar para os concursos da Saúde e da Educação de Porto Velho?
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/11/01/o-que-estudar-para-os-concursos-da-saude-e-da-educacao-de-porto-velho.ghtml)_
 
+- **[2026-11-01 17:26 UTC]** Secretaria de Saúde do RJ monitora alta de Mpox após casos superarem 2025
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/secretaria-de-saude-do-rj-monitora-alta-de-mpox-apos-casos-superarem-2025.shtml)_
+
