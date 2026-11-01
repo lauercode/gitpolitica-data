@@ -10657,3 +10657,6 @@
 - **[2026-11-01 10:18 UTC]** Marco Rubio afirma que EUA não teve envolvimento na fuga de Flávio Bolsonaro do Brasil
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/marco-rubio-afirma-que-eua-nao-teve-envolvimento-na-fuga-de-flavio-bolsonaro-do-brasil/)_
 
+- **[2026-11-01 17:42 UTC]** Defesa de Flávio Bolsonaro pede que Moraes seja impedido de relatar inquérito e quer troca por Mendonça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-flavio-bolsonaro-pede-que-moraes-seja-impedido-de-relatar-inquerito-e-quer-troca-por-mendonca.shtml)_
+
