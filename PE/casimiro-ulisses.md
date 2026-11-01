@@ -14,3 +14,6 @@
 - **[2026-10-30 17:19 UTC]** 'Quem Ama Cuida': Ulisses revela a Pilar que foi ele quem desviou dinheiro da joalheria
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post468008)_
 
+- **[2026-10-31 22:20 UTC]** 'Quem Ama Cuida': Ulisses usa nome de Felipe para desviar dinheiro e é descoberto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/quem-ama-cuida-ulisses-usa-nome-de-felipe-para-desviar-dinheiro-e-e-descoberto.shtml)_
+
