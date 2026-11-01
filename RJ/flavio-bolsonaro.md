@@ -10642,3 +10642,6 @@
 - **[2026-11-01 13:39 UTC]** PSOL pede que Ministério Público apure exoneração de servidora da gestão Tarcísio que criticou Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/psol-pede-que-ministerio-publico-apure-exoneracao-de-servidora-da-gestao-tarcisio-que-criticou-flavio.shtml)_
 
+- **[2026-11-01 17:27 UTC]** Ministro de Lula diz que família Bolsonaro virou “fardo político” para Trump
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministro-de-lula-diz-que-familia-bolsonaro-virou-fardo-politico-para-trump/)_
+
