@@ -56,3 +56,6 @@
 - **[2026-11-01 17:26 UTC]** Secretaria de Saúde do RJ monitora alta de Mpox após casos superarem 2025
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/secretaria-de-saude-do-rj-monitora-alta-de-mpox-apos-casos-superarem-2025.shtml)_
 
+- **[2026-11-01 18:34 UTC]** Expedicionários da Saúde voltam a Iauaretê após 22 anos e iniciam projeto de atendimento a indígenas no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/01/expedicionarios-da-saude-voltam-a-iauarete-apos-22-anos-e-iniciam-projeto-de-atendimento-a-indigenas-no-am.ghtml)_
+
