@@ -95,3 +95,6 @@
 - **[2026-10-26 20:55 UTC]** Mailza Assis fala de prioridades do mandato, participação feminina no governo e articulação com bancada federal
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/mailza-assis-fala-de-prioridades-do-mandato-participacao-feminina-no-governo-e-articulacao-com-bancada-federal.ghtml)_
 
+- **[2026-11-01 12:00 UTC]** Você viu? Mailza Assis é reeleita no 2º turno, comissária recebe homenagem, Outubro Rosa e mais
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/01/voce-viu-mailza-assis-e-reeleita-no-2o-turno-comissaria-recebe-homenagem-outubro-rosa-e-mais.ghtml)_
+
