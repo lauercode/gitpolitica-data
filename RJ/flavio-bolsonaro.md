@@ -10636,3 +10636,6 @@
 - **[2026-11-01 08:00 UTC]** Julie Milk, que apoiou Flávio Bolsonaro, diz que campanha para demissão de petistas é crueldade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/julie-milk-que-apoiou-flavio-bolsonaro-diz-que-campanha-para-demissao-de-petistas-e-crueldade.shtml)_
 
+- **[2026-11-01 12:27 UTC]** Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/01/trump-diz-que-flvio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser.ghtml)_
+
