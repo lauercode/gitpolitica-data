@@ -10645,3 +10645,6 @@
 - **[2026-11-01 17:27 UTC]** Ministro de Lula diz que família Bolsonaro virou “fardo político” para Trump
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministro-de-lula-diz-que-familia-bolsonaro-virou-fardo-politico-para-trump/)_
 
+- **[2026-11-01 14:43 UTC]** Relator de ações contra Flávio, Dino se firma como herdeiro de Gilmar e Moraes no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/relator-dark-horse-dino-herdeiro-gilmar-moraes-stf/)_
+
