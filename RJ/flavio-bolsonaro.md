@@ -10651,3 +10651,6 @@
 - **[2026-11-01 16:57 UTC]** Ação popular pede suspensão de salário de R$ 46 mil de Flávio Bolsonaro como senador
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/01/ao-popular-pede-suspenso-de-salrio-de-r-46-mil-de-flvio-bolsonaro-como-senador.ghtml)_
 
+- **[2026-11-01 12:56 UTC]** Parlamentares recorrem ao MP contra exoneração de servidora que criticou Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/parlamentares-recorrem-ao-mp-contra-exoneracao-de-servidora-que-criticou-flavio-bolsonaro/)_
+
