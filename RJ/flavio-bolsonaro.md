@@ -10624,3 +10624,6 @@
 - **[2026-11-01 04:03 UTC]** Ida de Flávio Bolsonaro aos Estados Unidos impulsiona direita na eleição do Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ida-de-flavio-bolsonaro-aos-estados-unidos-impulsiona-direita-na-eleicao-do-senado/)_
 
+- **[2026-11-01 01:36 UTC]** Trump afirma que Flávio pode ficar nos EUA “quanto tempo quiser”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/trump-afirma-que-flavio-pode-ficar-nos-eua-quanto-tempo-quiser/)_
+
