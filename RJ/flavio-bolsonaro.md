@@ -10609,3 +10609,6 @@
 - **[2026-10-31 20:22 UTC]** Marco Rubio nega que governo Trump tenha auxiliado Flávio a ir para os EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/marco-rubio-afirma-que-governo-trump-nao-auxiliou-flavio-a-ir-para-eua/)_
 
+- **[2026-10-31 23:00 UTC]** Flávio Bolsonaro perde votos em 585 cidades do Nordeste com bases desmobilizadas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-perde-votos-em-585-cidades-do-nordeste-com-bases-desmobilizadas.shtml)_
+
