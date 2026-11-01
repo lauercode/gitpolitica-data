@@ -10660,3 +10660,6 @@
 - **[2026-11-01 17:42 UTC]** Defesa de Flávio Bolsonaro pede que Moraes seja impedido de relatar inquérito e quer troca por Mendonça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-flavio-bolsonaro-pede-que-moraes-seja-impedido-de-relatar-inquerito-e-quer-troca-por-mendonca.shtml)_
 
+- **[2026-11-01 17:36 UTC]** Aliados avisaram Flávio Bolsonaro sobre risco de prisão e de ele virar novo Jair
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/aliados-avisaram-flavio-bolsonaro-sobre-risco-de-prisao-e-de-ele-virar-novo-jair.shtml)_
+
