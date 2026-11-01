@@ -10648,3 +10648,6 @@
 - **[2026-11-01 14:43 UTC]** Relator de ações contra Flávio, Dino se firma como herdeiro de Gilmar e Moraes no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/relator-dark-horse-dino-herdeiro-gilmar-moraes-stf/)_
 
+- **[2026-11-01 16:57 UTC]** Ação popular pede suspensão de salário de R$ 46 mil de Flávio Bolsonaro como senador
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/01/ao-popular-pede-suspenso-de-salrio-de-r-46-mil-de-flvio-bolsonaro-como-senador.ghtml)_
+
