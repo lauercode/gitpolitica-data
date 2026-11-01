@@ -10618,3 +10618,6 @@
 - **[2026-10-31 23:00 UTC]** Lula 4 dá fôlego à democracia, mas extrema direita não foi embora com Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/lula-4-da-folego-a-democracia-mas-extrema-direita-nao-foi-embora-com-flavio.shtml)_
 
+- **[2026-10-31 22:48 UTC]** Trump diz não ter plano de encontrar Flávio Bolsonaro, mas que senador pode ficar quanto quiser nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/trump-diz-nao-ter-planos-de-encontrar-flavio-bolsonaro-mas-que-ele-pode-ficar-quanto-quiser-nos-eua.shtml)_
+
