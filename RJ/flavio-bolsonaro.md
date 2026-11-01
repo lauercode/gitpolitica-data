@@ -10627,3 +10627,6 @@
 - **[2026-11-01 01:36 UTC]** Trump afirma que Flávio pode ficar nos EUA “quanto tempo quiser”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/trump-afirma-que-flavio-pode-ficar-nos-eua-quanto-tempo-quiser/)_
 
+- **[2026-11-01 00:02 UTC]** Perseguição a Flávio fortalece esforço da direita para presidir Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/perseguicao-a-flavio-fortalece-esforco-da-direita-para-presidir-senado/)_
+
