@@ -125,3 +125,6 @@
 - **[2026-10-26 17:40 UTC]** Dino e Gilmar defendem “união” e diálogo entre adversários após vitória de Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-gilmar-defendem-uniao-dialogo-adversarios-vitoria-lula/)_
 
+- **[2026-11-01 14:43 UTC]** Relator de ações contra Flávio, Dino se firma como herdeiro de Gilmar e Moraes no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/relator-dark-horse-dino-herdeiro-gilmar-moraes-stf/)_
+
