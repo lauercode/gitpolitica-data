@@ -2612,3 +2612,6 @@
 - **[2026-10-31 14:16 UTC]** Por que Flávio prevê queda antecipada de Lula e admite disputar Presidência antes de 2030
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/por-que-flavio-preve-queda-antecipada-de-lula-e-admite-disputar-presidencia-antes-de-2030/)_
 
+- **[2026-10-31 23:00 UTC]** Lula 4 dá fôlego à democracia, mas extrema direita não foi embora com Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/lula-4-da-folego-a-democracia-mas-extrema-direita-nao-foi-embora-com-flavio.shtml)_
+
