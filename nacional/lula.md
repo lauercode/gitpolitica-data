@@ -2618,3 +2618,6 @@
 - **[2026-11-01 04:00 UTC]** Estudantes fazem ato em 9 estados contra Flávio Bolsonaro e de apoio à reeleição de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/estudantes-fazem-ato-em-9-estados-contra-flavio-bolsonaro-e-de-apoio-a-reeleicao-de-lula.shtml)_
 
+- **[2026-11-01 17:27 UTC]** Ministro de Lula diz que família Bolsonaro virou “fardo político” para Trump
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministro-de-lula-diz-que-familia-bolsonaro-virou-fardo-politico-para-trump/)_
+
