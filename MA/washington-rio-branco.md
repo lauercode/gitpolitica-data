@@ -38,3 +38,6 @@
 - **[2026-10-30 15:27 UTC]** Materiais fabricados para facilitar fuga são apreendidos em presídio de Rio Branco; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/10/30/materiais-fabricados-para-facilitar-fuga-sao-apreendidos-em-presidio-de-rio-branco.ghtml)_
 
+- **[2026-11-01 09:00 UTC]** Igreja Católica de Rio Branco tem novo bispo após 27 anos; conheça os religiosos que marcaram a história
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/01/igreja-catolica-de-rio-branco-tem-novo-bispo-apos-27-anos-conheca-os-religiosos-que-marcaram-a-historia.ghtml)_
+
