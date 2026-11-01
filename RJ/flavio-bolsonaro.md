@@ -10669,3 +10669,6 @@
 - **[2026-11-01 12:27 UTC]** Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser, mas que não há plano de encontrá-lo
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/01/trump-diz-que-flvio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser.ghtml)_
 
+- **[2026-11-01 14:57 UTC]** Trump: Flávio Bolsonaro pode ficar nos EUA pelo ‘tempo que quiser’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/trump-flavio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser/)_
+
