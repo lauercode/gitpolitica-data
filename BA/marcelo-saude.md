@@ -50,3 +50,6 @@
 - **[2026-10-31 15:00 UTC]** Concurso da Saúde do TO altera locais de prova em duas cidades; confira
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/31/concurso-da-saude-do-to-altera-locais-de-prova-em-duas-cidades-confira.ghtml)_
 
+- **[2026-11-01 14:05 UTC]** O que estudar para os concursos da Saúde e da Educação de Porto Velho?
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/11/01/o-que-estudar-para-os-concursos-da-saude-e-da-educacao-de-porto-velho.ghtml)_
+
