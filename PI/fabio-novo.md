@@ -38,3 +38,6 @@
 - **[2026-11-01 08:38 UTC]** Novo diz ter recebido mais de 2 mil filiados após não reconhecer vitória de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/novo-diz-ter-recebido-mais-de-2-mil-filiados-apos-nao-reconhecer-vitoria-de-lula.shtml)_
 
+- **[2026-10-30 20:29 UTC]** Novo site da Vivaz amplia a experiência de compra
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/10/30/novo-site-da-vivaz-amplia-a-experiencia-de-compra-1.ghtml)_
+
