@@ -44,3 +44,6 @@
 - **[2026-10-31 06:00 UTC]** Simone Tebet é cotada para o STF caso Lula decida indicar uma mulher para o tribunal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/simone-tebet-e-cotada-para-o-stf-caso-lula-decida-indicar-uma-mulher-para-o-tribunal.shtml)_
 
+- **[2026-10-31 20:35 UTC]** É preciso seguir regra do notável saber jurídico, diz leitora sobre Simone Tebet no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/e-preciso-seguir-regra-do-notavel-saber-juridico-diz-leitora-sobre-simone-tebet-no-stf.shtml)_
+
