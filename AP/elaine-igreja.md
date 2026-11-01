@@ -35,3 +35,6 @@
 - **[2026-10-30 15:00 UTC]** Lav Diaz examina com estética sóbria embate entre filipinos e Igreja
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/lav-diaz-examina-com-estetica-sobria-embate-entre-filipinos-e-igreja.shtml)_
 
+- **[2026-10-31 23:00 UTC]** Santos populares e Igreja se misturam na Argentina às vésperas da visita do papa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/santos-populares-e-igreja-se-misturam-na-argentina-as-vesperas-da-visita-do-papa.shtml)_
+
