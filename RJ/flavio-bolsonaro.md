@@ -10654,3 +10654,6 @@
 - **[2026-11-01 12:56 UTC]** Parlamentares recorrem ao MP contra exoneração de servidora que criticou Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/parlamentares-recorrem-ao-mp-contra-exoneracao-de-servidora-que-criticou-flavio-bolsonaro/)_
 
+- **[2026-11-01 10:18 UTC]** Marco Rubio afirma que EUA não teve envolvimento na fuga de Flávio Bolsonaro do Brasil
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/marco-rubio-afirma-que-eua-nao-teve-envolvimento-na-fuga-de-flavio-bolsonaro-do-brasil/)_
+
