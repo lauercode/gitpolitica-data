@@ -161,3 +161,6 @@
 - **[2026-10-31 23:07 UTC]** Médica brasileira que morreu na Espanha após correr em meia maratona sofreu morte súbita, aponta laudo
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/31/medica-brasileira-morreu-espanha-correr-meia-maratona-sofreu-morte-subita-aponta-laudo.ghtml)_
 
+- **[2026-10-31 19:18 UTC]** Militão tem casa roubada na Espanha e sofre prejuízo milionário
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/militao-tem-casa-roubada-na-espanha-e-sofre-prejuizo-milionario/)_
+
