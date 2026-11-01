@@ -10666,3 +10666,6 @@
 - **[2026-11-01 16:42 UTC]** Atos estudantis têm críticas a Flávio Bolsonaro e atuação dos EUA nas eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/atos-estudantis-tem-criticas-a-flavio-bolsonaro-e-atuacao-dos-eua-nas-eleicoes.shtml)_
 
+- **[2026-11-01 12:27 UTC]** Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser, mas que não há plano de encontrá-lo
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/01/trump-diz-que-flvio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser.ghtml)_
+
