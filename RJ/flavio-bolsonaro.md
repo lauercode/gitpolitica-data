@@ -10621,3 +10621,6 @@
 - **[2026-10-31 22:48 UTC]** Trump diz não ter plano de encontrar Flávio Bolsonaro, mas que senador pode ficar quanto quiser nos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/trump-diz-nao-ter-planos-de-encontrar-flavio-bolsonaro-mas-que-ele-pode-ficar-quanto-quiser-nos-eua.shtml)_
 
+- **[2026-11-01 04:03 UTC]** Ida de Flávio Bolsonaro aos Estados Unidos impulsiona direita na eleição do Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ida-de-flavio-bolsonaro-aos-estados-unidos-impulsiona-direita-na-eleicao-do-senado/)_
+
