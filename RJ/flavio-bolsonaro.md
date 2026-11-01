@@ -10612,3 +10612,6 @@
 - **[2026-10-31 23:00 UTC]** Flávio Bolsonaro perde votos em 585 cidades do Nordeste com bases desmobilizadas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-perde-votos-em-585-cidades-do-nordeste-com-bases-desmobilizadas.shtml)_
 
+- **[2026-10-31 23:00 UTC]** Moraes atravessou a rua para escorregar em casca de banana ao dar decisão sobre Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/10/moraes-atravessou-a-rua-para-escorregar-em-casca-de-banana-ao-dar-decisao-sobre-flavio.shtml)_
+
