@@ -41,3 +41,6 @@
 - **[2026-11-01 09:00 UTC]** Igreja Católica de Rio Branco tem novo bispo após 27 anos; conheça os religiosos que marcaram a história
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/01/igreja-catolica-de-rio-branco-tem-novo-bispo-apos-27-anos-conheca-os-religiosos-que-marcaram-a-historia.ghtml)_
 
+- **[2026-11-01 15:09 UTC]** Católicos lotam catedral de Rio Branco para posse do bispo Dom Antônio Fontinele; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/01/catolicos-lotam-catedral-de-rio-branco-para-posse-do-bispo-dom-antonio-fontinele-video.ghtml)_
+
