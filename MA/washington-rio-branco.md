@@ -44,3 +44,6 @@
 - **[2026-11-01 15:09 UTC]** Católicos lotam catedral de Rio Branco para posse do bispo Dom Antônio Fontinele; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/01/catolicos-lotam-catedral-de-rio-branco-para-posse-do-bispo-dom-antonio-fontinele-video.ghtml)_
 
+- **[2026-11-01 20:51 UTC]** Feira do Mel reúne produtores rurais, pesquisadores e empreendedores em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/01/feira-do-mel-reune-produtores-rurais-pesquisadores-e-empreendedores-em-rio-branco.ghtml)_
+
