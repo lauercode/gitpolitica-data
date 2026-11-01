@@ -10639,3 +10639,6 @@
 - **[2026-11-01 12:27 UTC]** Trump diz que Flávio Bolsonaro pode ficar nos EUA pelo tempo que quiser
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/01/trump-diz-que-flvio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser.ghtml)_
 
+- **[2026-11-01 13:39 UTC]** PSOL pede que Ministério Público apure exoneração de servidora da gestão Tarcísio que criticou Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/psol-pede-que-ministerio-publico-apure-exoneracao-de-servidora-da-gestao-tarcisio-que-criticou-flavio.shtml)_
+
