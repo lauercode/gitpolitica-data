@@ -119,3 +119,6 @@
 - **[2026-10-30 08:00 UTC]** PSB negocia espaço no ministério para João Campos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/30/psb-negocia-espaco-no-ministerio-para-joao-campos.ghtml)_
 
+- **[2026-11-01 13:00 UTC]** João Campos, Gleisi e Haddad: “desempregados” devem integrar equipe ministerial do Lula 4
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/eleicoes/2026/joao-campos-gleisi-e-haddad-desempregados-devem-integrar-equipe-ministerial-do-lula-4/)_
+
