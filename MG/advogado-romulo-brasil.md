@@ -8,3 +8,6 @@
 - **[2026-10-26 23:00 UTC]** Chinês MG IM6 chega ao Brasil para enfrentar BYD e Zeekr entre SUVs elétricos de luxo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/chines-mg-im6-chega-ao-brasil-para-enfrentar-byd-e-zeekr-entre-suvs-eletricos-de-luxo.shtml)_
 
+- **[2026-11-01 08:05 UTC]** Atlético-MG enfrenta o Grêmio na ida da semifinal da Copa do Brasil buscando reação
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/atletico-mg-enfrenta-o-gremio-na-ida-da-semifinal-da-copa-do-brasil-buscando-reacao/)_
+
