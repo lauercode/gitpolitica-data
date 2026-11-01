@@ -10615,3 +10615,6 @@
 - **[2026-10-31 23:00 UTC]** Moraes atravessou a rua para escorregar em casca de banana ao dar decisão sobre Flávio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/10/moraes-atravessou-a-rua-para-escorregar-em-casca-de-banana-ao-dar-decisao-sobre-flavio.shtml)_
 
+- **[2026-10-31 23:00 UTC]** Lula 4 dá fôlego à democracia, mas extrema direita não foi embora com Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/lula-4-da-folego-a-democracia-mas-extrema-direita-nao-foi-embora-com-flavio.shtml)_
+
