@@ -26,3 +26,6 @@
 - **[2026-10-30 19:22 UTC]** Titular contra o Remo, Arthur Cabral amplia sequência sem marcar gols pelo Botafogo
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/titular-contra-o-remo-arthur-cabral-amplia-sequencia-sem-marcar-gols-pelo-botafogo/)_
 
+- **[2026-11-02 08:11 UTC]** Botafogo reduz drasticamente o preço dos ingressos para jogo contra o Atlético-MG
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/botafogo-reduz-drasticamente-o-preco-dos-ingressos-para-jogo-contra-o-atletico-mg/)_
+
