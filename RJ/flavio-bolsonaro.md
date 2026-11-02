@@ -10687,3 +10687,6 @@
 - **[2026-11-02 00:50 UTC]** Rubio nega participação dos EUA na saída de Flávio e evita atrito com o Brasil
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vozes/governo-americano-evita-atritos-diplomaticos-com-brasil-flavio/)_
 
+- **[2026-11-02 04:00 UTC]** Ida de Flávio aos EUA estende a disputa eleitoral nos grupos de WhatsApp
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/ida-de-flavio-aos-eua-estende-a-disputa-eleitoral-nos-grupos-de-whatsapp.shtml)_
+
