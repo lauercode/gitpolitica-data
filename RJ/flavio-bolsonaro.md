@@ -10696,3 +10696,6 @@
 - **[2026-11-01 23:28 UTC]** Nota de Flávio aponta perseguição e fala sobre condição para dar entrevista a emissora
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-diz-que-aceitou-dar-entrevista-mas-pediu-a-emissora-exibicao-sem-cortes/)_
 
+- **[2026-11-02 02:46 UTC]** Ex-agente de Israel estaria envolvido na fuga de Flávio Bolsonaro aos EUA, mostra Fantástico
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/01/ex-agente-de-israel-estaria-envolvido-na-fuga-de-flvio-bolsonaro-aos-eua-mostra-fantstico.ghtml)_
+
