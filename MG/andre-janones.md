@@ -266,3 +266,6 @@
 - **[2026-11-02 02:03 UTC]** Janones diz que não será ministro e continuará na Câmara e no Rede
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/01/janones-diz-que-no-ser-ministro-e-continuar-na-cmara-e-no-rede.ghtml)_
 
+- **[2026-11-02 16:21 UTC]** Na Argentina, Janones se reúne com opositor de Milei e vai encontrar Cristina Kirchner
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/na-argentina-janones-se-reune-com-opositor-de-milei-e-vai-encontrar-cristina-kirchner.shtml)_
+
