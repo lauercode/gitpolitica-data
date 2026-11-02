@@ -10690,3 +10690,6 @@
 - **[2026-11-02 04:00 UTC]** Ida de Flávio aos EUA estende a disputa eleitoral nos grupos de WhatsApp
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/ida-de-flavio-aos-eua-estende-a-disputa-eleitoral-nos-grupos-de-whatsapp.shtml)_
 
+- **[2026-11-02 03:29 UTC]** Flávio Bolsonaro questiona imparcialidade da Justiça e critica emissora de TV
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-questiona-imparcialidade-da-justica-e-critica-emissora-de-tv/)_
+
