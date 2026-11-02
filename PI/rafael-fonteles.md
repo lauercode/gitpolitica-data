@@ -47,3 +47,6 @@
 - **[2026-10-30 17:13 UTC]** Quem é Rafael Fonteles, cotado para o Ministério da Fazenda no Lula 4
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/quem-e-rafael-fonteles-cotado-para-o-ministerio-da-fazenda-no-lula-4/)_
 
+- **[2026-11-02 18:29 UTC]** Cotado para ser ministro da Fazenda, Rafael Fonteles enaltece o equilíbrio fiscal nas redes sociais
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/02/viva-o-equilbrio-fiscal-diz-nas-redes-sociais-rafael-fonteles-cotado-para-ser-ministro-da-fazenda.ghtml)_
+
