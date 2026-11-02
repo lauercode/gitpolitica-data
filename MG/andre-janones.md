@@ -269,3 +269,6 @@
 - **[2026-11-02 16:21 UTC]** Na Argentina, Janones se reúne com opositor de Milei e vai encontrar Cristina Kirchner
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/na-argentina-janones-se-reune-com-opositor-de-milei-e-vai-encontrar-cristina-kirchner.shtml)_
 
+- **[2026-11-02 10:12 UTC]** Janones se reúne com opositor de Milei na Argentina para discutir ajuda na campanha de 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/janones-se-reune-com-opositor-de-milei-na-argentina-para-discutir-ajuda-na-campanha-de-2027.shtml)_
+
