@@ -10717,3 +10717,6 @@
 - **[2026-11-02 12:44 UTC]** Flávio Bolsonaro faz primeira aparição pública nos EUA ao lado de Eduardo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-faz-primeira-aparicao-publica-nos-eua-ao-lado-de-eduardo/)_
 
+- **[2026-11-02 12:20 UTC]** Licença dada a Flávio Bolsonaro pelos EUA tem 32 mil pedidos na fila e reprovação de 80%
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/02/licena-dada-a-flvio-bolsonaro-pelos-eua-tem-32-mil-pedidos-na-fila-e-reprovao-de-80-pontos-percentuais.ghtml)_
+
