@@ -62,3 +62,6 @@
 - **[2026-11-02 15:17 UTC]** Familiares reclamam de túmulos danificados e objetos roubados em cemitério de Rio Branco: 'Absurdo'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/02/familiares-reclamam-de-tumulos-danificados-e-objetos-roubados-em-cemiterio-de-rio-branco-absurdo.ghtml)_
 
+- **[2026-11-02 13:29 UTC]** Dia de Finados movimenta comércio no entorno de cemitérios em Rio Branco: 'Faturar um extra'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/02/dia-de-finados-movimenta-comercio-no-entorno-de-cemiterios-em-rio-branco-faturar-um-extra.ghtml)_
+
