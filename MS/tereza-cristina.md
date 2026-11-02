@@ -32,3 +32,6 @@
 - **[2026-10-29 08:00 UTC]** Marinho e Tereza Cristina articulam frente contra Alcolumbre
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/10/29/marinho-e-tereza-cristina-articulam-frente-contra-alcolumbre.ghtml)_
 
+- **[2026-11-02 06:10 UTC]** Sandra de Sá e Teresa Cristina aportam no 3º Festival Sesc Culturas Negras
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/blogs/augusto-diniz/sandra-de-sa-e-teresa-cristina-aportam-no-3o-festival-sesc-culturas-negras/)_
+
