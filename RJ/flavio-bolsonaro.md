@@ -10699,3 +10699,6 @@
 - **[2026-11-02 02:46 UTC]** Ex-agente de Israel estaria envolvido na fuga de Flávio Bolsonaro aos EUA, mostra Fantástico
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/01/ex-agente-de-israel-estaria-envolvido-na-fuga-de-flvio-bolsonaro-aos-eua-mostra-fantstico.ghtml)_
 
+- **[2026-11-02 19:20 UTC]** Flávio Bolsonaro recorre contra apreensão de passaportes; defesa pede que Moraes seja declarado impedido em investigação
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/02/flavio-bolsonaro-recorre-contra-apreensao-de-passaportes-defesa-pede-tambem-que-moraes-seja-declarado-impedido-em-investigacao.ghtml)_
+
