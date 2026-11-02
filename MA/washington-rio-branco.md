@@ -56,3 +56,6 @@
 - **[2026-11-02 17:39 UTC]** Motociclista fica gravemente ferido após bater em carro em cruzamento de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/02/motociclista-fica-gravemente-ferido-apos-bater-em-carro-durante-conversao-em-cruzamento-de-rio-branco.ghtml)_
 
+- **[2026-11-02 16:54 UTC]** Finados: Dom Fontinele celebra 1ª missa fora da catedral após posse como bispo em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/02/finados-dom-fontinele-celebra-1a-missa-fora-da-catedral-apos-posse-como-bispo-em-rio-branco.ghtml)_
+
