@@ -10681,3 +10681,6 @@
 - **[2026-11-01 23:28 UTC]** Flávio diz que aceitou dar entrevista, mas pediu a emissora exibição sem cortes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-diz-que-aceitou-dar-entrevista-mas-pediu-a-emissora-exibicao-sem-cortes/)_
 
+- **[2026-11-01 22:38 UTC]** Defesa de Flávio Bolsonaro pede afastamento de Moraes de investigação
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-flavio-bolsonaro-pede-afastamento-de-moraes-de-investigacao/)_
+
