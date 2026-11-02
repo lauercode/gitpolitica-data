@@ -47,3 +47,6 @@
 - **[2026-11-01 20:51 UTC]** Feira do Mel reúne produtores rurais, pesquisadores e empreendedores em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/01/feira-do-mel-reune-produtores-rurais-pesquisadores-e-empreendedores-em-rio-branco.ghtml)_
 
+- **[2026-11-02 09:00 UTC]** Entre figuras notáveis e pessoas comuns, cemitério mais antigo de Rio Branco guarda mais de 1 século de histórias
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/02/entre-figuras-notaveis-e-pessoas-comuns-cemiterio-mais-antigo-de-rio-branco-guarda-mais-de-1-seculo-de-historias.ghtml)_
+
