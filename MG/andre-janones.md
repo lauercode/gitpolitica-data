@@ -272,3 +272,6 @@
 - **[2026-11-02 10:12 UTC]** Janones se reúne com opositor de Milei na Argentina para discutir ajuda na campanha de 2027
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/janones-se-reune-com-opositor-de-milei-na-argentina-para-discutir-ajuda-na-campanha-de-2027.shtml)_
 
+- **[2026-11-02 17:51 UTC]** Janones se reúne com peronista para “exportar” estratégia digital contra reeleição de Milei
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/janones-peronista-exportar-estrategia-digital-contra-reeleicao-de-milei/)_
+
