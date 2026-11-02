@@ -14,3 +14,6 @@
 - **[2026-10-25 18:00 UTC]** Rita Guedes, Bruna Griphao e Ticiane Pinheiro vão à repescagem no Dança dos Famosos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/rita-guedes-bruna-griphao-e-ticiane-pinheiro-vao-a-repescagem-no-danca-dos-famosos.shtml)_
 
+- **[2026-11-01 20:20 UTC]** Rita Guedes, Gracyanne, Junno Andrade e Ticiane Pinheiro são eliminados da Dança dos Famosos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/rita-guedes-gracyanne-junno-andrade-e-ticiane-pinheiro-sao-eliminados-da-danca-dos-famosos.shtml)_
+
