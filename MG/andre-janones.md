@@ -257,3 +257,6 @@
 - **[2026-10-31 21:00 UTC]** Deputado do PT de SP copia Janones e cria 'Exército' para fiscalizar Tarcísio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/deputado-do-pt-de-sp-copia-janones-e-cria-exercito-para-fiscalizar-tarcisio.shtml)_
 
+- **[2026-11-02 00:36 UTC]** André Janones diz que não será ministro de Lula e que continuará na Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/andre-janones-diz-que-nao-sera-ministro-de-lula-e-que-continuara-na-camara.shtml)_
+
