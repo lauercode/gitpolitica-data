@@ -10723,3 +10723,6 @@
 - **[2026-11-02 10:40 UTC]** Em 1ª aparição após fuga para os EUA, Flávio vai a culto em igreja ligada a pastor citado na CPMI do INSS
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/em-1a-aparicao-apos-fuga-para-os-eua-flavio-vai-a-culto-em-igreja-ligada-a-pastor-citado-na-cpmi-do-inss/)_
 
+- **[2026-11-02 09:50 UTC]** Ex-agente do governo israelense é investigado por participação na fuga de Flávio Bolsonaro para os EUA
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/ex-agente-do-governo-israelense-e-investigado-por-participacao-na-fuga-de-flavio-bolsonaro-para-os-eua/)_
+
