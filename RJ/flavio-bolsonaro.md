@@ -10708,3 +10708,6 @@
 - **[2026-11-02 14:18 UTC]** Ex-agente do governo israelense teria ajudado Flávio Bolsonaro a fugir para os EUA, diz TV
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ex-agente-do-governo-israelense-teria-ajudado-flavio-bolsonaro-a-fugir-para-os-eua-diz-tv.shtml)_
 
+- **[2026-11-02 11:12 UTC]** Flávio Bolsonaro participa de culto na Flórida em primeira aparição depois da fuga
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-participa-de-culto-na-florida-em-primeira-aparicao-depois-da-fuga.shtml)_
+
