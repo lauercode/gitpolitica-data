@@ -10675,3 +10675,6 @@
 - **[2026-11-01 20:31 UTC]** Marido de Xuxa faz piada com Flávio Bolsonaro após sair da Dança dos Famosos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/marido-de-xuxa-faz-piada-com-flavio-bolsonaro-apos-sair-da-danca-dos-famosos.shtml)_
 
+- **[2026-11-01 20:07 UTC]** Flávio Bolsonaro critica Moraes ao falar de 'juiz que acordou com vontade de fazer o mal'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/flavio-bolsonaro-critica-moraes-ao-falar-de-juiz-que-acordou-com-vontade-de-fazer-o-mal.shtml)_
+
