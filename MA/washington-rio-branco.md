@@ -53,3 +53,6 @@
 - **[2026-11-02 18:13 UTC]** Jovens católicos oferecem orações a familiares de defuntos em cemitério de Rio Branco: 'Acolher e confortar'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/02/jovens-catolicos-oferecem-oracoes-a-familiares-de-defuntos-em-cemiterio-de-rio-branco-acolher-e-confortar.ghtml)_
 
+- **[2026-11-02 17:39 UTC]** Motociclista fica gravemente ferido após bater em carro em cruzamento de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/02/motociclista-fica-gravemente-ferido-apos-bater-em-carro-durante-conversao-em-cruzamento-de-rio-branco.ghtml)_
+
