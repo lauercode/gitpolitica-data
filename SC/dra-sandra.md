@@ -26,3 +26,6 @@
 - **[2026-10-24 17:00 UTC]** Filme de bruxas com Sandra Bullock e Nicole Kidman: o que ver no streaming
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/filme-de-bruxas-com-sandra-bullock-e-nicole-kidman-o-que-ver-no-streaming.shtml)_
 
+- **[2026-11-02 06:10 UTC]** Sandra de Sá e Teresa Cristina aportam no 3º Festival Sesc Culturas Negras
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/blogs/augusto-diniz/sandra-de-sa-e-teresa-cristina-aportam-no-3o-festival-sesc-culturas-negras/)_
+
