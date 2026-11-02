@@ -167,3 +167,6 @@
 - **[2026-11-01 23:38 UTC]** Espanha identifica 12 estrangeiros entre mortos em acidente de trens; 2 são latinos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/espanha-identifica-12-estrangeiros-entre-mortos-em-acidente-de-trens-2-sao-latinos.shtml)_
 
+- **[2026-11-02 16:01 UTC]** Jogador sofre parada cardíaca após dividida em partida na Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/jogador-sofre-parada-cardiaca-apos-dividida-em-partida-na-espanha.shtml)_
+
