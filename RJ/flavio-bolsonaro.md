@@ -10702,3 +10702,6 @@
 - **[2026-11-02 19:20 UTC]** Flávio Bolsonaro recorre contra apreensão de passaportes; defesa pede que Moraes seja declarado impedido em investigação
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/02/flavio-bolsonaro-recorre-contra-apreensao-de-passaportes-defesa-pede-tambem-que-moraes-seja-declarado-impedido-em-investigacao.ghtml)_
 
+- **[2026-11-02 15:39 UTC]** Fuga de Flávio Bolsonaro aos EUA após derrota leva militares a abraçarem Tarcísio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fuga-de-flavio-bolsonaro-aos-eua-apos-derrota-leva-militares-a-abracarem-tarcisio.shtml)_
+
