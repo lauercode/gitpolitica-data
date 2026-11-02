@@ -29,3 +29,6 @@
 - **[2026-11-02 08:11 UTC]** Botafogo reduz drasticamente o preço dos ingressos para jogo contra o Atlético-MG
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/botafogo-reduz-drasticamente-o-preco-dos-ingressos-para-jogo-contra-o-atletico-mg/)_
 
+- **[2026-11-02 08:03 UTC]** Questão financeira do São Paulo é empecilho para permanência de Artur, emprestado pelo Botafogo
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/questao-financeira-do-sao-paulo-e-empecilho-para-permanencia-de-artur-emprestado-pelo-botafogo/)_
+
