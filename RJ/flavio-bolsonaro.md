@@ -10678,3 +10678,6 @@
 - **[2026-11-01 20:07 UTC]** Flávio Bolsonaro critica Moraes ao falar de 'juiz que acordou com vontade de fazer o mal'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/flavio-bolsonaro-critica-moraes-ao-falar-de-juiz-que-acordou-com-vontade-de-fazer-o-mal.shtml)_
 
+- **[2026-11-01 23:28 UTC]** Flávio diz que aceitou dar entrevista, mas pediu a emissora exibição sem cortes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-diz-que-aceitou-dar-entrevista-mas-pediu-a-emissora-exibicao-sem-cortes/)_
+
