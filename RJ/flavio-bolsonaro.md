@@ -10684,3 +10684,6 @@
 - **[2026-11-01 22:38 UTC]** Defesa de Flávio Bolsonaro pede afastamento de Moraes de investigação
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-flavio-bolsonaro-pede-afastamento-de-moraes-de-investigacao/)_
 
+- **[2026-11-02 00:50 UTC]** Rubio nega participação dos EUA na saída de Flávio e evita atrito com o Brasil
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vozes/governo-americano-evita-atritos-diplomaticos-com-brasil-flavio/)_
+
