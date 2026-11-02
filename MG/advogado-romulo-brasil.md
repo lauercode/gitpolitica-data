@@ -14,3 +14,6 @@
 - **[2026-11-01 20:39 UTC]** Grêmio vence o Atlético-MG e fica mais perto da final da Copa do Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/gremio-vence-o-atletico-mg-e-fica-mais-perto-da-final-da-copa-do-brasil.shtml)_
 
+- **[2026-11-01 20:53 UTC]** Grêmio vence Atlético-MG e abre vantagem na semifinal da Copa do Brasil
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/gremio-vence-atletico-mg-e-abre-vantagem-na-semifinal-da-copa-do-brasil/)_
+
