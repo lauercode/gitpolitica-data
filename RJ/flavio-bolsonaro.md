@@ -10714,3 +10714,6 @@
 - **[2026-11-02 18:13 UTC]** Ativistas espalham cartazes de “procurado” com foto de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ativistas-espalham-cartazes-de-procurado-com-foto-de-flavio-bolsonaro/)_
 
+- **[2026-11-02 12:44 UTC]** Flávio Bolsonaro faz primeira aparição pública nos EUA ao lado de Eduardo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-faz-primeira-aparicao-publica-nos-eua-ao-lado-de-eduardo/)_
+
