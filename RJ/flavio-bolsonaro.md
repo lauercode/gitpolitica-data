@@ -10720,3 +10720,6 @@
 - **[2026-11-02 12:20 UTC]** Licença dada a Flávio Bolsonaro pelos EUA tem 32 mil pedidos na fila e reprovação de 80%
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/02/licena-dada-a-flvio-bolsonaro-pelos-eua-tem-32-mil-pedidos-na-fila-e-reprovao-de-80-pontos-percentuais.ghtml)_
 
+- **[2026-11-02 10:40 UTC]** Em 1ª aparição após fuga para os EUA, Flávio vai a culto em igreja ligada a pastor citado na CPMI do INSS
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/em-1a-aparicao-apos-fuga-para-os-eua-flavio-vai-a-culto-em-igreja-ligada-a-pastor-citado-na-cpmi-do-inss/)_
+
