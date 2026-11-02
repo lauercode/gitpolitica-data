@@ -10672,3 +10672,6 @@
 - **[2026-11-01 14:57 UTC]** Trump: Flávio Bolsonaro pode ficar nos EUA pelo ‘tempo que quiser’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/trump-flavio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser/)_
 
+- **[2026-11-01 20:31 UTC]** Marido de Xuxa faz piada com Flávio Bolsonaro após sair da Dança dos Famosos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/11/marido-de-xuxa-faz-piada-com-flavio-bolsonaro-apos-sair-da-danca-dos-famosos.shtml)_
+
