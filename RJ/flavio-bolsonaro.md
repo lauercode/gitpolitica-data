@@ -10693,3 +10693,6 @@
 - **[2026-11-02 03:29 UTC]** Flávio Bolsonaro questiona imparcialidade da Justiça e critica emissora de TV
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-questiona-imparcialidade-da-justica-e-critica-emissora-de-tv/)_
 
+- **[2026-11-01 23:28 UTC]** Nota de Flávio aponta perseguição e fala sobre condição para dar entrevista a emissora
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-diz-que-aceitou-dar-entrevista-mas-pediu-a-emissora-exibicao-sem-cortes/)_
+
