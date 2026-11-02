@@ -263,3 +263,6 @@
 - **[2026-11-02 02:40 UTC]** Janones diz que estado de ‘democracia mitigada’ foi necessário para vencer eleição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/janones-diz-que-estado-de-democracia-mitigada-foi-necessario-para-vencer-eleicao/)_
 
+- **[2026-11-02 02:03 UTC]** Janones diz que não será ministro e continuará na Câmara e no Rede
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/01/janones-diz-que-no-ser-ministro-e-continuar-na-cmara-e-no-rede.ghtml)_
+
