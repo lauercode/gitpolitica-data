@@ -80,3 +80,6 @@
 - **[2026-10-30 11:43 UTC]** Hugo Motta quer votar sistema distrital misto ainda neste ano
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/30/hugo-motta-quer-votar-sistema-distrital-misto-ainda-neste-ano.ghtml)_
 
+- **[2026-11-02 00:59 UTC]** Avanço do PL pressiona Hugo Motta e leva partidos a antecipar disputa pela Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/avanco-do-pl-pressiona-hugo-motta-e-leva-partidos-a-antecipar-disputa-pela-camara/)_
+
