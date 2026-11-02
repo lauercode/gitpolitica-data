@@ -83,3 +83,6 @@
 - **[2026-11-02 00:59 UTC]** Avanço do PL pressiona Hugo Motta e leva partidos a antecipar disputa pela Câmara
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/avanco-do-pl-pressiona-hugo-motta-e-leva-partidos-a-antecipar-disputa-pela-camara/)_
 
+- **[2026-11-02 05:00 UTC]** Hugo Motta acelera acordos para manter comando da Câmara em 2027
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-acelera-acordos-para-manter-comando-da-camara-em-2027/)_
+
