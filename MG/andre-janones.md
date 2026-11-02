@@ -260,3 +260,6 @@
 - **[2026-11-02 00:36 UTC]** André Janones diz que não será ministro de Lula e que continuará na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/andre-janones-diz-que-nao-sera-ministro-de-lula-e-que-continuara-na-camara.shtml)_
 
+- **[2026-11-02 02:40 UTC]** Janones diz que estado de ‘democracia mitigada’ foi necessário para vencer eleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/janones-diz-que-estado-de-democracia-mitigada-foi-necessario-para-vencer-eleicao/)_
+
