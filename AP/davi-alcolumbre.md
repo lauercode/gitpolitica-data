@@ -578,3 +578,6 @@
 - **[2026-10-31 10:22 UTC]** Alcolumbre marca votação da PEC da Segurança Pública para terça-feira
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-marca-votacao-da-pec-da-seguranca-publica-para-terca-feira)_
 
+- **[2026-11-02 03:00 UTC]** Presidência do Senado: PL deve ter candidato próprio, mesmo com aproximação de Alcolumbre
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/02/presidencia-do-senado-pl-deve-ter-candidato-proprio-mesmo-com-aproximacao-de-alcolumbre.ghtml)_
+
