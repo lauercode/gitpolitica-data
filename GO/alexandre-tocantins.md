@@ -272,3 +272,6 @@
 - **[2026-11-01 12:57 UTC]** Tocantins tem previsão de tempo nublado e chuva isolada durante o feriado de Finados
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/01/tocantins-tem-previsao-de-tempo-nublado-e-chuva-isolada-durante-o-feriado-de-finados.ghtml)_
 
+- **[2026-11-02 13:15 UTC]** Veja oportunidades de concursos e seleção no Tocantins com salários de até R$ 9,7 mil
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/02/veja-oportunidades-de-concursos-e-selecao-no-tocantins-com-salarios-de-ate-r-97-mil.ghtml)_
+
