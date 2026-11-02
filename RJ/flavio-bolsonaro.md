@@ -10711,3 +10711,6 @@
 - **[2026-11-02 11:12 UTC]** Flávio Bolsonaro participa de culto na Flórida em primeira aparição depois da fuga
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-participa-de-culto-na-florida-em-primeira-aparicao-depois-da-fuga.shtml)_
 
+- **[2026-11-02 18:13 UTC]** Ativistas espalham cartazes de “procurado” com foto de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ativistas-espalham-cartazes-de-procurado-com-foto-de-flavio-bolsonaro/)_
+
