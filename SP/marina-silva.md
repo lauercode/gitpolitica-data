@@ -83,3 +83,6 @@
 - **[2026-10-12 15:59 UTC]** Vídeo de Marina Silva denunciando fake news do PT em 2014 volta a circular nas redes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/video-marina-silva-denunciando-fake-news-pt-2014-volta-circular-redes/)_
 
+- **[2026-11-03 06:00 UTC]** Marina Silva irá à COP31 em missão da Câmara, mas pode integrar comitiva de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/marina-silva-ira-a-cop31-em-missao-da-camara-mas-pode-integrar-comitiva-de-lula.shtml)_
+
