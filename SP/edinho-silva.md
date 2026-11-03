@@ -23,3 +23,6 @@
 - **[2026-10-30 15:30 UTC]** Edinho Silva admite erro do PT após 2022 e promete “mudanças profundas” no partido
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/edinho-silva-admite-erro-pt-2022-promete-mudancas-profundas/)_
 
+- **[2026-11-03 18:16 UTC]** Edinho Silva descarta impeachment de ministros e novos impostos no governo Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/edinho-silva-descarta-impeachment-de-ministros-e-novos-impostos-no-governo-lula/)_
+
