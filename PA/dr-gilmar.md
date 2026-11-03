@@ -131,3 +131,6 @@
 - **[2026-11-03 10:01 UTC]** Gilmar diz que esperava 'postura de árbitro equidistante' do presidente do TSE, em crítica a Kassio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/gilmar-diz-que-esperava-postura-de-arbitro-equidistante-do-presidente-do-tse-em-critica-a-kassio.shtml)_
 
+- **[2026-11-03 12:10 UTC]** Gilmar sinaliza incômodo com Nunes Marques por demora em prorrogar eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-sinaliza-incomodo-com-nunes-marques-por-nao-prorrogar-eleicoes/)_
+
