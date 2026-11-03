@@ -65,3 +65,6 @@
 - **[2026-11-02 13:29 UTC]** Dia de Finados movimenta comércio no entorno de cemitérios em Rio Branco: 'Faturar um extra'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/02/dia-de-finados-movimenta-comercio-no-entorno-de-cemiterios-em-rio-branco-faturar-um-extra.ghtml)_
 
+- **[2026-11-03 04:00 UTC]** Previsão do tempo hoje para Rio Branco (AC): chuva forte de manhã; sol e diminuição de nuvens à tarde, noite com muitas nuvens
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/03/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml)_
+
