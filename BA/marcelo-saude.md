@@ -62,3 +62,6 @@
 - **[2026-11-03 17:15 UTC]** Gabarito provisório do concurso da Saúde do TO é divulgado; confira
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/gabarito-provisorio-do-concurso-da-saude-do-to-e-divulgado-confira.ghtml)_
 
+- **[2026-11-03 15:39 UTC]** Concurso da Saúde do TO tem vagas para médicos sem candidatos inscritos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/concurso-da-saude-do-to-tem-vagas-para-medicos-sem-candidatos-inscritos.ghtml)_
+
