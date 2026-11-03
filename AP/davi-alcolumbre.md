@@ -584,3 +584,6 @@
 - **[2026-11-02 13:00 UTC]** Rogério Marinho vai defender que direita divulgue voto em estratégia para derrotar Alcolumbre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/rogerio-marinho-vai-defender-que-direita-divulgue-voto-em-estrategia-para-derrotar-alcolumbre.shtml)_
 
+- **[2026-11-03 00:59 UTC]** Direita terá dificuldade de conter STF se não impedir reeleição de Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/direita-dificuldade-conter-stf-impedir-reeleicao-alcolumbre/)_
+
