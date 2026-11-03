@@ -10735,3 +10735,6 @@
 - **[2026-11-02 14:18 UTC]** Ex-agente do governo israelense ajudou Flávio Bolsonaro a fugir para os EUA, indica investigação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ex-agente-do-governo-israelense-teria-ajudado-flavio-bolsonaro-a-fugir-para-os-eua-diz-tv.shtml)_
 
+- **[2026-11-02 21:08 UTC]** Flávio Bolsonaro pede que investigação sobre lavagem de dinheiro passe de Moraes a Mendonça
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/02/flavio-bolsonaro-pede-que-investigacao-sobre-lavagem-de-dinheiro-passe-de-moraes-a-mendonca.ghtml)_
+
