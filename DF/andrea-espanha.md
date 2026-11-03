@@ -179,3 +179,6 @@
 - **[2026-11-03 14:18 UTC]** Corpo de médica brasileira que morreu após meia maratona na Espanha está em translado e será velado no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/03/corpo-de-medica-brasileira-que-morreu-apos-meia-maratona-na-espanha-esta-em-translado-e-sera-velado-no-rs.ghtml)_
 
+- **[2026-11-03 21:05 UTC]** Ministro de Transportes da Espanha renunciará após colisão de trens rápidos
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/03/ministro-de-transportes-da-espanha-renunciar-aps-coliso-de-trens-rpidos.ghtml)_
+
