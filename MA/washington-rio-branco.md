@@ -77,3 +77,6 @@
 - **[2026-11-03 04:00 UTC]** Previsão do tempo hoje para Rio Branco (AC): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/03/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml)_
 
+- **[2026-11-03 22:34 UTC]** Prefeitura anuncia criação da Guarda Municipal de Rio Branco e concurso para 80 agentes
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/03/prefeitura-anuncia-criacao-de-guarda-municipal-em-rio-branco-e-concurso-para-80-agentes.ghtml)_
+
