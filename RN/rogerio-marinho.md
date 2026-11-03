@@ -109,3 +109,6 @@
 - **[2026-11-02 13:00 UTC]** Rogério Marinho vai defender que direita divulgue voto em estratégia para derrotar Alcolumbre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/rogerio-marinho-vai-defender-que-direita-divulgue-voto-em-estrategia-para-derrotar-alcolumbre.shtml)_
 
+- **[2026-11-02 20:35 UTC]** Rogério Marinho defende voto aberto na disputa contra Alcolumbre pela Presidência do Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-defende-voto-aberto-na-disputa-contra-alcolumbre-pela-presidencia-do-senado/)_
+
