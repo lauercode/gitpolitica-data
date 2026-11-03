@@ -191,3 +191,6 @@
 - **[2026-11-03 10:00 UTC]** PT se anima com vitória de Lula para disputar Prefeitura de SP em 2028
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pt-se-anima-com-vitoria-de-lula-para-disputar-prefeitura-de-sp-em-2028.shtml)_
 
+- **[2026-11-03 13:31 UTC]** Lula fará exames médicos gerais em SP antes de viajar à Turquia e às Filipinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lula-deve-fazer-exames-gerais-em-sp-antes-de-viajar-a-turquia-e-as-filipinas.shtml)_
+
