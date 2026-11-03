@@ -284,3 +284,6 @@
 - **[2026-11-02 23:07 UTC]** Janones visita Cristina Kirchner para lançar “Ejército del peronismo” contra reeleição de Milei
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/janones-peronista-exportar-estrategia-digital-contra-reeleicao-de-milei/)_
 
+- **[2026-11-03 08:00 UTC]** Antes de ser deputado, Janones foi cobrador de ônibus e estudou Direito com bolsa
+  _fonte: [G1 - Política:](https://g1.globo.com/fantastico/noticia/2026/11/03/antes-de-ser-deputado-janones-foi-cobrador-de-onibus-e-estudou-direito-com-bolsa.ghtml)_
+
