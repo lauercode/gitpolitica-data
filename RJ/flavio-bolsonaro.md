@@ -10744,3 +10744,6 @@
 - **[2026-11-03 08:00 UTC]** Desgaste de Trump põe em xeque futuro de Flávio nos EUA
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/desgaste-de-trump-poe-em-xeque-futuro-de-flavio-nos-eua.ghtml)_
 
+- **[2026-11-03 12:18 UTC]** Douglas Ruas critica movimentos contra Supremo, mas diz não julgar carta de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/douglas-ruas-critica-movimentos-contra-supremo-mas-diz-nao-julgar-carta-de-flavio-bolsonaro.shtml)_
+
