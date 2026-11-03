@@ -59,3 +59,6 @@
 - **[2026-11-01 18:34 UTC]** Expedicionários da Saúde voltam a Iauaretê após 22 anos e iniciam projeto de atendimento a indígenas no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/01/expedicionarios-da-saude-voltam-a-iauarete-apos-22-anos-e-iniciam-projeto-de-atendimento-a-indigenas-no-am.ghtml)_
 
+- **[2026-11-03 17:15 UTC]** Gabarito provisório do concurso da Saúde do TO é divulgado; confira
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/gabarito-provisorio-do-concurso-da-saude-do-to-e-divulgado-confira.ghtml)_
+
