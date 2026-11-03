@@ -14,3 +14,6 @@
 - **[2026-10-14 18:14 UTC]** Paulo Dantas se afasta do governo de Alagoas para coordenar campanha de Lula
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/14/paulo-dantas-se-afasta-do-governo-de-alagoas-para-coordenar-campanha-de-lula.ghtml)_
 
+- **[2026-11-03 16:40 UTC]** Paulo Dantas apresenta equipe de transição de governo e diz que aguarda indicações de JHC
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/03/paulo-dantas-apresenta-equipe-de-transicao-de-governo-e-diz-que-aguarda-indicacoes-de-jhc.ghtml)_
+
