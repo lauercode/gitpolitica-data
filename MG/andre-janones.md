@@ -287,3 +287,6 @@
 - **[2026-11-03 08:00 UTC]** Antes de ser deputado, Janones foi cobrador de ônibus e estudou Direito com bolsa
   _fonte: [G1 - Política:](https://g1.globo.com/fantastico/noticia/2026/11/03/antes-de-ser-deputado-janones-foi-cobrador-de-onibus-e-estudou-direito-com-bolsa.ghtml)_
 
+- **[2026-11-03 10:33 UTC]** Chanceler de Milei ironiza visita de Janones a Cristina Kirchner, e governo Lula se distancia de iniciativa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/chanceler-de-milei-ironiza-visita-de-janones-a-cristina-kirchner-e-governo-lula-de-distancia.shtml)_
+
