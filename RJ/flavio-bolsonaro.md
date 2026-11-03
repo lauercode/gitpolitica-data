@@ -10753,3 +10753,6 @@
 - **[2026-11-03 19:22 UTC]** Vorcaro disse que 'tá muito difícil' em mensagem a Flávio Bolsonaro antes de prisão, diz portal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/vorcaro-disse-que-ta-muito-dificil-em-mensagem-a-flavio-bolsonaro-antes-de-prisao-diz-portal.shtml)_
 
+- **[2026-11-03 19:03 UTC]** Flávio Bolsonaro registra presença e vota em sessão do Senado após fugir para os EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/flavio-bolsonaro-registra-presenca-e-vota-em-sessao-do-senado-apos-fugir-para-os-eua.shtml)_
+
