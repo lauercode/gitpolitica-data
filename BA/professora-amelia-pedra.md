@@ -11,3 +11,6 @@
 - **[2026-10-29 15:28 UTC]** Pedra no sapato
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/carta-capital/pedra-no-sapato-3/)_
 
+- **[2026-11-03 06:00 UTC]** Ossos em cavernas na Espanha mostram prática de canibalismo na Idade da Pedra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/11/ossos-em-cavernas-na-espanha-mostram-pratica-de-canibalismo-na-idade-da-pedra.shtml)_
+
