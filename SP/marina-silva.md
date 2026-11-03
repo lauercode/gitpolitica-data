@@ -86,3 +86,6 @@
 - **[2026-11-03 06:00 UTC]** Marina Silva irá à COP31 em missão da Câmara, mas pode integrar comitiva de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/marina-silva-ira-a-cop31-em-missao-da-camara-mas-pode-integrar-comitiva-de-lula.shtml)_
 
+- **[2026-11-03 20:29 UTC]** Planta descoberta no Tocantins recebe nome em homenagem à ex-ministra Marina Silva
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/planta-descoberta-no-tocantins-recebe-nome-em-homenagem-a-ex-ministra-marina-silva.ghtml)_
+
