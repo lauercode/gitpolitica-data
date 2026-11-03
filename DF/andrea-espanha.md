@@ -176,3 +176,6 @@
 - **[2026-11-03 09:28 UTC]** Atacante morre após se chocar com goleiro durante partida na Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/atacante-morre-apos-se-chocar-com-goleiro-durante-partida-na-espanha.shtml)_
 
+- **[2026-11-03 14:18 UTC]** Corpo de médica brasileira que morreu após meia maratona na Espanha está em translado e será velado no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/03/corpo-de-medica-brasileira-que-morreu-apos-meia-maratona-na-espanha-esta-em-translado-e-sera-velado-no-rs.ghtml)_
+
