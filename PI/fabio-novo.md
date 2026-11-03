@@ -50,3 +50,6 @@
 - **[2026-11-03 13:32 UTC]** Novo semáforo causa engarrafamento de 2 km na Avenida Brasil, em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/03/novo-semaforo-causa-engarrafamento-na-avenida-brasil-em-boa-vista.ghtml)_
 
+- **[2026-11-03 15:04 UTC]** Novo sistema opera finanças de PMEs por conversa
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/11/03/novo-sistema-opera-financas-de-pmes-por-conversa-1.ghtml)_
+
