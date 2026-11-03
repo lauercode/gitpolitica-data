@@ -74,3 +74,6 @@
 - **[2026-11-03 13:45 UTC]** Moradores fecham estrada em protesto por melhorias de ramal em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/03/moradores-fecham-estrada-em-protesto-por-melhorias-de-ramal-em-rio-branco.ghtml)_
 
+- **[2026-11-03 04:00 UTC]** Previsão do tempo hoje para Rio Branco (AC): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/03/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml)_
+
