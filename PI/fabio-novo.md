@@ -47,3 +47,6 @@
 - **[2026-11-03 04:00 UTC]** Novo álbum de Steven Wilson é uma espécie de filme para os ouvidos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/novo-album-de-steven-wilson-e-uma-especie-de-filme-para-os-ouvidos.shtml)_
 
+- **[2026-11-03 13:32 UTC]** Novo semáforo causa engarrafamento de 2 km na Avenida Brasil, em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/03/novo-semaforo-causa-engarrafamento-na-avenida-brasil-em-boa-vista.ghtml)_
+
