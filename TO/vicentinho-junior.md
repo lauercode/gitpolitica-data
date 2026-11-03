@@ -83,3 +83,6 @@
 - **[2026-10-27 22:06 UTC]** Governador eleito do Tocantins, Vicentinho Júnior define equipe de transição; veja nomes
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/27/governador-eleito-do-tocantins-vicentinho-junior-define-equipe-de-transicao-veja-nomes.ghtml)_
 
+- **[2026-11-03 15:10 UTC]** Vicentinho Júnior anuncia nomes para ocupar o primeiro escalão do governo do TO em 2027
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/vicentinho-junior-anuncia-nomes-para-ocupar-o-primeiro-escalao-do-governo-do-to-em-2027.ghtml)_
+
