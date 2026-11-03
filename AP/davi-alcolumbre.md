@@ -596,3 +596,6 @@
 - **[2026-11-03 18:11 UTC]** Alcolumbre escolhe aliado para relatoria do Orçamento em meio à articulação pela reeleição no Senado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/03/alcolumbre-escolhe-aliado-para-relatoria-do-orcamento-em-meio-a-articulacao-pela-reeleicao-no-senado.ghtml)_
 
+- **[2026-11-03 20:40 UTC]** Aposta de Alcolumbre em pacificação com anistia a Bolsonaro enfrenta resistência no PT e no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aposta-de-alcolumbre-em-pacificacao-com-anistia-a-bolsonaro-enfrenta-resistencia-no-pt-e-no-stf/)_
+
