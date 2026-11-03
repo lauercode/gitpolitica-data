@@ -587,3 +587,6 @@
 - **[2026-11-03 00:59 UTC]** Direita terá dificuldade de conter STF se não impedir reeleição de Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/direita-dificuldade-conter-stf-impedir-reeleicao-alcolumbre/)_
 
+- **[2026-11-02 20:35 UTC]** Rogério Marinho defende voto aberto na disputa contra Alcolumbre pela Presidência do Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-defende-voto-aberto-na-disputa-contra-alcolumbre-pela-presidencia-do-senado/)_
+
