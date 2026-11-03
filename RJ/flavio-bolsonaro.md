@@ -10732,3 +10732,6 @@
 - **[2026-11-02 23:00 UTC]** Esposa acompanha Flávio nos EUA após ser peça-chave para vender moderação nas eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/esposa-acompanha-flavio-nos-eua-apos-ser-peca-chave-para-vender-moderacao-nas-eleicoes.shtml)_
 
+- **[2026-11-02 14:18 UTC]** Ex-agente do governo israelense ajudou Flávio Bolsonaro a fugir para os EUA, indica investigação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ex-agente-do-governo-israelense-teria-ajudado-flavio-bolsonaro-a-fugir-para-os-eua-diz-tv.shtml)_
+
