@@ -115,3 +115,6 @@
 - **[2026-11-03 12:08 UTC]** Bolsonaro articula eleição do Senado de olho na anistia, e setores do PL falam em esvaziar Rogério Marinho
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/03/bolsonaro-articula-eleicao-do-senado-de-olho-na-anistia-e-setores-do-pl-falam-em-esvaziar-rogerio-marinho.ghtml)_
 
+- **[2026-11-03 16:16 UTC]** PL deve lançar Rogério Marinho para a presidência do Senado, mas oposição segue dividida
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/pl-deve-lancar-rogerio-marinho-para-a-presidencia-do-senado-mas-oposicao-segue-dividida.ghtml)_
+
