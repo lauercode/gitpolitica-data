@@ -146,3 +146,6 @@
 - **[2026-10-24 19:58 UTC]** Flávio Bolsonaro encerra campanha em ato no RJ com Nikolas e Douglas Ruas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-encerra-campanha-em-ato-no-rj-com-nikolas-e-douglas-ruas.shtml)_
 
+- **[2026-11-02 23:00 UTC]** Douglas Ruas monta Governo do RJ tentando sair da sombra de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/douglas-ruas-monta-governo-do-rj-tentando-sair-da-sombra-de-flavio-bolsonaro.shtml)_
+
