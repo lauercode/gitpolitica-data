@@ -65,3 +65,6 @@
 - **[2026-10-30 14:50 UTC]** Barbeiro influenciador de 14 anos é morto a tiros em cidade do interior de Pernambuco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/barbeiro-influenciador-de-14-anos-e-morto-a-tiros-em-cidade-do-interior-de-pernambuco.shtml)_
 
+- **[2026-11-02 21:39 UTC]** Homem é assassinado durante ato que celebrava vitória de Lula no interior de Pernambuco
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/homem-e-assassinado-durante-ato-que-celebrava-vitoria-de-lula-no-interior-de-pernambuco.shtml)_
+
