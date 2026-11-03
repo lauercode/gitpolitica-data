@@ -32,3 +32,6 @@
 - **[2026-11-03 17:22 UTC]** Senador Eduardo Braga vai relatar a Lei Orçamentária Anual 2027
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/senador-eduardo-braga-vai-relatar-a-lei-orcamentaria-anual-2027.ghtml)_
 
+- **[2026-11-03 22:53 UTC]** Eduardo Braga será o relator-geral do Orçamento 2027
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1315522-eduardo-braga-sera-o-relator-geral-do-orcamento-2027)_
+
