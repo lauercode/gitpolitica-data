@@ -152,3 +152,6 @@
 - **[2026-11-03 12:18 UTC]** Douglas Ruas critica movimentos contra Supremo, mas diz não julgar carta de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/douglas-ruas-critica-movimentos-contra-supremo-mas-diz-nao-julgar-carta-de-flavio-bolsonaro.shtml)_
 
+- **[2026-11-03 13:41 UTC]** Douglas Ruas anuncia primeiros secretários no Rio e promete criar teto de gastos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/douglas-ruas-anuncia-primeros-secretrios-no-rio-e-promete-criar-teto-de-gastos.ghtml)_
+
