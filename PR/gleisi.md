@@ -14,3 +14,6 @@
 - **[2026-11-01 22:47 UTC]** Gleisi elogia André Lara Resende, para quem o Banco Central agrava o desequilíbrio fiscal
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/01/gleisi-elogia-andre-lara-resende-para-quem-o-banco-central-agrava-o-desequilibrio-fiscal.ghtml)_
 
+- **[2026-11-03 00:51 UTC]** Gleisi volta a atacar mercado e recua na defesa do tabelamento de juros
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gleisi-volta-a-atacar-mercado-e-recua-na-defesa-do-tabelamento-de-juros/)_
+
