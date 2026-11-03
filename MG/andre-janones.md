@@ -275,3 +275,6 @@
 - **[2026-11-02 17:51 UTC]** Janones se reúne com peronista para “exportar” estratégia digital contra reeleição de Milei
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/janones-peronista-exportar-estrategia-digital-contra-reeleicao-de-milei/)_
 
+- **[2026-11-02 18:31 UTC]** Janones encontra Cristina Kirchner na Argentina e discute apoio para derrotar Milei na campanha de 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/janones-encontra-cristina-kirchner-na-argentina-e-discute-apoio-para-derrotar-milei-na-campanha-de-2027.shtml)_
+
