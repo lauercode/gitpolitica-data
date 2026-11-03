@@ -112,3 +112,6 @@
 - **[2026-11-02 20:35 UTC]** Rogério Marinho defende voto aberto na disputa contra Alcolumbre pela Presidência do Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-defende-voto-aberto-na-disputa-contra-alcolumbre-pela-presidencia-do-senado/)_
 
+- **[2026-11-03 12:08 UTC]** Bolsonaro articula eleição do Senado de olho na anistia, e setores do PL falam em esvaziar Rogério Marinho
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/03/bolsonaro-articula-eleicao-do-senado-de-olho-na-anistia-e-setores-do-pl-falam-em-esvaziar-rogerio-marinho.ghtml)_
+
