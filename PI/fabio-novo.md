@@ -44,3 +44,6 @@
 - **[2026-11-02 19:00 UTC]** Marinho terá apoio do Novo em lançamento para presidente do Senado e busca outros partidos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/marinho-tera-apoio-do-novo-em-lancamento-para-presidente-do-senado-e-busca-outros-partidos.shtml)_
 
+- **[2026-11-03 04:00 UTC]** Novo álbum de Steven Wilson é uma espécie de filme para os ouvidos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/novo-album-de-steven-wilson-e-uma-especie-de-filme-para-os-ouvidos.shtml)_
+
