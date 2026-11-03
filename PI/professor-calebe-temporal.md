@@ -11,3 +11,6 @@
 - **[2026-11-02 15:36 UTC]** Temporal em Maringá destelha Corpo de Bombeiros, arranca árvores pelas raízes e deixa mais de 80 mil casas sem energia
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/02/temporal-maringa-estragos.ghtml)_
 
+- **[2026-11-03 03:00 UTC]** Temporal tem previsão de granizo grande e vento acima de 90 km/h ao RS; veja as regiões em alerta
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/03/previsao-tempo-granizo-rs-regioes-alerta.ghtml)_
+
