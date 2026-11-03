@@ -185,3 +185,6 @@
 - **[2026-11-03 14:27 UTC]** Lula tem encontro com ministros antes de ir a SP para exames de rotina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-passara-por-exames-de-rotina-em-hospital-de-sp.shtml)_
 
+- **[2026-11-03 13:31 UTC]** Lula deve fazer exames médicos gerais em SP antes de viajar à Turquia e às Filipinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lula-deve-fazer-exames-gerais-em-sp-antes-de-viajar-a-turquia-e-as-filipinas.shtml)_
+
