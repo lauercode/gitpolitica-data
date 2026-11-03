@@ -278,3 +278,6 @@
 - **[2026-11-03 13:32 UTC]** Homem é preso após agredir e manter companheira em cárcere privado no interior do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/homem-e-preso-apos-agredir-e-manter-companheira-em-carcere-privado-no-interior-do-tocantins.ghtml)_
 
+- **[2026-11-03 20:29 UTC]** Planta descoberta no Tocantins recebe nome em homenagem à ex-ministra Marina Silva
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/planta-descoberta-no-tocantins-recebe-nome-em-homenagem-a-ex-ministra-marina-silva.ghtml)_
+
