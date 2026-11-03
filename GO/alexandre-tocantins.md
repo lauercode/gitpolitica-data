@@ -275,3 +275,6 @@
 - **[2026-11-02 13:15 UTC]** Veja oportunidades de concursos e seleção no Tocantins com salários de até R$ 9,7 mil
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/02/veja-oportunidades-de-concursos-e-selecao-no-tocantins-com-salarios-de-ate-r-97-mil.ghtml)_
 
+- **[2026-11-03 13:32 UTC]** Homem é preso após agredir e manter companheira em cárcere privado no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/homem-e-preso-apos-agredir-e-manter-companheira-em-carcere-privado-no-interior-do-tocantins.ghtml)_
+
