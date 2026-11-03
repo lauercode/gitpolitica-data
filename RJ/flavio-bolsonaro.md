@@ -10750,3 +10750,6 @@
 - **[2026-11-03 21:00 UTC]** Nos EUA, Flávio Bolsonaro registra presença em sessão do Senado que discute a PEC da Segurança Pública
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/03/nos-eua-flavio-bolsonaro-registra-presenca-em-sessao-do-senado.ghtml)_
 
+- **[2026-11-03 19:22 UTC]** Vorcaro disse que 'tá muito difícil' em mensagem a Flávio Bolsonaro antes de prisão, diz portal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/vorcaro-disse-que-ta-muito-dificil-em-mensagem-a-flavio-bolsonaro-antes-de-prisao-diz-portal.shtml)_
+
