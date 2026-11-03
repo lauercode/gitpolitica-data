@@ -10738,3 +10738,6 @@
 - **[2026-11-02 21:08 UTC]** Flávio Bolsonaro pede que investigação sobre lavagem de dinheiro passe de Moraes a Mendonça
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/02/flavio-bolsonaro-pede-que-investigacao-sobre-lavagem-de-dinheiro-passe-de-moraes-a-mendonca.ghtml)_
 
+- **[2026-11-02 18:05 UTC]** Flávio Bolsonaro recorre contra ordem de apreensão de passaportes e pede impedimento de Moraes no caso
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/flavio-bolsonaro-recorre-contra-ordem-de-apreensao-de-passaportes-e-pede-impedimento-de-moraes-no-caso/)_
+
