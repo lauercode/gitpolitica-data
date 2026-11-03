@@ -35,3 +35,6 @@
 - **[2026-11-02 06:10 UTC]** Sandra de Sá e Teresa Cristina aportam no 3º Festival Sesc Culturas Negras
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/blogs/augusto-diniz/sandra-de-sa-e-teresa-cristina-aportam-no-3o-festival-sesc-culturas-negras/)_
 
+- **[2026-11-03 16:16 UTC]** PL deve lançar Rogério Marinho para presidência do Senado, mas oposição segue dividida com Tereza Cristina
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/pl-deve-lancar-rogerio-marinho-para-a-presidencia-do-senado-mas-oposicao-segue-dividida.ghtml)_
+
