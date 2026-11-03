@@ -118,3 +118,6 @@
 - **[2026-11-03 16:16 UTC]** PL deve lançar Rogério Marinho para a presidência do Senado, mas oposição segue dividida
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/pl-deve-lancar-rogerio-marinho-para-a-presidencia-do-senado-mas-oposicao-segue-dividida.ghtml)_
 
+- **[2026-11-03 16:16 UTC]** PL deve lançar Rogério Marinho para presidência do Senado, mas oposição segue dividida com Tereza Cristina
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/pl-deve-lancar-rogerio-marinho-para-a-presidencia-do-senado-mas-oposicao-segue-dividida.ghtml)_
+
