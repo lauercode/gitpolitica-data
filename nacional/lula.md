@@ -2621,3 +2621,6 @@
 - **[2026-11-01 17:27 UTC]** Ministro de Lula diz que família Bolsonaro virou “fardo político” para Trump
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministro-de-lula-diz-que-familia-bolsonaro-virou-fardo-politico-para-trump/)_
 
+- **[2026-11-03 13:00 UTC]** Com aval de Lula, presidente do PT atua para expulsar grupo apelidado de 'centrão' do partido
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-aval-de-lula-presidente-do-pt-atua-para-expulsar-grupo-apelidado-de-centrao-do-partido.shtml)_
+
