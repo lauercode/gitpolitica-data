@@ -590,3 +590,6 @@
 - **[2026-11-02 20:35 UTC]** Rogério Marinho defende voto aberto na disputa contra Alcolumbre pela Presidência do Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-defende-voto-aberto-na-disputa-contra-alcolumbre-pela-presidencia-do-senado/)_
 
+- **[2026-11-03 09:33 UTC]** Lula, Motta e Alcolumbre tentam acelerar pautas antes de Congresso mais bolsonarista em 2027
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/lula-motta-e-alcolumbre-tentam-acelerar-pautas-antes-de-congresso-mais-bolsonarista-em-2027/)_
+
