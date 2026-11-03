@@ -10759,3 +10759,6 @@
 - **[2026-11-03 18:44 UTC]** Flávio abandonou eleitores e agora boicota oposição
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vozes/guilherme-macalossi/flavio-abandonou-eleitores-e-agora-boicota-oposicao/)_
 
+- **[2026-11-03 22:03 UTC]** Flávio Bolsonaro marca presença em sessão que discute PEC da segurança pública
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/flavio-bolsonaro-marca-presenca-em-sessao-que-discute-pec-da-seguranca-publica.ghtml)_
+
