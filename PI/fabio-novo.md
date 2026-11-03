@@ -41,3 +41,6 @@
 - **[2026-10-30 20:29 UTC]** Novo site da Vivaz amplia a experiência de compra
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/10/30/novo-site-da-vivaz-amplia-a-experiencia-de-compra-1.ghtml)_
 
+- **[2026-11-02 19:00 UTC]** Marinho terá apoio do Novo em lançamento para presidente do Senado e busca outros partidos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/marinho-tera-apoio-do-novo-em-lancamento-para-presidente-do-senado-e-busca-outros-partidos.shtml)_
+
