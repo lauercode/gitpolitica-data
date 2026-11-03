@@ -10741,3 +10741,6 @@
 - **[2026-11-02 18:05 UTC]** Flávio Bolsonaro recorre contra ordem de apreensão de passaportes e pede impedimento de Moraes no caso
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/flavio-bolsonaro-recorre-contra-ordem-de-apreensao-de-passaportes-e-pede-impedimento-de-moraes-no-caso/)_
 
+- **[2026-11-03 08:00 UTC]** Desgaste de Trump põe em xeque futuro de Flávio nos EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/desgaste-de-trump-poe-em-xeque-futuro-de-flavio-nos-eua.ghtml)_
+
