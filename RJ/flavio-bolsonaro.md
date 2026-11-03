@@ -10726,3 +10726,6 @@
 - **[2026-11-02 09:50 UTC]** Ex-agente do governo israelense é investigado por participação na fuga de Flávio Bolsonaro para os EUA
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/ex-agente-do-governo-israelense-e-investigado-por-participacao-na-fuga-de-flavio-bolsonaro-para-os-eua/)_
 
+- **[2026-11-02 23:00 UTC]** Douglas Ruas monta Governo do RJ tentando sair da sombra de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/douglas-ruas-monta-governo-do-rj-tentando-sair-da-sombra-de-flavio-bolsonaro.shtml)_
+
