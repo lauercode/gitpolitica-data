@@ -26,3 +26,6 @@
 - **[2026-10-30 21:12 UTC]** Após queda de cavalo, Henrique, da dupla com Juliano, volta a competir e derruba boi em vaquejada; VÍDEO
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/10/30/apos-queda-de-cavalo-henrique-da-dupla-com-juliano-volta-a-competir-e-derruba-boi-em-vaquejada-video.ghtml)_
 
+- **[2026-11-03 15:56 UTC]** Conheça a vaquejada, paixão assumida de Henrique, da dupla com Juliano
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/conheca-a-vaquejada-paixao-assumida-de-henrique-da-dupla-com-juliano.ghtml)_
+
