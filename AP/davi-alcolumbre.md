@@ -593,3 +593,6 @@
 - **[2026-11-03 09:33 UTC]** Lula, Motta e Alcolumbre tentam acelerar pautas antes de Congresso mais bolsonarista em 2027
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/lula-motta-e-alcolumbre-tentam-acelerar-pautas-antes-de-congresso-mais-bolsonarista-em-2027/)_
 
+- **[2026-11-03 18:11 UTC]** Alcolumbre escolhe aliado para relatoria do Orçamento em meio à articulação pela reeleição no Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/03/alcolumbre-escolhe-aliado-para-relatoria-do-orcamento-em-meio-a-articulacao-pela-reeleicao-no-senado.ghtml)_
+
