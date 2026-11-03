@@ -155,3 +155,6 @@
 - **[2026-11-03 13:41 UTC]** Douglas Ruas anuncia primeiros secretários no Rio e promete criar teto de gastos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/douglas-ruas-anuncia-primeros-secretrios-no-rio-e-promete-criar-teto-de-gastos.ghtml)_
 
+- **[2026-11-03 22:05 UTC]** Douglas Ruas se reúne com ministro Zanin sobre ação que pede segundo turno no Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/douglas-ruas-se-rene-com-ministro-zanin-sobre-ao-que-pede-segundo-turno-no-rio.ghtml)_
+
