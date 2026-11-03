@@ -10747,3 +10747,6 @@
 - **[2026-11-03 12:18 UTC]** Douglas Ruas critica movimentos contra Supremo, mas diz não julgar carta de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/douglas-ruas-critica-movimentos-contra-supremo-mas-diz-nao-julgar-carta-de-flavio-bolsonaro.shtml)_
 
+- **[2026-11-03 21:00 UTC]** Nos EUA, Flávio Bolsonaro registra presença em sessão do Senado que discute a PEC da Segurança Pública
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/03/nos-eua-flavio-bolsonaro-registra-presenca-em-sessao-do-senado.ghtml)_
+
