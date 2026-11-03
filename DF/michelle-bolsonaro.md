@@ -65,3 +65,6 @@
 - **[2026-10-27 21:15 UTC]** Valdemar posta foto com Michelle Bolsonaro: 'conversa sobre o futuro'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/27/valdemar-posta-foto-com-michelle-bolsonaro-conversa-sobre-o-futuro.ghtml)_
 
+- **[2026-11-03 07:00 UTC]** Michelle Bolsonaro riu por último
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-toniol/2026/11/michelle-bolsonaro-riu-por-ultimo.shtml)_
+
