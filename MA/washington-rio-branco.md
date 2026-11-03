@@ -71,3 +71,6 @@
 - **[2026-11-03 15:32 UTC]** Homem de 23 anos morre após colisão entre motos em frente ao prédio da PF em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/03/homem-de-23-anos-morre-apos-colisao-entre-motos-em-frente-ao-predio-da-pf-em-rio-branco.ghtml)_
 
+- **[2026-11-03 13:45 UTC]** Moradores fecham estrada em protesto por melhorias de ramal em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/03/moradores-fecham-estrada-em-protesto-por-melhorias-de-ramal-em-rio-branco.ghtml)_
+
