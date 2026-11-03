@@ -281,3 +281,6 @@
 - **[2026-11-02 16:21 UTC]** Janones se reúne com Cristina Kirchner na Argentina para discutir estratégias contra Milei
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/na-argentina-janones-se-reune-com-opositor-de-milei-e-vai-encontrar-cristina-kirchner.shtml)_
 
+- **[2026-11-02 23:07 UTC]** Janones visita Cristina Kirchner para lançar “Ejército del peronismo” contra reeleição de Milei
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/janones-peronista-exportar-estrategia-digital-contra-reeleicao-de-milei/)_
+
