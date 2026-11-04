@@ -71,3 +71,6 @@
 - **[2026-11-04 11:18 UTC]** Agenda de empresas: Lucro da RD Saúde recua 10% no 3° trimestre; ganho do Itaú soma R$ 12,6 bilhões
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/04/agenda-de-empresas-lucro-da-rd-saude-recua-10percent-no-3-trimestre-ganho-do-itau-soma-r-126-bilhoes.ghtml)_
 
+- **[2026-11-04 15:47 UTC]** Ministério da Saúde projeta alta da dengue em 2027 e quer voltar a usar vacina do Butantan
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/ministerio-da-saude-projeta-alta-da-dengue-em-2027-e-quer-voltar-a-usar-vacina-do-butantan.shtml)_
+
