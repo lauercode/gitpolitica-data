@@ -164,3 +164,6 @@
 - **[2026-11-04 18:05 UTC]** Eduardo Paes pede a cassação da chapa de Douglas Ruas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-paes-pede-a-cassacao-da-chapa-de-douglas-ruas/)_
 
+- **[2026-11-04 14:21 UTC]** Douglas Ruas se reúne com Zanin para tratar de ação que pede segundo turno no Rio de Janeiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/douglas-ruas-se-reune-com-zanin-para-tratar-de-acao-que-pede-segundo-turno-no-rio-de-janeiro/)_
+
