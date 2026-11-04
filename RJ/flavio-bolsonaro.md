@@ -10762,3 +10762,6 @@
 - **[2026-11-03 22:03 UTC]** Flávio Bolsonaro marca presença em sessão que discute PEC da segurança pública
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/flavio-bolsonaro-marca-presenca-em-sessao-que-discute-pec-da-seguranca-publica.ghtml)_
 
+- **[2026-11-04 00:15 UTC]** Nos EUA, Flávio vota a favor da PEC da Segurança
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nos-eua-flavio-vota-a-favor-da-pec-da-seguranca/)_
+
