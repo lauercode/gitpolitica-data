@@ -2636,3 +2636,6 @@
 - **[2026-11-04 11:15 UTC]** Derrota de Trump e vitória de Lula enfraquecem direita nas Américas e vira oportunidade para presidente brasileiro pacificar país
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/04/derrota-de-trump-e-vitoria-de-lula-enfraquecem-direita-nas-americas-e-vira-oportunidade-para-presidente-brasileiro-pacificar-o-pais.ghtml)_
 
+- **[2026-11-04 15:40 UTC]** Exames do presidente Lula estão dentro da normalidade, informa  boletim
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/exames-do-presidente-lula-esto-dentro-da-normalidade-informa-boletim.ghtml)_
+
