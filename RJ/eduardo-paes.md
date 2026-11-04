@@ -68,3 +68,6 @@
 - **[2026-10-28 13:00 UTC]** PT e aliados de Eduardo Paes discutem herança de virada de Lula no Rio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-e-aliados-de-eduardo-paes-discutem-heranca-de-virada-de-lula-no-rio.shtml)_
 
+- **[2026-11-04 18:05 UTC]** Eduardo Paes pede a cassação da chapa de Douglas Ruas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-paes-pede-a-cassacao-da-chapa-de-douglas-ruas/)_
+
