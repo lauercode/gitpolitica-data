@@ -32,3 +32,6 @@
 - **[2026-11-02 08:03 UTC]** Questão financeira do São Paulo é empecilho para permanência de Artur, emprestado pelo Botafogo
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/questao-financeira-do-sao-paulo-e-empecilho-para-permanencia-de-artur-emprestado-pelo-botafogo/)_
 
+- **[2026-11-03 21:14 UTC]** Gabriel de Alba marca presença no Nilton Santos e lidera “corrente de união” para blindar elenco do Botafogo
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/gabriel-de-alba-marca-presenca-no-nilton-santos-e-lidera-corrente-de-uniao-para-blindar-elenco-do-botafogo/)_
+
