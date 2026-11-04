@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-11-03 23:19 UTC]** Mau cheiro na Lagoa da Jansen incomoda moradores e afasta turistas em São Luís
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/03/mau-cheiro-na-lagoa-da-jansen-incomoda-moradores-e-afasta-turistas-em-sao-luis.ghtml)_
+
