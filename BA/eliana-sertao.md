@@ -35,3 +35,6 @@
 - **[2026-10-31 12:26 UTC]** Saneamento básico em Sergipe: Sertão sofre com falhas no serviço
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/10/31/saneamento-basico-em-sergipe-sertao-sofre-com-falhas-no-servico.ghtml)_
 
+- **[2026-11-03 23:44 UTC]** Jovem é apreendido suspeito de agredir namorada e ameaçá-la com faca no pescoço, no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/03/jovem-e-apreendido-suspeito-de-agredir-namorada-e-ameaca-la-com-faca-no-pescoco-no-sertao-da-paraiba.ghtml)_
+
