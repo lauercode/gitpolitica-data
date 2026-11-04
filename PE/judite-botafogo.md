@@ -35,3 +35,6 @@
 - **[2026-11-03 21:14 UTC]** Gabriel de Alba marca presença no Nilton Santos e lidera “corrente de união” para blindar elenco do Botafogo
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/gabriel-de-alba-marca-presenca-no-nilton-santos-e-lidera-corrente-de-uniao-para-blindar-elenco-do-botafogo/)_
 
+- **[2026-11-04 06:45 UTC]** Rádio Nacional transmite Botafogo X Atlético-MG pelo Brasileirão
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/radio-nacional-transmite-botafogo-x-atletico-mg-pelo-brasileirao)_
+
