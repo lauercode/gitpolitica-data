@@ -602,3 +602,6 @@
 - **[2026-11-03 23:00 UTC]** Motta e Alcolumbre reforçam aproximação com o governo e vão a evento sobre mulheres
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/motta-e-alcolumbre-reforcam-aproximacao-com-o-governo-e-vao-a-evento-sobre-mulheres.shtml)_
 
+- **[2026-11-04 00:40 UTC]** Davi Alcolumbre acena com anistia a Bolsonaro para garantir comando do Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/davi-alcolumbre-acena-com-anistia-a-bolsonaro-para-garantir-comando-do-senado/)_
+
