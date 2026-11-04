@@ -41,3 +41,6 @@
 - **[2026-11-03 16:54 UTC]** Eduardo Braga é escolhido como relator do Orçamento para 2027
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/eduardo-braga-e-escolhido-como-relator-do-orcamento-para-2027/)_
 
+- **[2026-11-04 02:06 UTC]** Senador Eduardo Braga será o relator do Orçamento de 2027
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/senador-eduardo-braga-sera-o-relator-geral-do-projeto-de-lei-do-orcamento-2027/)_
+
