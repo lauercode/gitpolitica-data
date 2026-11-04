@@ -41,3 +41,6 @@
 - **[2026-11-04 04:00 UTC]** PP se irrita com ataques a Tereza Cristina após acordo com Rogério Marinho por chefia do Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pp-se-irrita-com-ataques-a-tereza-cristina-apos-acordo-com-rogerio-marinho-por-chefia-do-senado.shtml)_
 
+- **[2026-11-04 16:29 UTC]** Em ato para lançar Rogério Marinho à presidência do Senado, líder do PL condena ataques a Tereza Cristina
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/em-ato-para-lancar-rogerio-marinho-a-presidencia-do-senado-lider-do-pl-condena-ataques-a-tereza-cristina.ghtml)_
+
