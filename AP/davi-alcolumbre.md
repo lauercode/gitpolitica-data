@@ -614,3 +614,6 @@
 - **[2026-11-04 11:27 UTC]** Alcolumbre quer votar nesta quarta PEC da redução da maioridade penal em busca de apoio da direita para reeleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/noticia/2026/11/04/alcolumbre-quer-votar-ainda-nesta-quarta-pec-da-reducao-da-maioridade-penal-em-busca-de-apoio-da-direita-para-reeleicao.ghtml)_
 
+- **[2026-11-04 13:31 UTC]** Alcolumbre escolhe senador do PL para relatar lei que dá diretrizes para o Orçamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/alcolumbre-escolhe-senador-do-pl-para-relatar-lei-que-da-diretrizes-para-o-orcamento.shtml)_
+
