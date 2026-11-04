@@ -605,3 +605,6 @@
 - **[2026-11-04 00:40 UTC]** Davi Alcolumbre acena com anistia a Bolsonaro para garantir comando do Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/davi-alcolumbre-acena-com-anistia-a-bolsonaro-para-garantir-comando-do-senado/)_
 
+- **[2026-11-04 09:52 UTC]** PEC da Segurança abriu janela de oportunidade para o governo e Davi Alcolumbre
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/04/pec-da-seguranca-abriu-janela-de-oportunidade-para-o-governo-e-davi-alcolumbre.ghtml)_
+
