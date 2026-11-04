@@ -130,3 +130,6 @@
 - **[2026-11-04 13:11 UTC]** PL lança Rogério Marinho para a presidência do Senado com defesa de Flávio e anistia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pl-lanca-rogerio-marinho-para-a-presidencia-do-senado.shtml)_
 
+- **[2026-11-04 16:06 UTC]** PL confirma candidatura de Rogério Marinho à presidência do Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pl-confirma-candidatura-de-rogerio-marinho-a-presidencia-do-senado/)_
+
