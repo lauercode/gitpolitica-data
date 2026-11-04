@@ -86,3 +86,6 @@
 - **[2026-11-03 15:10 UTC]** Vicentinho Júnior anuncia nomes para ocupar o primeiro escalão do governo do TO em 2027
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/vicentinho-junior-anuncia-nomes-para-ocupar-o-primeiro-escalao-do-governo-do-to-em-2027.ghtml)_
 
+- **[2026-11-04 15:51 UTC]** Com anúncio do 1º escalão, governo de Vicentinho Júnior deve ter novas secretarias; veja quais
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/04/com-anuncio-do-1o-escalao-governo-de-vicentinho-junior-deve-ter-novas-secretarias-veja-quais.ghtml)_
+
