@@ -20,3 +20,6 @@
 - **[2026-10-04 21:52 UTC]** Cleitinho Azevedo é eleito governador de Minas Gerais no 1º turno
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/cleitinho-azevedo-e-eleito-governador-de-minas-gerais-no-primeiro-turn)_
 
+- **[2026-11-04 12:53 UTC]** Cleitinho Azevedo suspende patrocínios milionários para Atlético-MG e Cruzeiro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/cleitinho-azevedo-suspende-patrocinios-milionarios-para-atletico-mg-e-cruzeiro/)_
+
