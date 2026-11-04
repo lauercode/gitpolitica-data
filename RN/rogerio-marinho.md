@@ -121,3 +121,6 @@
 - **[2026-11-03 16:16 UTC]** PL deve lançar Rogério Marinho para presidência do Senado, mas oposição segue dividida com Tereza Cristina
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/pl-deve-lancar-rogerio-marinho-para-a-presidencia-do-senado-mas-oposicao-segue-dividida.ghtml)_
 
+- **[2026-11-04 04:00 UTC]** PP se irrita com ataques a Tereza Cristina após acordo com Rogério Marinho por chefia do Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pp-se-irrita-com-ataques-a-tereza-cristina-apos-acordo-com-rogerio-marinho-por-chefia-do-senado.shtml)_
+
