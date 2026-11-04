@@ -611,3 +611,6 @@
 - **[2026-11-04 12:25 UTC]** Alcolumbre faz acenos ao governo com PEC da Segurança e mira reeleição no Senado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/04/alcolumbre-governo-presidencia-senado.ghtml)_
 
+- **[2026-11-04 11:27 UTC]** Alcolumbre quer votar nesta quarta PEC da redução da maioridade penal em busca de apoio da direita para reeleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/noticia/2026/11/04/alcolumbre-quer-votar-ainda-nesta-quarta-pec-da-reducao-da-maioridade-penal-em-busca-de-apoio-da-direita-para-reeleicao.ghtml)_
+
