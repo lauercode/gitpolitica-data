@@ -608,3 +608,6 @@
 - **[2026-11-04 09:52 UTC]** PEC da Segurança abriu janela de oportunidade para o governo e Davi Alcolumbre
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/04/pec-da-seguranca-abriu-janela-de-oportunidade-para-o-governo-e-davi-alcolumbre.ghtml)_
 
+- **[2026-11-04 12:25 UTC]** Alcolumbre faz acenos ao governo com PEC da Segurança e mira reeleição no Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/04/alcolumbre-governo-presidencia-senado.ghtml)_
+
