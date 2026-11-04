@@ -392,3 +392,6 @@
 - **[2026-10-09 08:00 UTC]** Incêndio destrói prédio e pesquisas na Federal de Pernambuco
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/09/incendio-destroi-predio-e-pesquisas-na-federal-de-pernambuco.ghtml)_
 
+- **[2026-11-04 17:36 UTC]** Dívida Pública Federal segue acima de R$ 9 trilhões
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/11/04/divida-publica-federal-segue-acima-de-r-9-trilhoes-1.ghtml)_
+
