@@ -10777,3 +10777,6 @@
 - **[2026-11-04 18:23 UTC]** Flávio usará conferência mundial da direita para consolidar posição de dissidência expatriada
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-usara-conferencia-mundial-da-direita-para-consolidar-posicao-de-dissidencia-expatriada/)_
 
+- **[2026-11-04 12:33 UTC]** Eleições americanas: derrota de Trump pode influenciar destino de Flávio?
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eleicoes-nos-eua-derrota-de-trump-decidira-destino-de-flavio/)_
+
