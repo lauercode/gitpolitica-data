@@ -10768,3 +10768,6 @@
 - **[2026-11-03 20:20 UTC]** Nos EUA, Flávio Bolsonaro vota a favor de PEC do governo Lula sobre segurança pública
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/nos-eua-flavio-bolsonaro-vota-a-favor-de-pec-do-governo-lula-sobre-seguranca-publica/)_
 
+- **[2026-11-04 13:42 UTC]** Rui Costa Pimenta, do PCO, diz ver perseguição a Flávio e defende legitimidade do bolsonarismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/rui-costa-pimenta-do-pco-diz-ver-perseguicao-a-flavio-e-defende-legitimidade-do-bolsonarismo.shtml)_
+
