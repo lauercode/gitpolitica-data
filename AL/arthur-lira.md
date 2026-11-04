@@ -47,3 +47,6 @@
 - **[2026-10-07 01:58 UTC]** Resultado das eleições 2026 em Feira Grande (AL): votação para presidente no Grupo Escolar Manoel Leandro de Lira, na 49ª zona eleitoral
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-feira-grande-al-votacao-para-presidente-no-grupo-escolar-manoel-leandro-de-lira-na-49a-zona-eleitoral.ghtml)_
 
+- **[2026-11-04 00:15 UTC]** Poderoso do Centrão, Arthur Lira já se movimenta para ter protagonismo no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/poderoso-do-centrao-arthur-lira-ja-se-movimenta-para-ter-protagonismo-no-senado/)_
+
