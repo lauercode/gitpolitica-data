@@ -10780,3 +10780,6 @@
 - **[2026-11-04 12:33 UTC]** Eleições americanas: derrota de Trump pode influenciar destino de Flávio?
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eleicoes-nos-eua-derrota-de-trump-decidira-destino-de-flavio/)_
 
+- **[2026-11-04 13:55 UTC]** Flávio Bolsonaro e a internacionalização do cristofascismo
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/artigo/flavio-bolsonaro-e-a-internacionalizacao-do-cristofascismo/)_
+
