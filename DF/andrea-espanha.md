@@ -185,3 +185,6 @@
 - **[2026-11-03 20:29 UTC]** Ministro dos Transportes da Espanha renuncia após colisão de trens matar 69
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ministro-dos-transportes-da-espanha-renuncia-apos-colisao-de-trens-matar-69.shtml)_
 
+- **[2026-11-04 14:09 UTC]** Huge Networks participa de encontro que reúne Forças Armadas e indústria de Brasil e Espanha em Salvador
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/11/04/huge-networks-participa-de-encontro-que-reune-forcas-armadas-e-industria-de-brasil-e-espanha-em-salvador-1.ghtml)_
+
