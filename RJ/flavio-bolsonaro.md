@@ -10774,3 +10774,6 @@
 - **[2026-11-04 13:11 UTC]** PL lança Rogério Marinho para a presidência do Senado com defesa de Flávio e anistia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pl-lanca-rogerio-marinho-para-a-presidencia-do-senado.shtml)_
 
+- **[2026-11-04 18:23 UTC]** Flávio usará conferência mundial da direita para consolidar posição de dissidência expatriada
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-usara-conferencia-mundial-da-direita-para-consolidar-posicao-de-dissidencia-expatriada/)_
+
