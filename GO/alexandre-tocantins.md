@@ -284,3 +284,6 @@
 - **[2026-11-04 14:54 UTC]** Governador anuncia mudanças no comando geral da Polícia Militar do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/04/governador-anuncia-mudancas-no-comando-geral-da-policia-militar-do-tocantins.ghtml)_
 
+- **[2026-11-04 14:50 UTC]** Pagou o IPVA no Tocantins, mas não consegue emitir o documento do veículo? Veja os motivos
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/04/pagou-o-ipva-no-tocantins-mas-nao-consegue-emitir-o-documento-do-veiculo-veja-os-motivos.ghtml)_
+
