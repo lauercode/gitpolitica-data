@@ -74,3 +74,6 @@
 - **[2026-11-04 15:47 UTC]** Ministério da Saúde projeta alta da dengue em 2027 e quer voltar a usar vacina do Butantan
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/ministerio-da-saude-projeta-alta-da-dengue-em-2027-e-quer-voltar-a-usar-vacina-do-butantan.shtml)_
 
+- **[2026-11-04 14:48 UTC]** RD Saúde projeta ganhar espaço no mercado de remédios emagrecedores até 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/rd-saude-projeta-ganhar-espaco-no-mercado-de-remedios-emagrecedores-ate-2027.shtml)_
+
