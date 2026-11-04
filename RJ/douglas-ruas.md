@@ -161,3 +161,6 @@
 - **[2026-11-04 15:30 UTC]** Paes pede investigação de Douglas Ruas por suspeitas de compra de votos e irregularidades eleitorais
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/04/paes-pede-investigacao-de-douglas-ruas-por-suspeitas-de-compra-de-votos-e-irregularidades-eleitorais.ghtml)_
 
+- **[2026-11-04 18:05 UTC]** Eduardo Paes pede a cassação da chapa de Douglas Ruas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-paes-pede-a-cassacao-da-chapa-de-douglas-ruas/)_
+
