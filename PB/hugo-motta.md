@@ -86,3 +86,6 @@
 - **[2026-11-02 05:00 UTC]** Hugo Motta acelera acordos para manter comando da Câmara em 2027
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-acelera-acordos-para-manter-comando-da-camara-em-2027/)_
 
+- **[2026-11-03 23:31 UTC]** Hugo Motta destaca aprovação da PEC da Segurança Pública pelo Senado
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1315533-hugo-motta-destaca-aprovacao-da-pec-da-seguranca-publica-pelo-senado)_
+
