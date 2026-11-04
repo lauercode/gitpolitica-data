@@ -599,3 +599,6 @@
 - **[2026-11-03 20:40 UTC]** Aposta de Alcolumbre em pacificação com anistia a Bolsonaro enfrenta resistência no PT e no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/aposta-de-alcolumbre-em-pacificacao-com-anistia-a-bolsonaro-enfrenta-resistencia-no-pt-e-no-stf/)_
 
+- **[2026-11-03 23:00 UTC]** Motta e Alcolumbre reforçam aproximação com o governo e vão a evento sobre mulheres
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/motta-e-alcolumbre-reforcam-aproximacao-com-o-governo-e-vao-a-evento-sobre-mulheres.shtml)_
+
