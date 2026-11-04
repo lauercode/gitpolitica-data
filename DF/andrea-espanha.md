@@ -182,3 +182,6 @@
 - **[2026-11-03 21:05 UTC]** Ministro de Transportes da Espanha renunciará após colisão de trens rápidos
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/03/ministro-de-transportes-da-espanha-renunciar-aps-coliso-de-trens-rpidos.ghtml)_
 
+- **[2026-11-03 20:29 UTC]** Ministro dos Transportes da Espanha renuncia após colisão de trens matar 69
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ministro-dos-transportes-da-espanha-renuncia-apos-colisao-de-trens-matar-69.shtml)_
+
