@@ -281,3 +281,6 @@
 - **[2026-11-03 20:29 UTC]** Planta descoberta no Tocantins recebe nome em homenagem à ex-ministra Marina Silva
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/planta-descoberta-no-tocantins-recebe-nome-em-homenagem-a-ex-ministra-marina-silva.ghtml)_
 
+- **[2026-11-04 14:54 UTC]** Governador anuncia mudanças no comando geral da Polícia Militar do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/04/governador-anuncia-mudancas-no-comando-geral-da-policia-militar-do-tocantins.ghtml)_
+
