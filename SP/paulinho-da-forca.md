@@ -182,3 +182,6 @@
 - **[2026-10-27 19:17 UTC]** Força dos EUA e geração de caixa dominam leitura de analistas sobre resultado da Gerdau
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/10/27/fora-dos-eua-e-gerao-de-caixa-dominam-leitura-de-analistas-sobre-resultado-da-gerdau.ghtml)_
 
+- **[2026-11-04 18:21 UTC]** Força da água 'corta' trecho da BR-282 ao meio durante chuva intensa em SC; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/11/04/forca-agua-corta-trecho-br-282-ao-meio-durante-chuva-sc-video.ghtml)_
+
