@@ -218,3 +218,6 @@
 - **[2026-10-26 21:29 UTC]** Ana Elisa atribui virada de Lula em Minas a trabalho nas ruas e nas redes, e defende diálogo com Cleitinho
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/ana-elisa-atribui-virada-de-lula-em-minas-a-trabalho-nas-ruas-e-nas-redes-e-defende-dialogo-com-cleitinho.ghtml)_
 
+- **[2026-11-04 18:07 UTC]** Cleitinho aciona TCE-MG e consegue suspender patrocínios de R$ 32 milhões a clubes mineiros
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-aciona-tce-mg-e-consegue-suspender-patrocinios-de-r-32-milhoes-a-clubes-mineiros/)_
+
