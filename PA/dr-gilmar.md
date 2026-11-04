@@ -134,3 +134,6 @@
 - **[2026-11-03 12:10 UTC]** Gilmar sinaliza incômodo com Nunes Marques por demora em prorrogar eleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-sinaliza-incomodo-com-nunes-marques-por-nao-prorrogar-eleicoes/)_
 
+- **[2026-11-04 10:58 UTC]** Gilmar cobra explicações sobre ataques a indígenas após as eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-cobra-explicacoes-sobre-ataques-a-indigenas-apos-as-eleicoes/)_
+
