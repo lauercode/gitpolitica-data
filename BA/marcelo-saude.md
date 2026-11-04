@@ -65,3 +65,6 @@
 - **[2026-11-03 15:39 UTC]** Concurso da Saúde do TO tem vagas para médicos sem candidatos inscritos
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/concurso-da-saude-do-to-tem-vagas-para-medicos-sem-candidatos-inscritos.ghtml)_
 
+- **[2026-11-04 00:31 UTC]** RD Saúde tem lucro ajustado de R$ 439,1 milhões no 3º trimestre, alta de 9,2%
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/03/rd-sade-tem-lucro-ajustado-de-r-4391-milhes-no-3-trimestre-alta-de-92-pontos-percentuais.ghtml)_
+
