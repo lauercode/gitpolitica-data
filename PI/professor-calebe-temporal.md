@@ -14,3 +14,6 @@
 - **[2026-11-03 03:00 UTC]** Temporal tem previsão de granizo grande e vento acima de 90 km/h ao RS; veja as regiões em alerta
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/03/previsao-tempo-granizo-rs-regioes-alerta.ghtml)_
 
+- **[2026-11-03 21:45 UTC]** VÍDEO: Temporal com vento forte e pedras de granizo causa estragos no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/03/temporal-vento-forte-granizo.ghtml)_
+
