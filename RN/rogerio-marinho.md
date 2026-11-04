@@ -124,3 +124,6 @@
 - **[2026-11-04 04:00 UTC]** PP se irrita com ataques a Tereza Cristina após acordo com Rogério Marinho por chefia do Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pp-se-irrita-com-ataques-a-tereza-cristina-apos-acordo-com-rogerio-marinho-por-chefia-do-senado.shtml)_
 
+- **[2026-11-04 16:18 UTC]** Rogério Marinho, do PL, lança candidatura à presidência do Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/04/rogerio-marinho-do-pl-lanca-candidatura-a-presidencia-do-senado.ghtml)_
+
