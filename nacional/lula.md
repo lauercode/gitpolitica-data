@@ -2627,3 +2627,6 @@
 - **[2026-11-03 20:20 UTC]** Nos EUA, Flávio Bolsonaro vota a favor de PEC do governo Lula sobre segurança pública
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/nos-eua-flavio-bolsonaro-vota-a-favor-de-pec-do-governo-lula-sobre-seguranca-publica/)_
 
+- **[2026-11-04 11:15 UTC]** Derrota de Trump e vitória de Lula enfraquecem direita nas Américas e vira oportunidade para presidente brasileiro pacificar o país
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/04/derrota-de-trump-e-vitoria-de-lula-enfraquecem-direita-nas-americas-e-vira-oportunidade-para-presidente-brasileiro-pacificar-o-pais.ghtml)_
+
