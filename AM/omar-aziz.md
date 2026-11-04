@@ -197,3 +197,6 @@
 - **[2026-10-29 20:34 UTC]** Omar Aziz e Roberto Cidade iniciam transição de governo no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/29/omar-aziz-e-roberto-cidade-iniciam-transicao-de-governo-no-amazonas.ghtml)_
 
+- **[2026-11-04 14:26 UTC]** Omar Aziz escolhe vice-governadora eleita, ex-chefe da Suframa e advogado para transição no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/04/omar-aziz-escolhe-vice-governadora-eleita-ex-chefe-da-suframa-e-advogado-para-transicao-no-am.ghtml)_
+
