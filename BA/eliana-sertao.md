@@ -38,3 +38,6 @@
 - **[2026-11-03 23:44 UTC]** Jovem é apreendido suspeito de agredir namorada e ameaçá-la com faca no pescoço, no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/03/jovem-e-apreendido-suspeito-de-agredir-namorada-e-ameaca-la-com-faca-no-pescoco-no-sertao-da-paraiba.ghtml)_
 
+- **[2026-11-04 14:30 UTC]** Homem confessa ter tentado estuprar criança e criar imagens pornográficas dela com IA, no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/04/homem-confessa-ter-tentado-estuprar-crianca-e-criar-imagens-pornograficas-dela-com-ia-no-sertao-da-paraiba.ghtml)_
+
