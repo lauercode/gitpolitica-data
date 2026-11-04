@@ -10771,3 +10771,6 @@
 - **[2026-11-04 13:42 UTC]** Rui Costa Pimenta, do PCO, diz ver perseguição a Flávio e defende legitimidade do bolsonarismo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/rui-costa-pimenta-do-pco-diz-ver-perseguicao-a-flavio-e-defende-legitimidade-do-bolsonarismo.shtml)_
 
+- **[2026-11-04 13:11 UTC]** PL lança Rogério Marinho para a presidência do Senado com defesa de Flávio e anistia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pl-lanca-rogerio-marinho-para-a-presidencia-do-senado.shtml)_
+
