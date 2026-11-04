@@ -29,3 +29,6 @@
 - **[2026-10-29 00:19 UTC]** Pastor de Flávio Bolsonaro diz que não tem 'terceiro turno' e que as eleições terminaram
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pastor-de-flavio-bolsonaro-diz-que-nao-tem-terceiro-turno-e-que-as-eleicoes-terminaram.shtml)_
 
+- **[2026-11-04 14:31 UTC]** Pastor metodista se torna 1º democrata eleito senador pelo Kansas em 94 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/pastor-metodista-se-torna-1o-democrata-eleito-senador-pelo-kansas-em-94-anos.shtml)_
+
