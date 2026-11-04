@@ -14,3 +14,6 @@
 - **[2026-10-31 12:09 UTC]** Café da Mantiqueira de Minas é eleito o melhor do Brasil no 'Oscar' da categoria; veja vencedores
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cafe-na-prensa/2026/10/cafe-da-mantiqueira-de-minas-e-eleito-o-melhor-do-brasil-no-oscar-da-categoria-veja-vencedores.shtml)_
 
+- **[2026-11-04 08:00 UTC]** Café do Alto Noroeste fluminense ganha força com foco em grão especial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cafe-na-prensa/2026/11/cafe-do-alto-noroeste-fluminense-ganha-forca-com-foco-em-grao-especial.shtml)_
+
