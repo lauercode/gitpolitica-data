@@ -53,3 +53,6 @@
 - **[2026-11-03 15:04 UTC]** Novo sistema opera finanças de PMEs por conversa
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/11/03/novo-sistema-opera-financas-de-pmes-por-conversa-1.ghtml)_
 
+- **[2026-11-04 10:57 UTC]** Novo eleva projeções com avanço da comercialização da versão em comprimido do Wegovy
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/04/novo-eleva-projecoes-com-avanco-da-comercializacao-da-versao-em-comprimido-do-wegovy.ghtml)_
+
