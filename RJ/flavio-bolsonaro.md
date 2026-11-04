@@ -10765,3 +10765,6 @@
 - **[2026-11-04 00:15 UTC]** Nos EUA, Flávio vota a favor da PEC da Segurança
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nos-eua-flavio-vota-a-favor-da-pec-da-seguranca/)_
 
+- **[2026-11-03 20:20 UTC]** Nos EUA, Flávio Bolsonaro vota a favor de PEC do governo Lula sobre segurança pública
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/nos-eua-flavio-bolsonaro-vota-a-favor-de-pec-do-governo-lula-sobre-seguranca-publica/)_
+
