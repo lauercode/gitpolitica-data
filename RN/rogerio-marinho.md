@@ -127,3 +127,6 @@
 - **[2026-11-04 16:18 UTC]** Rogério Marinho, do PL, lança candidatura à presidência do Senado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/04/rogerio-marinho-do-pl-lanca-candidatura-a-presidencia-do-senado.ghtml)_
 
+- **[2026-11-04 13:11 UTC]** PL lança Rogério Marinho para a presidência do Senado com defesa de Flávio e anistia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pl-lanca-rogerio-marinho-para-a-presidencia-do-senado.shtml)_
+
