@@ -83,3 +83,6 @@
 - **[2026-11-04 04:01 UTC]** Previsão do tempo hoje para Rio Branco (AC): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/04/previsao-do-tempo-hoje-para-rio-branco-ac-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml)_
 
+- **[2026-11-04 14:34 UTC]** Peruanos são atacados a tiros em bairro de Rio Branco; um morre em hospital
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/04/peruanos-sao-atacados-a-tiros-em-bairro-de-rio-branco-um-morre-em-hospital.ghtml)_
+
