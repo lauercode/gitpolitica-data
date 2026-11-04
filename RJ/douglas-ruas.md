@@ -158,3 +158,6 @@
 - **[2026-11-03 22:05 UTC]** Douglas Ruas se reúne com ministro Zanin sobre ação que pede segundo turno no Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/03/douglas-ruas-se-rene-com-ministro-zanin-sobre-ao-que-pede-segundo-turno-no-rio.ghtml)_
 
+- **[2026-11-04 15:30 UTC]** Paes pede investigação de Douglas Ruas por suspeitas de compra de votos e irregularidades eleitorais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/04/paes-pede-investigacao-de-douglas-ruas-por-suspeitas-de-compra-de-votos-e-irregularidades-eleitorais.ghtml)_
+
