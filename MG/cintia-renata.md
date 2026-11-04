@@ -41,3 +41,6 @@
 - **[2026-10-30 23:47 UTC]** 'A Fazenda 18': Renata é flagrada ouvindo conversa escondida no chão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-renata-e-flagrada-ouvindo-conversa-escondida-no-chao.shtml)_
 
+- **[2026-11-04 00:08 UTC]** A Fazenda 18: Eduarda está na roça; Mayk, Renata e Rikardo disputam Prova do Fazendeiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-eduarda-esta-na-roca-mayk-renata-e-rikardo-disputam-prova-do-fazendeiro.shtml)_
+
