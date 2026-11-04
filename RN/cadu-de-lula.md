@@ -221,3 +221,6 @@
 - **[2026-11-01 19:38 UTC]** Governadora do RN é cotada para ministério da área social de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governadora-do-rn-e-cotada-para-ministerio-da-area-social-de-lula.shtml)_
 
+- **[2026-11-04 11:15 UTC]** Cadu de Lula diz que PEC da Segurança vai facilitar integração entre forças federais, estaduais e municipais
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/04/cadu-de-lula-governador-rn-seguranca-economia-governo.ghtml)_
+
