@@ -10837,3 +10837,6 @@
 - **[2026-11-05 15:44 UTC]** Flávio diz ao NYT que levará para o túmulo segredo sobre como fugiu do Brasil e chegou aos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-diz-ao-nyt-que-levara-para-o-tumulo-segredo-sobre-como-fugiu-do-brasil-e-chegou-aos-eua.shtml)_
 
+- **[2026-11-05 19:06 UTC]** Polícia Federal investiga se agentes estrangeiros ajudaram Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-investiga-se-agentes-estrangeiros-ajudaram-flavio-bolsonaro/)_
+
