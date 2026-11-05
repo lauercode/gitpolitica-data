@@ -167,3 +167,6 @@
 - **[2026-11-04 14:21 UTC]** Douglas Ruas se reúne com Zanin para tratar de ação que pede segundo turno no Rio de Janeiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/douglas-ruas-se-reune-com-zanin-para-tratar-de-acao-que-pede-segundo-turno-no-rio-de-janeiro/)_
 
+- **[2026-11-04 19:54 UTC]** Douglas Ruas e Eduardo Paes movem ações na Justiça Eleitoral por atuação em disputa no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/douglas-ruas-e-eduardo-paes-movem-acoes-na-justica-eleitoral-por-atuacao-em-disputa-no-rj.shtml)_
+
