@@ -89,3 +89,6 @@
 - **[2026-11-04 15:51 UTC]** Com anúncio do 1º escalão, governo de Vicentinho Júnior deve ter novas secretarias; veja quais
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/04/com-anuncio-do-1o-escalao-governo-de-vicentinho-junior-deve-ter-novas-secretarias-veja-quais.ghtml)_
 
+- **[2026-11-05 00:37 UTC]** Governo do Tocantins pubica decreto que regulamenta transição para governo de Vicentinho Júnior (PSDB)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/04/governo-do-tocantins-pubica-decreto-que-regulamenta-transicao-para-governo-de-vicentinho-junior-psdb.ghtml)_
+
