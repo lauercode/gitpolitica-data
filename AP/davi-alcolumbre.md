@@ -656,3 +656,6 @@
 - **[2026-11-05 03:06 UTC]** Alcolumbre diz que Senado avaliará se Flávio Bolsonaro pode votar dos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-diz-que-senado-avaliara-se-flavio-bolsonaro-pode-votar-dos-eua/)_
 
+- **[2026-11-05 00:20 UTC]** Direita aposta na exposição de votos no Senado para derrotar aliança entre Alcolumbre, Lula e Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/direita-aposta-na-exposicao-de-votos-no-senado-para-derrotar-alianca-entre-alcolumbre-lula-e-moraes/)_
+
