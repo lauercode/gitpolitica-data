@@ -59,3 +59,6 @@
 - **[2026-11-05 04:00 UTC]** Novo SAC e as habilidades que a inteligência artificial não substitui no atendimento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/politicas-e-justica/2026/11/novo-sac-e-as-habilidades-que-a-inteligencia-artificial-nao-substitui-no-atendimento.shtml)_
 
+- **[2026-11-05 21:40 UTC]** TSE admite ação do Novo contra Lula e Alckmin por abuso de poder político
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/05/tse-admite-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-politico.ghtml)_
+
