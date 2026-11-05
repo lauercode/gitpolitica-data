@@ -2645,3 +2645,6 @@
 - **[2026-11-04 22:24 UTC]** Flávio Bolsonaro articula oposição internacional contra o governo Lula nos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-oposicao-internacional-contra-o-governo-lula-nos-eua/)_
 
+- **[2026-11-05 16:35 UTC]** Mendonça extingue ação do TSE que discutia quebras de sigilo de Lula e de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/mendonca-extingue-acao-do-tse-que-discutia-quebras-de-sigilo-de-lula-e-de-flavio-bolsonaro.shtml)_
+
