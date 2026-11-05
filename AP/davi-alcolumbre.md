@@ -647,3 +647,6 @@
 - **[2026-11-04 19:33 UTC]** Alcolumbre diz que vai analisar se Flávio Bolsonaro poderá continuar votando no Senado dos EUA
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/alcolumbre-diz-que-vai-analisar-se-flavio-bolsonaro-podera-continuar-votando-no-senado-dos-eua/)_
 
+- **[2026-11-04 17:38 UTC]** Alcolumbre indica que vai aguardar Câmara votar redução da maioridade
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/alcolumbre-indica-que-vai-aguardar-camara-votar-reducao-da-maioridade/)_
+
