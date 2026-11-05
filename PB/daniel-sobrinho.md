@@ -23,3 +23,6 @@
 - **[2026-10-28 13:17 UTC]** Sobrinho-neto de Dilma Rousseff pede apreensão do passaporte de Nikolas Ferreira
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/sobrinho-neto-dilma-rousseff-apreensao-passaporte-nikolas-ferreira/)_
 
+- **[2026-11-05 13:17 UTC]** Sobrinho é preso suspeito de envolvimento na morte do tio em Bacuri, no Maranhão
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/05/sobrinho-e-preso-suspeito-de-envolvimento-na-morte-do-tio-em-bacuri-no-maranhao.ghtml)_
+
