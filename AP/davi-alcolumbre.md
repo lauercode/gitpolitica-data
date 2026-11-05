@@ -632,3 +632,6 @@
 - **[2026-11-05 00:05 UTC]** Após cobrança de líder do PL, Alcolumbre dispara contra oposição
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-cobranca-de-lider-do-pl-alcolumbre-dispara-contra-oposicao/)_
 
+- **[2026-11-05 00:13 UTC]** Alcolumbre atende Motta e adia votação da redução da maioridade penal no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-conversa-com-motta-alcolumbre-adia-votacao-da-reducao-da-maioridade-penal-no-senado/)_
+
