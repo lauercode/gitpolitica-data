@@ -10804,3 +10804,6 @@
 - **[2026-11-04 21:05 UTC]** Deputado democrata pede a deportação de Flávio Bolsonaro dos EUA
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/deputado-democrata-pede-a-deportacao-de-flavio-bolsonaro-dos-eua/)_
 
+- **[2026-11-05 09:21 UTC]** Brasileiro eleito na Flórida critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss)_
+
