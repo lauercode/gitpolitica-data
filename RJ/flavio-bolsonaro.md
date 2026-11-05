@@ -10846,3 +10846,6 @@
 - **[2026-11-05 21:35 UTC]** Flávio Bolsonaro diz ao NY Times que 'vai levar para o túmulo' como saiu do Brasil; jornal aponta ajuda dos EUA
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm70ppw2k0y3o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-05 18:01 UTC]** 'Vou levar para o túmulo', diz Flávio Bolsonaro ao NYT sobre ajuda para fuga do Brasil para os EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/05/flavio-bolsonaro-nyt.ghtml)_
+
