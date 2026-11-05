@@ -10792,3 +10792,6 @@
 - **[2026-11-04 22:49 UTC]** Randolfe Rodrigues pede anulação de voto de Flávio Bolsonaro na PEC da Segurança
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/randolfe-rodrigues-pede-anulacao-de-voto-de-flavio-bolsonaro-na-pec-da-seguranca.ghtml)_
 
+- **[2026-11-04 19:33 UTC]** Alcolumbre diz que vai analisar se Flávio Bolsonaro poderá continuar votando no Senado dos EUA
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/alcolumbre-diz-que-vai-analisar-se-flavio-bolsonaro-podera-continuar-votando-no-senado-dos-eua/)_
+
