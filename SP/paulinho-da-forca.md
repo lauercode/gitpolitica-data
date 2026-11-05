@@ -185,3 +185,6 @@
 - **[2026-11-04 18:21 UTC]** Força da água 'corta' trecho da BR-282 ao meio durante chuva intensa em SC; VÍDEO
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/11/04/forca-agua-corta-trecho-br-282-ao-meio-durante-chuva-sc-video.ghtml)_
 
+- **[2026-11-04 18:21 UTC]** Força da água 'rasga' trecho da BR-282 ao meio e forma cachoeira durante chuva intensa em SC; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/11/04/forca-agua-corta-trecho-br-282-ao-meio-durante-chuva-sc-video.ghtml)_
+
