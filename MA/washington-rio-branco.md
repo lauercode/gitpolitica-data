@@ -86,3 +86,6 @@
 - **[2026-11-04 14:34 UTC]** Peruanos são atacados a tiros em bairro de Rio Branco; um morre em hospital
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/04/peruanos-sao-atacados-a-tiros-em-bairro-de-rio-branco-um-morre-em-hospital.ghtml)_
 
+- **[2026-11-04 23:15 UTC]** VÍDEO: Rio seca e ribeirinhos caminham mais de 1 km para buscar água no Baixo Rio Branco
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/04/video-rio-seca-e-ribeirinhos-caminham-mais-de-1-km-para-buscar-agua-no-baixo-rio-branco.ghtml)_
+
