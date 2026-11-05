@@ -179,3 +179,6 @@
 - **[2026-10-25 20:04 UTC]** Celina Leão é reeleita governadora do Distrito Federal
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/celina-leao-e-reeleita-governadora-do-distrito-federal)_
 
+- **[2026-11-05 19:08 UTC]** Lula e Celina Leão faltam a audiência de conciliação na Justiça em processo por falas sobre BRB
+  _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/11/05/lula-e-celina-leao-faltam-a-audiencia-de-conciliacao-na-justica-em-processo-por-falas-sobre-brb.ghtml)_
+
