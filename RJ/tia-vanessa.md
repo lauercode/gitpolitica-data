@@ -17,3 +17,6 @@
 - **[2026-10-30 17:12 UTC]** 'Por Você': Zé insinua a Vanessa que sabe mais sobre o acidente do Gabriel
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/08/10/6557-por-voce-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post468007)_
 
+- **[2026-11-05 18:19 UTC]** 'Por Você': Bela esconde seu abalo diante de Vanessa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/08/10/6557-por-voce-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post468038)_
+
