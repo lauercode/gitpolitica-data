@@ -17,3 +17,6 @@
 - **[2026-11-05 13:43 UTC]** Fintech da Faria Lima é central em investigação contra bets ilegais
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-11/fintech-da-faria-lima-e-central-em-investigacao-contra-bets-ilegais)_
 
+- **[2026-11-05 21:52 UTC]** Catuaí e Iguatemi investem R$ 1 bi para levar a marca Four Seasons à Faria Lima
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/05/catuai-e-iguatemi-investem-r-1-bi-para-levar-a-marca-four-seasons-a-faria-lima.ghtml)_
+
