@@ -11,3 +11,6 @@
 - **[2026-11-05 01:29 UTC]** Lindbergh Farias diz que manutenção da Selic é ‘vergonha’ e chama mercado de ‘barões da Faria Lima’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/lindbergh-farias-diz-que-manuteno-da-selic-vergonha-e-chama-mercado-de-bares-da-faria-lima.ghtml)_
 
+- **[2026-11-05 15:37 UTC]** Operação na Faria Lima mira lavagem de dinheiro com bets que movimentaram R$ 1 bi via fintech
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/05/operacao-na-faria-lima-mira-lavagem-de-dinheiro-com-bets-que-movimentaram-r-1-bi-via-fintech.ghtml)_
+
