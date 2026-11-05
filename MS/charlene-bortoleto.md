@@ -11,3 +11,6 @@
 - **[2026-11-04 22:13 UTC]** Bortoleto espera que carro da Audi seja tão rápido quanto bonito no GP de São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/bortoleto-espera-que-carro-da-audi-seja-tao-rapido-quanto-bonito-no-gp-de-sao-paulo.shtml)_
 
+- **[2026-11-05 17:17 UTC]** Com conselhos e brincadeiras, Bortoleto e Colapinto recebem Rafa Câmara na F1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/com-conselhos-e-brincadeiras-bortoleto-e-colapinto-recebem-rafa-camara-na-f1.shtml)_
+
