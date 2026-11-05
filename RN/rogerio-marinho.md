@@ -136,3 +136,6 @@
 - **[2026-11-04 16:29 UTC]** Em ato para lançar Rogério Marinho à presidência do Senado, líder do PL condena ataques a Tereza Cristina
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/em-ato-para-lancar-rogerio-marinho-a-presidencia-do-senado-lider-do-pl-condena-ataques-a-tereza-cristina.ghtml)_
 
+- **[2026-11-05 16:08 UTC]** Bolsonaro pede a Moraes autorização para receber Rogério Marinho e Tereza Cristina
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsonaro-pede-a-moraes-autorizacao-para-receber-rogerio-marinho-e-tereza-cristina/)_
+
