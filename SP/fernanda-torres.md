@@ -11,3 +11,6 @@
 - **[2026-10-23 18:11 UTC]** Fernanda Torres declara voto em Lula e cita 'Ainda Estou Aqui': 'Escolham a democracia'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/fernanda-torres-declara-voto-em-lula-e-cita-ainda-estou-aqui-escolham-a-democracia.shtml)_
 
+- **[2026-11-05 17:42 UTC]** Sarah Paulson diz que votou em Fernanda Torres no Oscar: 'Atuação do ano'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/sarah-paulson-diz-que-votou-em-fernanda-torres-no-oscar-atuacao-do-ano.shtml)_
+
