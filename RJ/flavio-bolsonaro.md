@@ -10810,3 +10810,6 @@
 - **[2026-11-05 12:30 UTC]** Eleitores de Flávio rejeitam contestação de derrota e pedem que ele volte ao trabalho como senador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/eleitores-de-flavio-rejeitam-contestacao-de-derrota-e-pedem-que-ele-volte-ao-trabalho-como-senador.shtml)_
 
+- **[2026-11-05 08:00 UTC]** Saída de Flávio Bolsonaro é fuga para 49% e exílio para 47%, diz pesquisa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/saida-de-flavio-bolsonaro-e-fuga-para-49-e-exilio-para-47-diz-pesquisa.shtml)_
+
