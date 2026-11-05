@@ -641,3 +641,6 @@
 - **[2026-11-04 20:38 UTC]** Senadores de governo e oposição pedem que Alcolumbre antecipe votação da MP das bets
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/senadores-de-governo-e-oposicao-pedem-que-alcolumbre-antecipe-votacao-da-mp-das-bets.ghtml)_
 
+- **[2026-11-04 19:57 UTC]** Alcolumbre adia votação da PEC da redução da maioridade penal
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/aps-protesto-da-cmara-alcolumbre-pode-adiar-votao-da-pec-da-maioridade-penal.ghtml)_
+
