@@ -10789,3 +10789,6 @@
 - **[2026-11-04 22:24 UTC]** Flávio Bolsonaro articula oposição internacional contra o governo Lula nos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-oposicao-internacional-contra-o-governo-lula-nos-eua/)_
 
+- **[2026-11-04 22:49 UTC]** Randolfe Rodrigues pede anulação de voto de Flávio Bolsonaro na PEC da Segurança
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/randolfe-rodrigues-pede-anulacao-de-voto-de-flavio-bolsonaro-na-pec-da-seguranca.ghtml)_
+
