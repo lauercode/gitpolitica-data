@@ -617,3 +617,6 @@
 - **[2026-11-04 13:31 UTC]** Alcolumbre escolhe senador do PL para relatar lei que dá diretrizes para o Orçamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/alcolumbre-escolhe-senador-do-pl-para-relatar-lei-que-da-diretrizes-para-o-orcamento.shtml)_
 
+- **[2026-11-04 20:54 UTC]** Alcolumbre retira maioridade penal da pauta e vai aguardar Câmara
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/alcolumbre-retira-maioridade-penal-da-pauta-e-vai-aguardar-camara)_
+
