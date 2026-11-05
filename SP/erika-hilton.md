@@ -128,3 +128,6 @@
 - **[2026-10-30 15:13 UTC]** Narrador Sérgio Maurício é condenado a indenizar Erika Hilton por transfobia na internet
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/narrador-sergio-mauricio-e-condenado-a-indenizar-erika-hilton-por-transfobia-na-internet.shtml)_
 
+- **[2026-11-05 09:21 UTC]** Brasileiro eleito na Flórida critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss)_
+
