@@ -10840,3 +10840,6 @@
 - **[2026-11-05 19:06 UTC]** Polícia Federal investiga se agentes estrangeiros ajudaram Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/policia-federal-investiga-se-agentes-estrangeiros-ajudaram-flavio-bolsonaro/)_
 
+- **[2026-11-05 19:17 UTC]** Flávio nega ajuda externa para sair do Brasil e diz que levará detalhes da viagem ao túmulo
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/mundo/perdi-para-o-sistema-diz-flavio-bolsonaro-ao-new-york-times-sobre-eleicao-presidencial/)_
+
