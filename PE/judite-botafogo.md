@@ -44,3 +44,6 @@
 - **[2026-11-04 21:33 UTC]** Danilo, do Botafogo, é cortado da seleção brasileira após lesão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/danilo-do-botafogo-e-cortado-da-selecao-brasileira-apos-lesao.shtml)_
 
+- **[2026-11-04 23:40 UTC]** Com gol de Edenilson, Botafogo bate Atlético-MG e volta a vencer no Brasileirão
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/com-gol-de-edenilson-botafogo-bate-atletico-mg-e-volta-a-vencer-no-brasileirao/)_
+
