@@ -92,3 +92,6 @@
 - **[2026-11-05 14:05 UTC]** União Brasil anuncia apoio à reeleição de Hugo Motta na presidência da Câmara
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/uniao-brasil-anuncia-apoio-a-reeleicao-de-hugo-motta-na-presidencia-da-camara/)_
 
+- **[2026-11-05 09:03 UTC]** União Brasil oficializa apoio a Hugo Motta, que já reúne 361 deputados para reeleição na Câmara
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/uniao-brasil-oficializa-apoio-a-hugo-motta-que-ja-reune-361-deputados-para-reeleicao-na-camara/)_
+
