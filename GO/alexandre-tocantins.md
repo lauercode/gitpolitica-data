@@ -308,3 +308,6 @@
 - **[2026-11-05 18:32 UTC]** Vicentinho Júnior visita HGP, critica dívida do Estado e diz que Tocantins virou 'mau pagador'
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/05/vicentinho-junior-visita-hgp-critica-divida-do-estado-e-diz-que-tocantins-virou-mau-pagador.ghtml)_
 
+- **[2026-11-05 13:54 UTC]** Crise hídrica prejudica aulas em Paraíso do Tocantins e BRK é autuada pelo Procon
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/05/crise-hidrica-segue-prejudicando-aulas-em-paraiso-do-tocantins-e-brk-e-autuada-pelo-procon.ghtml)_
+
