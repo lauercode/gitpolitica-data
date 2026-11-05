@@ -134,3 +134,6 @@
 - **[2026-11-03 23:52 UTC]** Desembargador derruba liminar e autoriza busca e apreensão na casa de Professora Maria do Carmo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/03/desembargador-derruba-liminar-e-autoriza-busca-e-apreensao-na-casa-de-professora-maria-do-carmo.ghtml)_
 
+- **[2026-11-04 22:22 UTC]** Delegado que prendeu ex-chefe de gabinete de David Almeida assume inquérito que investiga Professora Maria do Carmo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/04/delegado-que-prendeu-ex-chefe-de-gabinete-de-david-almeida-assume-inquerito-que-investiga-professora-maria-do-carmo.ghtml)_
+
