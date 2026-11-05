@@ -8,3 +8,6 @@
 - **[2026-11-04 08:07 UTC]** Faria Lima e governo fazem leitura seletiva da proposta de André Lara Resende, diz economista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/faria-lima-e-governo-fazem-leitura-seletiva-da-proposta-de-andre-lara-resende-diz-economista.shtml)_
 
+- **[2026-11-05 01:29 UTC]** Lindbergh Farias diz que manutenção da Selic é ‘vergonha’ e chama mercado de ‘barões da Faria Lima’
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/lindbergh-farias-diz-que-manuteno-da-selic-vergonha-e-chama-mercado-de-bares-da-faria-lima.ghtml)_
+
