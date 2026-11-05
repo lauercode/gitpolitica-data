@@ -119,3 +119,6 @@
 - **[2026-11-01 21:21 UTC]** 'Esquerda também tem que assumir seus erros', diz leitora, comentando críticas de pastor a Nikolas Ferreira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/esquerda-tambem-tem-que-assumir-seus-erros-diz-leitora-comentando-criticas-de-pastor-a-nikolas-ferreira.shtml)_
 
+- **[2026-11-05 20:22 UTC]** Fachin rejeita pedido de Nikolas Ferreira para afastar Paulo Gonet da PGR
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-rejeita-pedido-de-nikolas-ferreira-para-afastar-paulo-gonet-da-pgr/)_
+
