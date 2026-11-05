@@ -10816,3 +10816,6 @@
 - **[2026-11-05 15:05 UTC]** Saída de Flávio do Brasil com ação de agentes internacionais é linha de investigação da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/saida-de-flavio-do-brasil-com-acao-de-agentes-internacionais-e-linha-de-investigacao-da-pf/)_
 
+- **[2026-11-05 10:55 UTC]** Flávio será palestrante em evento conservador na residência de Trump na Flórida
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/flavio-sera-palestrante-evento-conservador-residencia-trump-florida/)_
+
