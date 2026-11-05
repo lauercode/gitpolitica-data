@@ -161,3 +161,6 @@
 - **[2026-10-28 06:00 UTC]** Quem é Aparecida de Fátima Gavioli, anunciada por Sergio Moro como secretária da Educação do Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/10/28/quem-e-aparecida-de-fatima-gavioli-anunciada-por-sergio-moro-como-secretaria-da-educacao-do-parana.ghtml)_
 
+- **[2026-11-05 20:43 UTC]** Equipes de transição de Sergio Moro e Ratinho Junior se encontram pela primeira vez no Paraná; conheça membros
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/05/equipes-transicao-governo-parana-lista-membros.ghtml)_
+
