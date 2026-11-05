@@ -10783,3 +10783,6 @@
 - **[2026-11-04 13:55 UTC]** Flávio Bolsonaro e a internacionalização do cristofascismo
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/artigo/flavio-bolsonaro-e-a-internacionalizacao-do-cristofascismo/)_
 
+- **[2026-11-04 17:29 UTC]** Nos EUA, Flávio Bolsonaro vota remotamente a favor da PEC da Segurança
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/nos-eua-flavio-bolsonaro-vota-remotamente-favor-da-pec-da-seguranca)_
+
