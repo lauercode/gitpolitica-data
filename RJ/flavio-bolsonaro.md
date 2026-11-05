@@ -10786,3 +10786,6 @@
 - **[2026-11-04 17:29 UTC]** Nos EUA, Flávio Bolsonaro vota remotamente a favor da PEC da Segurança
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/nos-eua-flavio-bolsonaro-vota-remotamente-favor-da-pec-da-seguranca)_
 
+- **[2026-11-04 22:24 UTC]** Flávio Bolsonaro articula oposição internacional contra o governo Lula nos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-oposicao-internacional-contra-o-governo-lula-nos-eua/)_
+
