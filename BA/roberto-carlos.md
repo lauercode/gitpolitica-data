@@ -29,3 +29,6 @@
 - **[2026-10-30 15:38 UTC]** Globo define convidados do especial de Roberto Carlos; Maria Bethânia e Daniel participam
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-define-convidados-do-especial-de-roberto-carlos-maria-bethania-e-daniel-participam.shtml)_
 
+- **[2026-11-05 14:36 UTC]** Fã que acompanhou de casa show de Roberto Carlos no AC realiza sonho após mais de 50 anos: 'Tantas emoções'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/05/fa-que-acompanhou-de-casa-show-de-roberto-carlos-no-ac-realiza-sonho-apos-mais-de-50-anos-e-relembra-irma-falecida-tantas-emocoes.ghtml)_
+
