@@ -131,3 +131,6 @@
 - **[2026-11-05 09:21 UTC]** Brasileiro eleito na Flórida critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-05 09:21 UTC]** Quem é o brasileiro eleito na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss)_
+
