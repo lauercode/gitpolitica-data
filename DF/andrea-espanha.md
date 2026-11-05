@@ -191,3 +191,6 @@
 - **[2026-11-04 13:11 UTC]** 'Aconteceu no Brasil e nos EUA': Premiê da Espanha liga vitória de Lula à derrota eleitoral de Trump
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/04/aconteceu-no-brasil-e-nos-eua-premie-da-espanha-liga-vitoria-de-lula-a-derrota-eleitoral-de-trump.ghtml)_
 
+- **[2026-11-04 18:04 UTC]** André Esteves recebe prêmio de desenvolvimento empresarial do rei da Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/andre-esteves-recebe-premio-de-desenvolvimento-empresarial-do-rei-da-espanha.shtml)_
+
