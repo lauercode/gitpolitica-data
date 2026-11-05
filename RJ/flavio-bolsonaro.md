@@ -10795,3 +10795,6 @@
 - **[2026-11-04 19:33 UTC]** Alcolumbre diz que vai analisar se Flávio Bolsonaro poderá continuar votando no Senado dos EUA
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/alcolumbre-diz-que-vai-analisar-se-flavio-bolsonaro-podera-continuar-votando-no-senado-dos-eua/)_
 
+- **[2026-11-04 23:36 UTC]** Alcolumbre diz que analisará situação de Flávio Bolsonaro, que votou em sessão estando nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-diz-que-analisara-situacao-de-flavio-bolsonaro-que-votou-em-sessao-estando-nos-eua.shtml)_
+
