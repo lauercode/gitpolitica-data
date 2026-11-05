@@ -629,3 +629,6 @@
 - **[2026-11-04 18:20 UTC]** Alcolumbre segura votação de PEC da maioridade penal após disputa entre Câmara e Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/alcolumbre-segura-votacao-de-pec-da-maioridade-penal-apos-disputa-entre-camara-e-senado.shtml)_
 
+- **[2026-11-05 00:05 UTC]** Após cobrança de líder do PL, Alcolumbre dispara contra oposição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-cobranca-de-lider-do-pl-alcolumbre-dispara-contra-oposicao/)_
+
