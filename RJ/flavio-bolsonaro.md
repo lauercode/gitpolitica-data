@@ -10801,3 +10801,6 @@
 - **[2026-11-05 03:06 UTC]** Alcolumbre diz que Senado avaliará se Flávio Bolsonaro pode votar dos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-diz-que-senado-avaliara-se-flavio-bolsonaro-pode-votar-dos-eua/)_
 
+- **[2026-11-04 21:05 UTC]** Deputado democrata pede a deportação de Flávio Bolsonaro dos EUA
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/deputado-democrata-pede-a-deportacao-de-flavio-bolsonaro-dos-eua/)_
+
