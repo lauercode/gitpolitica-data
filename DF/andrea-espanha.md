@@ -197,3 +197,6 @@
 - **[2026-11-05 00:14 UTC]** Asador Etxebarri, da Espanha, é o melhor restaurante do mundo; Tuju, de SP, sobe 54 posições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/11/asador-etxebarri-da-espanha-e-o-melhor-restaurante-do-mundo-tuju-de-sp-sobe-54-posicoes.shtml)_
 
+- **[2026-11-05 11:52 UTC]** Milei omite vitória de Lula ao se gabar na Espanha sobre a direita latino-americana
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/milei-omite-vitoria-de-lula-ao-se-gabar-na-espanha-sobre-a-direita-latino-americana/)_
+
