@@ -134,3 +134,6 @@
 - **[2026-11-05 09:21 UTC]** Quem é o brasileiro eleito na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-05 20:06 UTC]** Erika Hilton diz que tem interesse em disputar Prefeitura de SP e que ainda não decidiu se vai trocar o PSOL pelo PT
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/05/erika-hilton-diz-que-tem-interesse-em-disputar-prefeitura-de-sp-e-que-ainda-nao-decidiu-se-vai-trocar-o-psol-pelo-pt.ghtml)_
+
