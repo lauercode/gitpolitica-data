@@ -10807,3 +10807,6 @@
 - **[2026-11-05 09:21 UTC]** Brasileiro eleito na Flórida critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-05 12:30 UTC]** Eleitores de Flávio rejeitam contestação de derrota e pedem que ele volte ao trabalho como senador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/eleitores-de-flavio-rejeitam-contestacao-de-derrota-e-pedem-que-ele-volte-ao-trabalho-como-senador.shtml)_
+
