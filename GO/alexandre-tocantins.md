@@ -299,3 +299,6 @@
 - **[2026-11-05 13:54 UTC]** Crise hídrica segue prejudicando aulas em Paraíso do Tocantins e BRK é autuada pelo Procon
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/05/crise-hidrica-segue-prejudicando-aulas-em-paraiso-do-tocantins-e-brk-e-autuada-pelo-procon.ghtml)_
 
+- **[2026-11-05 00:37 UTC]** Governo do Tocantins publica decreto que regulamenta transição para governo de Vicentinho Júnior (PSDB)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/04/governo-do-tocantins-pubica-decreto-que-regulamenta-transicao-para-governo-de-vicentinho-junior-psdb.ghtml)_
+
