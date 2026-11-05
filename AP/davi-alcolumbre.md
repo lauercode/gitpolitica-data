@@ -623,3 +623,6 @@
 - **[2026-11-04 22:09 UTC]** Após críticas de líder do PL, Alcolumbre diz que lamenta eleição de quem se promove 'ofendendo e agredindo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/04/apos-criticas-de-lider-do-pl-alcolumbre-diz-que-lamenta-eleicao-de-quem-se-promove-ofendendo-e-agredindo.ghtml)_
 
+- **[2026-11-04 20:15 UTC]** Alcolumbre decide aguardar Câmara votar redução da maioridade penal para pautar tema no Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/04/alcolumbre-decide-aguardar-camara-votar-reducao-da-maioridade-penal-para-pautar-tema-no-senado.ghtml)_
+
