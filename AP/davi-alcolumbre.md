@@ -650,3 +650,6 @@
 - **[2026-11-04 17:38 UTC]** Alcolumbre indica que vai aguardar Câmara votar redução da maioridade
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/alcolumbre-indica-que-vai-aguardar-camara-votar-reducao-da-maioridade/)_
 
+- **[2026-11-04 23:36 UTC]** Alcolumbre diz que analisará situação de Flávio Bolsonaro, que votou em sessão estando nos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-diz-que-analisara-situacao-de-flavio-bolsonaro-que-votou-em-sessao-estando-nos-eua.shtml)_
+
