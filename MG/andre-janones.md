@@ -296,3 +296,6 @@
 - **[2026-11-03 17:58 UTC]** Milei compartilha publicações sobre 'interferência estrangeira' após visita de Janones à Argentina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/milei-compartilha-publicacoes-sobre-interferencia-estrangeira-apos-visita-de-janones-a-argentina.shtml)_
 
+- **[2026-11-05 04:00 UTC]** Votação de Janones para deputado federal cai 67% em MG de 2022 para 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/votacao-de-janones-para-deputado-federal-cai-67-em-mg-de-2022-para-2026.shtml)_
+
