@@ -260,3 +260,6 @@
 - **[2026-10-29 21:23 UTC]** Segundo turno em 2022 teve mais votos após as 17h do que em 2026
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/29/segundo-turno-em-2022-teve-mais-votos-apos-as-17h-do-que-em-2026-com-prorrogacao-do-pleito.ghtml)_
 
+- **[2026-11-05 12:45 UTC]** Segundo dia da Operação Fronteira contabiliza R$ 29,5 milhões em apreensões, inclusive uma aeronave, diz Durigan
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/05/segundo-dia-da-operacao-fronteira-contabiliza-r-295-milhoes-em-apreensoes-inclusive-uma-aeronave-diz-durigan.ghtml)_
+
