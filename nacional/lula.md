@@ -2639,3 +2639,6 @@
 - **[2026-11-04 15:40 UTC]** Exames do presidente Lula estão dentro da normalidade, informa  boletim
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/exames-do-presidente-lula-esto-dentro-da-normalidade-informa-boletim.ghtml)_
 
+- **[2026-11-04 19:41 UTC]** Presidente do PT discute formação de Lula 4 com partidos e mapeia convergências com o governo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/04/presidente-do-pt-discute-formacao-de-lula-4-com-partidos-e-mapeia-convergencias-com-o-governo.ghtml)_
+
