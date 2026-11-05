@@ -89,3 +89,6 @@
 - **[2026-11-03 23:31 UTC]** Hugo Motta destaca aprovação da PEC da Segurança Pública pelo Senado
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1315533-hugo-motta-destaca-aprovacao-da-pec-da-seguranca-publica-pelo-senado)_
 
+- **[2026-11-05 14:05 UTC]** União Brasil anuncia apoio à reeleição de Hugo Motta na presidência da Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/uniao-brasil-anuncia-apoio-a-reeleicao-de-hugo-motta-na-presidencia-da-camara/)_
+
