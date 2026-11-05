@@ -659,3 +659,6 @@
 - **[2026-11-05 00:20 UTC]** Direita aposta na exposição de votos no Senado para derrotar aliança entre Alcolumbre, Lula e Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/direita-aposta-na-exposicao-de-votos-no-senado-para-derrotar-alianca-entre-alcolumbre-lula-e-moraes/)_
 
+- **[2026-11-05 07:58 UTC]** Alcolumbre atende pedido de Motta e adia votação da maioridade penal
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/alcolumbre-atende-pedido-de-motta-e-adia-votacao-da-maioridade-penal)_
+
