@@ -71,3 +71,6 @@
 - **[2026-11-04 18:05 UTC]** Eduardo Paes pede a cassação da chapa de Douglas Ruas
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-paes-pede-a-cassacao-da-chapa-de-douglas-ruas/)_
 
+- **[2026-11-04 19:54 UTC]** Douglas Ruas e Eduardo Paes movem ações na Justiça Eleitoral por atuação em disputa no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/douglas-ruas-e-eduardo-paes-movem-acoes-na-justica-eleitoral-por-atuacao-em-disputa-no-rj.shtml)_
+
