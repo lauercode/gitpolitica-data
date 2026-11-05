@@ -92,3 +92,6 @@
 - **[2026-11-05 00:37 UTC]** Governo do Tocantins pubica decreto que regulamenta transição para governo de Vicentinho Júnior (PSDB)
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/04/governo-do-tocantins-pubica-decreto-que-regulamenta-transicao-para-governo-de-vicentinho-junior-psdb.ghtml)_
 
+- **[2026-11-05 00:37 UTC]** Governo do Tocantins publica decreto que regulamenta transição para governo de Vicentinho Júnior (PSDB)
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/04/governo-do-tocantins-pubica-decreto-que-regulamenta-transicao-para-governo-de-vicentinho-junior-psdb.ghtml)_
+
