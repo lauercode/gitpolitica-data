@@ -20,3 +20,6 @@
 - **[2026-10-04 16:56 UTC]** Randolfe Rodrigues (PT) vota em Macapá
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/04/randolfe-rodrigues-pt-vota-em-macapa.ghtml)_
 
+- **[2026-11-04 22:49 UTC]** Randolfe Rodrigues pede anulação de voto de Flávio Bolsonaro na PEC da Segurança
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/randolfe-rodrigues-pede-anulacao-de-voto-de-flavio-bolsonaro-na-pec-da-seguranca.ghtml)_
+
