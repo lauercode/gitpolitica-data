@@ -44,3 +44,6 @@
 - **[2026-11-04 00:08 UTC]** A Fazenda 18: Eduarda está na roça; Mayk, Renata e Rikardo disputam Prova do Fazendeiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-eduarda-esta-na-roca-mayk-renata-e-rikardo-disputam-prova-do-fazendeiro.shtml)_
 
+- **[2026-11-04 23:25 UTC]** A Fazenda 18: Eduarda Braum, Renata del Bianco e Rikardo Negro estão na roça; vote na enquete
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-eduarda-braum-renata-del-bianco-e-rikardo-negro-estao-na-roca-vote-na-enquete.shtml)_
+
