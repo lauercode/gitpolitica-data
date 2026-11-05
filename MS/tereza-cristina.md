@@ -47,3 +47,6 @@
 - **[2026-11-04 20:46 UTC]** Relatoria da LDO deve ficar com senador do PL após recusa de Tereza Cristina
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/relatoria-da-ldo-deve-ficar-com-senador-do-pl-aps-recusa-de-tereza-cristina.ghtml)_
 
+- **[2026-11-05 16:08 UTC]** Bolsonaro pede a Moraes autorização para receber Rogério Marinho e Tereza Cristina
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsonaro-pede-a-moraes-autorizacao-para-receber-rogerio-marinho-e-tereza-cristina/)_
+
