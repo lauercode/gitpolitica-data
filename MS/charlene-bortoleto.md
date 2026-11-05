@@ -8,3 +8,6 @@
 - **[2026-11-02 22:21 UTC]** Bortoleto pontua no México após punições a Piastri, Colapinto e Gasly
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/bortoleto-pontua-no-mexico-apos-punicoes-a-piastri-colapinto-e-gasly.shtml)_
 
+- **[2026-11-04 22:13 UTC]** Bortoleto espera que carro da Audi seja tão rápido quanto bonito no GP de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/bortoleto-espera-que-carro-da-audi-seja-tao-rapido-quanto-bonito-no-gp-de-sao-paulo.shtml)_
+
