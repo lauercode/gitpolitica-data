@@ -2642,3 +2642,6 @@
 - **[2026-11-04 19:41 UTC]** Presidente do PT discute formação de Lula 4 com partidos e mapeia convergências com o governo
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/04/presidente-do-pt-discute-formacao-de-lula-4-com-partidos-e-mapeia-convergencias-com-o-governo.ghtml)_
 
+- **[2026-11-04 22:24 UTC]** Flávio Bolsonaro articula oposição internacional contra o governo Lula nos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-oposicao-internacional-contra-o-governo-lula-nos-eua/)_
+
