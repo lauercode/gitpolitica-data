@@ -10822,3 +10822,6 @@
 - **[2026-11-05 09:21 UTC]** Quem é o brasileiro eleito na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-05 10:28 UTC]** Por R$ 13 mil, CPAC vende acesso a Flávio Bolsonaro e jantar em propriedade de Trump
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/por-r-13-mil-cpac-vende-acesso-a-flavio-bolsonaro-e-jantar-em-propriedade-de-trump/)_
+
