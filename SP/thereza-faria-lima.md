@@ -14,3 +14,6 @@
 - **[2026-11-05 15:37 UTC]** Operação na Faria Lima mira lavagem de dinheiro com bets que movimentaram R$ 1 bi via fintech
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/05/operacao-na-faria-lima-mira-lavagem-de-dinheiro-com-bets-que-movimentaram-r-1-bi-via-fintech.ghtml)_
 
+- **[2026-11-05 13:43 UTC]** Fintech da Faria Lima é central em investigação contra bets ilegais
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/seguranca/audio/2026-11/fintech-da-faria-lima-e-central-em-investigacao-contra-bets-ilegais)_
+
