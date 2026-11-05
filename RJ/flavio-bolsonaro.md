@@ -10825,3 +10825,6 @@
 - **[2026-11-05 10:28 UTC]** Por R$ 13 mil, CPAC vende acesso a Flávio Bolsonaro e jantar em propriedade de Trump
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/por-r-13-mil-cpac-vende-acesso-a-flavio-bolsonaro-e-jantar-em-propriedade-de-trump/)_
 
+- **[2026-11-05 18:11 UTC]** Críticos de Santiago Peña questionam paradeiro de presidente e o comparam a Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/criticos-de-santiago-pena-questionam-paradeiro-de-presidente-e-o-comparam-a-flavio-bolsonaro.shtml)_
+
