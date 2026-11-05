@@ -77,3 +77,6 @@
 - **[2026-11-04 14:48 UTC]** RD Saúde projeta ganhar espaço no mercado de remédios emagrecedores até 2027
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/rd-saude-projeta-ganhar-espaco-no-mercado-de-remedios-emagrecedores-ate-2027.shtml)_
 
+- **[2026-11-05 16:23 UTC]** Ministério da Saúde autoriza compra de 20 mil doses de vacina contra Mpox
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/ministerio-da-saude-autoriza-compra-de-20-mil-doses-de-vacina-contra-mpox.shtml)_
+
