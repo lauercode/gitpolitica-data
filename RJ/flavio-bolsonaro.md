@@ -10819,3 +10819,6 @@
 - **[2026-11-05 10:55 UTC]** Flávio será palestrante em evento conservador na residência de Trump na Flórida
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/flavio-sera-palestrante-evento-conservador-residencia-trump-florida/)_
 
+- **[2026-11-05 09:21 UTC]** Quem é o brasileiro eleito na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss)_
+
