@@ -8,3 +8,6 @@
 - **[2026-10-30 09:20 UTC]** Motorista de ônibus infarta ao volante e provoca engavetamento com 22 veículos na Dutra, no RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/motorista-infarta-ao-volante-e-provoca-engavetamento-com-22-veiculos-na-dutra.shtml)_
 
+- **[2026-11-05 15:16 UTC]** Polícia do RJ investiga morte de pesquisador da USP após tiros na via Dutra
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/policia-do-rj-investiga-morte-de-pesquisador-da-usp-apos-tiros-na-via-dutra.shtml)_
+
