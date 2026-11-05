@@ -620,3 +620,6 @@
 - **[2026-11-04 20:54 UTC]** Alcolumbre retira maioridade penal da pauta e vai aguardar Câmara
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/alcolumbre-retira-maioridade-penal-da-pauta-e-vai-aguardar-camara)_
 
+- **[2026-11-04 22:09 UTC]** Após críticas de líder do PL, Alcolumbre diz que lamenta eleição de quem se promove 'ofendendo e agredindo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/04/apos-criticas-de-lider-do-pl-alcolumbre-diz-que-lamenta-eleicao-de-quem-se-promove-ofendendo-e-agredindo.ghtml)_
+
