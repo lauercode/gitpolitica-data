@@ -38,3 +38,6 @@
 - **[2026-11-04 06:45 UTC]** Rádio Nacional transmite Botafogo X Atlético-MG pelo Brasileirão
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/radio-nacional-transmite-botafogo-x-atletico-mg-pelo-brasileirao)_
 
+- **[2026-11-04 17:30 UTC]** Atlético-MG visita o Botafogo pelo Brasileirão em busca de recuperação antes de decisão na Copa do Brasil
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/atletico-mg-visita-o-botafogo-pelo-brasileirao-em-busca-de-recuperacao-antes-de-decisao-na-copa-do-brasil/)_
+
