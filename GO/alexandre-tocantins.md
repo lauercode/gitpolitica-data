@@ -302,3 +302,6 @@
 - **[2026-11-05 00:37 UTC]** Governo do Tocantins publica decreto que regulamenta transição para governo de Vicentinho Júnior (PSDB)
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/04/governo-do-tocantins-pubica-decreto-que-regulamenta-transicao-para-governo-de-vicentinho-junior-psdb.ghtml)_
 
+- **[2026-11-05 20:02 UTC]** Investigação apura furto de armas em prédio da Polícia Científica do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/05/investigacao-apura-furto-de-armas-em-predio-da-policia-cientifica-do-tocantins.ghtml)_
+
