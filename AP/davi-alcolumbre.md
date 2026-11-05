@@ -638,3 +638,6 @@
 - **[2026-11-04 21:42 UTC]** Alcolumbre critica eleitos com campanha de ofensas e ironiza ataques a urnas: 'no 1º turno prestou'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/alcolumbre-critica-senadores-eleitos-com-campanha-baseada-em-impeachment-de-ministros-do-stf.ghtml)_
 
+- **[2026-11-04 20:38 UTC]** Senadores de governo e oposição pedem que Alcolumbre antecipe votação da MP das bets
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/senadores-de-governo-e-oposicao-pedem-que-alcolumbre-antecipe-votacao-da-mp-das-bets.ghtml)_
+
