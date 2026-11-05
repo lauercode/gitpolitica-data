@@ -644,3 +644,6 @@
 - **[2026-11-04 19:57 UTC]** Alcolumbre adia votação da PEC da redução da maioridade penal
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/aps-protesto-da-cmara-alcolumbre-pode-adiar-votao-da-pec-da-maioridade-penal.ghtml)_
 
+- **[2026-11-04 19:33 UTC]** Alcolumbre diz que vai analisar se Flávio Bolsonaro poderá continuar votando no Senado dos EUA
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/alcolumbre-diz-que-vai-analisar-se-flavio-bolsonaro-podera-continuar-votando-no-senado-dos-eua/)_
+
