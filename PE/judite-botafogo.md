@@ -41,3 +41,6 @@
 - **[2026-11-04 17:30 UTC]** Atlético-MG visita o Botafogo pelo Brasileirão em busca de recuperação antes de decisão na Copa do Brasil
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/atletico-mg-visita-o-botafogo-pelo-brasileirao-em-busca-de-recuperacao-antes-de-decisao-na-copa-do-brasil/)_
 
+- **[2026-11-04 21:33 UTC]** Danilo, do Botafogo, é cortado da seleção brasileira após lesão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/danilo-do-botafogo-e-cortado-da-selecao-brasileira-apos-lesao.shtml)_
+
