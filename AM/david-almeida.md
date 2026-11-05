@@ -80,3 +80,6 @@
 - **[2026-10-06 22:17 UTC]** Liderado por David Almeida, Avante anuncia apoio a Omar Aziz no segundo turno das Eleições 2026
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/06/liderado-por-david-almeida-avante-anuncia-apoio-a-omar-aziz-no-segundo-turno-das-eleicoes-2026.ghtml)_
 
+- **[2026-11-04 22:22 UTC]** Delegado que prendeu ex-chefe de gabinete de David Almeida assume inquérito que investiga Professora Maria do Carmo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/04/delegado-que-prendeu-ex-chefe-de-gabinete-de-david-almeida-assume-inquerito-que-investiga-professora-maria-do-carmo.ghtml)_
+
