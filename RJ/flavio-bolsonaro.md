@@ -10828,3 +10828,6 @@
 - **[2026-11-05 18:11 UTC]** Críticos de Santiago Peña questionam paradeiro de presidente e o comparam a Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/criticos-de-santiago-pena-questionam-paradeiro-de-presidente-e-o-comparam-a-flavio-bolsonaro.shtml)_
 
+- **[2026-11-05 17:53 UTC]** Flávio Bolsonaro nomeia assessores para gabinete no Senado após fuga para EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-nomeia-assessores-para-gabinete-no-senado-apos-fuga-para-os-eua.shtml)_
+
