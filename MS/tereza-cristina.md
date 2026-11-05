@@ -50,3 +50,6 @@
 - **[2026-11-05 16:08 UTC]** Bolsonaro pede a Moraes autorização para receber Rogério Marinho e Tereza Cristina
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsonaro-pede-a-moraes-autorizacao-para-receber-rogerio-marinho-e-tereza-cristina/)_
 
+- **[2026-11-05 18:42 UTC]** Defesa de Bolsonaro pede aval para visitas de Rogério Marinho e Tereza Cristina
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/05/defesa-de-bolsonaro-pede-aval-para-visitas-de-rogerio-marinho-e-tereza-cristina.ghtml)_
+
