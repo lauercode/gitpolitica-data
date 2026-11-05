@@ -662,3 +662,6 @@
 - **[2026-11-05 07:58 UTC]** Alcolumbre atende pedido de Motta e adia votação da maioridade penal
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/alcolumbre-atende-pedido-de-motta-e-adia-votacao-da-maioridade-penal)_
 
+- **[2026-11-05 14:40 UTC]** Marinho x Alcolumbre: o que está em jogo na disputa pelo Senado?
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marinho-x-alcolumbre-o-que-esta-em-jogo-na-disputa-do-senado/)_
+
