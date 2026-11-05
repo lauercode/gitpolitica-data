@@ -305,3 +305,6 @@
 - **[2026-11-05 20:02 UTC]** Investigação apura furto de armas em prédio da Polícia Científica do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/05/investigacao-apura-furto-de-armas-em-predio-da-policia-cientifica-do-tocantins.ghtml)_
 
+- **[2026-11-05 18:32 UTC]** Vicentinho Júnior visita HGP, critica dívida do Estado e diz que Tocantins virou 'mau pagador'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/05/vicentinho-junior-visita-hgp-critica-divida-do-estado-e-diz-que-tocantins-virou-mau-pagador.ghtml)_
+
