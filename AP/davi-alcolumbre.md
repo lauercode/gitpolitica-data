@@ -635,3 +635,6 @@
 - **[2026-11-05 00:13 UTC]** Alcolumbre atende Motta e adia votação da redução da maioridade penal no Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/apos-conversa-com-motta-alcolumbre-adia-votacao-da-reducao-da-maioridade-penal-no-senado/)_
 
+- **[2026-11-04 21:42 UTC]** Alcolumbre critica eleitos com campanha de ofensas e ironiza ataques a urnas: 'no 1º turno prestou'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/alcolumbre-critica-senadores-eleitos-com-campanha-baseada-em-impeachment-de-ministros-do-stf.ghtml)_
+
