@@ -10849,3 +10849,6 @@
 - **[2026-11-05 18:01 UTC]** 'Vou levar para o túmulo', diz Flávio Bolsonaro ao NYT sobre ajuda para fuga do Brasil para os EUA
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/05/flavio-bolsonaro-nyt.ghtml)_
 
+- **[2026-11-05 16:47 UTC]** Fachin vai julgar ação contra Flávio Bolsonaro por uso de brasão em carta golpista
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/fachin-vai-julgar-acao-contra-flavio-bolsonaro-por-uso-de-brasao-em-carta-golpista/)_
+
