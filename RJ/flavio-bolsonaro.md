@@ -10813,3 +10813,6 @@
 - **[2026-11-05 08:00 UTC]** Saída de Flávio Bolsonaro é fuga para 49% e exílio para 47%, diz pesquisa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/saida-de-flavio-bolsonaro-e-fuga-para-49-e-exilio-para-47-diz-pesquisa.shtml)_
 
+- **[2026-11-05 15:05 UTC]** Saída de Flávio do Brasil com ação de agentes internacionais é linha de investigação da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/saida-de-flavio-do-brasil-com-acao-de-agentes-internacionais-e-linha-de-investigacao-da-pf/)_
+
