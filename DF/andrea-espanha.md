@@ -194,3 +194,6 @@
 - **[2026-11-04 18:04 UTC]** André Esteves recebe prêmio de desenvolvimento empresarial do rei da Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/andre-esteves-recebe-premio-de-desenvolvimento-empresarial-do-rei-da-espanha.shtml)_
 
+- **[2026-11-05 00:14 UTC]** Asador Etxebarri, da Espanha, é o melhor restaurante do mundo; Tuju, de SP, sobe 54 posições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/11/asador-etxebarri-da-espanha-e-o-melhor-restaurante-do-mundo-tuju-de-sp-sobe-54-posicoes.shtml)_
+
