@@ -10891,3 +10891,6 @@
 - **[2026-11-06 13:48 UTC]** Paraguaios temiam que Santiago Peña fugisse como Flávio Bolsonaro, diz cientista política
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/paraguaios-temiam-que-santiago-pena-fugisse-como-flavio-bolsonaro-diz-cientista-politica/)_
 
+- **[2026-11-06 11:53 UTC]** Prometida como ‘bombástica’, entrevista de Flávio Bolsonaro ao ‘NYT’ expõe fuga e teorias conspiratórias
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/prometida-como-bombastica-entrevista-de-flavio-bolsonaro-ao-nyt-expoe-fuga-e-teorias-conspiratorias/)_
+
