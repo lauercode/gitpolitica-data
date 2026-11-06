@@ -35,3 +35,6 @@
 - **[2026-11-06 01:44 UTC]** São tantas emoções! Roberto Carlos atrai multidão em 1º show no Acre em 50 anos; veja IMAGENS
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/05/show-de-roberto-carlos-no-acre.ghtml)_
 
+- **[2026-11-06 02:18 UTC]** Fã de Roberto Carlos percorre quase 200 km para assistir show no Acre: 'Sonho que estava longe'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/05/fa-de-roberto-carlos-percorre-quase-200-km-para-assistir-show-no-acre-sonho-que-estava-longe.ghtml)_
+
