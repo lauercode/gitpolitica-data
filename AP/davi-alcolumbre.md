@@ -665,3 +665,6 @@
 - **[2026-11-05 14:40 UTC]** Marinho x Alcolumbre: o que está em jogo na disputa pelo Senado?
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marinho-x-alcolumbre-o-que-esta-em-jogo-na-disputa-do-senado/)_
 
+- **[2026-11-06 00:20 UTC]** Rogério Marinho e Tereza Cristina articulam estratégia para derrotar Alcolumbre no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-e-tereza-cristina-articulam-estrategia-para-derrotar-alcolumbre-no-senado/)_
+
