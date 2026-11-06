@@ -10906,3 +10906,6 @@
 - **[2026-11-06 18:00 UTC]** Marqueteiros de Lula e Flávio trocam elogios em grupo de WhatsApp
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/marqueteiros-de-lula-e-flavio-trocam-elogios-em-grupo-de-whatsapp.shtml)_
 
+- **[2026-11-06 15:53 UTC]** A fantasia de Flávio está rasgada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/11/a-fantasia-de-flavio-esta-rasgada.shtml)_
+
