@@ -2657,3 +2657,6 @@
 - **[2026-11-05 23:11 UTC]** Parece que meu amigo Trump está perdendo, diz Lula sobre eleições nos EUA, e ironiza Flávio: 'pé-frio'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/05/lula-comenta-midterms-nos-eua-parece-que-meu-amigo-trump-esta-perdendo.ghtml)_
 
+- **[2026-11-05 18:03 UTC]** Mendonça extingue ação sobre sigilos de Lula e Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/mendonca-extingue-acao-sobre-sigilos-de-lula-e-flavio-bolsonaro/)_
+
