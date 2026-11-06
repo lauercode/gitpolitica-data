@@ -95,3 +95,6 @@
 - **[2026-11-06 09:00 UTC]** Rio Branco recebe novos radares para reforçar monitoramento e segurança na BR-364
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/06/rio-branco-recebe-novos-radares-para-reforcar-monitoramento-e-seguranca-na-br-364.ghtml)_
 
+- **[2026-11-06 04:01 UTC]** Previsão do tempo hoje para Rio Branco (AC): sol o dia todo; muitas nuvens e pancadas de chuva de manhã e à noite
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/06/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml)_
+
