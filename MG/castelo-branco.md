@@ -44,3 +44,6 @@
 - **[2026-10-26 12:01 UTC]** Escola Municipal Professora Eulina Paulina de Oliveira Castelo Branco, 8ª zona eleitoral: resultado da votação em Rorainópolis (RR) no 2º turno
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/26/escola-municipal-professora-eulina-paulina-de-oliveira-castelo-branco-8a-zona-eleitoral-resultado-da-votacao-em-rorainopolis-rr-no-2o-turno.ghtml)_
 
+- **[2026-11-06 17:58 UTC]** Começa instalação de cinco pórticos de free flow na rodovia Castelo Branco, em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/comeca-instalacao-de-cinco-porticos-de-free-flow-na-rodovia-castelo-branco-em-sp.shtml)_
+
