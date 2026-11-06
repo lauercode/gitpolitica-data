@@ -62,3 +62,6 @@
 - **[2026-11-05 21:40 UTC]** TSE admite ação do Novo contra Lula e Alckmin por abuso de poder político
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/05/tse-admite-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-politico.ghtml)_
 
+- **[2026-11-05 23:49 UTC]** TSE aceita ação do Novo que pede cassação de Lula e Alckmin por suposto abuso de poder
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tse-aceita-acao-do-novo-que-pede-cassacao-de-lula-e-alckmin-por-suposto-abuso-de-poder/)_
+
