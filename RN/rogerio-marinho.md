@@ -145,3 +145,6 @@
 - **[2026-11-06 00:20 UTC]** Rogério Marinho e Tereza Cristina articulam estratégia para derrotar Alcolumbre no Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-e-tereza-cristina-articulam-estrategia-para-derrotar-alcolumbre-no-senado/)_
 
+- **[2026-11-06 04:21 UTC]** Rogério Marinho e Tereza Cristina lançam estratégia para vencer Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-e-tereza-cristina-lancam-estrategia-para-vencer-alcolumbre/)_
+
