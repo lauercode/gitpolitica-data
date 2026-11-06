@@ -10870,3 +10870,6 @@
 - **[2026-11-06 08:00 UTC]** Alcolumbre permite voto remoto, mas analisa saída de Flávio sem aviso
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/06/alcolumbre-permite-voto-remoto-mas-analisa-saida-de-flavio-sem-aviso.ghtml)_
 
+- **[2026-11-06 13:35 UTC]** Flávio Bolsonaro encontra ator de 'Dark Horse' em conferência conservadora no resort de Trump
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-encontra-ator-de-dark-horse-em-conferencia-conservadora-no-resort-de-trump.shtml)_
+
