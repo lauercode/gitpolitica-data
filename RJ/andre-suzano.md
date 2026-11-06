@@ -17,3 +17,6 @@
 - **[2026-11-06 12:18 UTC]** Suzano vê demanda resiliente na Ásia e contribuição maior da Arbex
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/06/suzano-ve-demanda-resiliente-na-asia-e-contribuicao-maior-da-arbex.ghtml)_
 
+- **[2026-11-06 11:05 UTC]** Agenda de empresas: Lucro da Suzano soma R$ 2 bi; Cosan negocia venda de fatia na Compass
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/06/agenda-de-empresas-lucro-da-suzano-soma-r-2-bi-cosan-negocia-venda-de-fatia-na-compass.ghtml)_
+
