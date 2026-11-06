@@ -68,3 +68,6 @@
 - **[2026-11-05 22:34 UTC]** TSE aceita ação do Novo contra chapa Lula-Alckmin
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/05/ministro-do-tse-admite-ao-contra-lula-e-alckmin-por-suposto-abuso-de-poder-poltico.ghtml)_
 
+- **[2026-11-05 20:06 UTC]** TSE admite ação do Novo contra Lula e Alckmin por suposto abuso de poder político
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/tse-admite-acao-do-novo-contra-lula-e-alckmin-por-suposto-abuso-de-poder-politico/)_
+
