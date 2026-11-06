@@ -10852,3 +10852,6 @@
 - **[2026-11-05 16:47 UTC]** Fachin vai julgar ação contra Flávio Bolsonaro por uso de brasão em carta golpista
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/fachin-vai-julgar-acao-contra-flavio-bolsonaro-por-uso-de-brasao-em-carta-golpista/)_
 
+- **[2026-11-05 22:24 UTC]** Mendonça arquiva ação sobre “guerra dos sigilos” entre Lula e Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-arquiva-acao-sobre-guerra-dos-sigilos-entre-lula-e-flavio-bolsonaro/)_
+
