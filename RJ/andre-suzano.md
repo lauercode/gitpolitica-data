@@ -11,3 +11,6 @@
 - **[2026-11-06 00:17 UTC]** Suzano tem lucro líquido de R$ 2 bilhões no 3º trimestre
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/05/suzano-tem-lucro-liquido-de-r-2-bilhoes-no-3o-trimestre.ghtml)_
 
+- **[2026-11-06 13:46 UTC]** Quarto trimestre vai ser o mais forte do ano, diz Suzano
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/06/quarto-trimestre-vai-ser-o-mais-forte-do-ano-diz-suzano.ghtml)_
+
