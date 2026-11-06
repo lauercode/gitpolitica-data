@@ -8,3 +8,6 @@
 - **[2026-09-04 19:35 UTC]** Duda Salabert, deputada de Minas, relata agressão ao apurar denúncia e aciona polícia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/duda-salabert-deputada-de-minas-relata-agressao-ao-apurar-denuncia-e-aciona-policia.shtml)_
 
+- **[2026-11-06 18:33 UTC]** Duda Salabert propõe inclusão do horário de almoço na jornada de trabalho
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/duda-salabert-propoe-inclusao-do-horario-de-almoco-na-jornada-de-trabalho/)_
+
