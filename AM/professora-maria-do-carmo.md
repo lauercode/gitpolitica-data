@@ -137,3 +137,6 @@
 - **[2026-11-04 22:22 UTC]** Delegado que prendeu ex-chefe de gabinete de David Almeida assume inquérito que investiga Professora Maria do Carmo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/04/delegado-que-prendeu-ex-chefe-de-gabinete-de-david-almeida-assume-inquerito-que-investiga-professora-maria-do-carmo.ghtml)_
 
+- **[2026-11-06 10:07 UTC]** Casa de Professora Maria do Carmo é alvo de busca e apreensão da Polícia Civil em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/06/casa-de-professora-maria-do-carmo-e-alvo-de-busca-e-apreensao-da-policia-civil-em-manaus.ghtml)_
+
