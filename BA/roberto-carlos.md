@@ -38,3 +38,6 @@
 - **[2026-11-06 02:18 UTC]** Fã de Roberto Carlos percorre quase 200 km para assistir show no Acre: 'Sonho que estava longe'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/05/fa-de-roberto-carlos-percorre-quase-200-km-para-assistir-show-no-acre-sonho-que-estava-longe.ghtml)_
 
+- **[2026-11-06 17:00 UTC]** Irmãs realizam sonho de conhecer Roberto Carlos e tiram foto com cantor no Acre: 'Emoção sem tamanho'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/06/irmas-realizam-sonho-de-conhecer-roberto-carlos-e-tiram-foto-com-cantor-no-acre-emocao-sem-tamanho.ghtml)_
+
