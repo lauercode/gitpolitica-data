@@ -14,3 +14,6 @@
 - **[2026-11-05 17:17 UTC]** Com conselhos e brincadeiras, Bortoleto e Colapinto recebem Rafa Câmara na F1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/com-conselhos-e-brincadeiras-bortoleto-e-colapinto-recebem-rafa-camara-na-f1.shtml)_
 
+- **[2026-11-06 17:43 UTC]** Bortoleto faz 8º melhor tempo, e Câmara, 16º, no primeiro dia em Interlagos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/bortoleto-faz-8o-melhor-tempo-e-camara-16o-no-primeiro-dia-em-interlagos.shtml)_
+
