@@ -200,3 +200,6 @@
 - **[2026-11-04 14:26 UTC]** Omar Aziz escolhe vice-governadora eleita, ex-chefe da Suframa e advogado para transição no AM
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/04/omar-aziz-escolhe-vice-governadora-eleita-ex-chefe-da-suframa-e-advogado-para-transicao-no-am.ghtml)_
 
+- **[2026-11-06 14:15 UTC]** Após apreensão de celular e computador, Professora Maria do Carmo diz ser alvo de perseguição em caso que envolve a filha de Omar Aziz
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/06/apos-apreensao-de-celular-e-computador-professora-maria-do-carmo-diz-ser-alvo-de-perseguicao-em-caso-que-envolve-a-filha-de-omar-aziz.ghtml)_
+
