@@ -10897,3 +10897,6 @@
 - **[2026-11-06 11:27 UTC]** Senadora paraguaia cita fuga de Flávio Bolsonaro e defende a prisão de Santiago Peña
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/senadora-paraguaia-cita-fuga-de-flavio-bolsonaro-e-defende-a-prisao-de-santiago-pena/)_
 
+- **[2026-11-06 17:51 UTC]** Sem posição do Senado, regras sobre Flávio seguem indefinidas
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/sem-posicao-do-senado-regras-sobre-flavio-seguem-indefinidas)_
+
