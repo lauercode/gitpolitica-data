@@ -38,3 +38,6 @@
 - **[2026-09-05 17:00 UTC]** Motéis apostam em chef e terceiro hóspede grátis para atrair clientes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/moteis-apostam-em-chef-e-terceiro-hospede-gratis-para-atrair-clientes.shtml)_
 
+- **[2026-11-05 22:52 UTC]** Terceiro tornado no mesmo dia é confirmado em SC, com rajadas acima de 100 km/h
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/11/05/terceiro-tornado-mesmo-dia-sc-rio-negrinho.ghtml)_
+
