@@ -41,3 +41,6 @@
 - **[2026-11-06 17:00 UTC]** Irmãs realizam sonho de conhecer Roberto Carlos e tiram foto com cantor no Acre: 'Emoção sem tamanho'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/06/irmas-realizam-sonho-de-conhecer-roberto-carlos-e-tiram-foto-com-cantor-no-acre-emocao-sem-tamanho.ghtml)_
 
+- **[2026-11-06 14:08 UTC]** Fãs pegam rosas distribuídas por Roberto Carlos em show no Acre; FOTOS
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/06/fas-pegam-rosas-distribuidas-por-roberto-carlos-em-show-no-acre-fotos.ghtml)_
+
