@@ -10864,3 +10864,6 @@
 - **[2026-11-06 06:00 UTC]** Flávio abandona Comissão de Segurança do Senado, que deve ser herdada por Mourão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/flavio-abandona-comissao-de-seguranca-do-senado-que-deve-ser-herdada-por-mourao.shtml)_
 
+- **[2026-11-06 08:00 UTC]** ‘Excesso de confiança’ levou pessoa física a elevar aposta no ‘trade Flávio’
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/06/excesso-de-confianca-levou-pessoa-fisica-a-elevar-aposta-no-trade-flavio.ghtml)_
+
