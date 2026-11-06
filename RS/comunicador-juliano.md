@@ -29,3 +29,6 @@
 - **[2026-11-03 15:56 UTC]** Conheça a vaquejada, paixão assumida de Henrique, da dupla com Juliano
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/conheca-a-vaquejada-paixao-assumida-de-henrique-da-dupla-com-juliano.ghtml)_
 
+- **[2026-11-06 11:34 UTC]** Juliano, da dupla com Henrique, faz viagem de helicóptero para comprar ovos e leva saco de mangas de brinde
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/06/juliano-da-dupla-com-henrique-faz-viagem-de-helicoptero-para-comprar-ovos-e-leva-saco-de-mangas-de-brinde.ghtml)_
+
