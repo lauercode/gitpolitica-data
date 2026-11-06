@@ -80,3 +80,6 @@
 - **[2026-11-05 16:23 UTC]** Ministério da Saúde autoriza compra de 20 mil doses de vacina contra Mpox
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/ministerio-da-saude-autoriza-compra-de-20-mil-doses-de-vacina-contra-mpox.shtml)_
 
+- **[2026-11-05 19:32 UTC]** Ministério da Saúde autoriza aquisição de 20 mil doses da vacina contra a Mpox
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/saude/ministerio-da-saude-autoriza-aquisicao-de-20-mil-doses-da-vacina-contra-a-mpox/)_
+
