@@ -17,3 +17,6 @@
 - **[2026-09-10 22:12 UTC]** VÍDEO: Embarcação bate em lancha atracada durante manobra em terminal de Manaus
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/09/10/video-embarcacao-bate-em-lancha-atracada-durante-manobra-em-terminal-de-manaus.ghtml)_
 
+- **[2026-11-06 20:44 UTC]** Lancha colide com barranco no Amazonas; passageiros foram resgatados
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/06/lancha-colide-com-barranco-no-amazonas-passageiros-foram-resgatados.ghtml)_
+
