@@ -10882,3 +10882,6 @@
 - **[2026-11-06 08:46 UTC]** Líderes do PT querem que Lula abrevie tempo de Bolsonaro na prisão com graça ou indulto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lideres-do-pt-querem-que-lula-abrevie-tempo-de-bolsonaro-na-prisao-com-graca-ou-indulto.shtml)_
 
+- **[2026-11-06 11:05 UTC]** Em evento conservador nos EUA, Flávio diz que “ainda não foi o fim”: “Grandes coisas estão por vir”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/flavio-pronunciamento-cpac-ainda-nao-foi-fim/)_
+
