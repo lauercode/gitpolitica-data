@@ -11,3 +11,6 @@
 - **[2026-11-06 18:33 UTC]** Duda Salabert propõe inclusão do horário de almoço na jornada de trabalho
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/duda-salabert-propoe-inclusao-do-horario-de-almoco-na-jornada-de-trabalho/)_
 
+- **[2026-11-06 15:57 UTC]** Duda Salabert propõe considerar horário de almoço como tempo de trabalho remunerado
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/duda-salabert-propoe-considerar-horario-de-almoco-como-tempo-de-trabalho-remunerado/)_
+
