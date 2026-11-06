@@ -10867,3 +10867,6 @@
 - **[2026-11-06 08:00 UTC]** ‘Excesso de confiança’ levou pessoa física a elevar aposta no ‘trade Flávio’
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/06/excesso-de-confianca-levou-pessoa-fisica-a-elevar-aposta-no-trade-flavio.ghtml)_
 
+- **[2026-11-06 08:00 UTC]** Alcolumbre permite voto remoto, mas analisa saída de Flávio sem aviso
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/06/alcolumbre-permite-voto-remoto-mas-analisa-saida-de-flavio-sem-aviso.ghtml)_
+
