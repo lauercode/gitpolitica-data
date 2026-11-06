@@ -10894,3 +10894,6 @@
 - **[2026-11-06 11:53 UTC]** Prometida como ‘bombástica’, entrevista de Flávio Bolsonaro ao ‘NYT’ expõe fuga e teorias conspiratórias
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/prometida-como-bombastica-entrevista-de-flavio-bolsonaro-ao-nyt-expoe-fuga-e-teorias-conspiratorias/)_
 
+- **[2026-11-06 11:27 UTC]** Senadora paraguaia cita fuga de Flávio Bolsonaro e defende a prisão de Santiago Peña
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/senadora-paraguaia-cita-fuga-de-flavio-bolsonaro-e-defende-a-prisao-de-santiago-pena/)_
+
