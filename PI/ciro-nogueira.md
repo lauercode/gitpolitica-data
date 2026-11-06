@@ -68,3 +68,6 @@
 - **[2026-11-04 11:42 UTC]** Após derrota, Ciro Nogueira se recolhe e deixa protagonismo para aliados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/apos-derrota-ciro-nogueira-se-recolhe-e-deixa-protagonismo-para-aliados.shtml)_
 
+- **[2026-11-05 18:55 UTC]** Tarcísio conta com Ciro Nogueira para construção de projetos futuros, diz presidente estadual do PP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tarcisio-conta-com-ciro-nogueira-para-construcao-de-projetos-futuros-diz-presidente-estadual-do-pp.shtml)_
+
