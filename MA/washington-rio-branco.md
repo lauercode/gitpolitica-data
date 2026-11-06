@@ -92,3 +92,6 @@
 - **[2026-11-05 22:38 UTC]** Rio Branco termina outubro com chuvas quase 50% abaixo do previsto, diz Defesa Civil
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/05/rio-branco-termina-outubro-com-chuvas-quase-50percent-abaixo-do-previsto-diz-defesa-civil.ghtml)_
 
+- **[2026-11-06 09:00 UTC]** Rio Branco recebe novos radares para reforçar monitoramento e segurança na BR-364
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/06/rio-branco-recebe-novos-radares-para-reforcar-monitoramento-e-seguranca-na-br-364.ghtml)_
+
