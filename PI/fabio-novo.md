@@ -74,3 +74,6 @@
 - **[2026-11-06 08:00 UTC]** Novo limite para MEI pode agravar déficit da Previdência
   _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/11/06/novo-limite-para-mei-pode-agravar-deficit-da-previdencia.ghtml)_
 
+- **[2026-11-06 17:23 UTC]** Novo chefe de gabinete de Trump tem relação próxima com bolsonaristas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/novo-chefe-de-gabinete-de-trump-tem-relacao-proxima-com-bolsonaristas.shtml)_
+
