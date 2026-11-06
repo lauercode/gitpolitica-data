@@ -35,3 +35,6 @@
 - **[2026-10-31 14:14 UTC]** Em 7 anos, Patrulha Maria da Penha acompanhou mais de 135 mil mulheres
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/em-7-anos-patrulha-maria-da-penha-acompanhou-mais-de-135-mil-mulheres)_
 
+- **[2026-11-06 11:22 UTC]** Comissão aprova dispensa de custas processuais para medidas protetivas da Lei Maria da Penha
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1316669-comissao-aprova-dispensa-de-custas-processuais-para-medidas-protetivas-da-lei-maria-da-penha)_
+
