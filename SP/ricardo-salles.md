@@ -56,3 +56,6 @@
 - **[2026-10-05 14:30 UTC]** Salles recebe 120 mil votos para senador em SP mesmo após desistir de candidatura
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/salles-recebe-120-mil-votos-para-senador-em-sp-mesmo-apos-desistir-de-candidatura.shtml)_
 
+- **[2026-11-05 19:47 UTC]** Após acordo eleitoral, Tarcísio deve dar secretaria a Ricardo Salles
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/apos-acordo-eleitoral-tarcisio-deve-dar-secretaria-a-ricardo-salles.shtml)_
+
