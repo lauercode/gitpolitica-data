@@ -41,3 +41,6 @@
 - **[2026-11-05 22:52 UTC]** Terceiro tornado no mesmo dia é confirmado em SC, com rajadas acima de 100 km/h
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/11/05/terceiro-tornado-mesmo-dia-sc-rio-negrinho.ghtml)_
 
+- **[2026-11-05 19:11 UTC]** Terceiro turno, a batalha da vez
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/opiniao/terceiro-turno-a-batalha-da-vez/)_
+
