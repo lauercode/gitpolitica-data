@@ -122,3 +122,6 @@
 - **[2026-11-05 20:22 UTC]** Fachin rejeita pedido de Nikolas Ferreira para afastar Paulo Gonet da PGR
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-rejeita-pedido-de-nikolas-ferreira-para-afastar-paulo-gonet-da-pgr/)_
 
+- **[2026-11-06 13:58 UTC]** STF decide: Fachin barra ação de Nikolas Ferreira contra Paulo Gonet
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-decide-fachin-barra-acao-de-nikolas-ferreira-contra-paulo-gonet/)_
+
