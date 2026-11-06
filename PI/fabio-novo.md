@@ -71,3 +71,6 @@
 - **[2026-11-05 20:06 UTC]** TSE admite ação do Novo contra Lula e Alckmin por suposto abuso de poder político
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/tse-admite-acao-do-novo-contra-lula-e-alckmin-por-suposto-abuso-de-poder-politico/)_
 
+- **[2026-11-06 08:00 UTC]** Novo limite para MEI pode agravar déficit da Previdência
+  _fonte: [Valor Econômico](https://valor.globo.com/impresso/noticia/2026/11/06/novo-limite-para-mei-pode-agravar-deficit-da-previdencia.ghtml)_
+
