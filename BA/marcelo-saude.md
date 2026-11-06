@@ -86,3 +86,6 @@
 - **[2026-11-06 12:23 UTC]** Comissão de Saúde discute proposta que cria cartão de identificação único do usuário do SUS
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1316523-comissao-de-saude-discute-proposta-que-cria-cartao-de-identificacao-unico-do-usuario-do-sus)_
 
+- **[2026-11-06 15:15 UTC]** Secretário de Nunes é cotado para comandar Saúde na gestão Tarcísio em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/secretario-de-nunes-e-cotado-para-comandar-saude-na-gestao-tarcisio.shtml)_
+
