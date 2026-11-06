@@ -2648,3 +2648,6 @@
 - **[2026-11-05 16:35 UTC]** Mendonça extingue ação do TSE que discutia quebras de sigilo de Lula e de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/mendonca-extingue-acao-do-tse-que-discutia-quebras-de-sigilo-de-lula-e-de-flavio-bolsonaro.shtml)_
 
+- **[2026-11-05 19:48 UTC]** Equipe econômica vai discutir medidas fiscais com presidente Lula
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/equipe-economica-vai-discutir-medidas-fiscais-com-o-presidente-lula)_
+
