@@ -83,3 +83,6 @@
 - **[2026-11-05 19:32 UTC]** Ministério da Saúde autoriza aquisição de 20 mil doses da vacina contra a Mpox
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/saude/ministerio-da-saude-autoriza-aquisicao-de-20-mil-doses-da-vacina-contra-a-mpox/)_
 
+- **[2026-11-06 12:23 UTC]** Comissão de Saúde discute proposta que cria cartão de identificação único do usuário do SUS
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1316523-comissao-de-saude-discute-proposta-que-cria-cartao-de-identificacao-unico-do-usuario-do-sus)_
+
