@@ -53,3 +53,6 @@
 - **[2026-11-05 18:42 UTC]** Defesa de Bolsonaro pede aval para visitas de Rogério Marinho e Tereza Cristina
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/05/defesa-de-bolsonaro-pede-aval-para-visitas-de-rogerio-marinho-e-tereza-cristina.ghtml)_
 
+- **[2026-11-05 23:41 UTC]** Tereza Cristina diz que pretende discutir disputa pela presidência do Senado com Jair Bolsonaro: 'explicar o que está acontecendo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/05/tereza-cristina-disputa-presidencia-senado-jair-bolsonaro.ghtml)_
+
