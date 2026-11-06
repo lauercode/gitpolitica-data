@@ -10909,3 +10909,6 @@
 - **[2026-11-06 15:53 UTC]** A fantasia de Flávio está rasgada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/11/a-fantasia-de-flavio-esta-rasgada.shtml)_
 
+- **[2026-11-06 21:16 UTC]** Ao TSE, Meta nega viés eleitoral e diz que publicações de Lula alcançaram mais pessoas que as de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/06/ao-tse-meta-nega-vis-eleitoral-e-diz-que-publicaes-de-lula-alcanaram-mais-pessoas-que-as-de-flvio.ghtml)_
+
