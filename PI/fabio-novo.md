@@ -65,3 +65,6 @@
 - **[2026-11-05 23:49 UTC]** TSE aceita ação do Novo que pede cassação de Lula e Alckmin por suposto abuso de poder
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tse-aceita-acao-do-novo-que-pede-cassacao-de-lula-e-alckmin-por-suposto-abuso-de-poder/)_
 
+- **[2026-11-05 22:34 UTC]** TSE aceita ação do Novo contra chapa Lula-Alckmin
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/05/ministro-do-tse-admite-ao-contra-lula-e-alckmin-por-suposto-abuso-de-poder-poltico.ghtml)_
+
