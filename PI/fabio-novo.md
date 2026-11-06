@@ -80,3 +80,6 @@
 - **[2026-11-06 14:21 UTC]** Novo leilão do Banco Master tem chopeira, adega e TV gigante dos escritórios de Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/novo-leilao-do-banco-master-tem-chopeira-adega-e-tv-gigante-dos-escritorios-de-vorcaro.shtml)_
 
+- **[2026-11-06 18:26 UTC]** Bolsa Família, combustíveis e dívidas: as 35 medidas que motivaram ação do Novo contra Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsa-familia-combustiveis-dividas-35-medidas-acao-novo-contra-lula/)_
+
