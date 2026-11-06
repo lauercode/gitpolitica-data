@@ -10888,3 +10888,6 @@
 - **[2026-11-06 13:55 UTC]** Pesquisa FESPSP mostra racha no eleitorado sobre fuga de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pesquisa-fespsp-mostra-racha-no-eleitorado-sobre-fuga-de-flavio-bolsonaro/)_
 
+- **[2026-11-06 13:48 UTC]** Paraguaios temiam que Santiago Peña fugisse como Flávio Bolsonaro, diz cientista política
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/paraguaios-temiam-que-santiago-pena-fugisse-como-flavio-bolsonaro-diz-cientista-politica/)_
+
