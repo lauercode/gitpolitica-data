@@ -314,3 +314,6 @@
 - **[2026-11-06 15:28 UTC]** Concurso do IBGE oferta mais de 500 vagas para o Tocantins; veja como concorrer
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/06/concurso-do-ibge-oferta-mais-de-500-vagas-para-o-tocantins-veja-como-concorrer.ghtml)_
 
+- **[2026-11-06 14:11 UTC]** Quem é a coronel que se tornou a primeira mulher a ser chefe do Estado-Maior da PM do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/06/quem-e-a-coronel-que-se-tornou-a-primeira-mulher-a-ser-chefe-do-estado-maior-da-pm-do-tocantins.ghtml)_
+
