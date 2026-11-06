@@ -98,3 +98,6 @@
 - **[2026-11-06 04:01 UTC]** Previsão do tempo hoje para Rio Branco (AC): sol o dia todo; muitas nuvens e pancadas de chuva de manhã e à noite
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/06/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml)_
 
+- **[2026-11-06 20:37 UTC]** Tributo aos Mamonas Assassinas tem show nesta sexta-feira (6) em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/06/tributo-aos-mamonas-assassinas-tem-show-nesta-sexta-feira-6-em-rio-branco.ghtml)_
+
