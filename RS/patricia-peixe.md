@@ -11,3 +11,6 @@
 - **[2026-10-26 12:10 UTC]** Peixe (TO): resultado do local de votação por zonas eleitorais no 2º turno
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/26/peixe-to-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
 
+- **[2026-11-05 19:02 UTC]** Peixe grelhado: aprenda a fazer essa receita fácil e saudável para o jantar
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/receitas/peixe-grelhado-aprenda-a-fazer-essa-receita-facil-e-saudavel-para-o-jantar/)_
+
