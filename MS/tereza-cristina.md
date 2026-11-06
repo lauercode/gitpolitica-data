@@ -56,3 +56,6 @@
 - **[2026-11-05 23:41 UTC]** Tereza Cristina diz que pretende discutir disputa pela presidência do Senado com Jair Bolsonaro: 'explicar o que está acontecendo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/05/tereza-cristina-disputa-presidencia-senado-jair-bolsonaro.ghtml)_
 
+- **[2026-11-06 00:20 UTC]** Rogério Marinho e Tereza Cristina articulam estratégia para derrotar Alcolumbre no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-e-tereza-cristina-articulam-estrategia-para-derrotar-alcolumbre-no-senado/)_
+
