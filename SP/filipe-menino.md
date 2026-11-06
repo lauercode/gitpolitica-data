@@ -113,3 +113,6 @@
 - **[2026-10-28 20:24 UTC]** Menino de 5 anos achado ferido no RS ganha proteção com Lei Henry Borel
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/28/menino-5-anos-achado-protecao-pedida-lei-henry-borel.ghtml)_
 
+- **[2026-11-06 16:09 UTC]** Menino de 4 anos é atropelado e motorista foge no Vila Jardim, em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/06/menino-de-4-anos-e-atropelado-e-motorista-foge-no-vila-jardim-em-boa-vista.ghtml)_
+
