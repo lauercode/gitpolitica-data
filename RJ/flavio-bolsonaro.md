@@ -10861,3 +10861,6 @@
 - **[2026-11-05 18:03 UTC]** Mendonça extingue ação sobre sigilos de Lula e Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/mendonca-extingue-acao-sobre-sigilos-de-lula-e-flavio-bolsonaro/)_
 
+- **[2026-11-06 06:00 UTC]** Flávio abandona Comissão de Segurança do Senado, que deve ser herdada por Mourão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/flavio-abandona-comissao-de-seguranca-do-senado-que-deve-ser-herdada-por-mourao.shtml)_
+
