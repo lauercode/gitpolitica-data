@@ -14,3 +14,6 @@
 - **[2026-11-06 13:46 UTC]** Quarto trimestre vai ser o mais forte do ano, diz Suzano
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/06/quarto-trimestre-vai-ser-o-mais-forte-do-ano-diz-suzano.ghtml)_
 
+- **[2026-11-06 12:18 UTC]** Suzano vê demanda resiliente na Ásia e contribuição maior da Arbex
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/06/suzano-ve-demanda-resiliente-na-asia-e-contribuicao-maior-da-arbex.ghtml)_
+
