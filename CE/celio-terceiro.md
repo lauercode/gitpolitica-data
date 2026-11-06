@@ -44,3 +44,6 @@
 - **[2026-11-05 19:11 UTC]** Terceiro turno, a batalha da vez
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/opiniao/terceiro-turno-a-batalha-da-vez/)_
 
+- **[2026-11-06 12:33 UTC]** Terceiro dia de protestos contra Ueno Bank tem bombas, pedradas, sete presos e um policial ferido
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/terceiro-dia-de-protestos-contra-ueno-bank-tem-bombas-pedradas-sete-presos-e-um-policial-ferido.shtml)_
+
