@@ -2660,3 +2660,6 @@
 - **[2026-11-05 18:03 UTC]** Mendonça extingue ação sobre sigilos de Lula e Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/mendonca-extingue-acao-sobre-sigilos-de-lula-e-flavio-bolsonaro/)_
 
+- **[2026-11-06 08:46 UTC]** Líderes do PT querem que Lula abrevie tempo de Bolsonaro na prisão com graça ou indulto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lideres-do-pt-querem-que-lula-abrevie-tempo-de-bolsonaro-na-prisao-com-graca-ou-indulto.shtml)_
+
