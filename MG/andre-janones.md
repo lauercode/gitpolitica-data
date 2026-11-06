@@ -299,3 +299,6 @@
 - **[2026-11-05 04:00 UTC]** Votação de Janones para deputado federal cai 67% em MG de 2022 para 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/votacao-de-janones-para-deputado-federal-cai-67-em-mg-de-2022-para-2026.shtml)_
 
+- **[2026-11-06 15:14 UTC]** Vereador do PT se inspira em Janones e cria canal para fiscalizar gestão Nunes
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/vereador-do-pt-se-inspira-em-janones-e-cria-canal-para-fiscalizar-gestao-nunes.shtml)_
+
