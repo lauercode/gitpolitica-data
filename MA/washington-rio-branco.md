@@ -89,3 +89,6 @@
 - **[2026-11-04 23:15 UTC]** VÍDEO: Rio seca e ribeirinhos caminham mais de 1 km para buscar água no Baixo Rio Branco
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/04/video-rio-seca-e-ribeirinhos-caminham-mais-de-1-km-para-buscar-agua-no-baixo-rio-branco.ghtml)_
 
+- **[2026-11-05 22:38 UTC]** Rio Branco termina outubro com chuvas quase 50% abaixo do previsto, diz Defesa Civil
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/05/rio-branco-termina-outubro-com-chuvas-quase-50percent-abaixo-do-previsto-diz-defesa-civil.ghtml)_
+
