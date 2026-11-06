@@ -10885,3 +10885,6 @@
 - **[2026-11-06 11:05 UTC]** Em evento conservador nos EUA, Flávio diz que “ainda não foi o fim”: “Grandes coisas estão por vir”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/flavio-pronunciamento-cpac-ainda-nao-foi-fim/)_
 
+- **[2026-11-06 13:55 UTC]** Pesquisa FESPSP mostra racha no eleitorado sobre fuga de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pesquisa-fespsp-mostra-racha-no-eleitorado-sobre-fuga-de-flavio-bolsonaro/)_
+
