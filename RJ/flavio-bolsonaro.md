@@ -10879,3 +10879,6 @@
 - **[2026-11-06 10:30 UTC]** Flávio Bolsonaro corta os cabelos em salão badalado de Miami antes de entrevista ao NYT
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/flavio-bolsonaro-corta-os-cabelos-em-salao-badalado-de-miami-antes-de-entrevista-ao-nyt.shtml)_
 
+- **[2026-11-06 08:46 UTC]** Líderes do PT querem que Lula abrevie tempo de Bolsonaro na prisão com graça ou indulto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lideres-do-pt-querem-que-lula-abrevie-tempo-de-bolsonaro-na-prisao-com-graca-ou-indulto.shtml)_
+
