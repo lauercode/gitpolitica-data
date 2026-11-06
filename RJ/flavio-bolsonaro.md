@@ -10876,3 +10876,6 @@
 - **[2026-11-06 10:51 UTC]** Itália diz que Flávio Bolsonaro obteve cidadania em janeiro de 2023, 58 dias após enviar documentos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-italiano-diz-que-flavio-bolsonaro-obteve-cidadania-58-dias-apos-apresentar-documentos.shtml)_
 
+- **[2026-11-06 10:30 UTC]** Flávio Bolsonaro corta os cabelos em salão badalado de Miami antes de entrevista ao NYT
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/flavio-bolsonaro-corta-os-cabelos-em-salao-badalado-de-miami-antes-de-entrevista-ao-nyt.shtml)_
+
