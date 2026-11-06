@@ -2651,3 +2651,6 @@
 - **[2026-11-05 19:48 UTC]** Equipe econômica vai discutir medidas fiscais com presidente Lula
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/equipe-economica-vai-discutir-medidas-fiscais-com-o-presidente-lula)_
 
+- **[2026-11-05 22:24 UTC]** Mendonça arquiva ação sobre “guerra dos sigilos” entre Lula e Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-arquiva-acao-sobre-guerra-dos-sigilos-entre-lula-e-flavio-bolsonaro/)_
+
