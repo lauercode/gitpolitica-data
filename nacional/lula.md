@@ -2654,3 +2654,6 @@
 - **[2026-11-05 22:24 UTC]** Mendonça arquiva ação sobre “guerra dos sigilos” entre Lula e Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mendonca-arquiva-acao-sobre-guerra-dos-sigilos-entre-lula-e-flavio-bolsonaro/)_
 
+- **[2026-11-05 23:11 UTC]** Parece que meu amigo Trump está perdendo, diz Lula sobre eleições nos EUA, e ironiza Flávio: 'pé-frio'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/05/lula-comenta-midterms-nos-eua-parece-que-meu-amigo-trump-esta-perdendo.ghtml)_
+
