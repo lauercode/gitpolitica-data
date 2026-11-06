@@ -10873,3 +10873,6 @@
 - **[2026-11-06 13:35 UTC]** Flávio Bolsonaro encontra ator de 'Dark Horse' em conferência conservadora no resort de Trump
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-encontra-ator-de-dark-horse-em-conferencia-conservadora-no-resort-de-trump.shtml)_
 
+- **[2026-11-06 10:51 UTC]** Itália diz que Flávio Bolsonaro obteve cidadania em janeiro de 2023, 58 dias após enviar documentos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-italiano-diz-que-flavio-bolsonaro-obteve-cidadania-58-dias-apos-apresentar-documentos.shtml)_
+
