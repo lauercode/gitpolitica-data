@@ -142,3 +142,6 @@
 - **[2026-11-05 18:42 UTC]** Defesa de Bolsonaro pede aval para visitas de Rogério Marinho e Tereza Cristina
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/05/defesa-de-bolsonaro-pede-aval-para-visitas-de-rogerio-marinho-e-tereza-cristina.ghtml)_
 
+- **[2026-11-06 00:20 UTC]** Rogério Marinho e Tereza Cristina articulam estratégia para derrotar Alcolumbre no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-e-tereza-cristina-articulam-estrategia-para-derrotar-alcolumbre-no-senado/)_
+
