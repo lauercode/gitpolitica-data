@@ -191,3 +191,6 @@
 - **[2026-10-30 17:23 UTC]** Jair Bolsonaro volta a soluçar e tem taquicardia dias após o 2º turno
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/jair-bolsonaro-volta-a-solucar-e-tem-taquicardia-dias-apos-o-2o-turno/)_
 
+- **[2026-11-05 23:41 UTC]** Tereza Cristina diz que pretende discutir disputa pela presidência do Senado com Jair Bolsonaro: 'explicar o que está acontecendo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/05/tereza-cristina-disputa-presidencia-senado-jair-bolsonaro.ghtml)_
+
