@@ -32,3 +32,6 @@
 - **[2026-10-12 15:17 UTC]** Ana Paula Oliveira vê redução no preconceito com as mulheres no futebol
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/ana-paula-oliveira-ve-reducao-no-preconceito-com-as-mulheres-no-futebol.shtml)_
 
+- **[2026-11-06 15:00 UTC]** Ana Paula Maia mergulha no horror apocalíptico dos desastres ambientais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/ana-paula-maia-mergulha-no-horror-apocaliptico-dos-desastres-ambientais.shtml)_
+
