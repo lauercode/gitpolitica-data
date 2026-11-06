@@ -77,3 +77,6 @@
 - **[2026-11-06 17:23 UTC]** Novo chefe de gabinete de Trump tem relação próxima com bolsonaristas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/novo-chefe-de-gabinete-de-trump-tem-relacao-proxima-com-bolsonaristas.shtml)_
 
+- **[2026-11-06 14:21 UTC]** Novo leilão do Banco Master tem chopeira, adega e TV gigante dos escritórios de Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/novo-leilao-do-banco-master-tem-chopeira-adega-e-tv-gigante-dos-escritorios-de-vorcaro.shtml)_
+
