@@ -209,3 +209,6 @@
 - **[2026-10-29 04:15 UTC]** Polícia de SP mata uma pessoa a cada 12 horas sob a gestão Tarcísio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-de-sp-mata-uma-pessoa-a-cada-12-horas-sob-a-gestao-tarcisio.shtml)_
 
+- **[2026-11-06 15:15 UTC]** Secretário de Nunes é cotado para comandar Saúde na gestão Tarcísio em SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/secretario-de-nunes-e-cotado-para-comandar-saude-na-gestao-tarcisio.shtml)_
+
