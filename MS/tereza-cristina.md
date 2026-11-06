@@ -62,3 +62,6 @@
 - **[2026-11-06 00:16 UTC]** Tereza Cristina diz querer falar com Bolsonaro sobre 'missão da oposição' na disputa à presidência do Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/05/tereza-cristina-diz-querer-falar-com-bolsonaro-sobre-missao-da-oposicao-na-disputa-a-presidencia-do-senado.ghtml)_
 
+- **[2026-11-06 04:21 UTC]** Rogério Marinho e Tereza Cristina lançam estratégia para vencer Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-e-tereza-cristina-lancam-estrategia-para-vencer-alcolumbre/)_
+
