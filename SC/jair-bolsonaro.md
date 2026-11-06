@@ -194,3 +194,6 @@
 - **[2026-11-05 23:41 UTC]** Tereza Cristina diz que pretende discutir disputa pela presidência do Senado com Jair Bolsonaro: 'explicar o que está acontecendo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/05/tereza-cristina-disputa-presidencia-senado-jair-bolsonaro.ghtml)_
 
+- **[2026-11-06 19:53 UTC]** Justiça Federal barra acusação de improbidade contra Jair Bolsonaro e Wal do Açaí
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-federal-barra-acusacao-de-improbidade-contra-jair-bolsonaro-e-wal-do-acai/)_
+
