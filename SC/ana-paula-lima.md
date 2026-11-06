@@ -14,3 +14,6 @@
 - **[2026-10-12 23:00 UTC]** Paula Lima leva caldeirão musical dançante para o Folha Gourmet Festival
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/10/paula-lima-leva-caldeirao-musical-dancante-para-o-folha-gourmet-festival.shtml)_
 
+- **[2026-11-06 15:00 UTC]** Ana Paula Maia mergulha no horror apocalíptico dos desastres ambientais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/ana-paula-maia-mergulha-no-horror-apocaliptico-dos-desastres-ambientais.shtml)_
+
