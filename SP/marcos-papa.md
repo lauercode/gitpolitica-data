@@ -5,3 +5,6 @@
 
 ## Histórico
 
+- **[2026-11-06 06:00 UTC]** Papa no Uruguai: fiéis do RS organizam excursão, preparam presentes e relatam ansiedade para 1ª visita de Leão XIV à América do Sul
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/06/papa-no-uruguai-fieis-do-rs-organizam-excursao.ghtml)_
+
