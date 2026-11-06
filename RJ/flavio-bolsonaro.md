@@ -10900,3 +10900,6 @@
 - **[2026-11-06 17:51 UTC]** Sem posição do Senado, regras sobre Flávio seguem indefinidas
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/sem-posicao-do-senado-regras-sobre-flavio-seguem-indefinidas)_
 
+- **[2026-11-06 18:06 UTC]** Flávio admite não ter prova de fraude, critica volta de Jair ao Brasil e diz querer 2030 assim como Tarcísio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-admite-nao-ter-prova-de-fraude-critica-volta-de-jair-ao-brasil-e-diz-querer-2030-assim-como-tarcisio.shtml)_
+
