@@ -671,3 +671,6 @@
 - **[2026-11-06 04:21 UTC]** Rogério Marinho e Tereza Cristina lançam estratégia para vencer Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-e-tereza-cristina-lancam-estrategia-para-vencer-alcolumbre/)_
 
+- **[2026-11-06 08:00 UTC]** Alcolumbre permite voto remoto, mas analisa saída de Flávio sem aviso
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/06/alcolumbre-permite-voto-remoto-mas-analisa-saida-de-flavio-sem-aviso.ghtml)_
+
