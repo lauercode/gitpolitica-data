@@ -317,3 +317,6 @@
 - **[2026-11-06 14:11 UTC]** Quem é a coronel que se tornou a primeira mulher a ser chefe do Estado-Maior da PM do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/06/quem-e-a-coronel-que-se-tornou-a-primeira-mulher-a-ser-chefe-do-estado-maior-da-pm-do-tocantins.ghtml)_
 
+- **[2026-11-06 13:09 UTC]** Prefeitura no Tocantins exonera 197 servidores comissionados após alegar crise financeira
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/06/prefeitura-no-tocantins-exonera-197-servidores-comissionados-apos-alegar-crise-financeira.ghtml)_
+
