@@ -38,3 +38,6 @@
 - **[2026-10-19 14:18 UTC]** Justiça nega pedido de Lupi para retirar vídeo de Van Hattem sobre fraudes no INSS
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-nega-pedido-de-lupi-para-retirar-video-de-van-hattem-sobre-fraudes-no-inss/)_
 
+- **[2026-11-07 13:18 UTC]** Moraes barra visitas de Gayer, Van Hattem e Jordy a Filipe Martins
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-barra-visitas-de-gayer-van-hattem-e-jordy-a-filipe-martins/)_
+
