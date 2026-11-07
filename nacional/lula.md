@@ -2669,3 +2669,6 @@
 - **[2026-11-06 21:16 UTC]** Ao TSE, Meta nega viés eleitoral e diz que publicações de Lula alcançaram mais pessoas que as de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/06/ao-tse-meta-nega-vis-eleitoral-e-diz-que-publicaes-de-lula-alcanaram-mais-pessoas-que-as-de-flvio.ghtml)_
 
+- **[2026-11-06 22:49 UTC]** Lula deseja êxito a Pedro Alliana, novo presidente do Paraguai após queda de Peña
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-deseja-exito-a-pedro-alliana-novo-presidente-do-paraguai-apos-queda-de-pena.shtml)_
+
