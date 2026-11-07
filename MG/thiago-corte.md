@@ -83,3 +83,6 @@
 - **[2026-11-07 03:46 UTC]** Fachin retém investigação sobre o Master no STF para preservar a Corte
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-retem-investigacao-sobre-o-master-no-stf-para-preservar-a-corte/)_
 
+- **[2026-11-07 12:20 UTC]** Gonet pede ao STF suspensão de ações contra MP do fim das bets até Corte decidir sobre proibição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/07/gonet-pede-ao-stf-suspensao-de-acoes-contra-mp-do-fim-das-bets-ate-corte-decidir-sobre-proibicao.ghtml)_
+
