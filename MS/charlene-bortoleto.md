@@ -20,3 +20,6 @@
 - **[2026-11-06 15:32 UTC]** Norris tem melhor tempo no primeiro treino livre de Interlagos; Bortoleto é 8º e Câmara é 18º
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/norris-tem-melhor-tempo-no-primeiro-treino-livre-de-interlagos-bortoleto-e-8o-e-camara-e-18o/)_
 
+- **[2026-11-07 16:10 UTC]** Câmara e Bortoleto batem na classificação, e Norris faz a pole em Interlagos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/chuva-forte-interrompe-treino-de-classificacao-do-gp-de-sao-paulo.shtml)_
+
