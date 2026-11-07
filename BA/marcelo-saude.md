@@ -89,3 +89,6 @@
 - **[2026-11-06 15:15 UTC]** Secretário de Nunes é cotado para comandar Saúde na gestão Tarcísio em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/secretario-de-nunes-e-cotado-para-comandar-saude-na-gestao-tarcisio.shtml)_
 
+- **[2026-11-07 20:00 UTC]** Casos de malária caem 29% no AM e atingem menor nível desde 2016, aponta Fundação de Vigilância em Saúde
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/07/casos-de-malaria-caem-29percent-no-am-e-atingem-menor-nivel-desde-2016-aponta-fundacao-de-vigilancia-em-saude.ghtml)_
+
