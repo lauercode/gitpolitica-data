@@ -83,3 +83,6 @@
 - **[2026-11-06 18:26 UTC]** Bolsa Família, combustíveis e dívidas: as 35 medidas que motivaram ação do Novo contra Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/bolsa-familia-combustiveis-dividas-35-medidas-acao-novo-contra-lula/)_
 
+- **[2026-11-07 00:37 UTC]** Novo presidente do Paraguai promete assistir vítimas do ueno bank e cortar gastos públicos
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/06/novo-presidente-do-paraguai-promete-assistir-vitimas-do-ueno-bank-e-cortar-gastos-publicos.ghtml)_
+
