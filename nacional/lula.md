@@ -2678,3 +2678,6 @@
 - **[2026-11-07 03:18 UTC]** Lula cumprimenta Alliana e convida novo presidente do Paraguai a Brasília
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/07/lula-cumprimenta-alliana-e-convida-novo-presidente-do-paraguai-a-braslia.ghtml)_
 
+- **[2026-11-07 21:39 UTC]** Presidente Lula vai levar Janones para viagem à Turquia
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/07/presidente-lula-vai-levar-janones-para-viagem-a-turquia.ghtml)_
+
