@@ -44,3 +44,6 @@
 - **[2026-10-05 17:52 UTC]** Eleito para o Senado pelo Rio, Jordy vê eleitor descontente com PT e  STF no Estado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/05/eleito-para-o-senado-pelo-rio-jordy-ve-eleitor-descontente-com-pt-e-stf-no-estado.ghtml)_
 
+- **[2026-11-07 13:18 UTC]** Moraes barra visitas de Gayer, Van Hattem e Jordy a Filipe Martins
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-barra-visitas-de-gayer-van-hattem-e-jordy-a-filipe-martins/)_
+
