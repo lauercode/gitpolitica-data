@@ -323,3 +323,6 @@
 - **[2026-11-06 21:02 UTC]** Criança de oito anos morre afogada em Lago no interior do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/06/crianca-de-oito-anos-morre-afogada-em-lago-no-interior-do-tocantins.ghtml)_
 
+- **[2026-11-07 09:00 UTC]** Estudante de escola pública do Tocantins conquista ouro na Olimpíada Nacional de Eficiência Energética
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/07/estudante-de-escola-publica-do-tocantins-conquista-ouro-na-olimpiada-nacional-de-eficiencia-energetica.ghtml)_
+
