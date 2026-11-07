@@ -10927,3 +10927,6 @@
 - **[2026-11-06 19:33 UTC]** Governo suspende registro de imóveis em ilha alvo de disputa entre Richarlison e amigo de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/governo-suspende-registro-de-ilha-alvo-de-disputa-entre-richarlison-e-amigo-de-flavio-bolsonaro/)_
 
+- **[2026-11-07 03:00 UTC]** Alíquotas de até 12% para tributo federal sobre consumo e 'imposto do pecado'; compare propostas das gestões Lula e Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/07/aliquotas-de-ate-12percent-para-tributo-federal-sobre-consumo-e-imposto-do-pecado-compare-propostas-das-gestoes-lula-e-bolsonaro.ghtml)_
+
