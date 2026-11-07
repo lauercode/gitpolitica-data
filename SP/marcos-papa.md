@@ -17,3 +17,6 @@
 - **[2026-11-06 16:27 UTC]** Papa exalta democracia, sustentabilidade e saúde pública no Uruguai, primeira parada de visita à América do Sul
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/leao-14-chega-ao-uruguai-pais-mais-secular-da-america-latina-quase-40-anos-apos-ultima-visita-papal.shtml)_
 
+- **[2026-11-06 22:44 UTC]** Papa no Uruguai, Argentina e Peru: como a Igreja Católica tem se posicionado na América Latina?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cv0ldd4dj27po?at_medium=RSS&at_campaign=rss)_
+
