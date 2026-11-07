@@ -47,3 +47,6 @@
 - **[2026-11-04 23:40 UTC]** Com gol de Edenilson, Botafogo bate Atlético-MG e volta a vencer no Brasileirão
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/com-gol-de-edenilson-botafogo-bate-atletico-mg-e-volta-a-vencer-no-brasileirao/)_
 
+- **[2026-11-06 19:35 UTC]** Patrocinada master do Botafogo anuncia encerramento de atividades no Brasil
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/patrocinada-master-do-botafogo-anuncia-encerramento-de-atividades-no-brasil/)_
+
