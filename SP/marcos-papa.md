@@ -20,3 +20,6 @@
 - **[2026-11-06 22:44 UTC]** Papa no Uruguai, Argentina e Peru: como a Igreja Católica tem se posicionado na América Latina?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cv0ldd4dj27po?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-07 11:00 UTC]** Papa pede que América do Sul supere divisões entre seus países em missa histórica no Uruguai
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/papa-reune-milhares-de-fieis-em-1a-missa-no-uruguai.shtml)_
+
