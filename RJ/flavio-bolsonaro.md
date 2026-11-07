@@ -10933,3 +10933,6 @@
 - **[2026-11-07 12:00 UTC]** Três Poderes: Marinho é o vencedor da semana e advogado amigo de Flávio, o perdedor
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tres-poderes-marinho-e-o-vencedor-da-semana-e-advogado-amigo-de-flavio-o-perdedor.shtml)_
 
+- **[2026-11-07 18:54 UTC]** Flávio Bolsonaro diz que Nunes Marques 'não sabe do que está falando' sobre a eleição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-diz-que-nunes-marques-nao-sabe-do-que-esta-falando-sobre-a-eleicao.shtml)_
+
