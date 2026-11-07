@@ -305,3 +305,6 @@
 - **[2026-11-07 19:31 UTC]** Janones irá à COP31 com Lula e fará live da Turquia
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/janones-ira-a-cop-31-com-lula-e-fara-live-da-turquia/)_
 
+- **[2026-11-07 21:39 UTC]** Presidente Lula vai levar Janones para viagem à Turquia
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/07/presidente-lula-vai-levar-janones-para-viagem-a-turquia.ghtml)_
+
