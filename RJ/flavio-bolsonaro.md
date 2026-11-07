@@ -10924,3 +10924,6 @@
 - **[2026-11-06 20:18 UTC]** ‘Não tenho provas e nem terei’, diz Flávio Bolsonaro sobre supostas fraudes nas eleições
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/nao-tenho-provas-e-nem-terei-diz-flavio-bolsonaro-sobre-supostas-fraudes-nas-eleicoes/)_
 
+- **[2026-11-06 19:33 UTC]** Governo suspende registro de imóveis em ilha alvo de disputa entre Richarlison e amigo de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/governo-suspende-registro-de-ilha-alvo-de-disputa-entre-richarlison-e-amigo-de-flavio-bolsonaro/)_
+
