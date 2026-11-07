@@ -89,3 +89,6 @@
 - **[2026-10-16 18:19 UTC]** 'Vermelho Sangue': elenco fala sobre drama de lobos e vampiros adolescentes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhateen/2026/10/vermelho-sangue-elenco-fala-sobre-drama-de-lobos-e-vampiros-adolescentes.shtml)_
 
+- **[2026-11-07 01:00 UTC]** 'Autobiografia do Vermelho' demonstra por que Anne Carson ganhou o Nobel
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/11/autobiografia-do-vermelho-demonstra-por-que-anne-carson-ganhou-o-nobel.shtml)_
+
