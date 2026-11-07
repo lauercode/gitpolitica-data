@@ -206,3 +206,6 @@
 - **[2026-11-06 10:07 UTC]** Polícia apreende celular e computador de Professora Maria do Carmo em investigação sobre imagens de filha de Omar Aziz
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/06/casa-de-professora-maria-do-carmo-e-alvo-de-busca-e-apreensao-da-policia-civil-em-manaus.ghtml)_
 
+- **[2026-11-07 16:11 UTC]** Omar Aziz promete renegociar dívida do AM, fazer concursos e reduzir filas na saúde nos primeiros 100 dias de governo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/07/omar-aziz-promete-renegociar-divida-do-am-fazer-concursos-e-reduzir-filas-na-saude-nos-primeiros-100-dias-de-governo.ghtml)_
+
