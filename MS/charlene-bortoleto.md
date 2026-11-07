@@ -23,3 +23,6 @@
 - **[2026-11-07 16:10 UTC]** Câmara e Bortoleto batem na classificação, e Norris faz a pole em Interlagos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/chuva-forte-interrompe-treino-de-classificacao-do-gp-de-sao-paulo.shtml)_
 
+- **[2026-11-07 15:11 UTC]** Verstappen faz melhor tempo do terceiro treino livre de Interlagos; Bortoleto é 10º e Câmara 15º
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/verstappen-faz-melhor-tempo-do-terceiro-treino-livre-de-interlagos-bortoleto-e-10o-e-camara-15o/)_
+
