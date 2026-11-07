@@ -221,3 +221,6 @@
 - **[2026-11-04 18:07 UTC]** Cleitinho aciona TCE-MG e consegue suspender patrocínios de R$ 32 milhões a clubes mineiros
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-aciona-tce-mg-e-consegue-suspender-patrocinios-de-r-32-milhoes-a-clubes-mineiros/)_
 
+- **[2026-11-07 21:41 UTC]** Cleitinho diz que vai cortar patrocínios a shows e eventos em Minas Gerais
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-diz-que-vai-cortar-patrocinios-a-shows-e-eventos-em-minas-gerais/)_
+
