@@ -2672,3 +2672,6 @@
 - **[2026-11-06 22:49 UTC]** Lula deseja êxito a Pedro Alliana, novo presidente do Paraguai após queda de Peña
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-deseja-exito-a-pedro-alliana-novo-presidente-do-paraguai-apos-queda-de-pena.shtml)_
 
+- **[2026-11-07 03:00 UTC]** Alíquotas de até 12% para tributo federal sobre consumo e 'imposto do pecado'; compare propostas das gestões Lula e Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/07/aliquotas-de-ate-12percent-para-tributo-federal-sobre-consumo-e-imposto-do-pecado-compare-propostas-das-gestoes-lula-e-bolsonaro.ghtml)_
+
