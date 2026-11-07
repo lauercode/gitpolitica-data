@@ -2675,3 +2675,6 @@
 - **[2026-11-07 03:00 UTC]** Alíquotas de até 12% para tributo federal sobre consumo e 'imposto do pecado'; compare propostas das gestões Lula e Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/07/aliquotas-de-ate-12percent-para-tributo-federal-sobre-consumo-e-imposto-do-pecado-compare-propostas-das-gestoes-lula-e-bolsonaro.ghtml)_
 
+- **[2026-11-07 03:18 UTC]** Lula cumprimenta Alliana e convida novo presidente do Paraguai a Brasília
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/07/lula-cumprimenta-alliana-e-convida-novo-presidente-do-paraguai-a-braslia.ghtml)_
+
