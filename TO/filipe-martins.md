@@ -56,3 +56,6 @@
 - **[2026-10-31 01:04 UTC]** Ministro Dias Toffoli mantém Filipe Martins em regime de prisão fechado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ministro-dias-toffoli-mantem-filipe-martins-em-regime-de-prisao-fechado/)_
 
+- **[2026-11-07 13:18 UTC]** Moraes barra visitas de Gayer, Van Hattem e Jordy a Filipe Martins
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-barra-visitas-de-gayer-van-hattem-e-jordy-a-filipe-martins/)_
+
