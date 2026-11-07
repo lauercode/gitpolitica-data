@@ -10918,3 +10918,6 @@
 - **[2026-11-06 22:50 UTC]** Flávio fala em eventual disputa com Tarcísio em 2030 se Bolsonaro continuar inelegível
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-admite-eventual-disputa-com-tarcisio-em-2030-se-bolsonaro-continuar-inelegivel/)_
 
+- **[2026-11-06 22:46 UTC]** Fachin minimiza reação de Flávio e defende estabilidade do sistema eleitoral
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/06/fachin-minimiza-reao-de-flvio-e-defende-estabilidade-do-sistema-eleitoral.ghtml)_
+
