@@ -10921,3 +10921,6 @@
 - **[2026-11-06 22:46 UTC]** Fachin minimiza reação de Flávio e defende estabilidade do sistema eleitoral
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/06/fachin-minimiza-reao-de-flvio-e-defende-estabilidade-do-sistema-eleitoral.ghtml)_
 
+- **[2026-11-06 20:18 UTC]** ‘Não tenho provas e nem terei’, diz Flávio Bolsonaro sobre supostas fraudes nas eleições
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/nao-tenho-provas-e-nem-terei-diz-flavio-bolsonaro-sobre-supostas-fraudes-nas-eleicoes/)_
+
