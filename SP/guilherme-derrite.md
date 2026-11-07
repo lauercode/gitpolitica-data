@@ -113,3 +113,6 @@
 - **[2026-10-29 22:18 UTC]** Derrite contraria PP e rejeita apoio à reeleição de Alcolumbre no Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/derrite-contraria-pp-e-rejeita-apoio-a-reeleicao-de-alcolumbre-no-senado/)_
 
+- **[2026-11-07 15:00 UTC]** Derrite critica disputa por gabinetes no Senado e diz que ela só ajuda Alcolumbre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/derrite-critica-disputa-por-gabinetes-no-senado-e-diz-que-ela-so-ajuda-alcolumbre.shtml)_
+
