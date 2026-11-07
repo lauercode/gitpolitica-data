@@ -3182,17 +3182,6 @@
     "camara_id": 80815
   },
   {
-    "slug": "leonardo-gadelha",
-    "name": "Leonardo Gadelha",
-    "role": "Deputado(a) Federal (PB)",
-    "party": "PODE",
-    "aliases": [
-      "Leonardo Gadelha",
-      "Gadelha"
-    ],
-    "camara_id": 122195
-  },
-  {
     "slug": "leonardo-monteiro",
     "name": "Leonardo Monteiro",
     "role": "Deputado(a) Federal (MG)",
@@ -4877,6 +4866,17 @@
       "Correia"
     ],
     "camara_id": 204480
+  },
+  {
+    "slug": "romero-rodrigues",
+    "name": "Romero Rodrigues",
+    "role": "Deputado(a) Federal (PB)",
+    "party": "PODE",
+    "aliases": [
+      "Romero Rodrigues",
+      "Rodrigues"
+    ],
+    "camara_id": 160629
   },
   {
     "slug": "rosana-valle",
