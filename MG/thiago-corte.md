@@ -80,3 +80,6 @@
 - **[2026-09-11 13:59 UTC]** Deflação do IPCA reforça expectativa de novo corte de juros na próxima reunião do Copom
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/deflacao-do-ipca-reforca-expectativa-de-novo-corte-de-juros-na-proxima-reuniao-do-copom.shtml)_
 
+- **[2026-11-07 03:46 UTC]** Fachin retém investigação sobre o Master no STF para preservar a Corte
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-retem-investigacao-sobre-o-master-no-stf-para-preservar-a-corte/)_
+
