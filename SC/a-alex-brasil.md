@@ -11,3 +11,6 @@
 - **[2026-10-26 14:02 UTC]** Cidade mais 'Lulista' de SC no 2º turno tem maior proporção de centenários do Brasil
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/26/cidade-mais-lulista-de-sc-no-segundo-turno-maior-proporcao-centenarios-do-brasil.ghtml)_
 
+- **[2026-11-07 13:17 UTC]** Uruguai retoma importação de frango do Brasil, e embargos por doença de Newcastle ficam restritos a SC
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/uruguai-retoma-importacao-de-frango-do-brasil-e-embargos-por-doenca-de-newcastle-ficam-restritos-a-sc.shtml)_
+
