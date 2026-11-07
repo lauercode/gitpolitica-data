@@ -10915,3 +10915,6 @@
 - **[2026-11-06 18:00 UTC]** Marqueteiros de PT e Flávio trocam elogios em grupo de WhatsApp
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/marqueteiros-de-lula-e-flavio-trocam-elogios-em-grupo-de-whatsapp.shtml)_
 
+- **[2026-11-06 22:50 UTC]** Flávio fala em eventual disputa com Tarcísio em 2030 se Bolsonaro continuar inelegível
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-admite-eventual-disputa-com-tarcisio-em-2030-se-bolsonaro-continuar-inelegivel/)_
+
