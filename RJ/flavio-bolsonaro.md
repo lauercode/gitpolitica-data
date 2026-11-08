@@ -10939,3 +10939,6 @@
 - **[2026-11-07 21:55 UTC]** Flávio diz ao Washington Post que Trump não vê mais democracia plena no Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-diz-ao-washington-post-que-trump-nao-ve-mais-democracia-plena-no-brasil/)_
 
+- **[2026-11-07 23:00 UTC]** Ministros veem alívio com derrota de Flávio, mas dizem que só eleição do Senado vai definir futuro do STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministros-veem-alivio-com-derrota-de-flavio-mas-dizem-que-so-eleicao-do-senado-vai-definir-futuro-do-stf.shtml)_
+
