@@ -10963,3 +10963,6 @@
 - **[2026-11-08 10:55 UTC]** Após insinuações de Flávio, Gilmar Mendes defende as urnas eletrônicas
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-insinuacoes-de-flavio-gilmar-mendes-defende-as-urnas-eletronicas/)_
 
+- **[2026-11-08 10:28 UTC]** Para 56% dos brasileiros, Flávio está fugindo da Justiça, diz Quaest
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/para-56-dos-brasileiros-flavio-esta-fugindo-da-justica-diz-quaest/)_
+
