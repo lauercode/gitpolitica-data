@@ -10960,3 +10960,6 @@
 - **[2026-11-08 11:40 UTC]** Fuga de Flávio teve mais repercussão que o caso Master e outros escândalos, diz Quaest
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/fuga-de-flavio-teve-mais-repercussao-que-o-caso-master-e-outros-escandalos/)_
 
+- **[2026-11-08 10:55 UTC]** Após insinuações de Flávio, Gilmar Mendes defende as urnas eletrônicas
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-insinuacoes-de-flavio-gilmar-mendes-defende-as-urnas-eletronicas/)_
+
