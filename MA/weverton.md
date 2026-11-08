@@ -11,3 +11,6 @@
 - **[2026-09-20 13:07 UTC]** Bolas na trave e defesas de Weverton impedem vitória do Palmeiras sobre o Grêmio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/palmeiras-perde-gols-e-fica-no-zero-com-o-gremio-em-porto-alegre.shtml)_
 
+- **[2026-11-08 07:33 UTC]** Palmeiras ou Vasco? Weverton revela quem prefere enfrentar na decisão
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/palmeiras-ou-vasco-weverton-revela-quem-prefere-enfrentar-na-decisao/)_
+
