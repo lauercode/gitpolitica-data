@@ -17,3 +17,6 @@
 - **[2026-11-07 12:00 UTC]** Escavações revelam dezenas de esqueletos de pessoas decapitadas na Idade da Pedra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/11/escavacoes-revelam-dezenas-de-esqueletos-de-pessoas-decapitadas-na-idade-da-pedra.shtml)_
 
+- **[2026-11-08 18:58 UTC]** As aves comedoras de crianças que moldaram nossa evolução na Idade da Pedra
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c68xznw58znxo?at_medium=RSS&at_campaign=rss)_
+
