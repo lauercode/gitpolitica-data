@@ -47,3 +47,6 @@
 - **[2026-11-06 12:33 UTC]** Terceiro dia de protestos contra Ueno Bank tem bombas, pedradas, sete presos e um policial ferido
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/terceiro-dia-de-protestos-contra-ueno-bank-tem-bombas-pedradas-sete-presos-e-um-policial-ferido.shtml)_
 
+- **[2026-11-08 14:24 UTC]** Terceiro envolvido no assassinato de médica é preso no Acre; suspeito planejou crime
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/08/terceiro-envolvido-no-assassinato-de-medica-e-preso-no-acre-suspeito-planejou-crime.ghtml)_
+
