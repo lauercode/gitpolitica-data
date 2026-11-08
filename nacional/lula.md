@@ -2681,3 +2681,6 @@
 - **[2026-11-07 21:39 UTC]** Presidente Lula vai levar Janones para viagem à Turquia
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/07/presidente-lula-vai-levar-janones-para-viagem-a-turquia.ghtml)_
 
+- **[2026-11-08 03:00 UTC]** Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/08/ajuste-nas-contas-publicas-o-que-esta-na-mesa-de-lula-e-o-que-esta-fora-do-radar-do-presidente.ghtml)_
+
