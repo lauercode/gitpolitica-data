@@ -10966,3 +10966,6 @@
 - **[2026-11-08 10:28 UTC]** Para 56% dos brasileiros, Flávio está fugindo da Justiça, diz Quaest
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/para-56-dos-brasileiros-flavio-esta-fugindo-da-justica-diz-quaest/)_
 
+- **[2026-11-08 09:44 UTC]** Quaest: 62% dos eleitores reprovam fuga de Flávio aos EUA
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/carta-capital/quaest-62-dos-eleitores-reprovam-fuga-de-flavio-aos-eua/)_
+
