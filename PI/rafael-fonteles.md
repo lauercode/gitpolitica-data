@@ -53,3 +53,6 @@
 - **[2026-11-07 22:00 UTC]** Rafael Fonteles e o pragmatismo petista
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/rafael-fonteles-e-o-pragmatismo-petista.shtml)_
 
+- **[2026-11-07 19:04 UTC]** Rafael Fonteles anuncia permanência de Marcelo Nolleto na Secretaria de Comunicação do Piauí
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/07/rafael-secretaria-comunicacao.ghtml)_
+
