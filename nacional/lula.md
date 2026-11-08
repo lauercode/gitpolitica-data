@@ -2684,3 +2684,6 @@
 - **[2026-11-08 03:00 UTC]** Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/08/ajuste-nas-contas-publicas-o-que-esta-na-mesa-de-lula-e-o-que-esta-fora-do-radar-do-presidente.ghtml)_
 
+- **[2026-11-08 15:01 UTC]** Onde ficam as urnas que Lula e Flávio Bolsonaro 'zeraram' no 2º turno
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/08/onde-ficam-as-urnas-que-lula-e-flavio-bolsonaro-zeraram-no-2o-turno.ghtml)_
+
