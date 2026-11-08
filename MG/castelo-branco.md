@@ -47,3 +47,6 @@
 - **[2026-11-06 17:58 UTC]** Começa instalação de cinco pórticos de free flow na rodovia Castelo Branco, em SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/comeca-instalacao-de-cinco-porticos-de-free-flow-na-rodovia-castelo-branco-em-sp.shtml)_
 
+- **[2026-11-05 11:56 UTC]** Motoristas enfrentam congestionamento após vazamento de água na Avenida Barão de Castelo Branco, em Teresina
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/05/motoristas-vazamento-agua-teresina.ghtml)_
+
