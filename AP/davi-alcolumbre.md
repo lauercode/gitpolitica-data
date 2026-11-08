@@ -677,3 +677,6 @@
 - **[2026-11-07 15:00 UTC]** Derrite critica disputa por gabinetes no Senado e diz que ela só ajuda Alcolumbre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/derrite-critica-disputa-por-gabinetes-no-senado-e-diz-que-ela-so-ajuda-alcolumbre.shtml)_
 
+- **[2026-11-08 15:00 UTC]** Marinho mira partidos do centrão rachados, em disputa com Alcolumbre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/marinho-mira-partidos-do-centrao-rachados-em-disputa-com-alcolumbre.shtml)_
+
