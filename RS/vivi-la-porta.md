@@ -11,3 +11,6 @@
 - **[2026-11-04 13:30 UTC]** João Vicente de Castro e Antonio Tabet: discordâncias causaram saída do Porta dos Fundos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/joao-vicente-de-castro-e-antonio-tabet-discordancias-causaram-saida-do-porta-dos-fundos.shtml)_
 
+- **[2026-11-08 15:30 UTC]** Tudo pode ser aproveitado, diz Marcelo Adnet sobre Algoritmo, novo projeto do Porta dos Fundos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/tudo-pode-ser-aproveitado-diz-marcelo-adnet-sobre-algoritmo-novo-projeto-do-porta-dos-fundos.shtml)_
+
