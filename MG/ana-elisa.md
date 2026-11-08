@@ -62,3 +62,6 @@
 - **[2026-11-08 19:21 UTC]** PF investiga ameaças recebidas pela deputada eleita Ana Elisa
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/pf-investiga-ameacas-recebidas-pela-deputada-eleita-ana-elisa)_
 
+- **[2026-11-08 20:58 UTC]** PF investiga ameaças contra a deputada federal eleita Ana Elisa (PT-MG)
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/08/pf-investiga-ameaas-contra-a-deputada-federal-eleita-ana-elisa-pt-mg.ghtml)_
+
