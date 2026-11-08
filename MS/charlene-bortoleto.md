@@ -26,3 +26,6 @@
 - **[2026-11-07 15:11 UTC]** Verstappen faz melhor tempo do terceiro treino livre de Interlagos; Bortoleto é 10º e Câmara 15º
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/verstappen-faz-melhor-tempo-do-terceiro-treino-livre-de-interlagos-bortoleto-e-10o-e-camara-15o/)_
 
+- **[2026-11-07 21:08 UTC]** Bortoleto desabafa após acidente no classificatório em Interlagos: “Quero ir pra casa”
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/bortoleto-desabafa-apos-acidente-no-classificatorio-em-interlagos-quero-ir-pra-casa/)_
+
