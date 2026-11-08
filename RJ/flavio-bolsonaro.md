@@ -10951,3 +10951,6 @@
 - **[2026-11-08 09:00 UTC]** 62% afirmam que Flávio errou ao fugir para os EUA, e 61% dizem que eleição foi justa, mostra pesquisa Quaest
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/quaest-61-dizem-que-eleicoes-foram-limpas-e-justas-30-fraudadas.shtml)_
 
+- **[2026-11-08 14:51 UTC]** Derrota de Flávio abre disputa pelo voto evangélico na direita
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/08/derrota-de-flavio-abre-disputa-pelo-voto-evangelico-na-direita.ghtml)_
+
