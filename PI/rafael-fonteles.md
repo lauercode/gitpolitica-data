@@ -59,3 +59,6 @@
 - **[2026-11-06 14:39 UTC]** Rafael Fonteles anuncia permanência de controladora-geral no próximo mandato
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/06/rafael-fonteles-controladora-geral.ghtml)_
 
+- **[2026-11-04 09:20 UTC]** Rafael Fonteles confirma permanência de secretária de Relações Sociais no próximo mandato
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/04/rafael-fonteles-secretaria-de-relacoes-sociais.ghtml)_
+
