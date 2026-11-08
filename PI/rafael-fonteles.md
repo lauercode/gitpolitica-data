@@ -62,3 +62,6 @@
 - **[2026-11-04 09:20 UTC]** Rafael Fonteles confirma permanência de secretária de Relações Sociais no próximo mandato
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/04/rafael-fonteles-secretaria-de-relacoes-sociais.ghtml)_
 
+- **[2026-11-08 17:56 UTC]** Rafael Fonteles anuncia permanência de Francisco Gomes Pierot Júnior no cargo de procurador-geral do Estado
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/08/rafael-fonteles-procurador-geral-do-estado.ghtml)_
+
