@@ -23,3 +23,6 @@
 - **[2026-11-07 11:00 UTC]** Papa pede que América do Sul supere divisões entre seus países em missa histórica no Uruguai
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/papa-reune-milhares-de-fieis-em-1a-missa-no-uruguai.shtml)_
 
+- **[2026-11-08 17:16 UTC]** Papa conclui visita ao Uruguai e se dirige a parada tensa na Argentina
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/08/papa-conclui-visita-ao-uruguai-e-se-dirige-a-parada-tensa-na-argentina.ghtml)_
+
