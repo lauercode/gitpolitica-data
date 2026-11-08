@@ -35,3 +35,6 @@
 - **[2026-11-06 15:00 UTC]** Ana Paula Maia mergulha no horror apocalíptico dos desastres ambientais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/ana-paula-maia-mergulha-no-horror-apocaliptico-dos-desastres-ambientais.shtml)_
 
+- **[2026-11-08 16:07 UTC]** Jordana rebate críticas após comentário sobre Ana Paula Renault: 'Quem tem que superar são vocês'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/jordana-rebate-criticas-apos-comentario-sobre-ana-paula-renault-quem-tem-que-superar-sao-voces.shtml)_
+
