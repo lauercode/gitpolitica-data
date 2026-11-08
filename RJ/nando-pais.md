@@ -80,3 +80,6 @@
 - **[2026-10-25 19:01 UTC]** Pais levam filhos a seções eleitorais para ensinar democracia
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pais-levam-filhos-secoes-eleitorais-para-ensinar-democracia)_
 
+- **[2026-11-08 16:55 UTC]** Pais levam filhos para locais de prova do Enem e destacam nervosismo e torcida: 'o que a gente quis pra gente, a gente quer dar pro filho'
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/ingresso-universitario/noticia/2026/11/08/pais-levam-filhos-para-locais-de-prova-do-enem.ghtml)_
+
