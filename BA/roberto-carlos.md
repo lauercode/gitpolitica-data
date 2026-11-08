@@ -44,3 +44,6 @@
 - **[2026-11-06 14:08 UTC]** Fãs pegam rosas distribuídas por Roberto Carlos em show no Acre; FOTOS
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/06/fas-pegam-rosas-distribuidas-por-roberto-carlos-em-show-no-acre-fotos.ghtml)_
 
+- **[2026-11-08 10:00 UTC]** Você viu? Médica é assassinada, show de Roberto Carlos, mangas de cemitério e mais
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/08/voce-viu-medica-e-assassinada-show-de-roberto-carlos-mangas-de-cemiterio-e-mais.ghtml)_
+
