@@ -92,3 +92,6 @@
 - **[2026-11-07 20:00 UTC]** Casos de malária caem 29% no AM e atingem menor nível desde 2016, aponta Fundação de Vigilância em Saúde
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/07/casos-de-malaria-caem-29percent-no-am-e-atingem-menor-nivel-desde-2016-aponta-fundacao-de-vigilancia-em-saude.ghtml)_
 
+- **[2026-11-08 16:55 UTC]** Tema da redação do Enem deste ano é 'A valorização do Sistema Único de Saúde (SUS) como direito universal'
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/08/tema-da-redacao-do-enem-deste-ano-e-a-valorizacao-do-sistema-unico-de-saude-sus-como-direito-universal.ghtml)_
+
