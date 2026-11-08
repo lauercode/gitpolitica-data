@@ -326,3 +326,6 @@
 - **[2026-11-07 09:00 UTC]** Estudante de escola pública do Tocantins conquista ouro na Olimpíada Nacional de Eficiência Energética
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/07/estudante-de-escola-publica-do-tocantins-conquista-ouro-na-olimpiada-nacional-de-eficiencia-energetica.ghtml)_
 
+- **[2026-11-08 14:41 UTC]** Casal morre após acidente entre moto e caminhonete na região central do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/08/casal-morre-apos-acidente-entre-moto-e-caminhonete-na-regiao-central-do-tocantins.ghtml)_
+
