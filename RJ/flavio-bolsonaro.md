@@ -10945,3 +10945,6 @@
 - **[2026-11-08 15:01 UTC]** Onde ficam as urnas que Lula e Flávio Bolsonaro 'zeraram' no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/08/onde-ficam-as-urnas-que-lula-e-flavio-bolsonaro-zeraram-no-2o-turno.ghtml)_
 
+- **[2026-11-08 10:42 UTC]** Quaest: 62% reprovam ida de Flávio Bolsonaro para os EUA, e 56% acham que ele está fugindo da Justiça
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/08/quaest-56percent-acham-que-flavio-bolsonaro-deixou-o-brasil-apos-as-eleicoes-para-fugir-da-justica.ghtml)_
+
