@@ -65,3 +65,6 @@
 - **[2026-11-08 20:58 UTC]** PF investiga ameaças contra a deputada federal eleita Ana Elisa (PT-MG)
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/08/pf-investiga-ameaas-contra-a-deputada-federal-eleita-ana-elisa-pt-mg.ghtml)_
 
+- **[2026-11-08 18:05 UTC]** TRE-MG suspende investigação da PF contra Ana Elisa (PT) por posts sobre Nossa Senhora
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/tre-mg-suspende-investigacao-da-pf-contra-ana-elisa-pt-por-posts-sobre-nossa-senhora/)_
+
