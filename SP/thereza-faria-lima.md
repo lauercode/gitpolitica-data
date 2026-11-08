@@ -23,3 +23,6 @@
 - **[2026-11-06 17:41 UTC]** Vícios e virtudes na avenida Faria Lima, em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/andancas-na-metropole/2026/11/vicios-e-virtudes-na-avenida-faria-lima-em-sao-paulo.shtml)_
 
+- **[2026-11-08 11:03 UTC]** A inquietação na Faria Lima com o risco de um ‘shadow chair’ no BC
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/11/a-inquietacao-na-faria-lima-com-o-risco-de-um-shadow-chair-no-bc.ghtml)_
+
