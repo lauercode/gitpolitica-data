@@ -38,3 +38,6 @@
 - **[2026-10-31 23:00 UTC]** Santos populares e Igreja se misturam na Argentina às vésperas da visita do papa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/santos-populares-e-igreja-se-misturam-na-argentina-as-vesperas-da-visita-do-papa.shtml)_
 
+- **[2026-11-08 16:17 UTC]** Leão XIV viaja à Argentina e se reúne com Milei, alvo de críticas da Igreja por cortes sociais
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/leao-xiv-viaja-a-argentina-e-se-reune-com-milei-alvo-de-criticas-da-igreja-por-cortes-sociais/)_
+
