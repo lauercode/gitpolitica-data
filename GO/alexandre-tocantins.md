@@ -329,3 +329,6 @@
 - **[2026-11-08 14:41 UTC]** Casal morre após acidente entre moto e caminhonete na região central do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/08/casal-morre-apos-acidente-entre-moto-e-caminhonete-na-regiao-central-do-tocantins.ghtml)_
 
+- **[2026-11-08 13:33 UTC]** Tocantins tem 43,5 mil candidatos inscritos para o Enem
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-11/tocantins-tem-435-mil-candidatos-inscritos-para-o-enem)_
+
