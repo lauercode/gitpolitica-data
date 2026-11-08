@@ -50,3 +50,6 @@
 - **[2026-11-02 18:29 UTC]** Cotado para ser ministro da Fazenda, Rafael Fonteles enaltece o equilíbrio fiscal nas redes sociais
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/02/viva-o-equilbrio-fiscal-diz-nas-redes-sociais-rafael-fonteles-cotado-para-ser-ministro-da-fazenda.ghtml)_
 
+- **[2026-11-07 22:00 UTC]** Rafael Fonteles e o pragmatismo petista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/rafael-fonteles-e-o-pragmatismo-petista.shtml)_
+
