@@ -10969,3 +10969,6 @@
 - **[2026-11-08 09:44 UTC]** Quaest: 62% dos eleitores reprovam fuga de Flávio aos EUA
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/carta-capital/quaest-62-dos-eleitores-reprovam-fuga-de-flavio-aos-eua/)_
 
+- **[2026-11-08 16:01 UTC]** TRE-MG suspende investigação da PF contra deputada eleita após denúncia de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/tre-mg-suspende-investigacao-da-pf-contra-deputada-eleita-apos-denuncia-de-flavio-bolsonaro.shtml)_
+
