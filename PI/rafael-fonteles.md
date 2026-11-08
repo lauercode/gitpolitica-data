@@ -56,3 +56,6 @@
 - **[2026-11-07 19:04 UTC]** Rafael Fonteles anuncia permanência de Marcelo Nolleto na Secretaria de Comunicação do Piauí
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/07/rafael-secretaria-comunicacao.ghtml)_
 
+- **[2026-11-06 14:39 UTC]** Rafael Fonteles anuncia permanência de controladora-geral no próximo mandato
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/06/rafael-fonteles-controladora-geral.ghtml)_
+
