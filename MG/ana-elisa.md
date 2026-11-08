@@ -59,3 +59,6 @@
 - **[2026-10-26 21:29 UTC]** Ana Elisa atribui virada de Lula em Minas a trabalho nas ruas e nas redes, e defende diálogo com Cleitinho
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/26/ana-elisa-atribui-virada-de-lula-em-minas-a-trabalho-nas-ruas-e-nas-redes-e-defende-dialogo-com-cleitinho.ghtml)_
 
+- **[2026-11-08 19:21 UTC]** PF investiga ameaças recebidas pela deputada eleita Ana Elisa
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/pf-investiga-ameacas-recebidas-pela-deputada-eleita-ana-elisa)_
+
