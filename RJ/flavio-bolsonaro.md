@@ -10948,3 +10948,6 @@
 - **[2026-11-08 10:42 UTC]** Quaest: 62% reprovam ida de Flávio Bolsonaro para os EUA, e 56% acham que ele está fugindo da Justiça
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/08/quaest-56percent-acham-que-flavio-bolsonaro-deixou-o-brasil-apos-as-eleicoes-para-fugir-da-justica.ghtml)_
 
+- **[2026-11-08 09:00 UTC]** 62% afirmam que Flávio errou ao fugir para os EUA, e 61% dizem que eleição foi justa, mostra pesquisa Quaest
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/quaest-61-dizem-que-eleicoes-foram-limpas-e-justas-30-fraudadas.shtml)_
+
