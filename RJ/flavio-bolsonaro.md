@@ -10957,3 +10957,6 @@
 - **[2026-11-08 12:00 UTC]** Quaest: 56% dos eleitores acham que Flávio saiu do Brasil para fugir da Justiça
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/08/quaest-56percent-dos-eleitores-acham-que-flavio-saiu-do-brasil-para-fugir-da-justica.ghtml)_
 
+- **[2026-11-08 11:40 UTC]** Fuga de Flávio teve mais repercussão que o caso Master e outros escândalos, diz Quaest
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/fuga-de-flavio-teve-mais-repercussao-que-o-caso-master-e-outros-escandalos/)_
+
