@@ -65,3 +65,6 @@
 - **[2026-11-08 17:56 UTC]** Rafael Fonteles anuncia permanência de Francisco Gomes Pierot Júnior no cargo de procurador-geral do Estado
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/08/rafael-fonteles-procurador-geral-do-estado.ghtml)_
 
+- **[2026-11-08 22:44 UTC]** Rafael Fonteles já confirmou 9 nomes para novo governo; veja quais secretarias ainda faltam
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/08/rafael-fonteles-novo-governo.ghtml)_
+
