@@ -20,3 +20,6 @@
 - **[2026-10-26 04:00 UTC]** Kleber Mendonça Filho homenageia Jafar Panahi em curta após disputa no Oscar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/kleber-mendonca-filho-homenageia-jafar-panahi-em-curta-apos-disputa-no-oscar.shtml)_
 
+- **[2026-11-08 15:44 UTC]** Kleber Mendonça Filho anuncia filme sobre anos 1930 e diz querer Wagner Moura
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/kleber-mendonca-filho-anuncia-filme-sobre-anos-1930-e-diz-querer-wagner-moura.shtml)_
+
