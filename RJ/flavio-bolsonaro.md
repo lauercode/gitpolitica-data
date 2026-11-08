@@ -10954,3 +10954,6 @@
 - **[2026-11-08 14:51 UTC]** Derrota de Flávio abre disputa pelo voto evangélico na direita
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/08/derrota-de-flavio-abre-disputa-pelo-voto-evangelico-na-direita.ghtml)_
 
+- **[2026-11-08 12:00 UTC]** Quaest: 56% dos eleitores acham que Flávio saiu do Brasil para fugir da Justiça
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/08/quaest-56percent-dos-eleitores-acham-que-flavio-saiu-do-brasil-para-fugir-da-justica.ghtml)_
+
