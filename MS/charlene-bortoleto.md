@@ -32,3 +32,6 @@
 - **[2026-11-08 17:09 UTC]** Câmara vê corrida como 'aprendizado', e Bortoleto fala em 'angústia' até 2027
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/camara-ve-corrida-como-aprendizado-e-bortoleto-fala-em-angustia-ate-2027.shtml)_
 
+- **[2026-11-08 17:06 UTC]** Neymar erra sobrenome de Bortoleto ao palpitar sobre pódio da F1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/neymar-erra-sobrenome-de-bortoleto-ao-palpitar-sobre-podio-da-f1.shtml)_
+
