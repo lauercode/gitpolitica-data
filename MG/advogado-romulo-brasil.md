@@ -20,3 +20,6 @@
 - **[2026-11-07 20:11 UTC]** Grêmio segura o Atlético-MG em BH e vai à final da Copa do Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/gremio-segura-o-atletico-mg-em-bh-e-vai-a-final-da-copa-do-brasil.shtml)_
 
+- **[2026-11-07 21:33 UTC]** Grêmio avança à final da Copa do Brasil após empate com Atlético-MG
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/gremio-avanca-final-da-copa-do-brasil-apos-empate-com-atletico-mg)_
+
