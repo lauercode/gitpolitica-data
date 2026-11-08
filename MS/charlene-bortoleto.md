@@ -29,3 +29,6 @@
 - **[2026-11-07 21:08 UTC]** Bortoleto desabafa após acidente no classificatório em Interlagos: “Quero ir pra casa”
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/bortoleto-desabafa-apos-acidente-no-classificatorio-em-interlagos-quero-ir-pra-casa/)_
 
+- **[2026-11-08 17:09 UTC]** Câmara vê corrida como 'aprendizado', e Bortoleto fala em 'angústia' até 2027
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/camara-ve-corrida-como-aprendizado-e-bortoleto-fala-em-angustia-ate-2027.shtml)_
+
