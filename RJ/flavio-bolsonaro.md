@@ -10972,3 +10972,6 @@
 - **[2026-11-08 16:01 UTC]** TRE-MG suspende investigação da PF contra deputada eleita após denúncia de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/tre-mg-suspende-investigacao-da-pf-contra-deputada-eleita-apos-denuncia-de-flavio-bolsonaro.shtml)_
 
+- **[2026-11-08 21:05 UTC]** Na TV, Lula promete responsabilidade fiscal, manda indireta a Flávio e cobra Judiciário ético e isento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/na-tv-lula-promete-responsabilidade-fiscal-manda-recado-a-flavio-e-cobra-judiciario-etico-e-isento.shtml)_
+
