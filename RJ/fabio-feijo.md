@@ -26,3 +26,6 @@
 - **[2026-10-26 12:01 UTC]** Escola Nova Olinda, 7ª zona eleitoral: resultado da votação em Feijó (AC) no 2º turno
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/escola-nova-olinda-7a-zona-eleitoral-resultado-da-votacao-em-feijo-ac-no-2o-turno.ghtml)_
 
+- **[2026-11-09 16:36 UTC]** Casa escondida do regente Feijó é preciosidade na zona leste de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/andancas-na-metropole/2026/11/casa-escondida-do-regente-feijo-e-preciosidade-na-zona-leste-de-sp.shtml)_
+
