@@ -680,3 +680,6 @@
 - **[2026-11-08 15:00 UTC]** Marinho mira partidos do centrão rachados, em disputa com Alcolumbre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/marinho-mira-partidos-do-centrao-rachados-em-disputa-com-alcolumbre.shtml)_
 
+- **[2026-11-09 03:00 UTC]** Divisão da direita pode fortalecer Alcolumbre na disputa pelo comando do Senado, avaliam aliados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/09/divisao-da-direita-pode-fortalecer-alcolumbre-na-disputa-pelo-comando-do-senado-avaliam-aliados.ghtml)_
+
