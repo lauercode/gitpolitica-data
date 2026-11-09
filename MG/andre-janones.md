@@ -311,3 +311,6 @@
 - **[2026-11-08 21:20 UTC]** Em perfil, The Economist define Janones como 'herói' da esquerda brasileira
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/em-perfil-the-economist-define-janones-como-heroi-da-esquerda-brasileira.shtml)_
 
+- **[2026-11-09 13:21 UTC]** COP31: Lula embarca com Janones e ministros para Turquia; Motta e Alcolumbre não integram comitiva
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/09/cop31-lula-embarca-com-janones-e-ministros-para-turquia-motta-e-alcolumbre-nao-integram-comitiva.ghtml)_
+
