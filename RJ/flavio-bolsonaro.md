@@ -10978,3 +10978,6 @@
 - **[2026-11-09 01:29 UTC]** Lula acusa big techs de interferência nas eleições e manda indireta para Flávio em pronunciamento
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-acusa-big-techs-de-interferencia-nas-eleicoes-e-manda-indireta-para-flavio-em-pronunciamento/)_
 
+- **[2026-11-09 10:14 UTC]** Eduardo Cunha culpa Nikolas Ferreira por derrota de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-cunha-culpa-nikolas-ferreira-por-derrota-de-flavio/)_
+
