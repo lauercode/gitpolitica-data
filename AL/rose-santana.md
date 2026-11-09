@@ -14,3 +14,6 @@
 - **[2026-10-26 11:32 UTC]** 19ª zona eleitoral de Santana do Ipanema (AL): votos por local de votação no 2º turno
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/26/19a-zona-eleitoral-de-santana-do-ipanema-al-votos-por-local-de-votacao-no-2o-turno.ghtml)_
 
+- **[2026-11-09 09:49 UTC]** Motociclista morre após colidir de frente com ambulância na AL-130, em Santana do Ipanema
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/09/motociclista-morre-apos-colidir-de-frente-com-ambulancia-na-al-130-em-santana-do-ipanema.ghtml)_
+
