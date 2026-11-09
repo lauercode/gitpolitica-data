@@ -11,3 +11,6 @@
 - **[2026-10-26 11:36 UTC]** São Miguel dos Milagres (AL): resultado do local de votação por zonas eleitorais no 2º turno
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/26/sao-miguel-dos-milagres-al-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
 
+- **[2026-11-09 12:51 UTC]** Romaria reúne mais de 30 mil fiéis em Santa Cruz dos Milagres durante encontro dos santos no Piauí
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/09/romaria-reune-fieis-piaui.ghtml)_
+
