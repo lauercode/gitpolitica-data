@@ -86,3 +86,6 @@
 - **[2026-11-07 00:37 UTC]** Novo presidente do Paraguai promete assistir vítimas do ueno bank e cortar gastos públicos
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/06/novo-presidente-do-paraguai-promete-assistir-vitimas-do-ueno-bank-e-cortar-gastos-publicos.ghtml)_
 
+- **[2026-11-08 23:53 UTC]** Novo presidente paraguaio diz que clientes com conta exclusiva no ueno bank não pagarão multas e encargos tributários
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/08/novo-presidente-paraguaio-diz-que-clientes-com-conta-exclusiva-no-ueno-bank-no-pagaro-multas-e-encargos-tributrios.ghtml)_
+
