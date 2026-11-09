@@ -2690,3 +2690,6 @@
 - **[2026-11-08 21:05 UTC]** Na TV, Lula promete responsabilidade fiscal, manda indireta a Flávio e cobra Judiciário ético e isento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/na-tv-lula-promete-responsabilidade-fiscal-manda-recado-a-flavio-e-cobra-judiciario-etico-e-isento.shtml)_
 
+- **[2026-11-09 01:29 UTC]** Lula acusa big techs de interferência nas eleições e manda indireta para Flávio em pronunciamento
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-acusa-big-techs-de-interferencia-nas-eleicoes-e-manda-indireta-para-flavio-em-pronunciamento/)_
+
