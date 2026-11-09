@@ -203,3 +203,6 @@
 - **[2026-11-06 18:15 UTC]** Veja quem são os indicados por Espanha e Holanda para suceder Lagarde no BCE
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-quem-sao-os-indicados-por-espanha-e-holanda-para-suceder-lagarde-no-bce.shtml)_
 
+- **[2026-11-09 15:17 UTC]** Direita lidera pesquisas antes de eleições na Espanha
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/09/direita-lidera-pesquisas-antes-de-eleies-na-espanha.ghtml)_
+
