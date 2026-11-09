@@ -92,3 +92,6 @@
 - **[2026-11-09 18:04 UTC]** Novo presidente do Paraguai pede renúncia de todos os seus ministros
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/09/novo-presidente-do-paraguai-pede-renncia-de-todos-os-seus-ministros.ghtml)_
 
+- **[2026-11-09 16:51 UTC]** Novo presidente da estatal de energia do Paraguai vai priorizar renegociação do Anexo C de Itaipu
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/09/novo-presidente-da-estatal-de-energia-do-paraguai-vai-priorizar-renegociacao-do-anexo-c-de-itaipu.ghtml)_
+
