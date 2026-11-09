@@ -20,3 +20,6 @@
 - **[2026-11-08 18:58 UTC]** As aves comedoras de crianças que moldaram nossa evolução na Idade da Pedra
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c68xznw58znxo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-09 13:29 UTC]** Dois homens são mortos a tiros dentro de bar em Lago da Pedra, no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/09/dois-homens-sao-mortos-a-tiros-dentro-de-bar-em-lago-da-pedra-no-ma.ghtml)_
+
