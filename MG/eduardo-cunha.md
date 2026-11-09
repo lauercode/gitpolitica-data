@@ -20,3 +20,6 @@
 - **[2026-10-04 22:14 UTC]** Condenado na Lava Jato, Eduardo Cunha fracassa em voltar à Câmara por MG
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/condenado-na-lava-jato-eduardo-cunha-fracassa-em-voltar-a-camara-por-mg.shtml)_
 
+- **[2026-11-09 10:14 UTC]** Eduardo Cunha culpa Nikolas Ferreira por derrota de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-cunha-culpa-nikolas-ferreira-por-derrota-de-flavio/)_
+
