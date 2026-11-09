@@ -314,3 +314,6 @@
 - **[2026-11-09 13:21 UTC]** COP31: Lula embarca com Janones e ministros para Turquia; Motta e Alcolumbre não integram comitiva
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/09/cop31-lula-embarca-com-janones-e-ministros-para-turquia-motta-e-alcolumbre-nao-integram-comitiva.ghtml)_
 
+- **[2026-11-09 15:33 UTC]** Lula embarca para COP31 com comitiva de ministros e Janones
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/09/lula-embarca-para-cop31-com-comitiva-de-ministros-e-janones.ghtml)_
+
