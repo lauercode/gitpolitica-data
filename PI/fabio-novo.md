@@ -89,3 +89,6 @@
 - **[2026-11-08 23:53 UTC]** Novo presidente paraguaio diz que clientes com conta exclusiva no ueno bank não pagarão multas e encargos tributários
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/08/novo-presidente-paraguaio-diz-que-clientes-com-conta-exclusiva-no-ueno-bank-no-pagaro-multas-e-encargos-tributrios.ghtml)_
 
+- **[2026-11-09 18:04 UTC]** Novo presidente do Paraguai pede renúncia de todos os seus ministros
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/09/novo-presidente-do-paraguai-pede-renncia-de-todos-os-seus-ministros.ghtml)_
+
