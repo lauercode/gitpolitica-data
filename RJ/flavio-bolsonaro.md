@@ -10981,3 +10981,6 @@
 - **[2026-11-09 10:14 UTC]** Eduardo Cunha culpa Nikolas Ferreira por derrota de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-cunha-culpa-nikolas-ferreira-por-derrota-de-flavio/)_
 
+- **[2026-11-09 19:28 UTC]** O que acontece com o bolsonarismo com Flávio nos EUA?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/watch/c83vqv960zzyo?at_medium=RSS&at_campaign=rss)_
+
