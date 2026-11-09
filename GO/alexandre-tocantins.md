@@ -335,3 +335,6 @@
 - **[2026-11-09 11:07 UTC]** Chuva forte derruba portal de cidade e causa alagamentos no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/09/chuva-forte-derruba-portal-de-cidade-e-causa-alagamentos-no-tocantins.ghtml)_
 
+- **[2026-11-09 14:14 UTC]** Kit de Emergência: Defesa Civil explica que não há previsão de ameaças no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/09/kit-de-emergencia-defesa-civil-explica-que-nao-ha-previsao-de-ameacas-no-tocantins.ghtml)_
+
