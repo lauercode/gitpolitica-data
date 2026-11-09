@@ -164,3 +164,6 @@
 - **[2026-11-05 20:43 UTC]** Equipes de transição de Sergio Moro e Ratinho Junior se encontram pela primeira vez no Paraná; conheça membros
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/05/equipes-transicao-governo-parana-lista-membros.ghtml)_
 
+- **[2026-11-09 14:38 UTC]** Sergio Moro anuncia delegado da PF para Secretaria de Segurança Pública e presidente da Fiep para a Infraestrutura
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/09/sergio-moro-anuncia-secretaria-de-seguranca-publica-e-infraestrutura.ghtml)_
+
