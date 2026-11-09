@@ -692,3 +692,6 @@
 - **[2026-11-09 13:21 UTC]** COP31: Lula embarca com Janones e ministros para Turquia; Motta e Alcolumbre não integram comitiva
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/09/cop31-lula-embarca-com-janones-e-ministros-para-turquia-motta-e-alcolumbre-nao-integram-comitiva.ghtml)_
 
+- **[2026-11-09 13:49 UTC]** Alcolumbre tem encontro com bancada feminina cancelado por falta de quórum
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/na-disputa-a-reeleicao-alcolumbre-tem-encontro-com-bancada-feminina-cancelado.shtml)_
+
