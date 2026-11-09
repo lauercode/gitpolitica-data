@@ -125,3 +125,6 @@
 - **[2026-10-22 15:47 UTC]** Flávio escala Dallagnol para analisar sigilos de Lula e pessoas próximas ao presidente
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/eleicoes/2026/flavio-escala-dallagnol-analisar-sigilos-lula-pessoas-proximas/)_
 
+- **[2026-11-09 15:36 UTC]** Fachin manda arquivar pedido de Dino para incluir Deltan Dallagnol no Inquérito das Fake News
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/fachin-manda-arquivar-pedido-de-dino-para-incluir-deltan-dallagnol-no-inquerito-das-fake-news/)_
+
