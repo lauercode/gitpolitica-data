@@ -686,3 +686,6 @@
 - **[2026-11-09 04:00 UTC]** Alcolumbre aposta na máquina para expandir votos na eleição do Senado, e oposição tenta unir a direita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-aposta-na-maquina-para-expandir-votos-na-eleicao-do-senado-e-oposicao-tenta-unir-a-direita.shtml)_
 
+- **[2026-11-09 08:00 UTC]** Lula aposta em reeleição de Alcolumbre diante de protagonismo da direita no Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/09/lula-aposta-em-reeleicao-de-alcolumbre-diante-de-protagonismo-da-direita-no-senado.ghtml)_
+
