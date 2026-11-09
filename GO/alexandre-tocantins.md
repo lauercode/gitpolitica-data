@@ -332,3 +332,6 @@
 - **[2026-11-08 13:33 UTC]** Tocantins tem 43,5 mil candidatos inscritos para o Enem
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-11/tocantins-tem-435-mil-candidatos-inscritos-para-o-enem)_
 
+- **[2026-11-09 11:07 UTC]** Chuva forte derruba portal de cidade e causa alagamentos no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/09/chuva-forte-derruba-portal-de-cidade-e-causa-alagamentos-no-tocantins.ghtml)_
+
