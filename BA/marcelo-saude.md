@@ -95,3 +95,6 @@
 - **[2026-11-08 16:55 UTC]** Tema da redação do Enem deste ano é 'A valorização do Sistema Único de Saúde (SUS) como direito universal'
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/08/tema-da-redacao-do-enem-deste-ano-e-a-valorizacao-do-sistema-unico-de-saude-sus-como-direito-universal.ghtml)_
 
+- **[2026-11-09 11:29 UTC]** Ministério da Saúde repassa R$ 524 mil para conter surto de sarampo em municípios do Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/09/ministerio-da-saude-repassa-r-524-mil-para-reforcar-vacinacao-contra-sarampo-no-amazonas.ghtml)_
+
