@@ -14,3 +14,6 @@
 - **[2026-10-26 13:13 UTC]** Escola Estadual de Ensino Médio Professora Ivani Machado Bezerra, 51ª zona eleitoral: resultado da votação em São Gonçalo do Amarante (RN) no 2º turno
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/26/escola-estadual-de-ensino-medio-professora-ivani-machado-bezerra-51a-zona-eleitoral-resultado-da-votacao-em-sao-goncalo-do-amarante-rn-no-2o-turno-1.ghtml)_
 
+- **[2026-11-09 11:49 UTC]** Pai e filho são mortos a tiros em São Gonçalo do Amarante
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/09/pai-e-filho-sao-mortos-a-tiros-em-sao-goncalo-do-amarante.ghtml)_
+
