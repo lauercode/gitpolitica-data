@@ -2687,3 +2687,6 @@
 - **[2026-11-08 15:01 UTC]** Onde ficam as urnas que Lula e Flávio Bolsonaro 'zeraram' no 2º turno
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/08/onde-ficam-as-urnas-que-lula-e-flavio-bolsonaro-zeraram-no-2o-turno.ghtml)_
 
+- **[2026-11-08 21:05 UTC]** Na TV, Lula promete responsabilidade fiscal, manda indireta a Flávio e cobra Judiciário ético e isento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/na-tv-lula-promete-responsabilidade-fiscal-manda-recado-a-flavio-e-cobra-judiciario-etico-e-isento.shtml)_
+
