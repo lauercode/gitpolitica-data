@@ -104,3 +104,6 @@
 - **[2026-11-09 04:01 UTC]** Previsão do tempo hoje para Rio Branco (AC): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/09/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml)_
 
+- **[2026-11-09 18:45 UTC]** Feirão BV em Rio Branco traz 14 lojas com condições especiais de financiamento
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/nexo-agencia-de-publicidade-e-comunicacao-ltda/noticia/2026/11/09/feirao-bv-em-rio-branco-traz-14-lojas-com-condicoes-especiais-de-financiamento.ghtml)_
+
