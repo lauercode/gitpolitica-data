@@ -209,3 +209,6 @@
 - **[2026-11-07 16:11 UTC]** Omar Aziz promete renegociar dívida do AM, fazer concursos e reduzir filas na saúde nos primeiros 100 dias de governo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/07/omar-aziz-promete-renegociar-divida-do-am-fazer-concursos-e-reduzir-filas-na-saude-nos-primeiros-100-dias-de-governo.ghtml)_
 
+- **[2026-11-09 20:21 UTC]** De ataques políticos a material de abuso sexual: entenda como investigação sobre filha de Omar Aziz levou à prisão de marqueteiro de Professora Maria do Carmo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/09/de-ataques-politicos-a-material-de-abuso-sexual-entenda-como-investigacao-sobre-filha-de-omar-aziz-levou-a-prisao-de-marqueteiro-de-professora-maria-do-carmo.ghtml)_
+
