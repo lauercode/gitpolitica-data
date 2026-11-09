@@ -689,3 +689,6 @@
 - **[2026-11-09 08:00 UTC]** Lula aposta em reeleição de Alcolumbre diante de protagonismo da direita no Senado
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/09/lula-aposta-em-reeleicao-de-alcolumbre-diante-de-protagonismo-da-direita-no-senado.ghtml)_
 
+- **[2026-11-09 13:21 UTC]** COP31: Lula embarca com Janones e ministros para Turquia; Motta e Alcolumbre não integram comitiva
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/09/cop31-lula-embarca-com-janones-e-ministros-para-turquia-motta-e-alcolumbre-nao-integram-comitiva.ghtml)_
+
