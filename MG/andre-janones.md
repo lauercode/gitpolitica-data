@@ -317,3 +317,6 @@
 - **[2026-11-09 15:33 UTC]** Lula embarca para COP31 com comitiva de ministros e Janones
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/09/lula-embarca-para-cop31-com-comitiva-de-ministros-e-janones.ghtml)_
 
+- **[2026-11-09 14:14 UTC]** The Economist chama Janones de 'herói' da esquerda brasileira e destaca estratégia digital para reeleição de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/09/the-economist-chama-janones-de-heroi-da-esquerda-brasileira-e-destaca-estrategia-digital-para-reeleicao-de-lula.ghtml)_
+
