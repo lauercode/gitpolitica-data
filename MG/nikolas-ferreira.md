@@ -125,3 +125,6 @@
 - **[2026-11-06 13:58 UTC]** STF decide: Fachin barra ação de Nikolas Ferreira contra Paulo Gonet
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-decide-fachin-barra-acao-de-nikolas-ferreira-contra-paulo-gonet/)_
 
+- **[2026-11-09 10:14 UTC]** Eduardo Cunha culpa Nikolas Ferreira por derrota de Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-cunha-culpa-nikolas-ferreira-por-derrota-de-flavio/)_
+
