@@ -17,3 +17,6 @@
 - **[2026-11-03 00:51 UTC]** Gleisi volta a atacar mercado e recua na defesa do tabelamento de juros
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gleisi-volta-a-atacar-mercado-e-recua-na-defesa-do-tabelamento-de-juros/)_
 
+- **[2026-11-08 20:57 UTC]** Gleisi acusa Folha de 'terrorismo fiscal' e de querer recessão ao criticar reportagem
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gleisi-acusa-folha-de-terrorismo-fiscal-e-de-querer-recessao-ao-criticar-reportagem.shtml)_
+
