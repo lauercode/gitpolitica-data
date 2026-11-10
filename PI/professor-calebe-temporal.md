@@ -17,3 +17,6 @@
 - **[2026-11-03 21:45 UTC]** VÍDEO: Temporal com vento forte e pedras de granizo causa estragos no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/03/temporal-vento-forte-granizo.ghtml)_
 
+- **[2026-11-09 23:03 UTC]** VÍDEO: Temporal derruba todos os postes de ferro de ponte entre Piauí e Maranhão
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/09/temporal-derruba-postes.ghtml)_
+
