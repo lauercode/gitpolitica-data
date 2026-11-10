@@ -11008,3 +11008,6 @@
 - **[2026-11-10 17:38 UTC]** 'Tropa do Flávio' no WhatsApp vira 'Direita Já' e quer mobilizar apoiadores sobre pautas do Congresso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tropa-do-flavio-no-whatsapp-vira-direita-ja-e-quer-mobilizar-apoiadores-sobre-pautas-do-congresso.shtml)_
 
+- **[2026-11-10 15:40 UTC]** A imprensa foi mesmo omissa com Flávio Bolsonaro nas eleições?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/11/a-imprensa-foi-mesmo-omissa-com-flavio-bolsonaro.shtml)_
+
