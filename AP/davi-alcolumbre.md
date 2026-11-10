@@ -701,3 +701,6 @@
 - **[2026-11-10 18:34 UTC]** Oposição intensifica pressão para barrar reeleição de Alcolumbre no Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-intensifica-pressao-para-barrar-reeleicao-de-alcolumbre-no-senado/)_
 
+- **[2026-11-10 14:34 UTC]** Direita investe no desgaste de Alcolumbre para impedir a sua reeleição no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/direita-investe-no-desgaste-de-alcolumbre-para-impedir-a-sua-reeleicao-no-senado/)_
+
