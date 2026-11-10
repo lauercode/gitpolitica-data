@@ -68,3 +68,6 @@
 - **[2026-11-08 22:44 UTC]** Rafael Fonteles já confirmou 9 nomes para novo governo; veja quais secretarias ainda faltam
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/08/rafael-fonteles-novo-governo.ghtml)_
 
+- **[2026-11-10 20:37 UTC]** Rafael Fonteles anuncia permanência de Ivanovick Feitosa na Secretaria de Governo do Piauí
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/10/rafael-fonteles-secretaria-de-governo.ghtml)_
+
