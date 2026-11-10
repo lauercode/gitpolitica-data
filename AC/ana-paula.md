@@ -38,3 +38,6 @@
 - **[2026-11-08 16:07 UTC]** Jordana rebate críticas após comentário sobre Ana Paula Renault: 'Quem tem que superar são vocês'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/jordana-rebate-criticas-apos-comentario-sobre-ana-paula-renault-quem-tem-que-superar-sao-voces.shtml)_
 
+- **[2026-11-10 10:00 UTC]** Com Ana Paula Renault e Marina Sena, TikTok Awards 2026 anuncia atrações e indicados; veja lista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/11/com-ana-paula-renault-e-marina-sena-tiktok-awards-2026-anuncia-atracoes-e-indicados-veja-lista.shtml)_
+
