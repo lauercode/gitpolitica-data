@@ -698,3 +698,6 @@
 - **[2026-11-09 22:26 UTC]** Alcolumbre e Motta priorizam agenda e recusam convite de Lula para COP31
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/09/alcolumbre-e-motta-priorizam-agenda-e-recusam-convite-de-lula-para-cop31.ghtml)_
 
+- **[2026-11-10 18:34 UTC]** Oposição intensifica pressão para barrar reeleição de Alcolumbre no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/oposicao-intensifica-pressao-para-barrar-reeleicao-de-alcolumbre-no-senado/)_
+
