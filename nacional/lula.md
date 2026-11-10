@@ -2693,3 +2693,6 @@
 - **[2026-11-09 01:29 UTC]** Lula acusa big techs de interferência nas eleições e manda indireta para Flávio em pronunciamento
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-acusa-big-techs-de-interferencia-nas-eleicoes-e-manda-indireta-para-flavio-em-pronunciamento/)_
 
+- **[2026-11-10 04:00 UTC]** Campanha de Lula desestimulou manifestações decisivas para reeleição, diz presidente da UNE
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/campanha-de-lula-desestimulou-manifestacoes-decisivas-para-reeleicao-diz-presidente-da-une.shtml)_
+
