@@ -47,3 +47,6 @@
 - **[2026-11-08 10:00 UTC]** Você viu? Médica é assassinada, show de Roberto Carlos, mangas de cemitério e mais
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/08/voce-viu-medica-e-assassinada-show-de-roberto-carlos-mangas-de-cemiterio-e-mais.ghtml)_
 
+- **[2026-11-10 18:37 UTC]** Roberto Carlos é vivido por Victor Medeiros em nova cinebiografia; veja foto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/roberto-carlos-e-vivido-por-victor-medeiros-em-nova-cinebiografia-veja-foto.shtml)_
+
