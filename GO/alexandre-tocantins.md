@@ -338,3 +338,6 @@
 - **[2026-11-09 14:14 UTC]** Kit de Emergência: Defesa Civil explica que não há previsão de ameaças no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/09/kit-de-emergencia-defesa-civil-explica-que-nao-ha-previsao-de-ameacas-no-tocantins.ghtml)_
 
+- **[2026-11-10 13:40 UTC]** Homem é morto a tiros enquanto jantava com amigo no interior do Tocantins, diz PM
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/10/homem-e-morto-a-tiros-enquanto-jantava-com-amigo-no-interior-do-tocantins-diz-pm.ghtml)_
+
