@@ -707,3 +707,6 @@
 - **[2026-11-10 16:28 UTC]** Alcolumbre diz que vai promulgar PEC da Segurança Pública daqui a 15 dias
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/alcolumbre-diz-que-vai-promulgar-pec-da-seguranca-publica-daqui-a-15-dias.shtml)_
 
+- **[2026-11-10 22:24 UTC]** Alcolumbre deve aguardar retorno de Lula ao Brasil para promulgar PEC da Segurança
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/alcolumbre-deve-aguardar-retorno-de-lula-ao-brasil-para-promulgar-pec-da-seguranca.ghtml)_
+
