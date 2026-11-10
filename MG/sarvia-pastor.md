@@ -32,3 +32,6 @@
 - **[2026-11-04 14:31 UTC]** Pastor metodista se torna 1º democrata eleito senador pelo Kansas em 94 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/pastor-metodista-se-torna-1o-democrata-eleito-senador-pelo-kansas-em-94-anos.shtml)_
 
+- **[2026-11-10 17:34 UTC]** Pastor é levado para delegacia com 4 mil pares de sandálias falsificadas no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/10/apreensao-de-mais-4-mil-pares-de-sandalias-falsificadas-no-acre.ghtml)_
+
