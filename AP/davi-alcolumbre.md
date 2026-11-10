@@ -710,3 +710,6 @@
 - **[2026-11-10 22:24 UTC]** Alcolumbre deve aguardar retorno de Lula ao Brasil para promulgar PEC da Segurança
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/alcolumbre-deve-aguardar-retorno-de-lula-ao-brasil-para-promulgar-pec-da-seguranca.ghtml)_
 
+- **[2026-11-10 17:31 UTC]** Alcolumbre diz que pode pautar redução da maioridade penal este ano ‘se a Câmara votar’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/alcolumbre-diz-que-pode-pautar-reducao-da-maioridade-penal-este-ano-se-a-camara-votar/)_
+
