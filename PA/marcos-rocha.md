@@ -11,3 +11,6 @@
 - **[2026-09-24 22:44 UTC]** Quaest em RO: 46% aprovam e 31% desaprovam governo de Marcos Rocha (PSD)
   _fonte: [G1 - Política:](https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-ro-avaliacao-governo-24-de-setembro.ghtml)_
 
+- **[2026-11-09 23:22 UTC]** Presidente da Assembleia assume governo de Rondônia durante viagem de Marcos Rocha
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/11/09/presidente-da-assembleia-assume-governo-de-rondonia-durante-viagem-de-marcos-rocha.ghtml)_
+
