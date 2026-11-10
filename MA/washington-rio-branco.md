@@ -107,3 +107,6 @@
 - **[2026-11-09 18:45 UTC]** Feirão BV em Rio Branco traz 14 lojas com condições especiais de financiamento
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/especial-publicitario/nexo-agencia-de-publicidade-e-comunicacao-ltda/noticia/2026/11/09/feirao-bv-em-rio-branco-traz-14-lojas-com-condicoes-especiais-de-financiamento.ghtml)_
 
+- **[2026-11-10 21:20 UTC]** Dois homens são encontrados mortos com tiros na cabeça em área de mata em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/10/dois-homens-sao-encontrados-mortos-com-tiros-na-cabeca-em-area-de-mata-em-rio-branco.ghtml)_
+
