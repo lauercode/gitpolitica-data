@@ -209,3 +209,6 @@
 - **[2026-11-10 13:51 UTC]** O Cava, espumante símbolo da Espanha
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/11/10/o-cava-espumante-simbolo-da-espanha.ghtml)_
 
+- **[2026-11-10 15:21 UTC]** Maquinistas entram em greve na Espanha após dois acidentes fatais em um ano
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/10/maquinistas-entram-em-greve-na-espanha-aps-dois-acidentes-fatais-em-um-ano.ghtml)_
+
