@@ -98,3 +98,6 @@
 - **[2026-11-10 04:01 UTC]** Hugo Motta articula proposta de voto distrital misto na Câmara dos Deputados
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-articula-proposta-de-voto-distrital-misto-na-camara-dos-deputados/)_
 
+- **[2026-11-10 13:00 UTC]** Partidos relatam a Hugo Motta falta de apoio e enterram proposta de voto distrital misto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/partidos-relatam-a-hugo-motta-falta-de-apoio-e-enterram-proposta-de-voto-distrital-misto.shtml)_
+
