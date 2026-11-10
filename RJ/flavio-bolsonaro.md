@@ -10996,3 +10996,6 @@
 - **[2026-11-10 13:07 UTC]** Flávio tem direito de disputar Presidência em 2030, diz Tarcísio após admitir possibilidade de concorrer
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-tem-direito-de-disputar-presidencia-em-2030-diz-tarcisio-apos-admitir-possibilidade-de-concorrer.shtml)_
 
+- **[2026-11-10 16:33 UTC]** Tarcísio diz que Flávio tem direito de concorrer em 2030 e minimiza racha na direita
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/tarcsio-diz-que-flvio-tem-direito-de-concorrer-em-2030-e-minimiza-racha-na-direita.ghtml)_
+
