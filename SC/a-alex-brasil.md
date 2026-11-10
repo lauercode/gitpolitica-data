@@ -14,3 +14,6 @@
 - **[2026-11-07 13:17 UTC]** Uruguai retoma importação de frango do Brasil, e embargos por doença de Newcastle ficam restritos a SC
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/uruguai-retoma-importacao-de-frango-do-brasil-e-embargos-por-doenca-de-newcastle-ficam-restritos-a-sc.shtml)_
 
+- **[2026-11-10 15:00 UTC]** Ex-boxeador que espancou vendedor até a morte em SC representou Brasil em Mundial e recebeu moção de aplausos
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/11/10/ex-boxeador-espancou-vendedor-ate-a-morte-representou-brasil-em-mundial.ghtml)_
+
