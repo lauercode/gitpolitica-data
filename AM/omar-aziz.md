@@ -212,3 +212,6 @@
 - **[2026-11-09 20:21 UTC]** De ataques políticos a material de abuso sexual: entenda como investigação sobre filha de Omar Aziz levou à prisão de marqueteiro de Professora Maria do Carmo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/09/de-ataques-politicos-a-material-de-abuso-sexual-entenda-como-investigacao-sobre-filha-de-omar-aziz-levou-a-prisao-de-marqueteiro-de-professora-maria-do-carmo.ghtml)_
 
+- **[2026-11-10 03:00 UTC]** Delegado diz que material encontrado em tablet reforça suspeita contra marqueteiro em caso envolvendo filha de Omar Aziz
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/10/delegado-diz-que-material-encontrado-em-tablet-reforca-suspeita-contra-marqueteiro-em-caso-envolvendo-filha-de-omar-aziz.ghtml)_
+
