@@ -104,3 +104,6 @@
 - **[2026-11-10 08:10 UTC]** Novo marco das concessões promete ampliar segurança jurídica
   _fonte: [Valor Econômico](https://valor.globo.com/publicacoes/especiais/revista-infraestrutura-e-logistica/noticia/2026/11/10/novo-marco-das-concessoes-promete-ampliar-seguranca-juridica.ghtml)_
 
+- **[2026-11-10 18:21 UTC]** Novo painel de dados mostra chuva abaixo da média em 70% do país
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/novo-painel-de-dados-mostra-chuva-abaixo-da-media-em-70-do-pais)_
+
