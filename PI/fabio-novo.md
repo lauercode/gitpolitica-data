@@ -107,3 +107,6 @@
 - **[2026-11-10 18:21 UTC]** Novo painel de dados mostra chuva abaixo da média em 70% do país
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/novo-painel-de-dados-mostra-chuva-abaixo-da-media-em-70-do-pais)_
 
+- **[2026-11-10 17:54 UTC]** Vereador do Novo sugere que críticos se mudem para a Bahia após cobranças por temporais em Curitiba
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/11/vereador-do-novo-sugere-que-criticos-se-mudem-para-bahia-apos-cobrancas-por-temporais-em-curitiba.shtml)_
+
