@@ -2702,3 +2702,6 @@
 - **[2026-11-10 14:27 UTC]** TSE julga ação de Lula contra a Meta por favorecimento a Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/tse-julga-acao-de-lula-contra-a-meta-por-favorecimento-a-flavio-bolsonaro/)_
 
+- **[2026-11-10 20:24 UTC]** Lula e presidente da Turquia se reúnem e falam de comércio bilateral
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-presidente-da-turquia-se-reunem-e-falam-de-comercio-bilateral)_
+
