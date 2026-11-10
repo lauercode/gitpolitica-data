@@ -101,3 +101,6 @@
 - **[2026-11-09 19:54 UTC]** Novo presidente do Paraguai quer a renúncia de todos os ministros
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/novo-presidente-do-paraguai-quer-a-renuncia-de-todos-os-ministros/)_
 
+- **[2026-11-10 08:10 UTC]** Novo marco das concessões promete ampliar segurança jurídica
+  _fonte: [Valor Econômico](https://valor.globo.com/publicacoes/especiais/revista-infraestrutura-e-logistica/noticia/2026/11/10/novo-marco-das-concessoes-promete-ampliar-seguranca-juridica.ghtml)_
+
