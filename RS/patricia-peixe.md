@@ -14,3 +14,6 @@
 - **[2026-11-05 19:02 UTC]** Peixe grelhado: aprenda a fazer essa receita fácil e saudável para o jantar
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/receitas/peixe-grelhado-aprenda-a-fazer-essa-receita-facil-e-saudavel-para-o-jantar/)_
 
+- **[2026-11-09 21:26 UTC]** Peixe-boi-marinho Tinga é monitorado por equipe especializada na foz do Rio São Francisco em Sergipe
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/11/09/peixe-boi-marinho-tinga-e-monitorado-por-equipe-especializada-na-foz-do-rio-sao-francisco-em-sergipe.ghtml)_
+
