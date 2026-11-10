@@ -11017,3 +11017,6 @@
 - **[2026-11-10 22:59 UTC]** Novo líder republicano na Câmara dos EUA encontrou com Eduardo e Flávio Bolsonaro e liderou relatório contra Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/novo-lider-republicano-na-camara-dos-eua-encontrou-com-eduardo-e-flavio-bolsonaro-e-liderou-relatorio-contra-moraes.ghtml)_
 
+- **[2026-11-10 20:04 UTC]** PF abre inquérito apurar suspeitas de financiamento estrangeiro na campanha de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pf-abre-inquerito-apurar-suspeitas-de-financiamento-estrangeiro-na-campanha-de-flavio-bolsonaro/)_
+
