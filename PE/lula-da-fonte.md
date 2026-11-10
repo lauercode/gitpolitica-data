@@ -50,3 +50,6 @@
 - **[2026-11-07 21:39 UTC]** Presidente Lula vai levar Janones para viagem à Turquia
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/07/presidente-lula-vai-levar-janones-para-viagem-a-turquia.ghtml)_
 
+- **[2026-11-10 19:44 UTC]** Presidente Lula se reúne com líder da Turquia, Tayyip Erdogan
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/presidente-lula-se-reune-com-lider-da-turquia-tayyip-erdogan)_
+
