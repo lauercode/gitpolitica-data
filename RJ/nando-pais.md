@@ -83,3 +83,6 @@
 - **[2026-11-08 16:55 UTC]** Pais levam filhos para locais de prova do Enem e destacam nervosismo e torcida: 'o que a gente quis pra gente, a gente quer dar pro filho'
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/ingresso-universitario/noticia/2026/11/08/pais-levam-filhos-para-locais-de-prova-do-enem.ghtml)_
 
+- **[2026-11-10 09:20 UTC]** Pais de deputado da Bahia são alvos da PF em investigação sobre emendas Pix
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-deflagra-operacao-na-bahia-por-suspeita-de-desvio-de-recursos-de-emendas-pix.shtml)_
+
