@@ -68,3 +68,6 @@
 - **[2026-11-08 18:05 UTC]** TRE-MG suspende investigação da PF contra Ana Elisa (PT) por posts sobre Nossa Senhora
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/tre-mg-suspende-investigacao-da-pf-contra-ana-elisa-pt-por-posts-sobre-nossa-senhora/)_
 
+- **[2026-11-10 07:50 UTC]** O que se sabe sobre as ameaças recebidas pela deputada Ana Elisa
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/o-que-se-sabe-sobre-as-ameacas-recebidas-pela-deputada-ana-elisa/)_
+
