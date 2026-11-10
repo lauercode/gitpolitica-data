@@ -86,3 +86,6 @@
 - **[2026-11-07 12:20 UTC]** Gonet pede ao STF suspensão de ações contra MP do fim das bets até Corte decidir sobre proibição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/07/gonet-pede-ao-stf-suspensao-de-acoes-contra-mp-do-fim-das-bets-ate-corte-decidir-sobre-proibicao.ghtml)_
 
+- **[2026-11-10 12:12 UTC]** Corte de impostos na gasolina e etanol é prorrogado até 9 de dezembro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/corte-de-impostos-na-gasolina-e-etanol-e-prorrogado-ate-9-de-dezembro)_
+
