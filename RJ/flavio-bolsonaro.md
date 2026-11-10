@@ -11011,3 +11011,6 @@
 - **[2026-11-10 15:40 UTC]** A imprensa foi mesmo omissa com Flávio Bolsonaro nas eleições?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/11/a-imprensa-foi-mesmo-omissa-com-flavio-bolsonaro.shtml)_
 
+- **[2026-11-10 19:48 UTC]** Tarcísio diz que Flávio tem direito de disputar Presidência em 2030
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tarcisio-diz-que-flavio-tem-direito-de-disputar-presidencia-em-2030/)_
+
