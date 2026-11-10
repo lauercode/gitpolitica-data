@@ -137,3 +137,6 @@
 - **[2026-11-04 10:58 UTC]** Gilmar cobra explicações sobre ataques a indígenas após as eleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-cobra-explicacoes-sobre-ataques-a-indigenas-apos-as-eleicoes/)_
 
+- **[2026-11-10 14:50 UTC]** Inquérito das fake news: 104 desdobramentos incluem suposta ofensa a Gilmar em 2018
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/inquerito-das-fake-news-104-casos-pendentes-incluem-suposta-ofensa-a-gilmar-em/)_
+
