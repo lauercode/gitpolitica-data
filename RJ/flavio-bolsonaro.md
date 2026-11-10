@@ -10987,3 +10987,6 @@
 - **[2026-11-10 07:35 UTC]** PF prende ex-servidor do STJ suspeito de vazar informações para Willer Tomaz, amigo de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-prende-servidor-do-stj-suspeito-de-vazar-informacoes-para-willer-tomaz.shtml)_
 
+- **[2026-11-10 11:04 UTC]** Deputado italiano pede abertura de investigação penal sobre passaporte para Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/deputado-italiano-pede-abertura-investigacao-penal-passaporte-flavio/)_
+
