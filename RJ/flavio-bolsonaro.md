@@ -11014,3 +11014,6 @@
 - **[2026-11-10 19:48 UTC]** Tarcísio diz que Flávio tem direito de disputar Presidência em 2030
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tarcisio-diz-que-flavio-tem-direito-de-disputar-presidencia-em-2030/)_
 
+- **[2026-11-10 22:59 UTC]** Novo líder republicano na Câmara dos EUA encontrou com Eduardo e Flávio Bolsonaro e liderou relatório contra Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/novo-lider-republicano-na-camara-dos-eua-encontrou-com-eduardo-e-flavio-bolsonaro-e-liderou-relatorio-contra-moraes.ghtml)_
+
