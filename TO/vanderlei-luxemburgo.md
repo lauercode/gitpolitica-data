@@ -17,3 +17,6 @@
 - **[2026-11-09 16:30 UTC]** Paraguai pede ajuda a EUA, Luxemburgo e Argentina para rastrear e recuperar dinheiro do Ueno Bank
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/paraguai-pede-ajuda-a-eua-luxemburgo-e-argentina-para-rastrear-e-recuperar-dinheiro-do-ueno-bank/)_
 
+- **[2026-11-09 18:18 UTC]** Paraguai pede ajuda dos EUA, Luxemburgo e da Argentina para rastrear os recursos desviados do Ueno Bank
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/paraguai-pede-ajuda-dos-eua-luxemburgo-e-da-argentina-para-rastrear-os-recursos-desviados-do-ueno-bank.shtml)_
+
