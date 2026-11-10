@@ -695,3 +695,6 @@
 - **[2026-11-09 13:49 UTC]** Alcolumbre tem encontro com bancada feminina cancelado por falta de quórum
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/na-disputa-a-reeleicao-alcolumbre-tem-encontro-com-bancada-feminina-cancelado.shtml)_
 
+- **[2026-11-09 22:26 UTC]** Alcolumbre e Motta priorizam agenda e recusam convite de Lula para COP31
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/09/alcolumbre-e-motta-priorizam-agenda-e-recusam-convite-de-lula-para-cop31.ghtml)_
+
