@@ -2699,3 +2699,6 @@
 - **[2026-11-10 18:39 UTC]** Lula discute parceria em defesa com presidente turco, às margens da COP31 na Turquia
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/10/lula-discute-parceria-em-defesa-com-presidente-turco-as-margens-da-cop31-na-turquia.ghtml)_
 
+- **[2026-11-10 14:27 UTC]** TSE julga ação de Lula contra a Meta por favorecimento a Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/tse-julga-acao-de-lula-contra-a-meta-por-favorecimento-a-flavio-bolsonaro/)_
+
