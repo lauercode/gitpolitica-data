@@ -98,3 +98,6 @@
 - **[2026-11-09 18:04 UTC]** Novo presidente do Paraguai pede renúncia de ministros
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/09/novo-presidente-do-paraguai-pede-renncia-de-todos-os-seus-ministros.ghtml)_
 
+- **[2026-11-09 19:54 UTC]** Novo presidente do Paraguai quer a renúncia de todos os ministros
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/novo-presidente-do-paraguai-quer-a-renuncia-de-todos-os-ministros/)_
+
