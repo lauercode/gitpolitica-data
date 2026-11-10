@@ -20,3 +20,6 @@
 - **[2026-11-09 23:03 UTC]** VÍDEO: Temporal derruba todos os postes de ferro de ponte entre Piauí e Maranhão
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/09/temporal-derruba-postes.ghtml)_
 
+- **[2026-11-10 14:27 UTC]** Temporal destelha casas, derruba árvores e deixa moradores sem energia em Parintins e Barreirinha
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/10/temporal-destelha-casas-derruba-arvores-e-deixa-moradores-sem-energia-em-parintins-e-barreirinha.ghtml)_
+
