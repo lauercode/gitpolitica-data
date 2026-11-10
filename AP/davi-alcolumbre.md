@@ -704,3 +704,6 @@
 - **[2026-11-10 14:34 UTC]** Direita investe no desgaste de Alcolumbre para impedir a sua reeleição no Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/direita-investe-no-desgaste-de-alcolumbre-para-impedir-a-sua-reeleicao-no-senado/)_
 
+- **[2026-11-10 16:28 UTC]** Alcolumbre diz que vai promulgar PEC da Segurança Pública daqui a 15 dias
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/alcolumbre-diz-que-vai-promulgar-pec-da-seguranca-publica-daqui-a-15-dias.shtml)_
+
