@@ -10990,3 +10990,6 @@
 - **[2026-11-10 11:04 UTC]** Deputado italiano pede abertura de investigação penal sobre passaporte para Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/deputado-italiano-pede-abertura-investigacao-penal-passaporte-flavio/)_
 
+- **[2026-11-10 10:52 UTC]** PF prende ex-secretário do STJ que teria vazado informações para advogado amigo de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/pf-prende-ex-secretrio-do-stj-que-teria-vazado-informaes-para-advogado-amigo-de-flvio.ghtml)_
+
