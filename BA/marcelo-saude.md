@@ -98,3 +98,6 @@
 - **[2026-11-09 11:29 UTC]** Ministério da Saúde repassa R$ 524 mil para conter surto de sarampo em municípios do Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/09/ministerio-da-saude-repassa-r-524-mil-para-reforcar-vacinacao-contra-sarampo-no-amazonas.ghtml)_
 
+- **[2026-11-10 18:16 UTC]** Covid-19 volta a subir em Alagoas, aponta Ministério da Saúde
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/10/covid-19-volta-a-subir-em-alagoas-aponta-ministerio-da-saude.ghtml)_
+
