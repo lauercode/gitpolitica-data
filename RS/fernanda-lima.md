@@ -11,3 +11,6 @@
 - **[2026-10-17 20:05 UTC]** Fernanda Lima e Rodrigo Hilbert acompanham desfile do filho João na São Paulo Fashion Week
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/estilo/2026/10/fernanda-lima-e-rodrigo-hilbert-acompanham-desfile-do-filho-joao-na-sao-paulo-fashion-week.shtml)_
 
+- **[2026-11-10 12:20 UTC]** Fernanda Lima e Rodrigo Hilbert preparam festa com tema de spa para filha de 7 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/fernanda-lima-e-rodrigo-hilbert-preparam-festa-com-tema-de-spa-a-filha-de-7-anos.shtml)_
+
