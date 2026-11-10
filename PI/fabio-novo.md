@@ -110,3 +110,6 @@
 - **[2026-11-10 17:54 UTC]** Vereador do Novo sugere que críticos se mudem para a Bahia após cobranças por temporais em Curitiba
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/11/vereador-do-novo-sugere-que-criticos-se-mudem-para-bahia-apos-cobrancas-por-temporais-em-curitiba.shtml)_
 
+- **[2026-11-10 22:59 UTC]** Novo líder republicano na Câmara dos EUA encontrou com Eduardo e Flávio Bolsonaro e liderou relatório contra Moraes
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/novo-lider-republicano-na-camara-dos-eua-encontrou-com-eduardo-e-flavio-bolsonaro-e-liderou-relatorio-contra-moraes.ghtml)_
+
