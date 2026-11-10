@@ -2708,3 +2708,6 @@
 - **[2026-11-10 19:44 UTC]** Presidente Lula se reúne com líder da Turquia, Tayyip Erdogan
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/presidente-lula-se-reune-com-lider-da-turquia-tayyip-erdogan)_
 
+- **[2026-11-10 18:59 UTC]** Campanha de Lula recebeu R$ 1,9 milhão em doações depois do segundo turno; Flávio Bolsonaro obteve R$ 1 milhão
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/10/campanha-lula-flavio-bolsonaro-doacoes-apos-segundo-turno.ghtml)_
+
