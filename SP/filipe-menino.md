@@ -119,3 +119,6 @@
 - **[2026-11-09 16:31 UTC]** Menino de 6 anos e pais morrem em intervalo de 4 dias; família sofreu acidente com ambulância do Exército no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/09/familia-morte-acidente-ambulancia-exercito-rs.ghtml)_
 
+- **[2026-11-10 15:52 UTC]** Menino de 1 ano se engasga com bala de chiclete e é socorrido por policial militar em Bonfim
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/10/menino-de-1-ano-se-engasga-com-bala-de-chiclete-e-e-socorrido-por-policial-militar-em-bonfim.ghtml)_
+
