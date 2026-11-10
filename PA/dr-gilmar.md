@@ -140,3 +140,6 @@
 - **[2026-11-10 14:50 UTC]** Inquérito das fake news: 104 desdobramentos incluem suposta ofensa a Gilmar em 2018
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/inquerito-das-fake-news-104-casos-pendentes-incluem-suposta-ofensa-a-gilmar-em/)_
 
+- **[2026-11-10 12:10 UTC]** Defesa de Vorcaro pede que Fachin mande a Gilmar pedido de soltura
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-vorcaro-pede-que-fachin-mande-a-gilmar-pedido-de-soltura/)_
+
