@@ -23,3 +23,6 @@
 - **[2026-11-08 15:44 UTC]** Kleber Mendonça Filho anuncia filme sobre anos 1930 e diz querer Wagner Moura
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/kleber-mendonca-filho-anuncia-filme-sobre-anos-1930-e-diz-querer-wagner-moura.shtml)_
 
+- **[2026-11-09 23:03 UTC]** Kleber Mendonça Filho faz eco às críticas da novela 'Lá na Minha Terra'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/kleber-mendonca-filho-faz-eco-as-criticas-da-novela-la-na-minha-terra.shtml)_
+
