@@ -2705,3 +2705,6 @@
 - **[2026-11-10 20:24 UTC]** Lula e presidente da Turquia se reúnem e falam de comércio bilateral
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-presidente-da-turquia-se-reunem-e-falam-de-comercio-bilateral)_
 
+- **[2026-11-10 19:44 UTC]** Presidente Lula se reúne com líder da Turquia, Tayyip Erdogan
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/presidente-lula-se-reune-com-lider-da-turquia-tayyip-erdogan)_
+
