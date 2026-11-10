@@ -2696,3 +2696,6 @@
 - **[2026-11-10 04:00 UTC]** Campanha de Lula desestimulou manifestações decisivas para reeleição, diz presidente da UNE
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/campanha-de-lula-desestimulou-manifestacoes-decisivas-para-reeleicao-diz-presidente-da-une.shtml)_
 
+- **[2026-11-10 18:39 UTC]** Lula discute parceria em defesa com presidente turco, às margens da COP31 na Turquia
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/10/lula-discute-parceria-em-defesa-com-presidente-turco-as-margens-da-cop31-na-turquia.ghtml)_
+
