@@ -206,3 +206,6 @@
 - **[2026-11-09 15:17 UTC]** Direita lidera pesquisas antes de eleições na Espanha
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/09/direita-lidera-pesquisas-antes-de-eleies-na-espanha.ghtml)_
 
+- **[2026-11-10 13:51 UTC]** O Cava, espumante símbolo da Espanha
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/11/10/o-cava-espumante-simbolo-da-espanha.ghtml)_
+
