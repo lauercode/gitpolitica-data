@@ -320,3 +320,6 @@
 - **[2026-11-09 14:14 UTC]** The Economist chama Janones de 'herói' da esquerda brasileira e destaca estratégia digital para reeleição de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/09/the-economist-chama-janones-de-heroi-da-esquerda-brasileira-e-destaca-estrategia-digital-para-reeleicao-de-lula.ghtml)_
 
+- **[2026-11-09 21:58 UTC]** 'Janones do Piauí': vereador viraliza por semelhança com deputado após vídeo com ministro Wellington Dias
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/09/janones-do-piaui.ghtml)_
+
