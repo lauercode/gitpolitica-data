@@ -173,3 +173,6 @@
 - **[2026-11-10 18:01 UTC]** Douglas Ruas critica ação do PSD sobre segundo turno no Rio e diz que 'eleições já acabaram'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/douglas-ruas-critica-acao-do-psd-sobre-segundo-turno-no-rio-e-diz-que-eleicoes-ja-acabaram.ghtml)_
 
+- **[2026-11-10 16:05 UTC]** Douglas Ruas ironiza ação do PSD de Paes por segundo turno no RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/douglas-ruas-ironiza-acao-do-psd-de-paes-por-segundo-turno-no-rj.shtml)_
+
