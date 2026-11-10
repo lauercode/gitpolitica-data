@@ -14,3 +14,6 @@
 - **[2026-10-19 08:15 UTC]** Kylie Jenner usa sutiã de R$ 250 milhões em desfile da Victoria's Secret; veja destaques
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/estilo/2026/10/kylie-jenner-usa-sutia-de-r-250-milhoes-em-desfile-da-victorias-secret-veja-destaques.shtml)_
 
+- **[2026-11-09 21:16 UTC]** Victoria colombiana: a fascinante descoberta de uma vitória-régia gigante na América do Sul que pode ser vista do espaço
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmdx3xz3x6x9o?at_medium=RSS&at_campaign=rss)_
+
