@@ -10999,3 +10999,6 @@
 - **[2026-11-10 16:33 UTC]** Tarcísio diz que Flávio tem direito de concorrer em 2030 e minimiza racha na direita
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/tarcsio-diz-que-flvio-tem-direito-de-concorrer-em-2030-e-minimiza-racha-na-direita.ghtml)_
 
+- **[2026-11-10 14:27 UTC]** TSE julga ação de Lula contra a Meta por favorecimento a Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/tse-julga-acao-de-lula-contra-a-meta-por-favorecimento-a-flavio-bolsonaro/)_
+
