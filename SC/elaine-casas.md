@@ -20,3 +20,6 @@
 - **[2018-04-24 16:58 UTC]** Casas e terrenos não devem ser entregues este ano em Fernando de Noronha
   _fonte: [G1 - Regiões: Pernambuco](https://g1.globo.com/pernambuco/blog/viver-noronha/post/casas-e-terrenos-nao-devem-ser-entregues-este-ano-em-fernando-de-noronha.html)_
 
+- **[2026-11-10 15:03 UTC]** Comissão aprova projeto que regulamenta atuação das Casas da Mulher Brasileira
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1317665-comissao-aprova-projeto-que-regulamenta-atuacao-das-casas-da-mulher-brasileira)_
+
