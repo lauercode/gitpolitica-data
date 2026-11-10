@@ -95,3 +95,6 @@
 - **[2026-11-05 09:03 UTC]** União Brasil oficializa apoio a Hugo Motta, que já reúne 361 deputados para reeleição na Câmara
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/uniao-brasil-oficializa-apoio-a-hugo-motta-que-ja-reune-361-deputados-para-reeleicao-na-camara/)_
 
+- **[2026-11-10 04:01 UTC]** Hugo Motta articula proposta de voto distrital misto na Câmara dos Deputados
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-articula-proposta-de-voto-distrital-misto-na-camara-dos-deputados/)_
+
