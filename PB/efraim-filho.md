@@ -80,3 +80,6 @@
 - **[2026-10-05 10:13 UTC]** Efraim Filho diz 'vamos respeitar o resultado das urnas' após ficar em segundo lugar na disputa pelo governo da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/efraim-filho-diz-vamos-respeitar-o-resultado-das-urnas-apos-ficar-em-segundo-lugar-no-1o-turno-na-disputa-pelo-governo-da-paraiba.ghtml)_
 
+- **[2026-11-10 16:26 UTC]** Efraim Filho será coordenador da campanha de Marinho à presidência do Senado
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/efraim-filho-sera-coordenador-da-campanha-de-marinho-a-presidencia-do-senado.ghtml)_
+
