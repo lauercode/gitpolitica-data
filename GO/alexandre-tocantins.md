@@ -341,3 +341,6 @@
 - **[2026-11-10 13:40 UTC]** Homem é morto a tiros enquanto jantava com amigo no interior do Tocantins, diz PM
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/10/homem-e-morto-a-tiros-enquanto-jantava-com-amigo-no-interior-do-tocantins-diz-pm.ghtml)_
 
+- **[2026-11-10 12:34 UTC]** Mineradora australiana identifica presença de terras raras em cidades do Tocantins; entenda
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/10/mineradora-australiana-identifica-presenca-de-terras-raras-em-cidades-do-tocantins-entenda.ghtml)_
+
