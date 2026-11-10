@@ -10993,3 +10993,6 @@
 - **[2026-11-10 10:52 UTC]** PF prende ex-secretário do STJ que teria vazado informações para advogado amigo de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/pf-prende-ex-secretrio-do-stj-que-teria-vazado-informaes-para-advogado-amigo-de-flvio.ghtml)_
 
+- **[2026-11-10 13:07 UTC]** Flávio tem direito de disputar Presidência em 2030, diz Tarcísio após admitir possibilidade de concorrer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/flavio-tem-direito-de-disputar-presidencia-em-2030-diz-tarcisio-apos-admitir-possibilidade-de-concorrer.shtml)_
+
