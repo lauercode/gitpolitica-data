@@ -113,3 +113,6 @@
 - **[2026-11-11 11:00 UTC]** Rio Branco registra mais de 1,6 mil acidentes de trânsito até outubro, diz BPTran
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/11/rio-branco-registra-mais-de-16-mil-acidentes-de-transito-ate-outubro-diz-bptran.ghtml)_
 
+- **[2026-11-11 16:15 UTC]** Câmara de Rio Branco aprova moção de pesar pela morte do jornalista Ayres Rocha
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/11/camara-de-rio-branco-aprova-mocao-de-pesar-pela-morte-do-jornalista-ayres-rocha.ghtml)_
+
