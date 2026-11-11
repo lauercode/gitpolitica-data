@@ -32,3 +32,6 @@
 - **[2026-11-06 11:34 UTC]** Juliano, da dupla com Henrique, faz viagem de helicóptero para comprar ovos e leva saco de mangas de brinde
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/06/juliano-da-dupla-com-henrique-faz-viagem-de-helicoptero-para-comprar-ovos-e-leva-saco-de-mangas-de-brinde.ghtml)_
 
+- **[2026-11-11 13:16 UTC]** Juliano, da dupla com Henrique, faz revisão em helicóptero e brinca: 'canto por vaidade'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/11/juliano-da-dupla-com-henrique-faz-revisao-em-helicoptero-e-brinca-canto-por-vaidade.ghtml)_
+
