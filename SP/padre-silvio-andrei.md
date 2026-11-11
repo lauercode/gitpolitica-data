@@ -17,3 +17,6 @@
 - **[2026-11-11 15:03 UTC]** Gilmar defende Andrei após afastamento de delegados do caso Master na PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/gilmar-defende-andrei-apos-afastamento-de-delegados-do-caso-master-na-pf.shtml)_
 
+- **[2026-11-11 11:58 UTC]** Senado convida ministro da Justiça e Andrei para falar sobre afastamento de delegados do caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/senado-aprova-oitiva-de-chefe-da-pf-e-ministro-da-justica-sobre-delegados-afastados-do-master.shtml)_
+
