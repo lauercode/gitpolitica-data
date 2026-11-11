@@ -116,3 +116,6 @@
 - **[2026-11-11 16:15 UTC]** Câmara de Rio Branco aprova moção de pesar pela morte do jornalista Ayres Rocha
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/11/camara-de-rio-branco-aprova-mocao-de-pesar-pela-morte-do-jornalista-ayres-rocha.ghtml)_
 
+- **[2026-11-11 15:14 UTC]** Rio Branco registra quatro assassinatos em menos de 24 horas; veja quem são as vítimas
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/11/rio-branco-registra-quatro-assassinatos-em-menos-de-24-horas-veja-quem-sao-as-vitimas.ghtml)_
+
