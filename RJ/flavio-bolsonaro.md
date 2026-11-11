@@ -11035,3 +11035,6 @@
 - **[2026-11-10 20:04 UTC]** PF abre inquérito para apurar suspeitas de financiamento estrangeiro na campanha de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pf-abre-inquerito-apurar-suspeitas-de-financiamento-estrangeiro-na-campanha-de-flavio-bolsonaro/)_
 
+- **[2026-11-11 11:31 UTC]** Na COP 31, Lula alfineta Trump e Flávio: “Povo brasileiro confrontou quem nega a ciência”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/cop-31-lula-alfineta-trump-flavio-discurso/)_
+
