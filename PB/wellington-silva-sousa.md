@@ -8,3 +8,6 @@
 - **[2026-10-26 11:17 UTC]** Sousa (PB): resultado do local de votação por zonas eleitorais no 2º turno
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/26/sousa-pb-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml)_
 
+- **[2026-11-11 11:12 UTC]** Fábio Tyrone, ex-prefeito de Sousa, é alvo de nova busca da PF em investigação sobre compra de votos na PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/11/fabio-tyrone-ex-prefeito-de-sousa-e-alvo-de-nova-busca-da-pf-em-investigacao-sobre-compra-de-votos-na-pb.ghtml)_
+
