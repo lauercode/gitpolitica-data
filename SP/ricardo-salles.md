@@ -59,3 +59,6 @@
 - **[2026-11-05 19:47 UTC]** Após acordo eleitoral, Tarcísio deve dar secretaria a Ricardo Salles
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/apos-acordo-eleitoral-tarcisio-deve-dar-secretaria-a-ricardo-salles.shtml)_
 
+- **[2026-11-11 15:43 UTC]** Tarcísio oficializa Ricardo Salles como secretário de Justiça
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-oficializa-ricardo-salles-como-secretario-de-justica.shtml)_
+
