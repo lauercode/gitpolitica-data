@@ -71,3 +71,6 @@
 - **[2026-10-24 15:09 UTC]** PF suspeita de sociedade entre Willer Tomaz e Flávio Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/24/pf-suspeita-de-sociedade-entre-willer-tomaz-e-flavio-bolsonaro.ghtml)_
 
+- **[2026-11-11 12:41 UTC]** Moraes deve manter poder após inquérito das fake news com ações sobre crime organizado no RJ e Willer
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-deve-manter-poder-apos-inquerito-das-fake-news-com-acoes-sobre-crime-organizado-no-rj-e-willer.shtml)_
+
