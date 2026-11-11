@@ -110,3 +110,6 @@
 - **[2026-11-10 21:20 UTC]** Dois homens são encontrados mortos com tiros na cabeça em área de mata em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/10/dois-homens-sao-encontrados-mortos-com-tiros-na-cabeca-em-area-de-mata-em-rio-branco.ghtml)_
 
+- **[2026-11-11 11:00 UTC]** Rio Branco registra mais de 1,6 mil acidentes de trânsito até outubro, diz BPTran
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/11/rio-branco-registra-mais-de-16-mil-acidentes-de-transito-ate-outubro-diz-bptran.ghtml)_
+
