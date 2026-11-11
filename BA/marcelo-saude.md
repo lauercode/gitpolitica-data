@@ -104,3 +104,6 @@
 - **[2026-11-11 11:51 UTC]** Comissão de Saúde discute proposta que cria cartão de identificação único do usuário do SUS; participe
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1316523-comissao-de-saude-discute-proposta-que-cria-cartao-de-identificacao-unico-do-usuario-do-sus-participe)_
 
+- **[2026-11-11 17:58 UTC]** Saúde de Fazenda Rio Grande avança 37,3% em avaliação do TCE-PR
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/prefeitura-de-fazenda-rio-grande/fazenda-bem-cuidada/noticia/2026/11/11/saude-de-fazenda-rio-grande-avanca-373percent-em-avaliacao-do-tce-pr.ghtml)_
+
