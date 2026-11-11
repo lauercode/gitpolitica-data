@@ -350,3 +350,6 @@
 - **[2026-11-11 11:05 UTC]** Dois homens são encontrados mortos em rios do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/11/dois-homens-sao-encontrados-mortos-em-rios-do-tocantins.ghtml)_
 
+- **[2026-11-11 18:41 UTC]** Onça-pintada preta nascida no Paraná viaja mais de 2 mil km para conhecer novo 'namorado' no Tocantins
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/11/onca-pintada-preta-viaja-tocantins.ghtml)_
+
