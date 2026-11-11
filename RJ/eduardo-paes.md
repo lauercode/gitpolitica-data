@@ -74,3 +74,6 @@
 - **[2026-11-04 19:54 UTC]** Douglas Ruas e Eduardo Paes movem ações na Justiça Eleitoral por atuação em disputa no RJ
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/douglas-ruas-e-eduardo-paes-movem-acoes-na-justica-eleitoral-por-atuacao-em-disputa-no-rj.shtml)_
 
+- **[2026-11-10 18:01 UTC]** Douglas Ruas critica Eduardo Paes, que ainda espera decisão do STF sobre segundo turno no Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/douglas-ruas-critica-acao-do-psd-sobre-segundo-turno-no-rio-e-diz-que-eleicoes-ja-acabaram.ghtml)_
+
