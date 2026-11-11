@@ -11020,3 +11020,6 @@
 - **[2026-11-10 20:04 UTC]** PF abre inquérito apurar suspeitas de financiamento estrangeiro na campanha de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pf-abre-inquerito-apurar-suspeitas-de-financiamento-estrangeiro-na-campanha-de-flavio-bolsonaro/)_
 
+- **[2026-11-10 21:26 UTC]** TSE condena Meta a multa de R$ 7,5 mi em ação sobre tratamento desigual entre Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/relator-no-tse-vota-para-condenar-meta-a-multa-de-r-75-mi-por-tratamento-desigual-entre-lula-e-flavio-nas-eleicoes.shtml)_
+
