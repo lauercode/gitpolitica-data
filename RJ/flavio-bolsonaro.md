@@ -11026,3 +11026,6 @@
 - **[2026-11-11 00:45 UTC]** PF abre inquérito sobre suposto financiamento estrangeiro à campanha de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-abre-inquerito-sobre-suposto-financiamento-estrangeiro-a-campanha-de-flavio/)_
 
+- **[2026-11-10 22:29 UTC]** TSE condena Meta a pagar R$ 7,5 mi em ação sobre favorecimento de Flávio Bolsonaro em eleição
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/tse-condena-meta-a-pagar-r-75-mi-em-acao-sobre-favorecimento-de-flavio-bolsonaro-em-eleicao/)_
+
