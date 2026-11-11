@@ -719,3 +719,6 @@
 - **[2026-11-11 03:01 UTC]** Alcolumbre debocha do desempenho de Zema nas eleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-debocha-do-desempenho-de-zema-nas-eleicoes/)_
 
+- **[2026-11-11 01:18 UTC]** Alcolumbre prevê que primeiras medidas de ajuste fiscal do governo sejam apresentadas na próxima semana
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/alcolumbre-prev-que-medidas-de-ajuste-fiscal-do-governo-seja-apresentadas-na-prxima-semana.ghtml)_
+
