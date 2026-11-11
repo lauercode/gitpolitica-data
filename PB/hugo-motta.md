@@ -101,3 +101,6 @@
 - **[2026-11-10 13:00 UTC]** Partidos relatam a Hugo Motta falta de apoio e enterram proposta de voto distrital misto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/partidos-relatam-a-hugo-motta-falta-de-apoio-e-enterram-proposta-de-voto-distrital-misto.shtml)_
 
+- **[2026-11-11 16:46 UTC]** PL adia decisão sobre apoio à recondução de Hugo Motta à presidência da Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pl-adia-decisao-sobre-apoio-a-reconducao-de-hugo-motta-a-presidencia-da-camara/)_
+
