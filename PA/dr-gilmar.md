@@ -146,3 +146,6 @@
 - **[2026-11-11 15:03 UTC]** Gilmar defende Andrei após afastamento de delegados do caso Master na PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/gilmar-defende-andrei-apos-afastamento-de-delegados-do-caso-master-na-pf.shtml)_
 
+- **[2026-11-11 17:00 UTC]** Gilmar suspende em todo o país ações sobre revisão da tabela SUS
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-suspende-em-todo-o-pais-acoes-sobre-revisao-de-valores-pagos-pelo-sus/)_
+
