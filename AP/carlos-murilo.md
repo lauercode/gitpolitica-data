@@ -11,3 +11,6 @@
 - **[2026-09-03 11:57 UTC]** Murilo Huff ensina finanças ao filho com diárias de R$ 50: 'Para ganhar, tem que trabalhar'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/murilo-huff-ensina-financas-ao-filho-com-diarias-de-r-50-para-ganhar-tem-que-trabalhar.shtml)_
 
+- **[2026-11-11 00:10 UTC]** A Fazenda 18: Tina está na roça; Daniel, Fran e Murilo disputam Prova do Fazendeiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-tina-calamba-esta-na-roca-daniel-erthal-fran-almeida-e-murilo-dias-disputam-prova-do-fazendeiro.shtml)_
+
