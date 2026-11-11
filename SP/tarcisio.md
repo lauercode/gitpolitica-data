@@ -215,3 +215,6 @@
 - **[2026-11-08 23:00 UTC]** Tarcísio deve usar Sebrae-SP em xadrez político, com provável ida de chefe do órgão para a Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-deve-usar-sebrae-sp-em-xadrez-politico-com-provavel-ida-de-chefe-do-orgao-para-a-camara.shtml)_
 
+- **[2026-11-11 13:11 UTC]** Com Milton Leite preso, União Brasil encolhe em SP e constrange Tarcísio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-milton-leite-preso-uniao-brasil-encolhe-em-sp-e-constrange-tarcisio.shtml)_
+
