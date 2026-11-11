@@ -23,3 +23,6 @@
 - **[2026-11-11 17:58 UTC]** Gilmar Mendes sai em defesa de Andrei Rodrigues em meio à crise na PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-sai-em-defesa-de-andrei-rodrigues-em-meio-a-crise-na-pf/)_
 
+- **[2026-11-11 18:25 UTC]** Gilmar Mendes defende Andrei e diz que autonomia da PF precisa ser preservada
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/gilmar-mendes-defende-andrei-e-diz-que-autonomia-da-pf-precisa-ser-preservada.ghtml)_
+
