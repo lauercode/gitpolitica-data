@@ -2711,3 +2711,6 @@
 - **[2026-11-10 18:59 UTC]** Campanha de Lula recebeu R$ 1,9 milhão em doações depois do segundo turno; Flávio Bolsonaro obteve R$ 1 milhão
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/10/campanha-lula-flavio-bolsonaro-doacoes-apos-segundo-turno.ghtml)_
 
+- **[2026-11-10 21:26 UTC]** TSE condena Meta a multa de R$ 7,5 mi em ação sobre tratamento desigual entre Lula e Flávio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/relator-no-tse-vota-para-condenar-meta-a-multa-de-r-75-mi-por-tratamento-desigual-entre-lula-e-flavio-nas-eleicoes.shtml)_
+
