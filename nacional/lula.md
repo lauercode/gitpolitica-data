@@ -2717,3 +2717,6 @@
 - **[2026-11-11 11:04 UTC]** TSE multa Meta em R$ 7,5 milhões por descumprir ordens sobre campanhas de Lula e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tse-multa-meta-em-7-5-milhoes-por-descumprir-ordens-sobre-campanhas-de-lula-flavio/)_
 
+- **[2026-11-11 17:52 UTC]** Na Turquia, Lula se reúne com presidente interina da Venezuela
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/11/lula-se-reune-com-presidente-interina-da-venezuela-na-turquia.ghtml)_
+
