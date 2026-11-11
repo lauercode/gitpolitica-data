@@ -2720,3 +2720,6 @@
 - **[2026-11-11 17:52 UTC]** Na Turquia, Lula se reúne com presidente interina da Venezuela
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/11/lula-se-reune-com-presidente-interina-da-venezuela-na-turquia.ghtml)_
 
+- **[2026-11-11 11:31 UTC]** Na COP 31, Lula alfineta Trump e Flávio: “Povo brasileiro confrontou quem nega a ciência”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/cop-31-lula-alfineta-trump-flavio-discurso/)_
+
