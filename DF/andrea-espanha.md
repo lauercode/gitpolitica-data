@@ -215,3 +215,6 @@
 - **[2026-11-11 10:49 UTC]** 3 pontos para entender a primeira greve geral na Espanha em 14 anos, apoiada pelo governo e criticada pela oposição
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c58j4le1w32ro?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-11 13:28 UTC]** MP da Espanha abre investigação contra TikTok por suposta divulgação de pedofilia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/11/mp-da-espanha-abre-investigacao-contra-tiktok-por-suposta-divulgacao-de-pedofilia.shtml)_
+
