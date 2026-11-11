@@ -734,3 +734,6 @@
 - **[2026-11-11 14:51 UTC]** Com Lula fora do Brasil, Alcolumbre e Motta priorizam as suas reeleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/com-lula-fora-do-brasil-alcolumbre-e-motta-priorizam-as-suas-reeleicoes/)_
 
+- **[2026-11-11 18:46 UTC]** Alcolumbre prorroga por 60 dias medida provisória que cria Desenrola 3.0
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/11/alcolumbre-prorroga-por-60-dias-medida-provisria-que-cria-desenrola-30.ghtml)_
+
