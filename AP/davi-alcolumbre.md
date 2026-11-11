@@ -725,3 +725,6 @@
 - **[2026-11-11 04:00 UTC]** Tereza traça estratégia para furar bolha do bolsonarismo e tirar votos de Alcolumbre no Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tereza-traca-estrategia-para-furar-bolha-do-bolsonarismo-e-tirar-votos-de-alcolumbre-no-senado.shtml)_
 
+- **[2026-11-11 15:03 UTC]** Setores pressionam Alcolumbre por regras específicas para o fim da escala 6x1
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/setores-pressionam-alcolumbre-por-regras-especificas-para-o-fim-da-escala-6x1.shtml)_
+
