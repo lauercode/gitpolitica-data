@@ -29,3 +29,6 @@
 - **[2026-11-10 04:00 UTC]** De populismo a chantagem, reação da Faria Lima ao 2º turno vira debate nas redes
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/de-populismo-a-chantagem-reacao-da-faria-lima-ao-2o-turno-vira-debate-nas-redes.shtml)_
 
+- **[2026-11-11 16:47 UTC]** Na Faria Lima, plano fiscal não dissipa desconfiança e é visto como ‘mais do mesmo’
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/11/na-faria-lima-plano-fiscal-nao-dissipa-desconfianca-e-e-visto-como-mais-do-mesmo.ghtml)_
+
