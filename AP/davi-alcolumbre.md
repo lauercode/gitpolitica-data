@@ -731,3 +731,6 @@
 - **[2026-11-11 15:48 UTC]** Alcolumbre prorroga por 60 dias MP que proíbe bets no Brasil
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-prorroga-por-60-dias-mp-que-proibe-bets-no-brasil/)_
 
+- **[2026-11-11 14:51 UTC]** Com Lula fora do Brasil, Alcolumbre e Motta priorizam as suas reeleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/com-lula-fora-do-brasil-alcolumbre-e-motta-priorizam-as-suas-reeleicoes/)_
+
