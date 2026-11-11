@@ -11,3 +11,6 @@
 - **[2026-10-26 10:27 UTC]** Escola Mun. de Educ. Básica Serafim Ferreira do Vale, 78ª zona eleitoral: resultado da votação em Bom Jardim (MA) no 2º turno
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-mun-de-educ-basica-serafim-ferreira-do-vale-78a-zona-eleitoral-resultado-da-votacao-em-bom-jardim-ma-no-2o-turno.ghtml)_
 
+- **[2026-11-11 18:05 UTC]** TJMA realiza mais uma edição do projeto Vagão da Conciliação em trem da Vale no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/11/tjma-realiza-mais-uma-edicao-do-projeto-vagao-da-conciliacao-em-trem-da-vale-no-ma.ghtml)_
+
