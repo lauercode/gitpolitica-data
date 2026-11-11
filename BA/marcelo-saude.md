@@ -101,3 +101,6 @@
 - **[2026-11-10 18:16 UTC]** Covid-19 volta a subir em Alagoas, aponta Ministério da Saúde
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/10/covid-19-volta-a-subir-em-alagoas-aponta-ministerio-da-saude.ghtml)_
 
+- **[2026-11-11 11:51 UTC]** Comissão de Saúde discute proposta que cria cartão de identificação único do usuário do SUS; participe
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1316523-comissao-de-saude-discute-proposta-que-cria-cartao-de-identificacao-unico-do-usuario-do-sus-participe)_
+
