@@ -212,3 +212,6 @@
 - **[2026-11-10 15:21 UTC]** Maquinistas entram em greve na Espanha após dois acidentes fatais em um ano
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/10/maquinistas-entram-em-greve-na-espanha-aps-dois-acidentes-fatais-em-um-ano.ghtml)_
 
+- **[2026-11-11 10:49 UTC]** 3 pontos para entender a primeira greve geral na Espanha em 14 anos, apoiada pelo governo e criticada pela oposição
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c58j4le1w32ro?at_medium=RSS&at_campaign=rss)_
+
