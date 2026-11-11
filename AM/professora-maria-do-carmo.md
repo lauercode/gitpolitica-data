@@ -149,3 +149,6 @@
 - **[2026-11-09 20:21 UTC]** De ataques políticos a material de abuso sexual: entenda como investigação sobre filha de Omar Aziz levou à prisão de marqueteiro de Professora Maria do Carmo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/09/de-ataques-politicos-a-material-de-abuso-sexual-entenda-como-investigacao-sobre-filha-de-omar-aziz-levou-a-prisao-de-marqueteiro-de-professora-maria-do-carmo.ghtml)_
 
+- **[2026-11-11 14:42 UTC]** Após depor, Professora Maria do Carmo diz que não conhecia conteúdo de vídeo contra Omar Aziz: 'Não vi até hoje'
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/11/professora-maria-do-carmo-presta-depoimento-em-investigacao-sobre-imagens-de-filha-de-omar-aziz.ghtml)_
+
