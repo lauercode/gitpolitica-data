@@ -47,3 +47,6 @@
 - **[2026-10-22 13:00 UTC]** Embate entre Eduarda Campopiano e Sofia Favero acende alerta para Tarcísio na Alesp
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/embate-entre-eduarda-campopiano-e-sofia-favero-acende-alerta-para-tarcisio-na-alesp.shtml)_
 
+- **[2026-11-11 14:12 UTC]** Câmara do Rio concede Medalha Chiquinha Gonzaga a Eduarda Campopiano; oposição reage
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/camara-do-rio-concede-medalha-chiquinha-gonzaga-a-eduarda-campopiano-oposicao-reage.shtml)_
+
