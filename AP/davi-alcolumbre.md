@@ -728,3 +728,6 @@
 - **[2026-11-11 15:03 UTC]** Setores pressionam Alcolumbre por regras específicas para o fim da escala 6x1
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/setores-pressionam-alcolumbre-por-regras-especificas-para-o-fim-da-escala-6x1.shtml)_
 
+- **[2026-11-11 15:48 UTC]** Alcolumbre prorroga por 60 dias MP que proíbe bets no Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-prorroga-por-60-dias-mp-que-proibe-bets-no-brasil/)_
+
