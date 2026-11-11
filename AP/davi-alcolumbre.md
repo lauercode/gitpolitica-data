@@ -716,3 +716,6 @@
 - **[2026-11-10 23:00 UTC]** Alcolumbre vê como positivo fim do inquérito das fake news e acena com reforma do Judiciário
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/alcolumbre-ve-como-positivo-fim-do-inquerito-das-fake-news-e-acena-com-reforma-do-judiciario.shtml)_
 
+- **[2026-11-11 03:01 UTC]** Alcolumbre debocha do desempenho de Zema nas eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-debocha-do-desempenho-de-zema-nas-eleicoes/)_
+
