@@ -14,3 +14,6 @@
 - **[2026-10-26 17:23 UTC]** Partidos aliados de Flávio reconhecem a vitória de Lula; Zema fala em golpe
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmvgx3k00d5yo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-11 03:01 UTC]** Alcolumbre debocha do desempenho de Zema nas eleições
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-debocha-do-desempenho-de-zema-nas-eleicoes/)_
+
