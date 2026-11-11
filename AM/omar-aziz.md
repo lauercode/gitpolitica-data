@@ -215,3 +215,6 @@
 - **[2026-11-10 03:00 UTC]** Delegado diz que material encontrado em tablet reforça suspeita contra marqueteiro em caso envolvendo filha de Omar Aziz
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/10/delegado-diz-que-material-encontrado-em-tablet-reforca-suspeita-contra-marqueteiro-em-caso-envolvendo-filha-de-omar-aziz.ghtml)_
 
+- **[2026-11-11 14:42 UTC]** Após depor, Professora Maria do Carmo diz que não conhecia conteúdo de vídeo contra Omar Aziz: 'Não vi até hoje'
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/11/professora-maria-do-carmo-presta-depoimento-em-investigacao-sobre-imagens-de-filha-de-omar-aziz.ghtml)_
+
