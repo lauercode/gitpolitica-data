@@ -11,3 +11,6 @@
 - **[2026-10-28 12:29 UTC]** Damares diz que anistia a Bolsonaro não é suficiente para apoiar reeleição de Alcolumbre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/damares-diz-que-anistia-a-bolsonaro-nao-e-suficiente-para-apoiar-reeleicao-de-alcolumbre.shtml)_
 
+- **[2026-11-11 14:30 UTC]** Damares volta a cobrar Anac sobre voos de aviões ligados a Vorcaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/damares-volta-a-cobrar-anac-sobre-voos-de-avioes-ligados-a-vorcaro.shtml)_
+
