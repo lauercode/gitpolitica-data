@@ -26,3 +26,6 @@
 - **[2026-11-08 17:16 UTC]** Papa conclui visita ao Uruguai e se dirige a parada tensa na Argentina
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/08/papa-conclui-visita-ao-uruguai-e-se-dirige-a-parada-tensa-na-argentina.ghtml)_
 
+- **[2026-11-11 08:00 UTC]** Papa reúne 650 mil no interior da Argentina e viaja hoje para o Peru
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/11/papa-reune-650-mil-no-interior-da-argentina-e-viaja-hoje-para-o-peru.ghtml)_
+
