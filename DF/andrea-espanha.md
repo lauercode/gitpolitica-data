@@ -218,3 +218,6 @@
 - **[2026-11-11 13:28 UTC]** MP da Espanha abre investigação contra TikTok por suposta divulgação de pedofilia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tec/2026/11/mp-da-espanha-abre-investigacao-contra-tiktok-por-suposta-divulgacao-de-pedofilia.shtml)_
 
+- **[2026-11-11 11:36 UTC]** Espanha tem 1ª greve geral desde 2012 com multidão nas ruas às vésperas das eleições legislativas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/espanha-tem-1o-greve-geral-desde-2012-com-multidao-nas-ruas-as-vesperas-das-eleicoes-legislativas.shtml)_
+
