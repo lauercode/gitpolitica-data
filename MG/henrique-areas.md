@@ -68,3 +68,6 @@
 - **[2026-10-31 06:00 UTC]** Áreas de vegetação nativa diminuíram e estão mais isoladas no Paraná, aponta levantamento
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/10/31/areas-de-vegetacao-nativa-diminuiram-e-estao-mais-isoladas-no-parana-aponta-levantamento.ghtml)_
 
+- **[2026-11-11 14:03 UTC]** Áreas de lazer com churrasqueira e piscina improvisada às margens de canal são demolidas em Belém
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/11/11/estruturas-irregulares-as-margens-do-canal-da-antonio-baena-sao-demolidas-em-belem.ghtml)_
+
