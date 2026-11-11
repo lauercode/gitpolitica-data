@@ -11038,3 +11038,6 @@
 - **[2026-11-11 11:31 UTC]** Na COP 31, Lula alfineta Trump e Flávio: “Povo brasileiro confrontou quem nega a ciência”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/cop-31-lula-alfineta-trump-flavio-discurso/)_
 
+- **[2026-11-11 15:44 UTC]** PF cumpre decisão de Dino e abre investigação sobre influência estrangeira na campanha de Flávio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/pf-cumpre-deciso-de-dino-e-abre-investigao-sobre-influncia-estrangeira-na-campanha-de-flvio.ghtml)_
+
