@@ -11032,3 +11032,6 @@
 - **[2026-11-11 11:04 UTC]** TSE multa Meta em R$ 7,5 milhões por descumprir ordens sobre campanhas de Lula e Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tse-multa-meta-em-7-5-milhoes-por-descumprir-ordens-sobre-campanhas-de-lula-flavio/)_
 
+- **[2026-11-10 20:04 UTC]** PF abre inquérito para apurar suspeitas de financiamento estrangeiro na campanha de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pf-abre-inquerito-apurar-suspeitas-de-financiamento-estrangeiro-na-campanha-de-flavio-bolsonaro/)_
+
