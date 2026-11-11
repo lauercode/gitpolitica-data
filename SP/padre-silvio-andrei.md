@@ -26,3 +26,6 @@
 - **[2026-11-11 18:25 UTC]** Gilmar Mendes defende Andrei e diz que autonomia da PF precisa ser preservada
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/gilmar-mendes-defende-andrei-e-diz-que-autonomia-da-pf-precisa-ser-preservada.ghtml)_
 
+- **[2026-11-11 18:23 UTC]** Em grupo de delegados, presidente de associação da PF nega divergências com Andrei Rodrigues
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/em-grupo-de-delegados-presidente-de-associacao-da-pf-nega-divergencias-com-andrei-rodrigues.ghtml)_
+
