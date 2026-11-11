@@ -17,3 +17,6 @@
 - **[2026-10-26 11:38 UTC]** Eleições 2026: Caiado, Zema, Renan Santos e Cury repercutem vitória de Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/caiado-zema-e-renan-santos-repercutem-vitoria-de-lula.ghtml)_
 
+- **[2026-11-11 15:34 UTC]** Patamar de distratos não deve voltar ao que era antes, diz copresidente da Cury
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/11/patamar-de-distratos-no-deve-voltar-ao-que-era-antes-diz-copresidente-da-cury.ghtml)_
+
