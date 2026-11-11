@@ -11029,3 +11029,6 @@
 - **[2026-11-10 22:29 UTC]** TSE condena Meta a pagar R$ 7,5 mi em ação sobre favorecimento de Flávio Bolsonaro em eleição
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/tse-condena-meta-a-pagar-r-75-mi-em-acao-sobre-favorecimento-de-flavio-bolsonaro-em-eleicao/)_
 
+- **[2026-11-11 11:04 UTC]** TSE multa Meta em R$ 7,5 milhões por descumprir ordens sobre campanhas de Lula e Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tse-multa-meta-em-7-5-milhoes-por-descumprir-ordens-sobre-campanhas-de-lula-flavio/)_
+
