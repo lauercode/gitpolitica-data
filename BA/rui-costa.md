@@ -32,3 +32,6 @@
 - **[2026-10-29 19:30 UTC]** Rui Costa defende distanciamento do governo sobre viagem de Flávio aos EUA
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rui-costa-defende-distanciamento-governo-viagem-flavio-eua/)_
 
+- **[2026-11-12 17:13 UTC]** PF intima Rui Costa a depor sobre o caso Master
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pf-intima-rui-costa-a-depor-sobre-o-caso-master/)_
+
