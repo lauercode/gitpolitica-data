@@ -224,3 +224,6 @@
 - **[2026-11-07 21:41 UTC]** Cleitinho diz que vai cortar patrocínios a shows e eventos em Minas Gerais
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-diz-que-vai-cortar-patrocinios-a-shows-e-eventos-em-minas-gerais/)_
 
+- **[2026-11-12 17:39 UTC]** 'É um escárnio', diz Cleitinho sobre licitação de R$ 6 milhões para celulares no Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/12/cleitinho-celulares-senado.ghtml)_
+
