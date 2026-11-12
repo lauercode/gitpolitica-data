@@ -8,3 +8,6 @@
 - **[2026-10-05 09:36 UTC]** Eleições 2026: Thiago Abrahim (MDB) é eleito deputado estadual pelo Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/eleicoes-2026-thiago-abrahim-mdb-e-eleito-deputado-estadual-pelo-amazonas.ghtml)_
 
+- **[2026-11-11 20:20 UTC]** Ministério Público Eleitoral pede cassação de deputado Thiago Abrahim por participação em eventos durante período eleitoral no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/11/ministerio-publico-eleitoral-pede-cassacao-de-deputado-thiago-abrahim-por-participacao-em-eventos-durante-periodo-eleitoral-no-am.ghtml)_
+
