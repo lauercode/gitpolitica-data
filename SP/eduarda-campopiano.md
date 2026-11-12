@@ -50,3 +50,6 @@
 - **[2026-11-11 14:12 UTC]** Câmara do Rio concede Medalha Chiquinha Gonzaga a Eduarda Campopiano; oposição reage
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/camara-do-rio-concede-medalha-chiquinha-gonzaga-a-eduarda-campopiano-oposicao-reage.shtml)_
 
+- **[2026-11-12 14:34 UTC]** Câmara do Rio aprova Medalha Chiquinha Gonzaga a Eduarda Campopiano e homenagem gera críticas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/camara-do-rio-aprova-medalha-chiquinha-gonzaga-a-eduarda-campopiano-e-homenagem-gera-criticas/)_
+
