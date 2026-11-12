@@ -29,3 +29,6 @@
 - **[2026-11-11 08:00 UTC]** Papa reúne 650 mil no interior da Argentina e viaja hoje para o Peru
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/11/papa-reune-650-mil-no-interior-da-argentina-e-viaja-hoje-para-o-peru.ghtml)_
 
+- **[2026-11-11 19:24 UTC]** Papa chega ao Peru, última parada de tour e país onde se tornou latino-americano
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/papa-chega-ao-peru-ultima-parada-de-tour-e-pais-onde-se-tornou-latino-americano.shtml)_
+
