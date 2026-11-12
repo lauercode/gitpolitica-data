@@ -44,3 +44,6 @@
 - **[2026-11-06 11:03 UTC]** Homem é preso suspeito de vender drogas por 'delivery' no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/06/homem-e-preso-suspeito-de-vender-drogas-por-encomenda-em-princesa-isabel-na-pb.ghtml)_
 
+- **[2026-11-11 21:02 UTC]** Focos de incêndio em área de serra no Sertão da Paraíba se estende por 20 km e mobiliza bombeiros
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/11/focos-de-incendio-em-area-de-serra-no-sertao-da-paraiba-se-estende-por-20-km-e-mobiliza-bombeiros.ghtml)_
+
