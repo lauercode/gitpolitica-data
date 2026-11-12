@@ -14,3 +14,6 @@
 - **[2026-11-12 14:35 UTC]** Mobilização de senadoras de direita pró-Tereza perturba a candidatura de Marinho
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/mobilizacao-de-senadoras-de-direita-pro-tereza-perturba-a-candidatura-de-marinho/)_
 
+- **[2026-11-12 08:21 UTC]** Pelo Senado, Marinho mobiliza bolsonaristas, Alcolumbre busca governo e Tereza aposta na bancada feminina
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pelo-senado-marinho-mobiliza-bolsonaristas-alcolumbre-busca-governo-e-tereza-aposta-na-bancada-feminina/)_
+
