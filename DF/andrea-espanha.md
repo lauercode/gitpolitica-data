@@ -245,3 +245,6 @@
 - **[2026-11-12 20:01 UTC]** Lula avalia fazer parada na Espanha em apoio a Pedro Sánchez
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/12/lula-avalia-fazer-parada-na-espanha-em-apoio-a-pedro-snchez.ghtml)_
 
+- **[2026-11-12 18:23 UTC]** Lucro da Enel sobe nos primeiros 9 meses do ano impulsionado por América Latina e Espanha
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/12/lucro-da-enel-sobe-nos-primeiros-9-meses-do-ano-impulsionado-por-amrica-latina-e-espanha.ghtml)_
+
