@@ -353,3 +353,6 @@
 - **[2026-11-11 18:41 UTC]** Onça-pintada preta nascida no Paraná viaja mais de 2 mil km para conhecer novo 'namorado' no Tocantins
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/11/onca-pintada-preta-viaja-tocantins.ghtml)_
 
+- **[2026-11-12 09:11 UTC]** Conheça nova casa de onça-pintada preta do Paraná que viajou mais de 2 mil km para conhecer ‘namorado’ no Tocantins
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/12/conheca-nova-casa-de-onca-pintada-preta.ghtml)_
+
