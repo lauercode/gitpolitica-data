@@ -152,3 +152,6 @@
 - **[2026-11-11 19:46 UTC]** Gilmar manda suspender todos os processos sobre valores pagos pelo SUS a hospitais privados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gilmar-manda-suspender-todos-os-processos-sobre-valores-pagos-pelo-sus-a-hospitais-privados.shtml)_
 
+- **[2026-11-11 21:27 UTC]** Gilmar suspende processos sobre pagamentos do SUS em caso de R$ 243 bilhões
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/gilmar-suspende-processos-sobre-pagamentos-do-sus-em-caso-de-r-243-bilhoes/)_
+
