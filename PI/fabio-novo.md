@@ -122,3 +122,6 @@
 - **[2026-11-12 21:34 UTC]** Novo cobra Fachin por regras contra “estrutura paralela” no gabinete de Moraes
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-cobra-fachin-por-regras-contra-estrutura-paralela-no-gabinete-de-moraes/)_
 
+- **[2026-11-12 22:00 UTC]** Novo relatório do PLP do ajuste fiscal aumenta estimativa de impacto para até R$ 56,1 bilhões
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/novo-relatorio-do-plp-do-ajuste-fiscal-aumenta-estimativa-de-impacto-para-ate-r-561-bilhoes.ghtml)_
+
