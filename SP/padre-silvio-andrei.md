@@ -41,3 +41,6 @@
 - **[2026-11-12 13:21 UTC]** Advogado do Prerrogativas defende Andrei Rodrigues após racha na PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/advogado-do-prerrogativas-defende-andrei-rodrigues-apos-racha-na-pf.shtml)_
 
+- **[2026-11-12 16:33 UTC]** Ofício de Fachin a Andrei manda PF incluir em relatórios todos os ministros do STF implicados no caso Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/oficio-de-fachin-a-andrei-manda-pf-incluir-em-relatorios-todos-os-ministros-do-stf-implicados-no-caso-master.ghtml)_
+
