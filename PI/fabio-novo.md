@@ -116,3 +116,6 @@
 - **[2026-11-12 16:19 UTC]** Novo app da Caixa reúne Pix, FGTS, crédito e benefícios sociais com senha única e biometria facial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/novo-app-da-caixa-reune-pix-fgts-credito-e-beneficios-sociais-com-senha-unica-e-biometria-facial.shtml)_
 
+- **[2026-11-12 14:53 UTC]** Novo avião da Airbus quebra recorde de voo mais longo do mundo, de mais de 24 horas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/11/novo-aviao-da-airbus-quebra-recorde-de-voo-mais-longo-do-mundo-de-mais-de-24-horas.shtml)_
+
