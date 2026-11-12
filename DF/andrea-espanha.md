@@ -242,3 +242,6 @@
 - **[2026-11-12 16:21 UTC]** Lula deve ir a Madri para encontro com Sánchez dias antes de eleição na Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-deve-ir-a-madri-para-encontro-com-sanchez-dias-antes-de-eleicao-na-espanha.shtml)_
 
+- **[2026-11-12 20:01 UTC]** Lula avalia fazer parada na Espanha em apoio a Pedro Sánchez
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/12/lula-avalia-fazer-parada-na-espanha-em-apoio-a-pedro-snchez.ghtml)_
+
