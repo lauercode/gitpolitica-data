@@ -14,3 +14,6 @@
 - **[2026-09-02 16:49 UTC]** Tribunal de Malta absolve magnata acusado de encomendar assassinato de jornalista morta por bomba
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/tribunal-de-malta-absolve-magnata-acusado-de-encomendar-assassinato-de-jornalista-morta-por-bomba.shtml)_
 
+- **[2026-11-11 20:21 UTC]** Moraes nega visitas de Magno Malta e Damares a Augusto Heleno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-nega-visitas-de-magno-malta-e-damares-a-augusto-heleno/)_
+
