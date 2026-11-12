@@ -23,3 +23,6 @@
 - **[2026-11-12 18:34 UTC]** Senado inicia votação do 'plano Moretti' de ajuste fiscal, apesar de protesto da oposição
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-inicia-votacao-do-plano-moretti-de-ajuste-fiscal-apesar-de-protesto-da-oposicao.shtml)_
 
+- **[2026-11-12 14:41 UTC]** Entidades empresariais criticam proposta prevista no 'plano Moretti' que limita compensação de tributos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entidades-empresariais-criticam-proposta-prevista-no-plano-moretti-que-limita-compensacao-de-tributos.shtml)_
+
