@@ -113,3 +113,6 @@
 - **[2026-11-10 22:59 UTC]** Novo líder republicano na Câmara dos EUA encontrou com Eduardo e Flávio Bolsonaro e liderou relatório contra Moraes
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/novo-lider-republicano-na-camara-dos-eua-encontrou-com-eduardo-e-flavio-bolsonaro-e-liderou-relatorio-contra-moraes.ghtml)_
 
+- **[2026-11-12 16:19 UTC]** Novo app da Caixa reúne Pix, FGTS, crédito e benefícios sociais com senha única e biometria facial
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/novo-app-da-caixa-reune-pix-fgts-credito-e-beneficios-sociais-com-senha-unica-e-biometria-facial.shtml)_
+
