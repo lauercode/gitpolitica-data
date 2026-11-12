@@ -737,3 +737,6 @@
 - **[2026-11-11 18:46 UTC]** Alcolumbre prorroga por 60 dias medida provisória que cria Desenrola 3.0
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/11/alcolumbre-prorroga-por-60-dias-medida-provisria-que-cria-desenrola-30.ghtml)_
 
+- **[2026-11-11 22:01 UTC]** Alcolumbre consultará lideranças partidárias para decidir data da votação do PLP do ajuste fiscal
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/alcolumbre-afirma-que-decidira-com-lideres-partidarios-data-de-votacao-do-plp-do-ajuste-fiscal.ghtml)_
+
