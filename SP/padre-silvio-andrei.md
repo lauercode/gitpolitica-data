@@ -38,3 +38,6 @@
 - **[2026-11-11 21:51 UTC]** Presidente da ADPF critica interferência de Andrei Rodrigues e vê retaliação a delegados
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/presidente-adpf-critica-interferencia-andrei-retaliacao-delegados-relatorios-ministros-stf/)_
 
+- **[2026-11-12 13:21 UTC]** Advogado do Prerrogativas defende Andrei Rodrigues após racha na PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/advogado-do-prerrogativas-defende-andrei-rodrigues-apos-racha-na-pf.shtml)_
+
