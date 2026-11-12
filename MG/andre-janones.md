@@ -326,3 +326,6 @@
 - **[2026-11-12 08:46 UTC]** Na COP31, Janones diz que ambientalistas precisam falar a língua do povo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/na-cop31-janones-diz-que-ambientalistas-precisam-falar-a-lingua-do-povo.shtml)_
 
+- **[2026-11-12 14:26 UTC]** Da Turquia, Lula faz 'live' surpresa com Janones e promete comunicação diária
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/da-turquia-lula-faz-live-surpresa-com-janones-e-promete-comunicacao-diaria.ghtml)_
+
