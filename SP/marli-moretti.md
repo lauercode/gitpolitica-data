@@ -20,3 +20,6 @@
 - **[2026-11-11 23:00 UTC]** Entenda ponto a ponto o 'plano Moretti', proposta de ajuste fiscal do governo Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entenda-ponto-a-ponto-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula.shtml)_
 
+- **[2026-11-12 18:34 UTC]** Senado inicia votação do 'plano Moretti' de ajuste fiscal, apesar de protesto da oposição
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-inicia-votacao-do-plano-moretti-de-ajuste-fiscal-apesar-de-protesto-da-oposicao.shtml)_
+
