@@ -743,3 +743,6 @@
 - **[2026-11-12 00:06 UTC]** Bolsonaristas e aliados de Lula criticam gasto com Iphones pelo Senado e põem Alcolumbre sob pressão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/bolsonaristas-e-aliados-de-lula-criticam-gasto-com-iphones-pelo-senado-e-poem-alcolumbre-sob-pressao.shtml)_
 
+- **[2026-11-12 12:46 UTC]** Alcolumbre reafirma que decisão sobre CPMI do Banco Master cabe a ele
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/alcolumbre-reafirma-que-decisao-sobre-cpmi-do-banco-master-cabe-ele)_
+
