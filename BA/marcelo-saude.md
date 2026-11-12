@@ -107,3 +107,6 @@
 - **[2026-11-11 17:58 UTC]** Saúde de Fazenda Rio Grande avança 37,3% em avaliação do TCE-PR
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/prefeitura-de-fazenda-rio-grande/fazenda-bem-cuidada/noticia/2026/11/11/saude-de-fazenda-rio-grande-avanca-373percent-em-avaliacao-do-tce-pr.ghtml)_
 
+- **[2026-11-11 19:58 UTC]** Unimed Teresina abre seleção para médicos no Centro Integrado de Saúde
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/especial-publicitario/unimed-teresina/sos-unimed/noticia/2026/11/11/unimed-teresina-abre-selecao-para-medicos-no-centro-integrado-de-saude.ghtml)_
+
