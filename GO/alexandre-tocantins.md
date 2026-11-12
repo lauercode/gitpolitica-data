@@ -356,3 +356,6 @@
 - **[2026-11-12 09:11 UTC]** Conheça nova casa de onça-pintada preta do Paraná que viajou mais de 2 mil km para conhecer ‘namorado’ no Tocantins
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/12/conheca-nova-casa-de-onca-pintada-preta.ghtml)_
 
+- **[2026-11-12 13:59 UTC]** Primeira acreditação do SAEME/CFM no Tocantins destaca escolas médicas
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/especial-publicitario/afya-centro-universitario-unitpac-to/noticia/2026/11/12/primeira-acreditacao-do-saemecfm-no-tocantins-destaca-escolas-medicas.ghtml)_
+
