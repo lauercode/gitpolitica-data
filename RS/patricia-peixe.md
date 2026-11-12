@@ -20,3 +20,6 @@
 - **[2026-11-12 09:25 UTC]** Peixe de 70 kg capturado por pescador no PI é típico da Amazônia e considerado invasor
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/12/peixe-capturado-no-pi-amazonia.ghtml)_
 
+- **[2026-11-12 09:25 UTC]** Peixe de 70 kg capturado por pescador é típico da Amazônia e considerado invasor no PI
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/12/peixe-capturado-no-pi-amazonia.ghtml)_
+
