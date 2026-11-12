@@ -17,3 +17,6 @@
 - **[2026-11-11 20:21 UTC]** Moraes nega visitas de Magno Malta e Damares a Augusto Heleno
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-nega-visitas-de-magno-malta-e-damares-a-augusto-heleno/)_
 
+- **[2026-11-12 12:51 UTC]** A justificativa de Augusto Heleno para rejeitar visita de Damares e Magno Malta
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/a-justificativa-de-augusto-heleno-para-rejeitar-visita-de-damares-e-magno-malta/)_
+
