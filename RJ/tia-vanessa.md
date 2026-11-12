@@ -23,3 +23,6 @@
 - **[2026-11-08 15:30 UTC]** Festival Multicultural de Serra de São Bento recebe Vanessa da Mata, Dorgival Dantas e Só Pra Contrariar
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/08/festival-multicultural-de-serra-de-sao-bento-recebe-vanessa-da-mata-dorgival-dantas-e-so-pra-contrariar.ghtml)_
 
+- **[2026-11-12 18:39 UTC]** 'Por Você': Vanessa se irrita ao tomar conhecimento do projeto de medicina conduzido por Vitor
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/08/10/6557-por-voce-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post468047)_
+
