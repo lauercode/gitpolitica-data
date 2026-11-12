@@ -149,3 +149,6 @@
 - **[2026-11-11 17:00 UTC]** Gilmar suspende em todo o país ações sobre revisão da tabela SUS
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-suspende-em-todo-o-pais-acoes-sobre-revisao-de-valores-pagos-pelo-sus/)_
 
+- **[2026-11-11 19:46 UTC]** Gilmar manda suspender todos os processos sobre valores pagos pelo SUS a hospitais privados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gilmar-manda-suspender-todos-os-processos-sobre-valores-pagos-pelo-sus-a-hospitais-privados.shtml)_
+
