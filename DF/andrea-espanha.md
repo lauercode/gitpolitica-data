@@ -221,3 +221,6 @@
 - **[2026-11-11 11:36 UTC]** Espanha tem 1ª greve geral desde 2012 com multidão nas ruas às vésperas das eleições legislativas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/espanha-tem-1o-greve-geral-desde-2012-com-multidao-nas-ruas-as-vesperas-das-eleicoes-legislativas.shtml)_
 
+- **[2026-11-11 18:47 UTC]** Giro internacional: Espanha tem greve geral contra alta de aluguéis
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-11/giro-internacional-espanha-tem-greve-geral-contra-alta-de-alugueis)_
+
