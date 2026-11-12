@@ -257,3 +257,6 @@
 - **[2026-10-29 20:34 UTC]** Omar Aziz e Roberto Cidade iniciam transição de governo no Amazonas
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/10/29/omar-aziz-e-roberto-cidade-iniciam-transicao-de-governo-no-amazonas.ghtml)_
 
+- **[2026-11-11 21:00 UTC]** Ministério Público Eleitoral pede inelegibilidade de Roberto Cidade por suspeita de uso de órgão público em campanha no AM
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/11/ministerio-publico-eleitoral-pede-inelegibilidade-de-roberto-cidade-por-suspeita-de-uso-de-orgao-publico-em-campanha-no-am.ghtml)_
+
