@@ -71,3 +71,6 @@
 - **[2026-11-11 19:58 UTC]** Planejamento sucessório com imposto reduzido: a nova oportunidade em Pernambuco
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/11/11/planejamento-sucessorio-com-imposto-reduzido-a-nova-oportunidade-em-pernambuco-1.ghtml)_
 
+- **[2026-11-12 09:00 UTC]** No rastro de Lampião: um roteiro turístico pela história do cangaço e a cultura de Pernambuco
+  _fonte: [Valor Econômico](https://valor.globo.com/eu-e/noticia/2026/11/12/no-rastro-de-lampiao-um-roteiro-turistico-pela-historia-do-cangaco-e-a-cultura-de-pernambuco.ghtml)_
+
