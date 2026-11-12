@@ -74,3 +74,6 @@
 - **[2026-11-12 15:33 UTC]** Rafael Fonteles anuncia dois novos secretários para o segundo mandato; veja nomes
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/12/rafael-fonteles-secretarios.ghtml)_
 
+- **[2026-11-12 14:42 UTC]** Rafael Fonteles anuncia projeto de lei com reorganização de secretarias e coordenadorias do PI; veja mudanças
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/12/rafael-fonteles-reorganizacao.ghtml)_
+
