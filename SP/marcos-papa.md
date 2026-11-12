@@ -32,3 +32,6 @@
 - **[2026-11-11 19:24 UTC]** Papa chega ao Peru, última parada de tour e país onde se tornou latino-americano
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/papa-chega-ao-peru-ultima-parada-de-tour-e-pais-onde-se-tornou-latino-americano.shtml)_
 
+- **[2026-11-12 15:52 UTC]** Papa pede reparação diante dos abusos cometidos na Igreja
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/papa-pede-reparacao-diante-dos-abusos-cometidos-na-igreja/)_
+
