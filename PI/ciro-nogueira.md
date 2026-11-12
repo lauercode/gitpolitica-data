@@ -74,3 +74,6 @@
 - **[2026-11-12 14:19 UTC]** Caso Master: a pedido da PF, Fachin prorroga por 60 dias investigação sobre Ciro Nogueira
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/12/caso-master-a-pedido-da-pf-fachin-prorroga-por-60-dias-inquerito-que-investiga-ciro-nogueira.ghtml)_
 
+- **[2026-11-12 14:26 UTC]** Fachin prorroga investigação sobre envolvimento de Ciro Nogueira com Vorcaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fachin-prorroga-investigacao-sobre-envolvimento-de-ciro-nogueira-com-vorcaro/)_
+
