@@ -17,3 +17,6 @@
 - **[2026-10-21 18:08 UTC]** Paulo Coelho e Raí aderem a movimento contra a volta da família Bolsonaro ao poder por defesa dos direitos LGBTQIA+
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/paulo-coelho-e-rai-aderem-a-movimento-contra-a-volta-da-familia-bolsonaro-ao-poder-por-defesa-dos-direitos-lgbtqia.shtml)_
 
+- **[2026-11-12 11:38 UTC]** Fernando Morais lança em Brasília nova edição de 'O Mago', biografia de Paulo Coelho
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/fernando-morais-lanca-em-brasilia-nova-edicao-de-o-mago-biografia-de-paulo-coelho.shtml)_
+
