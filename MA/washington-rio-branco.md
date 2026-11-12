@@ -119,3 +119,6 @@
 - **[2026-11-11 15:14 UTC]** Rio Branco registra quatro assassinatos em menos de 24 horas; veja quem são as vítimas
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/11/rio-branco-registra-quatro-assassinatos-em-menos-de-24-horas-veja-quem-sao-as-vitimas.ghtml)_
 
+- **[2026-11-12 14:46 UTC]** Homem é preso após descumprir medida protetiva contra a própria avó de 72 anos em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/12/homem-e-preso-apos-descumprir-medida-protetiva-contra-a-propria-avo-de-72-anos-em-rio-branco.ghtml)_
+
