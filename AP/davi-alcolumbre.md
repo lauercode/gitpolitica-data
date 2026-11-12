@@ -755,3 +755,6 @@
 - **[2026-11-12 20:31 UTC]** Alcolumbre critica oposição após senadores pedirem mais prazo para analisar pacote fiscal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-critica-oposicao-apos-senadores-pedirem-mais-prazo-para-analisar-pacote-fiscal/)_
 
+- **[2026-11-12 17:17 UTC]** Alcolumbre quer votar PLP do ajuste nesta quinta-feira, mas ainda consultará líderes sobre viabilidade
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/alcolumbre-quer-votar-plp-do-ajuste-nesta-quinta-feira-mas-ainda-consultara-lideres-sobre-viabilidade.ghtml)_
+
