@@ -11,3 +11,6 @@
 - **[2026-10-26 22:44 UTC]** Governo usará acordo sobre seguro rural para retomar proposta de mirar centro da meta, diz Moretti
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/10/26/governo-usar-acordo-sobre-seguro-rural-para-retomar-proposta-de-mirar-centro-da-meta-diz-moretti.ghtml)_
 
+- **[2026-11-11 20:41 UTC]** Governo vai rever gastos tributários e privilégios como os supersalários, diz Moretti
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/11/governo-vai-rever-gastos-tributarios-e-privilegios-como-os-supersalarios-diz-moretti.ghtml)_
+
