@@ -68,3 +68,6 @@
 - **[2026-11-02 21:39 UTC]** Homem é assassinado durante ato que celebrava vitória de Lula no interior de Pernambuco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/homem-e-assassinado-durante-ato-que-celebrava-vitoria-de-lula-no-interior-de-pernambuco.shtml)_
 
+- **[2026-11-11 19:58 UTC]** Planejamento sucessório com imposto reduzido: a nova oportunidade em Pernambuco
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pressworks/noticia/2026/11/11/planejamento-sucessorio-com-imposto-reduzido-a-nova-oportunidade-em-pernambuco-1.ghtml)_
+
