@@ -752,3 +752,6 @@
 - **[2026-11-12 08:21 UTC]** Pelo Senado, Marinho mobiliza bolsonaristas, Alcolumbre busca governo e Tereza aposta na bancada feminina
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pelo-senado-marinho-mobiliza-bolsonaristas-alcolumbre-busca-governo-e-tereza-aposta-na-bancada-feminina/)_
 
+- **[2026-11-12 20:31 UTC]** Alcolumbre critica oposição após senadores pedirem mais prazo para analisar pacote fiscal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-critica-oposicao-apos-senadores-pedirem-mais-prazo-para-analisar-pacote-fiscal/)_
+
