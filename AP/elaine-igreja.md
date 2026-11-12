@@ -41,3 +41,6 @@
 - **[2026-11-08 16:17 UTC]** Leão XIV viaja à Argentina e se reúne com Milei, alvo de críticas da Igreja por cortes sociais
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/leao-xiv-viaja-a-argentina-e-se-reune-com-milei-alvo-de-criticas-da-igreja-por-cortes-sociais/)_
 
+- **[2026-11-12 15:52 UTC]** Papa pede reparação diante dos abusos cometidos na Igreja
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/papa-pede-reparacao-diante-dos-abusos-cometidos-na-igreja/)_
+
