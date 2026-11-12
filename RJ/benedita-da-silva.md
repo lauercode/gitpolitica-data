@@ -23,3 +23,6 @@
 - **[2026-10-07 17:00 UTC]** Aos 84, Benedita da Silva segue como referência na luta das mulheres negras
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/tom-farias/2026/10/aos-84-benedita-da-silva-segue-como-referencia-na-luta-das-mulheres-negras.shtml)_
 
+- **[2026-11-11 21:02 UTC]** Deputadas e movimentos sociais homenageiam Benedita da Silva e Paulo Paim em sessão solene na Câmara
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1318549-deputadas-e-movimentos-sociais-homenageiam-benedita-da-silva-e-paulo-paim-em-sessao-solene-na-camara)_
+
