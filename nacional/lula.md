@@ -2726,3 +2726,6 @@
 - **[2026-11-12 05:00 UTC]** Podcast discute política externa do governo Lula 4 e recados do presidente na COP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/11/podcast-discute-politica-externa-do-governo-lula-4-e-recados-do-presidente-na-cop.shtml)_
 
+- **[2026-11-12 13:11 UTC]** Lula discute guerra e Estreito de Ormuz com presidente do Irã; veja balanço das reuniões na COP31
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/12/lula-discute-guerra-e-estreito-de-ormuz-com-presidente-do-ira-veja-balanco-das-reunioes-na-cop31.ghtml)_
+
