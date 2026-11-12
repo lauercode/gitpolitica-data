@@ -14,3 +14,6 @@
 - **[2026-11-11 14:30 UTC]** Damares volta a cobrar Anac sobre voos de aviões ligados a Vorcaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/damares-volta-a-cobrar-anac-sobre-voos-de-avioes-ligados-a-vorcaro.shtml)_
 
+- **[2026-11-11 20:21 UTC]** Moraes nega visitas de Magno Malta e Damares a Augusto Heleno
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-nega-visitas-de-magno-malta-e-damares-a-augusto-heleno/)_
+
