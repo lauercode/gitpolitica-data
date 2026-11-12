@@ -38,3 +38,6 @@
 - **[2026-11-12 10:30 UTC]** Ex-senador Roberto Rocha é impedido de embarcar após PF identificar arma sem registro no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/12/roberto-rocha-impedido-embarcar-arma-sem-registro-aeroporto-sao-luis.ghtml)_
 
+- **[2026-11-12 14:39 UTC]** Após prisão por porte ilegal de arma, Justiça concede liberdade provisória ao ex-senador Roberto Rocha mediante fiança
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/12/justica-determina-soltura-do-ex-senador-roberto-rocha-mediante-pagamento-de-fianca-apos-prisao-por-porte-ilegal-de-arma.ghtml)_
+
