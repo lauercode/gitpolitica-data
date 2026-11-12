@@ -29,3 +29,6 @@
 - **[2026-10-26 11:59 UTC]** Escola Estadual Chico Mendes, 8ª zona eleitoral: resultado da votação em Tartarugalzinho (AP) no 2º turno
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/escola-estadual-chico-mendes-8a-zona-eleitoral-resultado-da-votacao-em-tartarugalzinho-ap-no-2o-turno.ghtml)_
 
+- **[2026-11-12 10:00 UTC]** COP31: Filha de Chico Mendes cobra proteção a mulheres que defendem a Amazônia
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/12/cop31-filha-de-chico-mendes-cobra-protecao-a-mulheres-que-defendem-a-amazonia.ghtml)_
+
