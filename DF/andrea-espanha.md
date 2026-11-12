@@ -227,3 +227,6 @@
 - **[2026-11-11 19:44 UTC]** Espanha vive dia de greve geral e protesto por moradia antes da eleição
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/espanha-vive-dia-de-greve-geral-e-protesto-por-moradia-antes-da-eleicao/)_
 
+- **[2026-11-12 07:26 UTC]** Santander da Espanha anuncia oferta para comprar 10% da unidade no Brasil por R$ 11,7 bilhões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/santander-da-espanha-anuncia-oferta-para-comprar-10-da-unidade-no-brasil-por-r-117-bilhoes.shtml)_
+
