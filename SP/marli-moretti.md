@@ -17,3 +17,6 @@
 - **[2026-11-11 18:57 UTC]** Moretti: Projeto de lei do ajuste fiscal deve ter impacto entre R$ 50 bilhões e R$ 60 bilhões em 2027
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/11/moretti-projeto-de-lei-do-ajuste-fiscal-deve-ter-impacto-entre-r-50-e-r-60-bi-considerando-receitas-e-despesas.ghtml)_
 
+- **[2026-11-11 23:00 UTC]** Entenda ponto a ponto o 'plano Moretti', proposta de ajuste fiscal do governo Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entenda-ponto-a-ponto-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula.shtml)_
+
