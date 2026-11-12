@@ -71,3 +71,6 @@
 - **[2026-11-10 20:37 UTC]** Rafael Fonteles anuncia permanência de Ivanovick Feitosa na Secretaria de Governo do Piauí
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/10/rafael-fonteles-secretaria-de-governo.ghtml)_
 
+- **[2026-11-12 15:33 UTC]** Rafael Fonteles anuncia dois novos secretários para o segundo mandato; veja nomes
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/12/rafael-fonteles-secretarios.ghtml)_
+
