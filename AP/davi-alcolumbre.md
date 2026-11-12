@@ -749,3 +749,6 @@
 - **[2026-11-12 13:26 UTC]** Alcolumbre diz que 'vai tentar' votar nesta quinta-feira PLP do ajuste fiscal
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/alcolumbre-diz-que-vai-tentar-votar-nesta-quinta-feira-plp-do-ajuste-fiscal.ghtml)_
 
+- **[2026-11-12 08:21 UTC]** Pelo Senado, Marinho mobiliza bolsonaristas, Alcolumbre busca governo e Tereza aposta na bancada feminina
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pelo-senado-marinho-mobiliza-bolsonaristas-alcolumbre-busca-governo-e-tereza-aposta-na-bancada-feminina/)_
+
