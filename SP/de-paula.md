@@ -35,3 +35,6 @@
 - **[2026-10-07 01:57 UTC]** Escola Estadual São Vicente de Paula., 1ª zona eleitoral: resultado da votação em Boa Vista (RR) no 1º turno
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-boa-vista-rr-votacao-para-presidente-na-escola-estadual-sao-vicente-de-paula-na-1a-zona-eleitoral.ghtml)_
 
+- **[2026-11-11 23:00 UTC]** Festival da Folha tem debate com o chef Luiz Filipe Souza, do estrelado Evvai, e show de Paula Lima neste sábado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/11/festival-da-folha-tem-debate-com-o-chef-luiz-filipe-souza-do-estrelado-evvai-e-show-de-paula-lima-neste-sabado.shtml)_
+
