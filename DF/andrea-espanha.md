@@ -224,3 +224,6 @@
 - **[2026-11-11 18:47 UTC]** Giro internacional: Espanha tem greve geral contra alta de aluguéis
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-11/giro-internacional-espanha-tem-greve-geral-contra-alta-de-alugueis)_
 
+- **[2026-11-11 19:44 UTC]** Espanha vive dia de greve geral e protesto por moradia antes da eleição
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/espanha-vive-dia-de-greve-geral-e-protesto-por-moradia-antes-da-eleicao/)_
+
