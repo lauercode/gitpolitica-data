@@ -65,3 +65,6 @@
 - **[2026-11-11 22:02 UTC]** Com Ricardo Salles, 5 dos 6 secretários anunciados por Tarcísio atuaram no governo Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-ricardo-salles-5-dos-6-secretarios-anunciados-por-tarcisio-atuaram-no-governo-bolsonaro.shtml)_
 
+- **[2026-11-11 20:32 UTC]** Tarcísio oficializa Ricardo Salles na Justiça e confirma outros cinco secretários
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/tarcsio-oficializa-ricardo-salles-na-justia-e-confirma-outros-cinco-secretrios.ghtml)_
+
