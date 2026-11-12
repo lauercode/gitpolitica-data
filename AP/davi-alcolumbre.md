@@ -740,3 +740,6 @@
 - **[2026-11-11 22:01 UTC]** Alcolumbre consultará lideranças partidárias para decidir data da votação do PLP do ajuste fiscal
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/alcolumbre-afirma-que-decidira-com-lideres-partidarios-data-de-votacao-do-plp-do-ajuste-fiscal.ghtml)_
 
+- **[2026-11-12 00:06 UTC]** Bolsonaristas e aliados de Lula criticam gasto com Iphones pelo Senado e põem Alcolumbre sob pressão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/bolsonaristas-e-aliados-de-lula-criticam-gasto-com-iphones-pelo-senado-e-poem-alcolumbre-sob-pressao.shtml)_
+
