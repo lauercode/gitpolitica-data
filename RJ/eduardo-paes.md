@@ -77,3 +77,6 @@
 - **[2026-11-10 18:01 UTC]** Douglas Ruas critica Eduardo Paes, que ainda espera decisão do STF sobre segundo turno no Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/douglas-ruas-critica-acao-do-psd-sobre-segundo-turno-no-rio-e-diz-que-eleicoes-ja-acabaram.ghtml)_
 
+- **[2026-11-12 21:24 UTC]** Zanin rejeita pedido de Eduardo Paes para realizar segundo turno no Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/zanin-rejeita-pedido-de-eduardo-paes-para-realizar-segundo-turno-no-rio.ghtml)_
+
