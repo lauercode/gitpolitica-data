@@ -17,3 +17,6 @@
 - **[2026-11-09 21:26 UTC]** Peixe-boi-marinho Tinga é monitorado por equipe especializada na foz do Rio São Francisco em Sergipe
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/11/09/peixe-boi-marinho-tinga-e-monitorado-por-equipe-especializada-na-foz-do-rio-sao-francisco-em-sergipe.ghtml)_
 
+- **[2026-11-12 09:25 UTC]** Peixe de 70 kg capturado por pescador no PI é típico da Amazônia e considerado invasor
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/12/peixe-capturado-no-pi-amazonia.ghtml)_
+
