@@ -230,3 +230,6 @@
 - **[2026-11-12 07:26 UTC]** Santander da Espanha anuncia oferta para comprar 10% da unidade no Brasil por R$ 11,7 bilhões
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/santander-da-espanha-anuncia-oferta-para-comprar-10-da-unidade-no-brasil-por-r-117-bilhoes.shtml)_
 
+- **[2026-11-12 12:41 UTC]** Goleiro decidirá sobre retorno após morte de jogador na Espanha, diz treinador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/goleiro-decidira-sobre-retorno-apos-morte-de-jogador-na-espanha-diz-treinador.shtml)_
+
