@@ -329,3 +329,6 @@
 - **[2026-11-12 14:26 UTC]** Da Turquia, Lula faz 'live' surpresa com Janones e promete comunicação diária
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/da-turquia-lula-faz-live-surpresa-com-janones-e-promete-comunicacao-diaria.ghtml)_
 
+- **[2026-11-12 17:39 UTC]** Mortes: Farrah Fawcett do Tatuapé, quebrou tabus e virou soldada do Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/mortes-farrah-fawcett-do-tatuape-quebrou-tabus-e-virou-soldada-do-janones.shtml)_
+
