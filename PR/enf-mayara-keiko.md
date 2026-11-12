@@ -11,3 +11,6 @@
 - **[2026-10-21 22:56 UTC]** Senado do Peru dá a Keiko poder para legislar contra crime organizado sem passar pelo Congresso
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/senado-do-peru-da-a-keiko-poder-para-legislar-contra-crime-organizado-sem-passar-pelo-congresso.shtml)_
 
+- **[2026-11-12 19:07 UTC]** Defesa de nome da América Latina para chefiar ONU une Lula, Milei, Delcy e Keiko
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/defesa-de-nome-da-america-latina-para-chefiar-onu-une-lula-milei-delcy-e-keiko.shtml)_
+
