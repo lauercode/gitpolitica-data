@@ -119,3 +119,6 @@
 - **[2026-11-12 14:53 UTC]** Novo avião da Airbus quebra recorde de voo mais longo do mundo, de mais de 24 horas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/11/novo-aviao-da-airbus-quebra-recorde-de-voo-mais-longo-do-mundo-de-mais-de-24-horas.shtml)_
 
+- **[2026-11-12 21:34 UTC]** Novo cobra Fachin por regras contra “estrutura paralela” no gabinete de Moraes
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-cobra-fachin-por-regras-contra-estrutura-paralela-no-gabinete-de-moraes/)_
+
