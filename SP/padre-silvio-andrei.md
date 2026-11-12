@@ -35,3 +35,6 @@
 - **[2026-11-11 16:13 UTC]** Crise com delegados do Master amplia desgaste de Andrei na PF, e governo vê futuro incerto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-avalia-que-crise-amplia-desgaste-de-andrei-rodrigues-na-pf-e-ve-futuro-incerto-para-diretor-geral.shtml)_
 
+- **[2026-11-11 21:51 UTC]** Presidente da ADPF critica interferência de Andrei Rodrigues e vê retaliação a delegados
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/presidente-adpf-critica-interferencia-andrei-retaliacao-delegados-relatorios-ministros-stf/)_
+
