@@ -2732,3 +2732,6 @@
 - **[2026-11-12 09:55 UTC]** Lula se reúne com presidente do Irã e defende saída diplomática para guerra
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-se-reune-com-presidente-do-ira-e-defende-saida-diplomatica-para-guerra.shtml)_
 
+- **[2026-11-12 12:33 UTC]** Lula encontra presidente do Irã na COP31 e fala de guerra
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/12/lula-encontra-presidente-do-ira-na-cop31-e-fala-de-guerra.ghtml)_
+
