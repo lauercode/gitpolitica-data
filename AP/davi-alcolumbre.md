@@ -746,3 +746,6 @@
 - **[2026-11-12 12:46 UTC]** Alcolumbre reafirma que decisão sobre CPMI do Banco Master cabe a ele
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/alcolumbre-reafirma-que-decisao-sobre-cpmi-do-banco-master-cabe-ele)_
 
+- **[2026-11-12 13:26 UTC]** Alcolumbre diz que 'vai tentar' votar nesta quinta-feira PLP do ajuste fiscal
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/alcolumbre-diz-que-vai-tentar-votar-nesta-quinta-feira-plp-do-ajuste-fiscal.ghtml)_
+
