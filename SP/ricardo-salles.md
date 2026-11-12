@@ -62,3 +62,6 @@
 - **[2026-11-11 15:43 UTC]** Tarcísio oficializa Ricardo Salles como secretário de Justiça
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-oficializa-ricardo-salles-como-secretario-de-justica.shtml)_
 
+- **[2026-11-11 22:02 UTC]** Com Ricardo Salles, 5 dos 6 secretários anunciados por Tarcísio atuaram no governo Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/com-ricardo-salles-5-dos-6-secretarios-anunciados-por-tarcisio-atuaram-no-governo-bolsonaro.shtml)_
+
