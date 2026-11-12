@@ -14,3 +14,6 @@
 - **[2026-11-11 20:41 UTC]** Governo vai rever gastos tributários e privilégios como os supersalários, diz Moretti
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/11/governo-vai-rever-gastos-tributarios-e-privilegios-como-os-supersalarios-diz-moretti.ghtml)_
 
+- **[2026-11-11 18:57 UTC]** Moretti: Projeto de lei do ajuste fiscal deve ter impacto entre R$ 50 bilhões e R$ 60 bilhões em 2027
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/11/moretti-projeto-de-lei-do-ajuste-fiscal-deve-ter-impacto-entre-r-50-e-r-60-bi-considerando-receitas-e-despesas.ghtml)_
+
