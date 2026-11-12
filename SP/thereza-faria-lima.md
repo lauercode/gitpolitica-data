@@ -32,3 +32,6 @@
 - **[2026-11-11 16:47 UTC]** Na Faria Lima, plano fiscal não dissipa desconfiança e é visto como ‘mais do mesmo’
   _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/11/na-faria-lima-plano-fiscal-nao-dissipa-desconfianca-e-e-visto-como-mais-do-mesmo.ghtml)_
 
+- **[2026-11-12 16:35 UTC]** Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/mostrar-na-novela-um-nordeste-do-atraso-e-a-faria-lima-pulsante-e-vender-que-so-um-brasil-da-certo-diz-pesquisador.shtml)_
+
