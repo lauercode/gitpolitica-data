@@ -80,3 +80,6 @@
 - **[2026-10-29 17:28 UTC]** Zucco anuncia primeiras indicações políticas para futuro governo do RS; primeiro escalão chega a 8 nomes
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/29/zucco-anuncia-novos-nomes-secretariado.ghtml)_
 
+- **[2026-11-11 19:25 UTC]** Ex-BBB deve assumir vaga na Câmara dos Deputados com possível anúncio de Zucco para secretariado do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/11/ex-bbb-vaga-camara-deputados-zucco-rs.ghtml)_
+
