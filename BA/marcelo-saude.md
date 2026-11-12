@@ -113,3 +113,6 @@
 - **[2026-11-11 22:20 UTC]** Prefeitura de Porto Velho prorroga inscrições de concursos da Saúde e Educação com 2,6 mil vagas
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/11/11/concursos-da-saude-e-educacao-porto-velho.ghtml)_
 
+- **[2026-11-11 23:53 UTC]** Câmara aprova criação da Política Nacional de Residência em Saúde
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1318796-camara-aprova-criacao-da-politica-nacional-de-residencia-em-saude)_
+
