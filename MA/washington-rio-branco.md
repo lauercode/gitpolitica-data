@@ -128,3 +128,6 @@
 - **[2026-11-12 22:07 UTC]** Rio Branco aprova instalação de ecobarreiras para conter lixo em rios e igarapés
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/12/rio-branco-aprova-instalacao-de-ecobarreiras-para-conter-lixo-em-rios-e-igarapes.ghtml)_
 
+- **[2026-11-12 19:06 UTC]** Para que serve um kit de emergência? Defesa Civil de Rio Branco explica
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/12/para-que-serve-um-kit-de-emergencia-defesa-civil-de-rio-branco-explica.ghtml)_
+
