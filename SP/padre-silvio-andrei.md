@@ -32,3 +32,6 @@
 - **[2026-11-11 18:17 UTC]** Crise na PF escala e saída de Andrei é dada como certa por aliados de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/crise-na-pf-escala-e-saida-de-andrei-e-dada-como-certa-por-aliados-de-lula.ghtml)_
 
+- **[2026-11-11 16:13 UTC]** Crise com delegados do Master amplia desgaste de Andrei na PF, e governo vê futuro incerto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-avalia-que-crise-amplia-desgaste-de-andrei-rodrigues-na-pf-e-ve-futuro-incerto-para-diretor-geral.shtml)_
+
