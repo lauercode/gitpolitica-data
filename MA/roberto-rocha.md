@@ -35,3 +35,6 @@
 - **[2026-10-04 19:22 UTC]** Roberto Rocha (PRTB) vota em São Luís neste domingo (4)
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/04/roberto-rocha-prtb-vota-em-sao-luis-neste-domingo-4.ghtml)_
 
+- **[2026-11-12 10:30 UTC]** Ex-senador Roberto Rocha é impedido de embarcar após PF identificar arma sem registro no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/12/roberto-rocha-impedido-embarcar-arma-sem-registro-aeroporto-sao-luis.ghtml)_
+
