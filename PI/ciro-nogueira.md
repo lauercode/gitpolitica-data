@@ -71,3 +71,6 @@
 - **[2026-11-05 18:55 UTC]** Tarcísio conta com Ciro Nogueira para construção de projetos futuros, diz presidente estadual do PP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/tarcisio-conta-com-ciro-nogueira-para-construcao-de-projetos-futuros-diz-presidente-estadual-do-pp.shtml)_
 
+- **[2026-11-12 14:19 UTC]** Caso Master: a pedido da PF, Fachin prorroga por 60 dias investigação sobre Ciro Nogueira
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/12/caso-master-a-pedido-da-pf-fachin-prorroga-por-60-dias-inquerito-que-investiga-ciro-nogueira.ghtml)_
+
