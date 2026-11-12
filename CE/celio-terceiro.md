@@ -50,3 +50,6 @@
 - **[2026-11-08 14:24 UTC]** Terceiro envolvido no assassinato de médica é preso no Acre; suspeito planejou crime
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/08/terceiro-envolvido-no-assassinato-de-medica-e-preso-no-acre-suspeito-planejou-crime.ghtml)_
 
+- **[2026-11-12 15:10 UTC]** 'Terceiro turno', eleição do Senado definirá rumos do próximo governo; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/terceiro-turno-eleicao-do-senado-definira-rumos-do-proximo-governo-veja-video.shtml)_
+
