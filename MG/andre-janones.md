@@ -323,3 +323,6 @@
 - **[2026-11-09 21:58 UTC]** 'Janones do Piauí': vereador viraliza por semelhança com deputado após vídeo com ministro Wellington Dias
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/09/janones-do-piaui.ghtml)_
 
+- **[2026-11-12 08:46 UTC]** Na COP31, Janones diz que ambientalistas precisam falar a língua do povo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/na-cop31-janones-diz-que-ambientalistas-precisam-falar-a-lingua-do-povo.shtml)_
+
