@@ -125,3 +125,6 @@
 - **[2026-11-12 13:42 UTC]** Após saída de secretário da Seinfra, prefeito exonera titular da Agropecuária em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/12/apos-saida-de-secretario-da-seinfra-prefeito-exonera-titular-da-agropecuaria-em-rio-branco.ghtml)_
 
+- **[2026-11-12 22:07 UTC]** Rio Branco aprova instalação de ecobarreiras para conter lixo em rios e igarapés
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/12/rio-branco-aprova-instalacao-de-ecobarreiras-para-conter-lixo-em-rios-e-igarapes.ghtml)_
+
