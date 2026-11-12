@@ -122,3 +122,6 @@
 - **[2026-11-12 14:46 UTC]** Homem é preso após descumprir medida protetiva contra a própria avó de 72 anos em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/12/homem-e-preso-apos-descumprir-medida-protetiva-contra-a-propria-avo-de-72-anos-em-rio-branco.ghtml)_
 
+- **[2026-11-12 13:42 UTC]** Após saída de secretário da Seinfra, prefeito exonera titular da Agropecuária em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/12/apos-saida-de-secretario-da-seinfra-prefeito-exonera-titular-da-agropecuaria-em-rio-branco.ghtml)_
+
