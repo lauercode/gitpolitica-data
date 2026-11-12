@@ -44,3 +44,6 @@
 - **[2026-11-12 13:07 UTC]** Após ser abordado com arma no Aeroporto de São Luís, ex-senador Roberto Rocha é preso e levado para Pedrinhas
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/12/apos-ser-abordado-com-arma-no-aeroporto-de-sao-luis-ex-senador-roberto-rocha-e-preso-e-levado-para-predinhas.ghtml)_
 
+- **[2026-11-12 10:30 UTC]** Ex-senador Roberto Rocha é impedido de embarcar após identificação de arma sem registro no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/12/roberto-rocha-impedido-embarcar-arma-sem-registro-aeroporto-sao-luis.ghtml)_
+
