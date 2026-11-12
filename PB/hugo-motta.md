@@ -104,3 +104,6 @@
 - **[2026-11-11 16:46 UTC]** PL adia decisão sobre apoio à recondução de Hugo Motta à presidência da Câmara
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pl-adia-decisao-sobre-apoio-a-reconducao-de-hugo-motta-a-presidencia-da-camara/)_
 
+- **[2026-11-11 22:28 UTC]** Apesar de resistência de partidos, Hugo Motta ainda quer discutir reforma eleitoral
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/apesar-de-resistencia-de-partidos-hugo-motta-ainda-quer-discutir-reforma-politica.ghtml)_
+
