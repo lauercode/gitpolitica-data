@@ -11,3 +11,6 @@
 - **[2026-10-01 03:05 UTC]** Qual é o número de Ric Jones (PCO) para o Senado no Rio Grande do Sul?
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/01/qual-e-o-numero-de-ric-jones-pco-para-o-senado-no-rio-grande-do-sul.ghtml)_
 
+- **[2026-11-12 16:30 UTC]** Nvidia: Quem é Harvey C. Jones, primeiro presidente do conselho da companhia
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/12/nvidia-quem-harvey-c-jones-primeiro-presidente-do-conselho-da-companhia.ghtml)_
+
