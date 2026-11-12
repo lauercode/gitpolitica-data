@@ -2723,3 +2723,6 @@
 - **[2026-11-11 11:31 UTC]** Na COP 31, Lula alfineta Trump e Flávio: “Povo brasileiro confrontou quem nega a ciência”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/cop-31-lula-alfineta-trump-flavio-discurso/)_
 
+- **[2026-11-12 05:00 UTC]** Podcast discute política externa do governo Lula 4 e recados do presidente na COP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/11/podcast-discute-politica-externa-do-governo-lula-4-e-recados-do-presidente-na-cop.shtml)_
+
