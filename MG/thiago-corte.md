@@ -89,3 +89,6 @@
 - **[2026-11-10 12:12 UTC]** Corte de impostos na gasolina e etanol é prorrogado até 9 de dezembro
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/corte-de-impostos-na-gasolina-e-etanol-e-prorrogado-ate-9-de-dezembro)_
 
+- **[2026-11-11 20:37 UTC]** Corte na bolsa empresário?
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/11/corte-na-bolsa-empresario.shtml)_
+
