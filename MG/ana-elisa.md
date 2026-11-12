@@ -71,3 +71,6 @@
 - **[2026-11-10 07:50 UTC]** O que se sabe sobre as ameaças recebidas pela deputada Ana Elisa
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/o-que-se-sabe-sobre-as-ameacas-recebidas-pela-deputada-ana-elisa/)_
 
+- **[2026-11-11 23:04 UTC]** PF apreende computador e celular de suspeito de ameaçar Ana Elisa
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/pf-apreende-computador-e-celular-de-suspeito-de-ataques-a-deputada-eleita-ana-elisa.ghtml)_
+
