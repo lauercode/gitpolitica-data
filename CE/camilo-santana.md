@@ -20,3 +20,6 @@
 - **[2026-10-27 14:13 UTC]** Promotor Lincoln Gakiya, que investiga PCC, e Camilo Santana são cotados para novo ministério de Segurança de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/promotor-lincoln-gakiya-que-investiga-pcc-e-camilo-santana-sao-cotados-para-novo-ministerio-de-seguranca-de-lula.shtml)_
 
+- **[2026-11-12 12:30 UTC]** Ala do PT quer barrar Camilo Santana na Casa Civil após racha sobre redução da maioridade penal
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ala-do-pt-quer-barrar-camilo-santana-na-casa-civil-apos-racha-sobre-reducao-da-maioridade-penal.shtml)_
+
