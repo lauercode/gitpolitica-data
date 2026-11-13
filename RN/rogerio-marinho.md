@@ -151,3 +151,6 @@
 - **[2026-11-13 17:38 UTC]** “Governo Lula deu nova pedalada fiscal”, diz Rogério Marinho sobre ajuste aprovado no Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-deu-nova-pedalada-fiscal-diz-rogerio-marinho-sobre-ajuste-aprovado-no-senado/)_
 
+- **[2026-11-13 21:38 UTC]** Rogério Marinho aponta manobras fiscais em novo ajuste aprovado pelo Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-aponta-manobras-fiscais-em-novo-ajuste-aprovado-pelo-senado/)_
+
