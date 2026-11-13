@@ -176,3 +176,6 @@
 - **[2026-10-21 04:00 UTC]** Mario Frias pagou com verba de campanha empresa ligada a ex-servidora de gestão na Cultura
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/mario-frias-pagou-com-verba-de-campanha-empresa-ligada-a-ex-servidora-de-gestao-na-cultura.shtml)_
 
+- **[2026-11-13 10:56 UTC]** PF cumpre mandado contra ex-chefe de gabinete de Mário Frias em operação sobre 'Dark Horse'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/13/pf-cumpre-mandado-de-busca-e-apreensao-em-operacao-sobre-suposto-desvio-de-emendas-parlamentares.ghtml)_
+
