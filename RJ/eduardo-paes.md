@@ -80,3 +80,6 @@
 - **[2026-11-12 21:24 UTC]** Zanin rejeita pedido de Eduardo Paes para realizar segundo turno no Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/zanin-rejeita-pedido-de-eduardo-paes-para-realizar-segundo-turno-no-rio.ghtml)_
 
+- **[2026-11-12 21:24 UTC]** Plenário do STF decidirá sobre pedido de Eduardo Paes por segundo turno no Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/zanin-rejeita-pedido-de-eduardo-paes-para-realizar-segundo-turno-no-rio.ghtml)_
+
