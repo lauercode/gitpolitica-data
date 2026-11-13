@@ -86,3 +86,6 @@
 - **[2026-10-16 14:13 UTC]** Wagner Moura critica relação de Flávio Bolsonaro e Trump em vídeo; veja
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/wagner-moura-critica-relacao-de-flavio-bolsonaro-e-trump-em-video-veja.shtml)_
 
+- **[2026-11-12 23:24 UTC]** PF intima Jaques Wagner e Rui Costa para depor em investigação do caso Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/pf-intima-jaques-wagner-e-rui-costa-para-depor-em-investigao-do-caso-master.ghtml)_
+
