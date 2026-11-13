@@ -359,3 +359,6 @@
 - **[2026-11-12 13:59 UTC]** Primeira acreditação do SAEME/CFM no Tocantins destaca escolas médicas
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/especial-publicitario/afya-centro-universitario-unitpac-to/noticia/2026/11/12/primeira-acreditacao-do-saemecfm-no-tocantins-destaca-escolas-medicas.ghtml)_
 
+- **[2026-11-13 08:25 UTC]** Quem são as vítimas que morreram em engavetamento com ambulância na BR-153 no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/13/quem-sao-as-vitimas-que-morreram-em-engavetamento-com-ambulancia-na-br-153-no-tocantins.ghtml)_
+
