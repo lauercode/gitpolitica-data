@@ -17,3 +17,6 @@
 - **[2026-11-12 22:22 UTC]** ALPB derruba decisão que determinou uso de tornozeleira eletrônica por deputado Caio Roberto, alvo de operação da PF
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/12/alpb-derruba-decisao-que-determinou-uso-de-tornozeleira-eletronica-por-deputado-caio-roberto-alvo-de-operacao-da-pf.ghtml)_
 
+- **[2026-11-12 22:22 UTC]** ALPB derruba decisão que determinou uso de tornozeleira eletrônica pelo deputado Caio Roberto, alvo de operação da PF
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/12/alpb-derruba-decisao-que-determinou-uso-de-tornozeleira-eletronica-por-deputado-caio-roberto-alvo-de-operacao-da-pf.ghtml)_
+
