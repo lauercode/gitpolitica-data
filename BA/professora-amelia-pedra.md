@@ -23,3 +23,6 @@
 - **[2026-11-09 13:29 UTC]** Dois homens são mortos a tiros dentro de bar em Lago da Pedra, no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/09/dois-homens-sao-mortos-a-tiros-dentro-de-bar-em-lago-da-pedra-no-ma.ghtml)_
 
+- **[2026-11-12 23:36 UTC]** PM é preso suspeito de envolvimento em sequestro e extorsão em Lago da Pedra, no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/12/pm-e-preso-suspeito-de-envolvimento-em-sequestro-e-extorsao-em-lago-da-pedra-no-ma.ghtml)_
+
