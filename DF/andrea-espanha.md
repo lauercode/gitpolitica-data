@@ -251,3 +251,6 @@
 - **[2026-11-13 09:09 UTC]** Inflação anual na Espanha permanece estável em 4,90% em outubro
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/13/inflao-anual-na-espanha-permanece-estvel-em-490-pontos-percentuais-em-outubro.ghtml)_
 
+- **[2026-11-13 13:08 UTC]** Direita da Espanha critica Lula por viagem para apoiar premiê socialista: “Mestre da fraude eleitoral”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/direita-espanha-critica-lula-viagem-apoiar-premie-socialista/)_
+
