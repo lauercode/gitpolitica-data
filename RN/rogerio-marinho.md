@@ -148,3 +148,6 @@
 - **[2026-11-06 04:21 UTC]** Rogério Marinho e Tereza Cristina lançam estratégia para vencer Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-e-tereza-cristina-lancam-estrategia-para-vencer-alcolumbre/)_
 
+- **[2026-11-13 17:38 UTC]** “Governo Lula deu nova pedalada fiscal”, diz Rogério Marinho sobre ajuste aprovado no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-deu-nova-pedalada-fiscal-diz-rogerio-marinho-sobre-ajuste-aprovado-no-senado/)_
+
