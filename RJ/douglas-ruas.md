@@ -179,3 +179,6 @@
 - **[2026-11-10 18:01 UTC]** Douglas Ruas critica Eduardo Paes, que ainda espera decisão do STF sobre segundo turno no Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/10/douglas-ruas-critica-acao-do-psd-sobre-segundo-turno-no-rio-e-diz-que-eleicoes-ja-acabaram.ghtml)_
 
+- **[2026-11-13 09:12 UTC]** Delegado que atua no berço político de Douglas Ruas é escolhido secretário de Segurança do RJ
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/delegado-que-atua-no-berco-politico-de-douglas-ruas-sera-o-secretario-de-seguranca-do-rj.shtml)_
+
