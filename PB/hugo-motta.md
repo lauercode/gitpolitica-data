@@ -107,3 +107,6 @@
 - **[2026-11-11 22:28 UTC]** Apesar de resistência de partidos, Hugo Motta ainda quer discutir reforma eleitoral
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/apesar-de-resistencia-de-partidos-hugo-motta-ainda-quer-discutir-reforma-politica.ghtml)_
 
+- **[2026-11-13 18:15 UTC]** Hugo Motta se reúne com ministros de Lula e Alcolumbre para discutir ajuste fiscal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-se-reune-com-ministros-de-lula-e-alcolumbre-para-discutir-ajuste-fiscal/)_
+
