@@ -158,3 +158,6 @@
 - **[2026-11-12 21:59 UTC]** Defesa de Vorcaro contesta Fachin e quer que Gilmar decida sobre relatoria do caso Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-vorcaro-contesta-fachin-e-quer-que-gilmar-decida-sobre-relatoria-do-caso-master.shtml)_
 
+- **[2026-11-13 02:21 UTC]** Defesa de Vorcaro fala em “juízo de exceção” e cobra análise de soltura por Gilmar
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-vorcaro-fala-em-juizo-de-excecao-e-cobra-analise-de-soltura-por-gilmar/)_
+
