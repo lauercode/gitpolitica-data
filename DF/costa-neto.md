@@ -38,3 +38,6 @@
 - **[2026-11-09 19:05 UTC]** Lula fala em interferência das big techs nas eleições enquanto Costa Neto cogita se reaproximar
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-fala-em-interferencia-das-big-techs-nas-eleicoes-enquanto-costa-neto-cogita-se-reaproximar/)_
 
+- **[2026-11-13 20:10 UTC]** Defesa de Bolsonaro pede autorização para nova visita de Costa Neto
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/13/defesa-de-bolsonaro-pede-autorizacao-para-nova-visita-de-costa-neto.ghtml)_
+
