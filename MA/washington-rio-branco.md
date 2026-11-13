@@ -134,3 +134,6 @@
 - **[2026-11-13 16:32 UTC]** Ifac abre inscrições para inglês e espanhol em Rio Branco; VEJA detalhes
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/13/ifac-abre-inscricoes-para-ingles-e-espanhol-em-rio-branco-veja-detalhes.ghtml)_
 
+- **[2026-11-13 14:35 UTC]** Morre Francisca Marinheiro, ex-vereadora de Rio Branco e líder comunitária, aos 74 anos
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/13/morre-francisca-marinheiro-ex-vereadora-de-rio-branco-e-lider-comunitaria-aos-74-anos.ghtml)_
+
