@@ -197,3 +197,6 @@
 - **[2026-11-06 19:53 UTC]** Justiça Federal barra acusação de improbidade contra Jair Bolsonaro e Wal do Açaí
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-federal-barra-acusacao-de-improbidade-contra-jair-bolsonaro-e-wal-do-acai/)_
 
+- **[2026-11-12 21:26 UTC]** PGR é contra revisar condenação de Jair Bolsonaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-e-contra-revisar-condenacao-de-jair-bolsonaro)_
+
