@@ -11050,3 +11050,6 @@
 - **[2026-11-13 12:58 UTC]** 'Tropa do Flávio' troca de nome, deputado do PL assume mudança e pede mobilização
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/13/tropa-do-flavio-troca-de-nome.ghtml)_
 
+- **[2026-11-13 12:01 UTC]** Atlas: Maioria vê Flávio Bolsonaro ligado a lavagem de dinheiro e diz que fuga o enfraquece
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/atlas-maioria-ve-flavio-bolsonaro-ligado-a-lavagem-de-dinheiro-e-diz-que-fuga-o-enfraquece/)_
+
