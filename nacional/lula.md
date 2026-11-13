@@ -2735,3 +2735,6 @@
 - **[2026-11-12 12:33 UTC]** Lula encontra presidente do Irã na COP31 e fala de guerra
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/12/lula-encontra-presidente-do-ira-na-cop31-e-fala-de-guerra.ghtml)_
 
+- **[2026-11-12 21:56 UTC]** Flávio Bolsonaro vota contra ajuste do governo Lula após ter prometido corte de gastos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/flavio-bolsonaro-vota-contra-ajuste-do-governo-lula-apos-ter-prometido-corte-de-gastos.shtml)_
+
