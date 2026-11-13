@@ -23,3 +23,6 @@
 - **[2026-11-12 09:25 UTC]** Peixe de 70 kg capturado por pescador é típico da Amazônia e considerado invasor no PI
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/12/peixe-capturado-no-pi-amazonia.ghtml)_
 
+- **[2026-11-13 14:37 UTC]** Peixe-boi pegador de onda? Encontro de surfista com animal em praia da Paraíba rende momento inusitado; veja o vídeo
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/13/peixe-boi-pegador-de-onda-encontro-de-surfista-com-animal-em-praia-da-paraiba-rende-momento-inusitado-veja-o-video.ghtml)_
+
