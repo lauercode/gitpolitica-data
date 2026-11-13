@@ -35,3 +35,6 @@
 - **[2026-11-12 17:13 UTC]** PF intima Rui Costa a depor sobre o caso Master
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pf-intima-rui-costa-a-depor-sobre-o-caso-master/)_
 
+- **[2026-11-12 23:24 UTC]** PF intima Jaques Wagner e Rui Costa para depor em investigação do caso Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/pf-intima-jaques-wagner-e-rui-costa-para-depor-em-investigao-do-caso-master.ghtml)_
+
