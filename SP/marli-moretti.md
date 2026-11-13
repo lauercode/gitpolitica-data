@@ -26,3 +26,6 @@
 - **[2026-11-12 14:41 UTC]** Entidades empresariais criticam proposta prevista no 'plano Moretti' que limita compensação de tributos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entidades-empresariais-criticam-proposta-prevista-no-plano-moretti-que-limita-compensacao-de-tributos.shtml)_
 
+- **[2026-11-12 21:05 UTC]** Senado aprova texto-base do 'plano Moretti' de ajuste, com medidas para conter gastos e elevar receitas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-aprova-texto-base-do-plano-moretti-de-ajuste-com-medidas-para-conter-gastos-e-elevar-receitas.shtml)_
+
