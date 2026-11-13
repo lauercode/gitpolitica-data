@@ -14,3 +14,6 @@
 - **[2026-11-08 15:30 UTC]** Tudo pode ser aproveitado, diz Marcelo Adnet sobre Algoritmo, novo projeto do Porta dos Fundos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/tudo-pode-ser-aproveitado-diz-marcelo-adnet-sobre-algoritmo-novo-projeto-do-porta-dos-fundos.shtml)_
 
+- **[2026-11-13 11:54 UTC]** João Vicente manda retirar fotos de Antonio Tabet da sede do Porta dos Fundos após indireta
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/joao-vicente-manda-retirar-fotos-de-antonio-tabet-da-sede-do-porta-dos-fundos-apos-indireta.shtml)_
+
