@@ -80,3 +80,6 @@
 - **[2026-11-10 01:04 UTC]** Arthur Henrique anuncia ex-procuradora de Boa Vista para Secretaria de Planejamento
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/09/arthur-henrique-anuncia-ex-procuradora-de-boa-vista-para-secretaria-de-planejamento.ghtml)_
 
+- **[2026-11-13 15:53 UTC]** Arthur Henrique anuncia empresário do agro e ex-secretário de Boa Vista para Agricultura de Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/13/arthur-henrique-anuncia-empresario-do-agro-e-ex-secretario-de-boa-vista-para-agricultura-de-roraima.ghtml)_
+
