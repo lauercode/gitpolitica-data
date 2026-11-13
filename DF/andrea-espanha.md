@@ -248,3 +248,6 @@
 - **[2026-11-12 18:23 UTC]** Lucro da Enel sobe nos primeiros 9 meses do ano impulsionado por América Latina e Espanha
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/12/lucro-da-enel-sobe-nos-primeiros-9-meses-do-ano-impulsionado-por-amrica-latina-e-espanha.ghtml)_
 
+- **[2026-11-13 09:09 UTC]** Inflação anual na Espanha permanece estável em 4,90% em outubro
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/13/inflao-anual-na-espanha-permanece-estvel-em-490-pontos-percentuais-em-outubro.ghtml)_
+
