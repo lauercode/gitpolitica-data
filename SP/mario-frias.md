@@ -182,3 +182,6 @@
 - **[2026-11-13 12:50 UTC]** Alvo da PF, ex-assessor de Mario Frias nega desvio de emendas e diz que irmão deixou projeto suspeito
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alvo-da-pf-ex-assessor-de-mario-frias-nega-desvio-de-emendas-e-diz-que-irmao-deixou-projeto-suspeito.shtml)_
 
+- **[2026-11-13 11:33 UTC]** Quem é Raphael Azevedo, ex-assessor de Mario Frias alvo da PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/quem-e-raphael-azevedo-ex-assessor-de-mario-frias-alvo-da-pf.shtml)_
+
