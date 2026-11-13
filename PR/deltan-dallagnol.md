@@ -128,3 +128,6 @@
 - **[2026-11-09 15:36 UTC]** Fachin manda arquivar pedido de Dino para incluir Deltan Dallagnol no Inquérito das Fake News
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/fachin-manda-arquivar-pedido-de-dino-para-incluir-deltan-dallagnol-no-inquerito-das-fake-news/)_
 
+- **[2026-11-13 11:56 UTC]** Caso Vaza Jato, sobre conluio de Moro e Dallagnol, volta à pauta do STF
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/caso-vaza-jato-sobre-conluio-de-moro-e-dallagnol-volta-a-pauta-do-stf/)_
+
