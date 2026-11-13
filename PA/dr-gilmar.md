@@ -155,3 +155,6 @@
 - **[2026-11-11 21:27 UTC]** Gilmar suspende processos sobre pagamentos do SUS em caso de R$ 243 bilhões
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/gilmar-suspende-processos-sobre-pagamentos-do-sus-em-caso-de-r-243-bilhoes/)_
 
+- **[2026-11-12 21:59 UTC]** Defesa de Vorcaro contesta Fachin e quer que Gilmar decida sobre relatoria do caso Master
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-vorcaro-contesta-fachin-e-quer-que-gilmar-decida-sobre-relatoria-do-caso-master.shtml)_
+
