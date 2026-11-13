@@ -227,3 +227,6 @@
 - **[2026-11-12 17:39 UTC]** 'É um escárnio', diz Cleitinho sobre licitação de R$ 6 milhões para celulares no Senado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/12/cleitinho-celulares-senado.ghtml)_
 
+- **[2026-11-13 04:00 UTC]** Cleitinho acumula acenos ao PT em busca de ponte com governo Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/cleitinho-acumula-acenos-ao-pt-em-busca-de-ponte-com-governo-lula.shtml)_
+
