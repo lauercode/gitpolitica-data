@@ -23,3 +23,6 @@
 - **[2026-09-05 06:00 UTC]** Gato 'dependente demais' procura carinho e dorme na cama com novo tutor após ficar triste ao ser devolvido
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/05/gato-leer-dependente-demais-carinho-dorme-cama-novo-tutor-ficar-triste-devolvido.ghtml)_
 
+- **[2026-11-13 06:00 UTC]** Gato é abandonado em caixa na calçada com trauma craniano, fraturas e lesões e morre após dias internado no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/13/gato-abandonado-caixa-trauma-fraturas-lesoes-morre-internado-rs.ghtml)_
+
