@@ -185,3 +185,6 @@
 - **[2026-11-13 11:33 UTC]** Quem é Raphael Azevedo, ex-assessor de Mario Frias alvo da PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/quem-e-raphael-azevedo-ex-assessor-de-mario-frias-alvo-da-pf.shtml)_
 
+- **[2026-11-13 14:20 UTC]** Quem é Raphael Augusto, ex-assessor de Mauro Frias alvo da PF em investigação sobre desvio de emendas
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/quem-e-raphael-augusto-ex-assessor-de-mauro-frias-alvo-da-pf-em-investigacao-sobre-desvio-de-emendas/)_
+
