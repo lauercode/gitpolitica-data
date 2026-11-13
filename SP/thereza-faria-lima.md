@@ -35,3 +35,6 @@
 - **[2026-11-12 16:35 UTC]** Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/mostrar-na-novela-um-nordeste-do-atraso-e-a-faria-lima-pulsante-e-vender-que-so-um-brasil-da-certo-diz-pesquisador.shtml)_
 
+- **[2026-11-13 10:02 UTC]** As duras críticas ao BC em um jantar na Faria Lima
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/11/as-duras-criticas-ao-bc-em-um-jantar-na-faria-lima.ghtml)_
+
