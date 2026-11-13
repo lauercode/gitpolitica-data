@@ -200,3 +200,6 @@
 - **[2026-11-12 21:26 UTC]** PGR é contra revisar condenação de Jair Bolsonaro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-e-contra-revisar-condenacao-de-jair-bolsonaro)_
 
+- **[2026-11-12 23:04 UTC]** PGR defende rejeição de novo pedido de revisão criminal que poderia anular a condenação de Jair Bolsonaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/12/pgr-diz-se-contra-revisao-criminal-que-poderia-anular-a-condenacao-de-jair-bolsonaro.ghtml)_
+
