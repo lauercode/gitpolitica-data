@@ -758,3 +758,6 @@
 - **[2026-11-12 17:17 UTC]** Alcolumbre quer votar PLP do ajuste nesta quinta-feira, mas ainda consultará líderes sobre viabilidade
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/alcolumbre-quer-votar-plp-do-ajuste-nesta-quinta-feira-mas-ainda-consultara-lideres-sobre-viabilidade.ghtml)_
 
+- **[2026-11-13 00:20 UTC]** Alcolumbre ataca a direita temendo ser abandonado por Lula na disputa pelo Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/silvio-ribas/alcolumbre-ataca-a-direita-temendo-ser-abandonado-por-lula-na-disputa-pelo-senado/)_
+
