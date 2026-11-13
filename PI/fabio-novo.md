@@ -125,3 +125,6 @@
 - **[2026-11-12 22:00 UTC]** Novo relatório do PLP do ajuste fiscal aumenta estimativa de impacto para até R$ 56,1 bilhões
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/novo-relatorio-do-plp-do-ajuste-fiscal-aumenta-estimativa-de-impacto-para-ate-r-561-bilhoes.ghtml)_
 
+- **[2026-11-13 19:21 UTC]** Rede D’Or: Novo cenário de juros não muda planos de expansão
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/13/rede-dor-novo-cenario-de-juros-nao-muda-planos-de-expansao.ghtml)_
+
