@@ -26,3 +26,6 @@
 - **[2026-11-11 21:02 UTC]** Deputadas e movimentos sociais homenageiam Benedita da Silva e Paulo Paim em sessão solene na Câmara
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1318549-deputadas-e-movimentos-sociais-homenageiam-benedita-da-silva-e-paulo-paim-em-sessao-solene-na-camara)_
 
+- **[2026-11-13 19:39 UTC]** Benedita da Silva, a grandeza de quem fez história
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/opiniao/benedita-da-silva-a-grandeza-de-quem-fez-historia/)_
+
