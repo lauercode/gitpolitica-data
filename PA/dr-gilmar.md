@@ -170,3 +170,6 @@
 - **[2026-11-13 23:31 UTC]** Gilmar defende diretor da PF, minimiza troca de delegados e ataca Lava Jato
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-defende-diretor-da-pf-minimiza-troca-de-delegados-e-ataca-lava-jato/)_
 
+- **[2026-11-13 18:12 UTC]** Defesa de Vorcaro contesta Gonet e insiste que Gilmar julgue pedido de soltura
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-vorcaro-contesta-gonet-e-insiste-que-gilmar-julgue-pedido-de-soltura/)_
+
