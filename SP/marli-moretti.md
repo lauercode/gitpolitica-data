@@ -32,3 +32,6 @@
 - **[2026-11-13 01:23 UTC]** PLP do ajuste fiscal assegura superávit primário com folga de R$ 10 bilhões, diz Moretti
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/12/plp-do-ajuste-fiscal-assegura-superavit-primario-com-folga-de-r-10-bilhoes-diz-moretti.ghtml)_
 
+- **[2026-11-13 15:42 UTC]** Taxa de crescimento das despesas pode ficar abaixo de 2%, afirma Moretti
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/13/taxa-de-crescimento-das-despesas-pode-ficar-abaixo-de-2percent-afirma-moretti.ghtml)_
+
