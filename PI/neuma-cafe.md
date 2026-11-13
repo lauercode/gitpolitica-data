@@ -17,3 +17,6 @@
 - **[2026-11-04 08:00 UTC]** Café do Alto Noroeste fluminense ganha força com foco em grão especial
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cafe-na-prensa/2026/11/cafe-do-alto-noroeste-fluminense-ganha-forca-com-foco-em-grao-especial.shtml)_
 
+- **[2026-11-13 15:27 UTC]** Café produzido na Serra do Caparaó vence maior prêmio da cafeicultura feminina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cafe-na-prensa/2026/11/cafe-produzido-na-serra-do-caparao-vence-maior-premio-da-cafeicultura-feminina.shtml)_
+
