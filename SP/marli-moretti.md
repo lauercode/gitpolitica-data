@@ -35,3 +35,6 @@
 - **[2026-11-13 15:42 UTC]** Taxa de crescimento das despesas pode ficar abaixo de 2%, afirma Moretti
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/13/taxa-de-crescimento-das-despesas-pode-ficar-abaixo-de-2percent-afirma-moretti.ghtml)_
 
+- **[2026-11-13 17:58 UTC]** Congresso esvazia corte de supersalários no 'plano Moretti', dizem organizações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/congresso-esvazia-corte-de-supersalarios-no-plano-moretti-dizem-organizacoes.shtml)_
+
