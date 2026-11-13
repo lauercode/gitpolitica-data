@@ -167,3 +167,6 @@
 - **[2026-11-09 14:38 UTC]** Sergio Moro anuncia delegado da PF para Secretaria de Segurança Pública e presidente da Fiep para a Infraestrutura
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/09/sergio-moro-anuncia-secretaria-de-seguranca-publica-e-infraestrutura.ghtml)_
 
+- **[2026-11-13 11:24 UTC]** Sergio Moro critica projeto que prevê perda de R$ 604 milhões para o Paraná
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/parana/sergio-moro-critica-projeto-que-preve-perda-de-r-604-milhoes-para-o-parana/)_
+
