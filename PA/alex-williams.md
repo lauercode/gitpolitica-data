@@ -11,3 +11,6 @@
 - **[2026-11-09 17:41 UTC]** Nova geração chega à F1 calejada por simuladores, diz chefe da Williams
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/nova-geracao-chega-a-f1-calejada-por-simuladores-diz-chefe-da-williams.shtml)_
 
+- **[2026-11-13 09:42 UTC]** Williams, do Fed, diz que inflação está muito alta e que ainda há trabalho a ser feito
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/13/williams-do-fed-diz-que-inflacao-esta-muito-alta-e-que-ainda-ha-trabalho-a-ser-feito.ghtml)_
+
