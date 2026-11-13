@@ -11041,3 +11041,6 @@
 - **[2026-11-11 15:44 UTC]** PF cumpre decisão de Dino e abre investigação sobre influência estrangeira na campanha de Flávio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/pf-cumpre-deciso-de-dino-e-abre-investigao-sobre-influncia-estrangeira-na-campanha-de-flvio.ghtml)_
 
+- **[2026-11-12 23:45 UTC]** Nos EUA, Flávio Bolsonaro rejeita apoio a Motta após racha no PL sobre eleição na Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nos-eua-flavio-bolsonaro-rejeita-apoio-a-motta-apos-racha-no-pl-sobre-eleicao-na-camara.shtml)_
+
