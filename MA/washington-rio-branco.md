@@ -131,3 +131,6 @@
 - **[2026-11-12 19:06 UTC]** Para que serve um kit de emergência? Defesa Civil de Rio Branco explica
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/12/para-que-serve-um-kit-de-emergencia-defesa-civil-de-rio-branco-explica.ghtml)_
 
+- **[2026-11-13 16:32 UTC]** Ifac abre inscrições para inglês e espanhol em Rio Branco; VEJA detalhes
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/13/ifac-abre-inscricoes-para-ingles-e-espanhol-em-rio-branco-veja-detalhes.ghtml)_
+
