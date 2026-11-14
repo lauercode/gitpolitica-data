@@ -38,3 +38,6 @@
 - **[2026-11-13 10:02 UTC]** As duras críticas ao BC em um jantar na Faria Lima
   _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/11/as-duras-criticas-ao-bc-em-um-jantar-na-faria-lima.ghtml)_
 
+- **[2026-11-14 15:00 UTC]** A 'Faria Lima' não conhece a Faria Lima
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mauro-calliari/2026/11/a-faria-lima-nao-conhece-a-faria-lima.shtml)_
+
