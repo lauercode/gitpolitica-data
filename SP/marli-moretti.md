@@ -41,3 +41,6 @@
 - **[2026-11-13 21:01 UTC]** Teste do 'plano Moretti' reforça urgência de novas medidas ainda em 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/teste-do-plano-moretti-reforca-urgencia-de-novas-medidas-ainda-em-2026.shtml)_
 
+- **[2026-11-14 12:30 UTC]** Moretti está certo, Lindbergh está errado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/moretti-esta-certo-lindbergh-esta-errado.shtml)_
+
