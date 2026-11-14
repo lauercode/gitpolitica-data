@@ -83,3 +83,6 @@
 - **[2026-09-11 17:37 UTC]** PGR cobra de Fachin fim do sigilo de todos os documentos do Caso Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-cobra-de-fachin-fim-do-sigilo-de-todos-os-documentos-do-caso-master/)_
 
+- **[2026-11-14 07:00 UTC]** Cobra asiática se move como roda, dando cambalhotas, diz estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/11/cobra-asiatica-se-move-como-roda-dando-cambalhotas-diz-estudo.shtml)_
+
