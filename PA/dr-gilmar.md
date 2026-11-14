@@ -173,3 +173,6 @@
 - **[2026-11-13 18:12 UTC]** Defesa de Vorcaro contesta Gonet e insiste que Gilmar julgue pedido de soltura
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/defesa-de-vorcaro-contesta-gonet-e-insiste-que-gilmar-julgue-pedido-de-soltura/)_
 
+- **[2026-11-13 21:11 UTC]** Gilmar diz que Moro agiu para impedir candidatura de Lula em 2018
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/gilmar-diz-que-moro-agiu-para-impedir-candidatura-de-lula-em-2018)_
+
