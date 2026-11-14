@@ -44,3 +44,6 @@
 - **[2026-11-12 16:33 UTC]** Ofício de Fachin a Andrei manda PF incluir em relatórios todos os ministros do STF implicados no caso Master
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/oficio-de-fachin-a-andrei-manda-pf-incluir-em-relatorios-todos-os-ministros-do-stf-implicados-no-caso-master.ghtml)_
 
+- **[2026-11-13 23:00 UTC]** Integrantes da PF veem disputa política em crise com delegados do Master e divergem sobre Andrei
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/integrantes-da-pf-veem-disputa-politica-em-crise-com-delegados-do-master-e-divergem-sobre-andrei.shtml)_
+
