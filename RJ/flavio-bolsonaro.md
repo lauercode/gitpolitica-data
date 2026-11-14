@@ -11053,3 +11053,6 @@
 - **[2026-11-13 12:01 UTC]** Atlas: Maioria vê Flávio Bolsonaro ligado a lavagem de dinheiro e diz que fuga o enfraquece
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/atlas-maioria-ve-flavio-bolsonaro-ligado-a-lavagem-de-dinheiro-e-diz-que-fuga-o-enfraquece/)_
 
+- **[2026-11-14 12:31 UTC]** Nunes esbarra em derrota de Flávio e vice-bomba no caminho para 2030 após aposta no bolsonarismo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nunes-esbarra-em-derrota-de-flavio-e-vice-bomba-no-caminho-para-2030-apos-aposta-no-bolsonarismo.shtml)_
+
