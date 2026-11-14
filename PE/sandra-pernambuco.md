@@ -74,3 +74,6 @@
 - **[2026-11-12 09:00 UTC]** No rastro de Lampião: um roteiro turístico pela história do cangaço e a cultura de Pernambuco
   _fonte: [Valor Econômico](https://valor.globo.com/eu-e/noticia/2026/11/12/no-rastro-de-lampiao-um-roteiro-turistico-pela-historia-do-cangaco-e-a-cultura-de-pernambuco.ghtml)_
 
+- **[2026-11-14 16:05 UTC]** Três homens fogem de presídio em Pernambuco; um é recapturado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/tres-homens-fogem-de-presidio-em-pernambuco-um-e-recapturado.shtml)_
+
