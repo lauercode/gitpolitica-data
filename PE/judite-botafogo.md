@@ -53,3 +53,6 @@
 - **[2026-11-10 12:09 UTC]** Botafogo aproveita pausa da Data Fifa para focar na recuperação de peças-chave para a reta final do Brasileirão
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/botafogo-aproveita-pausa-da-data-fifa-para-focar-na-recuperacao-de-pecas-chave-para-a-reta-final-do-brasileirao/)_
 
+- **[2026-11-13 20:22 UTC]** Botafogo goleia o Boavista em jogo-treino com testes de Tite
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/botafogo-goleia-o-boavista-em-jogo-treino-com-testes-de-tite/)_
+
