@@ -764,3 +764,6 @@
 - **[2026-11-13 18:15 UTC]** Hugo Motta se reúne com ministros de Lula e Alcolumbre para discutir ajuste fiscal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-se-reune-com-ministros-de-lula-e-alcolumbre-para-discutir-ajuste-fiscal/)_
 
+- **[2026-11-14 00:00 UTC]** Cinco pontos do legado de Alcolumbre que jogam contra a sua reeleição
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cinco-pontos-do-legado-de-alcolumbre-que-jogam-contra-a-sua-reeleicao/)_
+
