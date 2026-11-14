@@ -23,3 +23,6 @@
 - **[2026-10-29 13:05 UTC]** Casa ou hotel em Orlando: custo total da viagem define a escolha das famílias
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/10/29/casa-ou-hotel-em-orlando-custo-total-da-viagem-define-a-escolha-das-familias-1.ghtml)_
 
+- **[2026-11-14 00:12 UTC]** Azul tem um voo chegando aos EUA e outros 3 ainda em solo no Brasil e em Orlando
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/13/azul-tem-um-voo-chegando-aos-eua-e-outros-3-ainda-em-solo-no-brasil-e-em-orlando.ghtml)_
+
