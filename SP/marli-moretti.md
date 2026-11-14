@@ -38,3 +38,6 @@
 - **[2026-11-13 17:58 UTC]** Congresso esvazia corte de supersalários no 'plano Moretti', dizem organizações
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/congresso-esvazia-corte-de-supersalarios-no-plano-moretti-dizem-organizacoes.shtml)_
 
+- **[2026-11-13 21:01 UTC]** Teste do 'plano Moretti' reforça urgência de novas medidas ainda em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/teste-do-plano-moretti-reforca-urgencia-de-novas-medidas-ainda-em-2026.shtml)_
+
