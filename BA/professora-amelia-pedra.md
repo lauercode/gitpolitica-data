@@ -26,3 +26,6 @@
 - **[2026-11-12 23:36 UTC]** PM é preso suspeito de envolvimento em sequestro e extorsão em Lago da Pedra, no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/12/pm-e-preso-suspeito-de-envolvimento-em-sequestro-e-extorsao-em-lago-da-pedra-no-ma.ghtml)_
 
+- **[2026-11-14 10:31 UTC]** Morre Rogério Fróes, ator de 'O Bem-Amado' e 'Selva de Pedra', aos 92 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/morre-rogerio-froes-ator-de-o-bem-amado-e-selva-de-pedra-aos-92-anos.shtml)_
+
