@@ -254,3 +254,6 @@
 - **[2026-11-13 13:08 UTC]** Direita da Espanha critica Lula por viagem para apoiar premiê socialista: “Mestre da fraude eleitoral”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/direita-espanha-critica-lula-viagem-apoiar-premie-socialista/)_
 
+- **[2026-11-14 16:09 UTC]** Final da Copa de 2030 na Espanha é inegociável, diz chefe do futebol espanhol
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/final-da-copa-do-mundo-de-2030-na-espanha-e-inegociavel-diz-chefe-do-futebol-espanhol.shtml)_
+
