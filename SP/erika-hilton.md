@@ -140,3 +140,6 @@
 - **[2026-11-08 17:00 UTC]** PSOL avalia lançar Erika Hilton à Prefeitura de SP para mantê-la no partido e conter dissidentes após crise
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psol-avalia-lancar-erika-hilton-a-prefeitura-de-sp-para-mante-la-no-partido-e-conter-dissidentes-apos-crise.shtml)_
 
+- **[2026-11-14 21:16 UTC]** Deputada Erika Hilton cobra justiça por mulher trans espancada em parque no Acre; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/14/deputada-erika-hilton-cobra-justica-por-mulher-trans-espancada-em-parque-no-acre-video.ghtml)_
+
