@@ -2741,3 +2741,6 @@
 - **[2026-11-13 05:00 UTC]** Rouquidão de Lula: o que pode explicar a voz falha do presidente, dos efeitos do câncer à cirurgia de 2022
   _fonte: [G1 - Política:](https://g1.globo.com/saude/noticia/2026/11/13/rouquidao-de-lula-o-que-pode-explicar-a-voz-falha-do-presidente-dos-efeitos-do-cancer-a-cirurgia-de-2022.ghtml)_
 
+- **[2026-11-14 12:01 UTC]** Lula se encontra com presidente das Filipinas e fala em integrar minerais críticos do Brasil com indústria local de semicondutores
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/14/lula-se-encontra-com-presidente-das-filipinas-e-fala-em-integrar-minerais-criticos-do-brasil-com-industria-local-de-semicondutores.ghtml)_
+
