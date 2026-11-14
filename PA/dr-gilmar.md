@@ -176,3 +176,6 @@
 - **[2026-11-13 21:11 UTC]** Gilmar diz que Moro agiu para impedir candidatura de Lula em 2018
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/gilmar-diz-que-moro-agiu-para-impedir-candidatura-de-lula-em-2018)_
 
+- **[2026-11-14 03:45 UTC]** Gilmar defende diretor da PF, ataca Lava Jato e rebate Moro sobre triplex
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-defende-diretor-da-pf-minimiza-troca-de-delegados-e-ataca-lava-jato/)_
+
