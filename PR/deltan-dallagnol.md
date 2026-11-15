@@ -131,3 +131,6 @@
 - **[2026-11-13 11:56 UTC]** Caso Vaza Jato, sobre conluio de Moro e Dallagnol, volta à pauta do STF
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/caso-vaza-jato-sobre-conluio-de-moro-e-dallagnol-volta-a-pauta-do-stf/)_
 
+- **[2026-11-14 23:00 UTC]** Deltan Dallagnol chegará ao Senado com o pé esquerdo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/11/deltan-dallagnol-chegara-ao-senado-com-o-pe-esquerdo.shtml)_
+
