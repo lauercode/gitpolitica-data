@@ -92,3 +92,6 @@
 - **[2026-11-07 01:00 UTC]** 'Autobiografia do Vermelho' demonstra por que Anne Carson ganhou o Nobel
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/11/autobiografia-do-vermelho-demonstra-por-que-anne-carson-ganhou-o-nobel.shtml)_
 
+- **[2026-11-15 17:03 UTC]** Forças no Iêmen apoiadas por sauditas recuam no mar Vermelho, em vitória para houthis
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/forcas-no-iemen-apoiadas-por-sauditas-recuam-no-mar-vermelho-em-vitoria-para-houthis.shtml)_
+
