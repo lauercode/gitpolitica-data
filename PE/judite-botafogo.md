@@ -56,3 +56,6 @@
 - **[2026-11-13 20:22 UTC]** Botafogo goleia o Boavista em jogo-treino com testes de Tite
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/botafogo-goleia-o-boavista-em-jogo-treino-com-testes-de-tite/)_
 
+- **[2026-11-14 18:52 UTC]** Juventude vence o Botafogo-SP no Alfredo Jaconi e garante o acesso à Série A de 2027
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/juventude-vence-o-botafogo-sp-no-alfredo-jaconi-e-garante-o-acesso-a-serie-a-de-2027/)_
+
