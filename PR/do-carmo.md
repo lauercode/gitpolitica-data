@@ -83,3 +83,6 @@
 - **[2026-10-26 11:58 UTC]** Escola Municipal Professora Lucicarme do Carmo Barreto, 5ª zona eleitoral: resultado da votação em Mazagão (AP) no 2º turno
   _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/26/escola-municipal-professora-lucicarme-do-carmo-barreto-5a-zona-eleitoral-resultado-da-votacao-em-mazagao-ap-no-2o-turno.ghtml)_
 
+- **[2026-11-15 00:37 UTC]** Corpo do ator Rogério Fróes será velado em cerimônia será reservada no Memorial do Carmo, no Rio
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/14/corpo-do-ator-rogerio-froes-sera-velado-em-cerimonia-sera-reservada-no-memorial-do-carmo-no-rio.ghtml)_
+
