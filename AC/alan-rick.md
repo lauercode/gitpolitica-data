@@ -590,3 +590,6 @@
 - **[2026-10-24 20:01 UTC]** Quaest: Mailza Assis (PP) tem 62%, ante 38% de Alan Rick (Republicanos) no Acre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-mailza-assis-pp-tem-62-ante-38-de-alan-rick-republicanos-no-acre.shtml)_
 
+- **[2026-11-15 12:20 UTC]** Renner volta aos palcos com tributo a Rick, no dia em que o parceiro faria aniversário
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/renner-volta-aos-palcos-com-tributo-a-rick-no-dia-em-que-o-parceiro-faria-aniversario.shtml)_
+
