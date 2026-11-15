@@ -335,3 +335,6 @@
 - **[2026-11-14 14:55 UTC]** Janones acusa 'extrema esquerda' de boicote a Lula e a canal no WhatsApp
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/janones-acusa-extrema-esquerda-de-boicote-a-lula-e-a-canal-no-whatsapp.shtml)_
 
+- **[2026-11-15 08:30 UTC]** Janones, chegou a hora de um Exército da Marina contra petróleo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/11/janones-chegou-a-hora-de-um-exercito-da-marina-contra-petroleo.shtml)_
+
