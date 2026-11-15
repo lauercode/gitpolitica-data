@@ -137,3 +137,6 @@
 - **[2026-11-13 14:35 UTC]** Morre Francisca Marinheiro, ex-vereadora de Rio Branco e líder comunitária, aos 74 anos
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/13/morre-francisca-marinheiro-ex-vereadora-de-rio-branco-e-lider-comunitaria-aos-74-anos.ghtml)_
 
+- **[2026-11-15 04:01 UTC]** Previsão do tempo hoje para Rio Branco (AC): sol e muitas nuvens à tarde; à noite ocorrem pancadas de chuva
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-rio-branco-ac-sol-e-muitas-nuvens-a-tarde-a-noite-ocorrem-pancadas-de-chuva.ghtml)_
+
