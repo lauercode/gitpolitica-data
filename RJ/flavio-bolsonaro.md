@@ -11056,3 +11056,6 @@
 - **[2026-11-14 12:31 UTC]** Nunes esbarra em derrota de Flávio e vice-bomba no caminho para 2030 após aposta no bolsonarismo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nunes-esbarra-em-derrota-de-flavio-e-vice-bomba-no-caminho-para-2030-apos-aposta-no-bolsonarismo.shtml)_
 
+- **[2026-11-14 21:00 UTC]** Ministério Público nega pedido para reabrir caso da rachadinha contra Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ministerio-publico-nega-pedido-para-reabrir-caso-da-rachadinha-contra-flavio-bolsonaro.shtml)_
+
