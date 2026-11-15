@@ -362,3 +362,6 @@
 - **[2026-11-13 08:25 UTC]** Quem são as vítimas que morreram em engavetamento com ambulância na BR-153 no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/13/quem-sao-as-vitimas-que-morreram-em-engavetamento-com-ambulancia-na-br-153-no-tocantins.ghtml)_
 
+- **[2026-11-15 15:25 UTC]** Tempo nublado ameniza calor de candidatos do Enem no Tocantins
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-11/tempo-nublado-ameniza-calor-de-candidatos-do-enem-no-tocantins)_
+
