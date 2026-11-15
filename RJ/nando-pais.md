@@ -86,3 +86,6 @@
 - **[2026-11-10 09:20 UTC]** Pais de deputado da Bahia são alvos da PF em investigação sobre emendas Pix
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-deflagra-operacao-na-bahia-por-suspeita-de-desvio-de-recursos-de-emendas-pix.shtml)_
 
+- **[2026-11-14 19:11 UTC]** Pais esquecem filho de 7 anos a bordo de avião após o desembarque, e piloto avisa torre de controle
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/pais-esquecem-filho-de-7-anos-a-bordo-de-aviao-apos-o-desembarque-e-piloto-avisa-torre-de-controle.shtml)_
+
