@@ -23,3 +23,6 @@
 - **[2026-10-30 16:29 UTC]** Governo Tarcísio exonera servidora que criticou fala capacitista de Flávio Bolsonaro a Lula
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/governo-tarcisio-exonera-servidora-que-criticou-fala-capacitista-de-flavio-bolsonaro-a-lula/)_
 
+- **[2026-11-15 10:00 UTC]** Governo Tarcísio estuda recriar pasta do Planejamento para acomodar aliada
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-tarcisio-estuda-recriar-pasta-do-planejamento-para-acomodar-aliada.shtml)_
+
