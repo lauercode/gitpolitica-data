@@ -269,3 +269,6 @@
 - **[2026-11-15 19:09 UTC]** Inglaterra supera reação da Espanha e encerra série invicta dos atuais campeões do mundo
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/inglaterra-supera-reacao-da-espanha-e-encerra-serie-invicta-dos-atuais-campeoes-do-mundo/)_
 
+- **[2026-11-16 07:14 UTC]** Lula se reúne com Sánchez em Madri a dias da eleição na Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-se-reune-com-sanchez-em-madri-a-dias-da-eleicao-na-espanha.shtml)_
+
