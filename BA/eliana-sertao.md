@@ -47,3 +47,6 @@
 - **[2026-11-11 21:02 UTC]** Focos de incêndio em área de serra no Sertão da Paraíba se estende por 20 km e mobiliza bombeiros
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/11/focos-de-incendio-em-area-de-serra-no-sertao-da-paraiba-se-estende-por-20-km-e-mobiliza-bombeiros.ghtml)_
 
+- **[2026-11-16 14:38 UTC]** Inmet emite alerta para queda de granizo em cidades do Sertão da Paraíba; veja quais
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/16/inmet-emite-alerta-para-queda-de-granizo-em-cidades-do-sertao-da-paraiba-veja-quais.ghtml)_
+
