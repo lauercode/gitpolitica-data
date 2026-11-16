@@ -92,3 +92,6 @@
 - **[2026-11-11 20:37 UTC]** Corte na bolsa empresário?
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/11/corte-na-bolsa-empresario.shtml)_
 
+- **[2026-11-16 13:58 UTC]** Corte de gastos, regulação da 6x1 e equipe do novo governo: o que espera Lula na volta de giro internacional
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/16/corte-de-gastos-regulacao-da-6x1-e-equipe-do-novo-governo-o-que-espera-lula-na-volta-de-giro-internacional.ghtml)_
+
