@@ -11,3 +11,6 @@
 - **[2026-10-07 12:00 UTC]** Maria Marighella, eleita na Bahia, evoca legado do avô e projeta renovação no PT
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/maria-marighella-eleita-na-bahia-evoca-legado-do-avo-e-projeta-renovacao-no-pt.shtml)_
 
+- **[2026-11-15 23:00 UTC]** Inspirada por Marighella e psicanálise, guerrilha digital espalha janonismo pelo mundo sem Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/inspirada-por-marighella-e-psicanalise-guerrilha-digital-espalha-janonismo-pelo-mundo-sem-janones.shtml)_
+
