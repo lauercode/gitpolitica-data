@@ -83,3 +83,6 @@
 - **[2026-11-15 20:46 UTC]** Michelle diz que vai tirar 10 dias de descanso com 'incentivo e aval' de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/michelle-diz-que-vai-tirar-10-dias-de-descanso-com-incentivo-e-aval-de-bolsonaro.shtml)_
 
+- **[2026-11-15 23:55 UTC]** Michelle tira dez dias de férias e diz que sua filha cuidará de Bolsonaro
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/15/michelle-tira-dez-dias-de-frias-e-diz-que-sua-filha-cuidar-de-bolsonaro.ghtml)_
+
