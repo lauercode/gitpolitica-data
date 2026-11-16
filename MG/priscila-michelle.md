@@ -86,3 +86,6 @@
 - **[2026-11-15 23:55 UTC]** Michelle tira dez dias de férias e diz que sua filha cuidará de Bolsonaro
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/15/michelle-tira-dez-dias-de-frias-e-diz-que-sua-filha-cuidar-de-bolsonaro.ghtml)_
 
+- **[2026-11-16 01:15 UTC]** Michelle rebate críticas e diz que viagem a Israel tem aval de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-rebate-criticas-e-diz-que-viagem-a-israel-tem-aval-de-bolsonaro/)_
+
