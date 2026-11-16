@@ -23,3 +23,6 @@
 - **[2026-11-10 14:27 UTC]** Temporal destelha casas, derruba árvores e deixa moradores sem energia em Parintins e Barreirinha
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/10/temporal-destelha-casas-derruba-arvores-e-deixa-moradores-sem-energia-em-parintins-e-barreirinha.ghtml)_
 
+- **[2026-11-16 08:29 UTC]** Temporal causa alagamentos, quedas de árvores e deixa desalojados no interior de SP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/temporal-causa-alagamentos-quedas-de-arvores-e-deixa-desalojados-no-interior-de-sp.shtml)_
+
