@@ -110,3 +110,6 @@
 - **[2026-11-13 18:15 UTC]** Hugo Motta se reúne com ministros de Lula e Alcolumbre para discutir ajuste fiscal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-se-reune-com-ministros-de-lula-e-alcolumbre-para-discutir-ajuste-fiscal/)_
 
+- **[2026-11-16 14:51 UTC]** Disputa por cargos e resistência ao PT dividem PL sobre apoio a Hugo Motta
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/disputa-por-cargos-e-resistencia-ao-pt-dividem-pl-sobre-apoio-a-hugo-motta/)_
+
