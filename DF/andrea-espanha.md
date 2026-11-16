@@ -260,3 +260,6 @@
 - **[2026-11-15 01:59 UTC]** Lula participa no domingo da abertura da Asean nas Filipinas e depois segue para Espanha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/14/lula-participa-no-domingo-da-abertura-da-asean-nas-filipinas-e-depois-segue-para-espanha.ghtml)_
 
+- **[2026-11-15 19:59 UTC]** Inglaterra vence em Madri e encerra invencibilidade de 43 partidas da Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/inglaterra-vence-em-madri-e-encerra-invencibilidade-de-43-partidas-da-espanha.shtml)_
+
