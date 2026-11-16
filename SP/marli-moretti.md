@@ -47,3 +47,6 @@
 - **[2026-11-15 23:00 UTC]** Esquerda sectária atrasa combate a privilégios ao criticar projeto de ajuste, diz Moretti
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/esquerda-sectaria-atrasa-combate-a-privilegios-ao-criticar-projeto-de-ajuste-diz-moretti.shtml)_
 
+- **[2026-11-16 05:00 UTC]** Podcast explica 'plano Moretti', pacote de ajuste fiscal para o governo Lula 4
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-plano-moretti-pacote-de-ajuste-fiscal-para-o-governo-lula-4.shtml)_
+
