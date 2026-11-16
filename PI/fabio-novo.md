@@ -131,3 +131,6 @@
 - **[2026-11-16 14:10 UTC]** Novo ciclo dá continuidade à redução da dívida e venda de ativos, diz Cosan
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/16/novo-ciclo-da-continuidade-a-reducao-da-divida-e-venda-de-ativos-diz-cosan.ghtml)_
 
+- **[2026-11-16 10:05 UTC]** Novo bolso-golpismo à vista: apelo internacional cristianizado ao novo golpismo político
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/opiniao/novo-bolso-golpismo-a-vista-apelo-internacional-cristianizado-ao-novo-golpismo-politico/)_
+
