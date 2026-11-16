@@ -74,3 +74,6 @@
 - **[2026-11-11 23:04 UTC]** PF apreende computador e celular de suspeito de ameaçar Ana Elisa
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/11/pf-apreende-computador-e-celular-de-suspeito-de-ataques-a-deputada-eleita-ana-elisa.ghtml)_
 
+- **[2026-11-15 21:00 UTC]** Rogério Correia e Ana Elisa defendem comissão externa para tratar da dívida de MG
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/rogerio-correia-e-ana-elisa-defendem-comissao-externa-para-tratar-da-divida-de-mg.shtml)_
+
