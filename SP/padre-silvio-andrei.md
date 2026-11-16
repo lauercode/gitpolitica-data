@@ -47,3 +47,6 @@
 - **[2026-11-13 23:00 UTC]** Integrantes da PF veem disputa política em crise com delegados do Master e divergem sobre Andrei
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/integrantes-da-pf-veem-disputa-politica-em-crise-com-delegados-do-master-e-divergem-sobre-andrei.shtml)_
 
+- **[2026-11-16 14:08 UTC]** Andrei diz ser alvo de ataques que não o intimidam e afirma não haver divisão na PF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/16/andrei-diz-ser-alvo-de-ataques-que-nao-o-intimidam-e-afirma-nao-haver-divisao-na-pf.ghtml)_
+
