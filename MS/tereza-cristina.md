@@ -71,3 +71,6 @@
 - **[2026-11-16 14:06 UTC]** Moraes barra visita de Rogério Marinho e Tereza Cristina a Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-barra-visita-de-rogerio-marinho-e-tereza-cristina-a-bolsonaro/)_
 
+- **[2026-11-16 15:44 UTC]** Moraes rejeita pedido de Bolsonaro para receber visitas de Costa Neto, Marinho e Tereza Cristina
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/16/moraes-rejeita-pedido-de-bolsonaro-para-receber-visitas-de-costa-neto-marinho-e-tereza-cristina.ghtml)_
+
