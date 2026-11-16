@@ -11062,3 +11062,6 @@
 - **[2026-11-15 13:00 UTC]** Senadores retomam debate sobre fim da reeleição à Presidência mesmo após derrota de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/senadores-retomam-debate-sobre-fim-da-reeleicao-a-presidencia-mesmo-apos-derrota-de-flavio-bolsonaro.shtml)_
 
+- **[2026-11-16 11:56 UTC]** Juiz condena candidata por vídeo que liga Flávio Bolsonaro a rachadinha, milicianos e Master
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/juiz-condena-candidata-por-video-que-liga-flavio-bolsonaro-a-rachadinha-milicianos-e-master/)_
+
