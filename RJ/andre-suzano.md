@@ -20,3 +20,6 @@
 - **[2026-11-06 11:05 UTC]** Agenda de empresas: Lucro da Suzano soma R$ 2 bi; Cosan negocia venda de fatia na Compass
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/06/agenda-de-empresas-lucro-da-suzano-soma-r-2-bi-cosan-negocia-venda-de-fatia-na-compass.ghtml)_
 
+- **[2026-11-16 06:00 UTC]** Suzano consegue financiamento de R$ 98 milhões junto ao BNDES
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/suzano-consegue-financiamento-de-r-98-milhoes-junto-ao-bndes.shtml)_
+
