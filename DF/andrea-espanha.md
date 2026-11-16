@@ -272,3 +272,6 @@
 - **[2026-11-16 07:14 UTC]** Lula se reúne com Sánchez em Madri a dias da eleição na Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-se-reune-com-sanchez-em-madri-a-dias-da-eleicao-na-espanha.shtml)_
 
+- **[2026-11-16 03:00 UTC]** Lula se reúne com Sánchez na Espanha e encerra primeiro giro pelo exterior após reeleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/16/lula-se-reune-nesta-segunda-com-sanchez-na-espanha-e-encerra-primeiro-giro-pelo-exterior-apos-reeleicao.ghtml)_
+
