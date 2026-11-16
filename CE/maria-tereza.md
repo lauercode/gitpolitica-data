@@ -17,3 +17,6 @@
 - **[2026-11-12 08:21 UTC]** Pelo Senado, Marinho mobiliza bolsonaristas, Alcolumbre busca governo e Tereza aposta na bancada feminina
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pelo-senado-marinho-mobiliza-bolsonaristas-alcolumbre-busca-governo-e-tereza-aposta-na-bancada-feminina/)_
 
+- **[2026-11-16 12:43 UTC]** Moraes nega pedido de Bolsonaro para receber Valdemar e os pré-candidatos à presidência do Senado Marinho e Tereza
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/16/moraes-nega-pedido-de-bolsonaro-para-receber-valdemar-e-os-pre-candidatos-a-presidencia-do-senado-marinho-e-tereza.ghtml)_
+
