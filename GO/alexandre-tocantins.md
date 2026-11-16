@@ -365,3 +365,6 @@
 - **[2026-11-15 15:25 UTC]** Tempo nublado ameniza calor de candidatos do Enem no Tocantins
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-11/tempo-nublado-ameniza-calor-de-candidatos-do-enem-no-tocantins)_
 
+- **[2026-11-16 13:02 UTC]** Pacientes entram na Justiça para conseguir vaga em hospital público do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/16/pacientes-entram-na-justica-para-conseguir-vaga-em-hospital-publico-do-tocantins.ghtml)_
+
