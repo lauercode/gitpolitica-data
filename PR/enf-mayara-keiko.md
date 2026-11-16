@@ -14,3 +14,6 @@
 - **[2026-11-12 19:07 UTC]** Defesa de nome da América Latina para chefiar ONU une Lula, Milei, Delcy e Keiko
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/defesa-de-nome-da-america-latina-para-chefiar-onu-une-lula-milei-delcy-e-keiko.shtml)_
 
+- **[2026-11-16 11:05 UTC]** Keiko deixa Peru em meio a visita de Leão 14 e reaviva críticas de papa a Fujimori
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/keiko-deixa-peru-em-meio-a-visita-de-leao-14-e-reaviva-criticas-de-papa-a-fujimori.shtml)_
+
