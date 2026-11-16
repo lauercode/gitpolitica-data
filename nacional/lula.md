@@ -2744,3 +2744,6 @@
 - **[2026-11-14 12:01 UTC]** Lula se encontra com presidente das Filipinas e fala em integrar minerais críticos do Brasil com indústria local de semicondutores
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/14/lula-se-encontra-com-presidente-das-filipinas-e-fala-em-integrar-minerais-criticos-do-brasil-com-industria-local-de-semicondutores.ghtml)_
 
+- **[2026-11-16 09:03 UTC]** Rouquidão de Lula: o que pode causar condição que fez o presidente cancelar mais um evento
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/saude/rouquidao-de-lula-o-que-pode-causar-condicao-que-fez-o-presidente-cancelar-mais-um-evento/)_
+
