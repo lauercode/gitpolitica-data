@@ -32,3 +32,6 @@
 - **[2026-10-06 18:43 UTC]** Resultado das eleições 2026 em Correia Pinto (SC): votação para presidente no Salão de Festas da Igreja São José, na 93ª zona eleitoral
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-correia-pinto-sc-votacao-para-presidente-no-salao-de-festas-da-igreja-sao-jose-na-93a-zona-eleitoral.ghtml)_
 
+- **[2026-11-15 21:00 UTC]** Rogério Correia e Ana Elisa defendem comissão externa para tratar da dívida de MG
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/rogerio-correia-e-ana-elisa-defendem-comissao-externa-para-tratar-da-divida-de-mg.shtml)_
+
