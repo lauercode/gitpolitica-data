@@ -275,3 +275,6 @@
 - **[2026-11-16 03:00 UTC]** Lula se reúne com Sánchez na Espanha e encerra primeiro giro pelo exterior após reeleição
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/16/lula-se-reune-nesta-segunda-com-sanchez-na-espanha-e-encerra-primeiro-giro-pelo-exterior-apos-reeleicao.ghtml)_
 
+- **[2026-11-16 13:21 UTC]** Em encontro, Lula e premiê socialista da Espanha falam em parceria contra “ameaça da extrema-direita”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/encontro-lula-premie-socialista-espanha-falam-parceria-contra-ameaca-extrema-direita/)_
+
