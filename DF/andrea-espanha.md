@@ -263,3 +263,6 @@
 - **[2026-11-15 19:59 UTC]** Inglaterra vence em Madri e encerra invencibilidade de 43 partidas da Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/inglaterra-vence-em-madri-e-encerra-invencibilidade-de-43-partidas-da-espanha.shtml)_
 
+- **[2026-11-16 03:00 UTC]** Lula se reúne nesta segunda com Sánchez na Espanha e encerra primeiro giro pelo exterior após reeleição
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/16/lula-se-reune-nesta-segunda-com-sanchez-na-espanha-e-encerra-primeiro-giro-pelo-exterior-apos-reeleicao.ghtml)_
+
