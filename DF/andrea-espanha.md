@@ -278,3 +278,6 @@
 - **[2026-11-16 13:21 UTC]** Em encontro, Lula e premiê socialista da Espanha falam em parceria contra “ameaça da extrema-direita”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/encontro-lula-premie-socialista-espanha-falam-parceria-contra-ameaca-extrema-direita/)_
 
+- **[2026-11-16 13:46 UTC]** Lula se reúne e grava vídeo com Pedro Sánchez na Espanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/16/lula-se-rene-e-grava-vdeo-com-pedro-snchez-na-espanha.ghtml)_
+
