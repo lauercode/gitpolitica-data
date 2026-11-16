@@ -263,3 +263,6 @@
 - **[2026-11-05 12:45 UTC]** Segundo dia da Operação Fronteira contabiliza R$ 29,5 milhões em apreensões, inclusive uma aeronave, diz Durigan
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/05/segundo-dia-da-operacao-fronteira-contabiliza-r-295-milhoes-em-apreensoes-inclusive-uma-aeronave-diz-durigan.ghtml)_
 
+- **[2026-11-15 22:29 UTC]** Segundo dia do Enem equilibra questões de diferentes níveis de dificuldade, avaliam especialistas
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/15/segundo-dia-do-enem-equilibra-questes-de-diferentes-nveis-de-dificuldade-avaliam-especialistas.ghtml)_
+
