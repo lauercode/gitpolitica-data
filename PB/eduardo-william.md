@@ -29,3 +29,6 @@
 - **[2026-10-22 13:19 UTC]** William Waack renova contrato com a CNN Brasil e fica na emissora até 2029
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/william-waack-renova-contrato-com-a-cnn-brasil-por-tres-anos.shtml)_
 
+- **[2026-11-16 05:45 UTC]** Kate Middleton acompanha príncipe William em viagem à Índia após tratamento contra câncer
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/16/kate-middleton-acompanha-prncipe-william-em-viagem-ndia-aps-tratamento-contra-cncer.ghtml)_
+
