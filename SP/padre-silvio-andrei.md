@@ -50,3 +50,6 @@
 - **[2026-11-16 14:08 UTC]** Andrei diz ser alvo de ataques que não o intimidam e afirma não haver divisão na PF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/16/andrei-diz-ser-alvo-de-ataques-que-nao-o-intimidam-e-afirma-nao-haver-divisao-na-pf.ghtml)_
 
+- **[2026-11-16 15:10 UTC]** Em meio a atrito com delegados, Andrei Rodrigues nega crise na PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/em-meio-a-atrito-com-delegados-andrei-rodrigues-nega-crise-na-pf/)_
+
