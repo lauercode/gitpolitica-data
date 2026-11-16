@@ -368,3 +368,6 @@
 - **[2026-11-16 13:02 UTC]** Pacientes entram na Justiça para conseguir vaga em hospital público do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/16/pacientes-entram-na-justica-para-conseguir-vaga-em-hospital-publico-do-tocantins.ghtml)_
 
+- **[2026-11-16 10:56 UTC]** Tocantins tem alertas de tempestade para todos os municípios até terça-feira (17); veja previsão
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/16/tocantins-tem-alertas-de-tempestade-para-todos-os-municipios-ate-terca-feira-17-veja-previsao.ghtml)_
+
