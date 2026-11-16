@@ -227,3 +227,6 @@
 - **[2026-11-06 15:00 UTC]** Governadora do DF volta a tentar conversa com Lula para socorrer BRB
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governadora-do-df-volta-a-tentar-conversa-com-lula-para-socorrer-brb.shtml)_
 
+- **[2026-11-16 08:00 UTC]** Governador da Paraíba atuará por governabilidade de Lula 4
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/16/governador-da-paraiba-atuara-por-governabilidade-de-lula-4.ghtml)_
+
