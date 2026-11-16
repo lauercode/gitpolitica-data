@@ -41,3 +41,6 @@
 - **[2026-11-13 20:10 UTC]** Defesa de Bolsonaro pede autorização para nova visita de Costa Neto
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/13/defesa-de-bolsonaro-pede-autorizacao-para-nova-visita-de-costa-neto.ghtml)_
 
+- **[2026-11-16 15:44 UTC]** Moraes rejeita pedido de Bolsonaro para receber visitas de Costa Neto, Marinho e Tereza Cristina
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/16/moraes-rejeita-pedido-de-bolsonaro-para-receber-visitas-de-costa-neto-marinho-e-tereza-cristina.ghtml)_
+
