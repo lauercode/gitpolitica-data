@@ -68,3 +68,6 @@
 - **[2026-11-16 10:46 UTC]** Moraes nega visitas de Tereza Cristina, Rogério Marinho e Valdemar a Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-nega-visitas-de-tereza-cristina-rogerio-marinho-e-valdemar-a-bolsonaro.shtml)_
 
+- **[2026-11-16 14:06 UTC]** Moraes barra visita de Rogério Marinho e Tereza Cristina a Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-barra-visita-de-rogerio-marinho-e-tereza-cristina-a-bolsonaro/)_
+
