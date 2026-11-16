@@ -11,3 +11,6 @@
 - **[2026-10-05 12:46 UTC]** Leci Brandão e deputados longevos não são reeleitos para Assembleia Legislativa de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/leci-brandao-e-deputados-longevos-nao-sao-reeleitos-para-assembleia-legislativa-de-sp.shtml)_
 
+- **[2026-11-16 09:37 UTC]** Na Semana da Música, Viva Maria homenageia Leci Brandão
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-11/na-semana-da-musica-viva-maria-homenageia-leci-brandao)_
+
