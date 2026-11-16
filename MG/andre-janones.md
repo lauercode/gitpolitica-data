@@ -341,3 +341,6 @@
 - **[2026-11-15 23:00 UTC]** Inspirada por Marighella e psicanálise, guerrilha digital espalha janonismo pelo mundo sem Janones
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/inspirada-por-marighella-e-psicanalise-guerrilha-digital-espalha-janonismo-pelo-mundo-sem-janones.shtml)_
 
+- **[2026-11-16 12:00 UTC]** Conheça as lições da fórmula Janones que funcionam na Europa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/11/conheca-as-licoes-da-formula-janones-que-funcionam-na-europa.shtml)_
+
