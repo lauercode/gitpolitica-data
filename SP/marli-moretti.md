@@ -44,3 +44,6 @@
 - **[2026-11-14 12:30 UTC]** Moretti está certo, Lindbergh está errado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/moretti-esta-certo-lindbergh-esta-errado.shtml)_
 
+- **[2026-11-15 23:00 UTC]** Esquerda sectária atrasa combate a privilégios ao criticar projeto de ajuste, diz Moretti
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/esquerda-sectaria-atrasa-combate-a-privilegios-ao-criticar-projeto-de-ajuste-diz-moretti.shtml)_
+
