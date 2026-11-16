@@ -56,3 +56,6 @@
 - **[2026-11-12 17:44 UTC]** Eduarda Campopiano: Artistas reagem à medalha concedida no Rio para deputada antifeminista de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/artistas-reagem-no-rio-a-medalha-para-deputada-eleita-por-sao-paulo.shtml)_
 
+- **[2026-11-16 11:32 UTC]** Câmara do Rio rejeita suspensão e mantém honraria à deputada Eduarda Campopiano
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/camara-do-rio-rejeita-suspensao-e-mantem-honraria-a-deputada-eduarda-campopiano/)_
+
