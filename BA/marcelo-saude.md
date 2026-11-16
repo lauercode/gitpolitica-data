@@ -116,3 +116,6 @@
 - **[2026-11-11 23:53 UTC]** Câmara aprova criação da Política Nacional de Residência em Saúde
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1318796-camara-aprova-criacao-da-politica-nacional-de-residencia-em-saude)_
 
+- **[2026-11-16 04:00 UTC]** Ministério da Saúde abre processo seletivo com salários de até R$ 10,3 mil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ministerio-da-saude-abre-processo-seletivo-com-salarios-de-ate-r-103-mil.shtml)_
+
