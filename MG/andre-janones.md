@@ -338,3 +338,6 @@
 - **[2026-11-15 08:30 UTC]** Janones, chegou a hora de um Exército da Marina contra petróleo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/11/janones-chegou-a-hora-de-um-exercito-da-marina-contra-petroleo.shtml)_
 
+- **[2026-11-15 23:00 UTC]** Inspirada por Marighella e psicanálise, guerrilha digital espalha janonismo pelo mundo sem Janones
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/inspirada-por-marighella-e-psicanalise-guerrilha-digital-espalha-janonismo-pelo-mundo-sem-janones.shtml)_
+
