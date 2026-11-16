@@ -128,3 +128,6 @@
 - **[2026-11-13 19:21 UTC]** Rede D’Or: Novo cenário de juros não muda planos de expansão
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/13/rede-dor-novo-cenario-de-juros-nao-muda-planos-de-expansao.ghtml)_
 
+- **[2026-11-16 14:10 UTC]** Novo ciclo dá continuidade à redução da dívida e venda de ativos, diz Cosan
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/16/novo-ciclo-da-continuidade-a-reducao-da-divida-e-venda-de-ativos-diz-cosan.ghtml)_
+
