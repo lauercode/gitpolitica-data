@@ -776,3 +776,6 @@
 - **[2026-11-16 00:34 UTC]** Alcolumbre tem seis cartas na manga para provocar traições na direita
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-tem-seis-cartas-na-manga-para-provocar-traicoes-na-direita/)_
 
+- **[2026-11-16 12:00 UTC]** Senadores fazem fila na residência oficial para discutir gabinetes com Alcolumbre
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/senadores-fazem-fila-na-residencia-oficial-para-discutir-gabinetes-com-alcolumbre.shtml)_
+
