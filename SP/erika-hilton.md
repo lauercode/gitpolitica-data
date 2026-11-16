@@ -143,3 +143,6 @@
 - **[2026-11-14 21:16 UTC]** Deputada Erika Hilton cobra justiça por mulher trans espancada em parque no Acre; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/14/deputada-erika-hilton-cobra-justica-por-mulher-trans-espancada-em-parque-no-acre-video.ghtml)_
 
+- **[2026-11-15 22:00 UTC]** Justiça bloqueia R$ 180 mil da Meta por descumprir ordem para retirar ataques a Erika Hilton
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/justica-bloqueia-r-180-mil-da-meta-por-descumprir-ordem-para-retirar-ataques-a-erika-hilton.shtml)_
+
