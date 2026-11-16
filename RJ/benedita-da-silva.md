@@ -29,3 +29,6 @@
 - **[2026-11-13 19:39 UTC]** Benedita da Silva, a grandeza de quem fez história
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/opiniao/benedita-da-silva-a-grandeza-de-quem-fez-historia/)_
 
+- **[2026-11-15 23:00 UTC]** Racismo e machismo também persistem na esquerda, diz Benedita da Silva
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/racismo-e-machismo-tambem-persistem-na-esquerda-diz-benedita-da-silva.shtml)_
+
