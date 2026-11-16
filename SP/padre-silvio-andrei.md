@@ -53,3 +53,6 @@
 - **[2026-11-16 15:10 UTC]** Em meio a atrito com delegados, Andrei Rodrigues nega crise na PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/em-meio-a-atrito-com-delegados-andrei-rodrigues-nega-crise-na-pf/)_
 
+- **[2026-11-16 15:00 UTC]** Em evento, Andrei critica ‘vozes que se acham maiores que a PF’ e diz que não se intimidará
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/16/em-evento-andrei-critica-vozes-que-se-acham-maiores-que-a-pf-e-diz-que-nao-se-intimidara.ghtml)_
+
