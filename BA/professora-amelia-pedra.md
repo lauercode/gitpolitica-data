@@ -29,3 +29,6 @@
 - **[2026-11-14 10:31 UTC]** Morre Rogério Fróes, ator de 'O Bem-Amado' e 'Selva de Pedra', aos 92 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/morre-rogerio-froes-ator-de-o-bem-amado-e-selva-de-pedra-aos-92-anos.shtml)_
 
+- **[2026-11-16 12:00 UTC]** Caçadores da Idade da Pedra na Europa teriam usado flechas envenenadas para matar grandes presas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/11/cacadores-da-idade-da-pedra-na-europa-teriam-usado-flechas-envenenadas-para-matar-grandes-presas.shtml)_
+
