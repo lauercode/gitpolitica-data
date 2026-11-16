@@ -154,3 +154,6 @@
 - **[2026-11-13 21:38 UTC]** Rogério Marinho aponta manobras fiscais em novo ajuste aprovado pelo Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/rogerio-marinho-aponta-manobras-fiscais-em-novo-ajuste-aprovado-pelo-senado/)_
 
+- **[2026-11-16 10:46 UTC]** Moraes nega visitas de Tereza Cristina, Rogério Marinho e Valdemar a Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-nega-visitas-de-tereza-cristina-rogerio-marinho-e-valdemar-a-bolsonaro.shtml)_
+
