@@ -77,3 +77,6 @@
 - **[2026-11-14 16:05 UTC]** Três homens fogem de presídio em Pernambuco; um é recapturado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/tres-homens-fogem-de-presidio-em-pernambuco-um-e-recapturado.shtml)_
 
+- **[2026-11-15 21:43 UTC]** Morre Claudionor Germano, aos 94, ídolo do frevo e patrimônio de Pernambuco
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/morre-claudionor-germano-aos-94-idolo-do-frevo-e-patrimonio-de-pernambuco.shtml)_
+
