@@ -773,3 +773,6 @@
 - **[2026-11-16 04:35 UTC]** Alcolumbre articula rede de acordos para enfraquecer oposição no Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-articula-rede-de-acordos-para-enfraquecer-oposicao-no-senado/)_
 
+- **[2026-11-16 00:34 UTC]** Alcolumbre tem seis cartas na manga para provocar traições na direita
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-tem-seis-cartas-na-manga-para-provocar-traicoes-na-direita/)_
+
