@@ -770,3 +770,6 @@
 - **[2026-11-14 18:00 UTC]** Aliados pedem que Alcolumbre defenda fim de superinquéritos do STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/aliados-pedem-que-alcolumbre-defenda-fim-de-superinqueritos-do-stf.shtml)_
 
+- **[2026-11-16 04:35 UTC]** Alcolumbre articula rede de acordos para enfraquecer oposição no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-articula-rede-de-acordos-para-enfraquecer-oposicao-no-senado/)_
+
