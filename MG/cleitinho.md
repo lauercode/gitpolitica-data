@@ -233,3 +233,6 @@
 - **[2026-11-15 06:00 UTC]** Emendas de Cleitinho bancaram show de Claudia Leitte e festa de prefeitura em MG
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/emendas-de-cleitinho-bancaram-show-de-claudia-leitte-e-festa-de-prefeitura-em-mg.shtml)_
 
+- **[2026-11-15 18:27 UTC]** Cleitinho liga para prefeito que fez show de Claudia Leitte para tirar satisfação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/cleitinho-liga-para-prefeito-que-fez-show-de-claudia-leitte-para-tirar-satisfacao.shtml)_
+
