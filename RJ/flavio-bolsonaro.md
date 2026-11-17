@@ -11071,3 +11071,6 @@
 - **[2026-11-16 20:04 UTC]** Ação pede ao STF prisão e o bloqueio do salário de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/acao-pede-ao-stf-prisao-e-o-bloqueio-do-salario-de-flavio-bolsonaro/)_
 
+- **[2026-11-17 11:02 UTC]** Grupo Prerrogativas e deputado do PT pedem prisão de Flávio Bolsonaro e bloqueio de salário
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/grupo-prerrogativas-e-deputado-do-pt-pedem-prisao-de-flavio-e-bloqueio-de-salario/)_
+
