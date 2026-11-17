@@ -11,3 +11,6 @@
 - **[2026-11-16 00:43 UTC]** Deputado estadual eleito Fábio Henrique sofre infarto e é internado na UTI em Aracaju
   _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/11/15/deputado-estadual-eleito-fabio-henrique-sofre-infarto-e-e-internado-na-uti-em-aracaju.ghtml)_
 
+- **[2026-11-16 17:40 UTC]** Deputado estadual eleito Fábio Henrique está clinicamente estável, mas segue na UTI
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/11/16/boletim-fabio-henrique-segunda.ghtml)_
+
