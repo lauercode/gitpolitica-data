@@ -17,3 +17,6 @@
 - **[2026-11-03 16:40 UTC]** Paulo Dantas apresenta equipe de transição de governo e diz que aguarda indicações de JHC
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/03/paulo-dantas-apresenta-equipe-de-transicao-de-governo-e-diz-que-aguarda-indicacoes-de-jhc.ghtml)_
 
+- **[2026-11-16 19:25 UTC]** Equipe de JHC falta à 1ª reunião de transição com gestão de Paulo Dantas; governador eleito não se pronuncia
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/16/equipe-de-jhc-falta-a-1a-reuniao-de-transicao-com-gestao-de-paulo-dantas-governador-eleito-nao-se-pronuncia.ghtml)_
+
