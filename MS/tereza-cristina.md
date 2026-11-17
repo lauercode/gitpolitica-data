@@ -74,3 +74,6 @@
 - **[2026-11-16 15:44 UTC]** Moraes rejeita pedido de Bolsonaro para receber visitas de Costa Neto, Marinho e Tereza Cristina
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/16/moraes-rejeita-pedido-de-bolsonaro-para-receber-visitas-de-costa-neto-marinho-e-tereza-cristina.ghtml)_
 
+- **[2026-11-16 20:11 UTC]** Tereza Cristina critica Moraes por impedir visita a Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tereza-cristina-critica-moraes-por-impedir-visita-a-bolsonaro/)_
+
