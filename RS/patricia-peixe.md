@@ -26,3 +26,6 @@
 - **[2026-11-13 14:37 UTC]** Peixe-boi pegador de onda? Encontro de surfista com animal em praia da Paraíba rende momento inusitado; veja o vídeo
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/13/peixe-boi-pegador-de-onda-encontro-de-surfista-com-animal-em-praia-da-paraiba-rende-momento-inusitado-veja-o-video.ghtml)_
 
+- **[2026-11-17 03:47 UTC]** Peixe-boi Perpétua viaja 537 km e começa reabilitação na Ilha do Marajó
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/peixe-boi-perpetua-viaja-537-km-e-comeca-reabilitacao-na-ilha-do-marajo.shtml)_
+
