@@ -2307,6 +2307,16 @@
     "camara_id": 204394
   },
   {
+    "slug": "giacobo",
+    "name": "Giacobo",
+    "role": "Deputado(a) Federal (PR)",
+    "party": "PSD",
+    "aliases": [
+      "Giacobo"
+    ],
+    "camara_id": 74383
+  },
+  {
     "slug": "gilberto-abramo",
     "name": "Gilberto Abramo",
     "role": "Deputado(a) Federal (MG)",
@@ -2644,17 +2654,6 @@
       "Isnaldo Bulhões Jr."
     ],
     "camara_id": 204436
-  },
-  {
-    "slug": "itamar-paim",
-    "name": "Itamar Paim",
-    "role": "Deputado(a) Federal (PR)",
-    "party": "PL",
-    "aliases": [
-      "Itamar Paim",
-      "Paim"
-    ],
-    "camara_id": 225846
   },
   {
     "slug": "ivoneide-caetano",
