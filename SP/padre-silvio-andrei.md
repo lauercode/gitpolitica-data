@@ -65,3 +65,6 @@
 - **[2026-11-17 08:00 UTC]** Aliados de Andrei atribuem crise na PF a fogo amigo e mal-estar com PT da Bahia
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/aliados-de-andrei-atribuem-crise-na-pf-a-fogo-amigo-e-mal-estar-com-pt-da-bahia.ghtml)_
 
+- **[2026-11-17 12:30 UTC]** Senador vê interferência de Andrei contra delegados e tentativa de acobertamento na PF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/senador-ve-interferencia-de-andrei-contra-delegados-e-tentativa-de-acobertamento-na-pf.shtml)_
+
