@@ -11074,3 +11074,6 @@
 - **[2026-11-17 11:02 UTC]** Grupo Prerrogativas e deputado do PT pedem prisão de Flávio Bolsonaro e bloqueio de salário
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/grupo-prerrogativas-e-deputado-do-pt-pedem-prisao-de-flavio-e-bloqueio-de-salario/)_
 
+- **[2026-11-17 11:51 UTC]** Direita espanhola critica visita de Lula a Sánchez e questiona vitória do petista sobre Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/direita-espanhola-critica-visita-lula-sanchez-questiona-vitoria-petista-sobre-flavio/)_
+
