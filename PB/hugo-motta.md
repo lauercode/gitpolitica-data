@@ -113,3 +113,6 @@
 - **[2026-11-16 14:51 UTC]** Disputa por cargos e resistência ao PT dividem PL sobre apoio a Hugo Motta
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/disputa-por-cargos-e-resistencia-ao-pt-dividem-pl-sobre-apoio-a-hugo-motta/)_
 
+- **[2026-11-16 18:52 UTC]** Hugo Motta acena para a direita com pauta da maioridade penal na Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-acena-para-a-direita-com-pauta-da-maioridade-penal-na-camara/)_
+
