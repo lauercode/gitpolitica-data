@@ -62,3 +62,6 @@
 - **[2026-11-16 18:03 UTC]** Andrei Rodrigues nega crise na PF, mas diz ser alvo de ataques
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/andrei-rodrigues-nega-crise-na-pf-mas-diz-ser-alvo-de-ataques/)_
 
+- **[2026-11-17 08:00 UTC]** Aliados de Andrei atribuem crise na PF a fogo amigo e mal-estar com PT da Bahia
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/aliados-de-andrei-atribuem-crise-na-pf-a-fogo-amigo-e-mal-estar-com-pt-da-bahia.ghtml)_
+
