@@ -59,3 +59,6 @@
 - **[2026-11-14 18:52 UTC]** Juventude vence o Botafogo-SP no Alfredo Jaconi e garante o acesso à Série A de 2027
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/juventude-vence-o-botafogo-sp-no-alfredo-jaconi-e-garante-o-acesso-a-serie-a-de-2027/)_
 
+- **[2026-11-16 22:47 UTC]** Atacante do Botafogo completa quase um turno sem marcar gols
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/atacante-do-botafogo-completa-quase-um-turno-sem-marcar-gols/)_
+
