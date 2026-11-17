@@ -11,3 +11,6 @@
 - **[2026-10-10 03:00 UTC]** BRB: decisão de comprar Master foi tomada em reunião na Suíça com Ibaneis, Paulo Henrique e Vorcaro, aponta Polícia Federal
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/brb-decisao-de-comprar-master-foi-tomada-em-reuniao-na-suica-com-ibaneis-paulo-henrique-e-vorcaro-aponta-policia-federal.ghtml)_
 
+- **[2026-11-16 21:43 UTC]** PGR se manifesta contra revogação da prisão de Paulo Henrique Costa, ex-presidente do BRB
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/16/pgr-se-manifesta-contra-revogao-da-priso-de-paulo-henrique-costa-ex-presidente-do-brb.ghtml)_
+
