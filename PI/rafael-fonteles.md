@@ -80,3 +80,6 @@
 - **[2026-11-16 14:42 UTC]** Rafael Fonteles anuncia nomeação de 2,5 mil aprovados em concursos no Piauí
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/16/rafael-fonteles-anuncia-nomeacao-aprovados-concursos.ghtml)_
 
+- **[2026-11-16 18:55 UTC]** Piauí terá mais 700 policiais civis e militares, anuncia Rafael Fonteles
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/16/piaui-policiais-rafael-fonteles.ghtml)_
+
