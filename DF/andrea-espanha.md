@@ -281,3 +281,6 @@
 - **[2026-11-16 13:46 UTC]** Lula se reúne e grava vídeo com Pedro Sánchez na Espanha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/16/lula-se-rene-e-grava-vdeo-com-pedro-snchez-na-espanha.ghtml)_
 
+- **[2026-11-16 17:48 UTC]** Sánchez e Lula conversam sobre a ameaça da extrema direita antes das eleições na Espanha
+  _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/11/16/sanchez-e-lula-conversam-sobre-a-ameaca-da-extrema-direita-antes-das-eleicoes-na-espanha.ghtml)_
+
