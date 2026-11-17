@@ -344,3 +344,6 @@
 - **[2026-11-16 12:00 UTC]** Conheça as lições da fórmula Janones que funcionam na Europa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/11/conheca-as-licoes-da-formula-janones-que-funcionam-na-europa.shtml)_
 
+- **[2026-11-17 08:00 UTC]** O que Janones e Nikolas ensinam à propaganda
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/coluna/o-que-janones-e-nikolas-ensinam-a-propaganda.ghtml)_
+
