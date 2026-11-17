@@ -125,3 +125,6 @@
 - **[2026-11-17 15:25 UTC]** Com medidas do governo, Saúde pode deixar de receber R$ 9 bilhões em 2027 e ter alta limitada até 2030; organizações sociais reagem
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/17/com-medidas-do-governo-saude-pode-deixar-de-receber-r-9-bilhoes-em-2027-e-ter-alta-limitada-ate-2030-organizacoes-sociais-reagem.ghtml)_
 
+- **[2026-11-17 14:34 UTC]** Ex-servidor é preso suspeito de "vender" falsas vagas de emprego na Secretaria da Saúde da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/17/ex-servidor-e-preso-suspeito-de-vender-falsas-vagas-de-emprego-na-secretaria-da-saude-da-paraiba.ghtml)_
+
