@@ -83,3 +83,6 @@
 - **[2026-11-11 19:25 UTC]** Ex-BBB deve assumir vaga na Câmara dos Deputados com possível anúncio de Zucco para secretariado do RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/11/ex-bbb-vaga-camara-deputados-zucco-rs.ghtml)_
 
+- **[2026-11-17 08:00 UTC]** Zucco define desenho do próximo governo do RS com corte de 10 secretarias
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/11/17/zucco-define-desenho-proximo-governo-rs.ghtml)_
+
