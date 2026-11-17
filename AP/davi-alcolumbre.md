@@ -782,3 +782,6 @@
 - **[2026-11-16 16:45 UTC]** Marinho diz que Senado está “subalterno” e “rendido” sob Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marinho-diz-que-senado-esta-subalterno-e-rendido-sob-alcolumbre/)_
 
+- **[2026-11-16 16:43 UTC]** Lula busca acordo com Alcolumbre para evitar nova derrota na indicação ao STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-busca-acordo-com-alcolumbre-para-evitar-nova-derrota-na-indicacao-ao-stf/)_
+
