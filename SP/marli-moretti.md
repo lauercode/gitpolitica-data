@@ -59,3 +59,6 @@
 - **[2026-11-16 14:27 UTC]** Maiores centrais descartam ir a ato contra 'plano Moretti' e priorizam protesto contra juros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/centrais-descartam-ir-a-ato-contra-plano-moretti-e-priorizam-protesto-contra-juros.shtml)_
 
+- **[2026-11-16 22:00 UTC]** Para leitor, Moretti 'empobrece debate e iguala defesa de políticas sociais a ameaças à democracia'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/para-leitor-moretti-empobrece-debate-e-iguala-defesa-de-politicas-sociais-a-ameacas-a-democracia.shtml)_
+
