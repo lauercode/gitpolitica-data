@@ -65,3 +65,6 @@
 - **[2026-11-17 11:29 UTC]** Senado conclui nesta terça (17) votação do 'plano Moretti'; veja o que falta ser decidido
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-conclui-nesta-terca-17-votacao-do-plano-moretti-veja-o-que-falta-ser-decidido.shtml)_
 
+- **[2026-11-17 09:48 UTC]** Dólar chega a R$ 5,81 à espera de votação do plano Moretti no Senado; Bolsa sobe
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-chega-a-r-579-com-mercado-a-espera-de-votacao-de-projeto-fiscal-no-senado.shtml)_
+
