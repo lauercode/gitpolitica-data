@@ -38,3 +38,6 @@
 - **[2026-11-16 17:02 UTC]** Papa é atingido no rosto por terço lançado da multidão durante visita ao Peru
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/papa-e-atingido-no-rosto-por-terco-lancado-da-multidao-durante-visita-ao-peru.shtml)_
 
+- **[2026-11-17 09:12 UTC]** Papa diz que jornalistas parecem mais cansados do que ele após viagem de 12 dias pela América do Sul
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/papa-diz-que-jornalistas-parecem-mais-cansados-do-que-ele-apos-viagem-de-12-dias-pela-america-do-sul.shtml)_
+
