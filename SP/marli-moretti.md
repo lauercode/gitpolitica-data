@@ -62,3 +62,6 @@
 - **[2026-11-16 22:00 UTC]** Para leitor, Moretti 'empobrece debate e iguala defesa de políticas sociais a ameaças à democracia'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/para-leitor-moretti-empobrece-debate-e-iguala-defesa-de-politicas-sociais-a-ameacas-a-democracia.shtml)_
 
+- **[2026-11-17 11:29 UTC]** Senado conclui nesta terça (17) votação do 'plano Moretti'; veja o que falta ser decidido
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-conclui-nesta-terca-17-votacao-do-plano-moretti-veja-o-que-falta-ser-decidido.shtml)_
+
