@@ -119,3 +119,6 @@
 - **[2026-11-16 04:00 UTC]** Ministério da Saúde abre processo seletivo com salários de até R$ 10,3 mil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ministerio-da-saude-abre-processo-seletivo-com-salarios-de-ate-r-103-mil.shtml)_
 
+- **[2026-11-17 11:11 UTC]** Semana da Saúde leva serviços gratuitos à população do Rio
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-11/semana-da-saude-leva-servicos-gratuitos-populacao-do-rio)_
+
