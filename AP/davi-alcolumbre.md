@@ -788,3 +788,6 @@
 - **[2026-11-17 17:29 UTC]** Alcolumbre e Motta cobram de Moraes julgamento da lei da dosimetria
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/17/alcolumbre-e-motta-cobram-de-moraes-julgamento-da-lei-da-dosimetria.ghtml)_
 
+- **[2026-11-17 14:39 UTC]** Alcolumbre e Motta se reúnem com Moraes e pedem que ministro paute no STF lei que reduz penas de Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-e-motta-se-reunem-com-moraes-e-pedem-que-ministro-paute-no-stf-lei-que-reduz-penas-de-bolsonaro.shtml)_
+
