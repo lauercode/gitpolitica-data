@@ -791,3 +791,6 @@
 - **[2026-11-17 14:39 UTC]** Alcolumbre e Motta se reúnem com Moraes e pedem que ministro paute no STF lei que reduz penas de Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-e-motta-se-reunem-com-moraes-e-pedem-que-ministro-paute-no-stf-lei-que-reduz-penas-de-bolsonaro.shtml)_
 
+- **[2026-11-17 17:48 UTC]** Alcolumbre e Motta pedem a Moraes que libere julgamento da Lei da Dosimetria
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-e-motta-pedem-a-moraes-que-libere-julgamento-da-lei-da-dosimetria/)_
+
