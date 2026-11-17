@@ -56,3 +56,6 @@
 - **[2026-11-16 15:00 UTC]** Em evento, Andrei critica ‘vozes que se acham maiores que a PF’ e diz que não se intimidará
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/16/em-evento-andrei-critica-vozes-que-se-acham-maiores-que-a-pf-e-diz-que-nao-se-intimidara.ghtml)_
 
+- **[2026-11-16 18:12 UTC]** Ao Ministério da Justiça, Andrei nega interferência e diz que relatórios 'extrapolaram caráter descritivo'
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/16/ao-ministerio-da-justica-andrei-nega-interferencia-e-diz-que-relatorios-extrapolaram-carater-descritivo.ghtml)_
+
