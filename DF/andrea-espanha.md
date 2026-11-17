@@ -287,3 +287,6 @@
 - **[2026-11-17 15:05 UTC]** Caos criado pelo Socialismo Gen-Z na Espanha aponta para possível futuro de Lula 4
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/caos-socialismo-gen-z-espanha-possivel-futuro-lula-4/)_
 
+- **[2026-11-17 13:24 UTC]** Não serei refém da direita ou do mercado, mas do povo brasileiro, diz Lula na Espanha
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/economia/nao-serei-refem-da-direita-ou-do-mercado-mas-do-povo-brasileiro-diz-lula-na-espanha/)_
+
