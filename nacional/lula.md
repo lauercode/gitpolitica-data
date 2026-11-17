@@ -2747,3 +2747,6 @@
 - **[2026-11-16 09:03 UTC]** Rouquidão de Lula: o que pode causar condição que fez o presidente cancelar mais um evento
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/saude/rouquidao-de-lula-o-que-pode-causar-condicao-que-fez-o-presidente-cancelar-mais-um-evento/)_
 
+- **[2026-11-17 11:51 UTC]** Direita espanhola critica visita de Lula a Sánchez e questiona vitória do petista sobre Flávio
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/direita-espanhola-critica-visita-lula-sanchez-questiona-vitoria-petista-sobre-flavio/)_
+
