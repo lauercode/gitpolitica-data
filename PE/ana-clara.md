@@ -44,3 +44,6 @@
 - **[2026-10-27 20:41 UTC]** Vaquinha arrecada R$ 1,5 milhão em menos de 6 horas para mãe de Ana Clara, morta aos 5 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/vaquinha-arrecada-r-15-milhao-em-menos-de-6-horas-para-mae-de-ana-clara-morta-aos-5-anos.shtml)_
 
+- **[2026-11-17 14:28 UTC]** Sem programa na TV aberta em 2027, Ana Clara Lima vai apresentar Show da Virada na Globo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/sem-programa-na-tv-aberta-em-2027-ana-clara-lima-vai-apresentar-show-da-virada-na-globo.shtml)_
+
