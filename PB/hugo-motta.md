@@ -116,3 +116,6 @@
 - **[2026-11-16 18:52 UTC]** Hugo Motta acena para a direita com pauta da maioridade penal na Câmara
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-acena-para-a-direita-com-pauta-da-maioridade-penal-na-camara/)_
 
+- **[2026-11-17 15:24 UTC]** Nikolas diz que pode deixar PL se partido apoiar reeleição de Hugo Motta
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-diz-que-pode-deixar-pl-se-partido-apoiar-reeleicao-de-hugo-motta/)_
+
