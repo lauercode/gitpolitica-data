@@ -185,3 +185,6 @@
 - **[2026-11-13 14:51 UTC]** Delegado de São Gonçalo, reduto político de Douglas Ruas, será secretário de Segurança do Rio
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/13/delegado-de-so-gonalo-reduto-poltico-de-douglas-ruas-ser-secretrio-de-segurana-do-rio.ghtml)_
 
+- **[2026-11-16 18:23 UTC]** Douglas Ruas anuncia para a Educação do RJ secretário pró-privatização
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/educacao/douglas-ruas-anuncia-para-a-educacao-do-rj-secretario-pro-privatizacao/)_
+
