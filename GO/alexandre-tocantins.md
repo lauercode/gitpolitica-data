@@ -371,3 +371,6 @@
 - **[2026-11-16 10:56 UTC]** Tocantins tem alertas de tempestade para todos os municípios até terça-feira (17); veja previsão
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/16/tocantins-tem-alertas-de-tempestade-para-todos-os-municipios-ate-terca-feira-17-veja-previsao.ghtml)_
 
+- **[2026-11-16 23:57 UTC]** Governo do Tocantins contrata Cebraspe para concurso da Polícia Civil com 452 vagas e salários de até R$ 21,9 mil
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/16/governo-do-tocantins-contrata-cebraspe-para-concurso-da-policia-civil-com-452-vagas-e-salarios-de-ate-r-219-mil.ghtml)_
+
