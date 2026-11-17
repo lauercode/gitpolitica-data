@@ -41,3 +41,6 @@
 - **[2026-10-24 12:00 UTC]** Palácio na Etiópia teria estrutura similar à de arranha-céu há quase 3.000 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/palacio-na-etiopia-teria-estrutura-similar-a-de-arranha-ceu-ha-quase-3000-anos.shtml)_
 
+- **[2026-11-16 23:00 UTC]** Thriller no Palácio de Justiça da Colômbia faz espectador se sentir dentro da tragédia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/thriller-no-palacio-de-justica-da-colombia-faz-espectador-se-sentir-dentro-da-tragedia.shtml)_
+
