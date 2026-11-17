@@ -194,3 +194,6 @@
 - **[2026-11-03 13:31 UTC]** Lula fará exames médicos gerais em SP antes de viajar à Turquia e às Filipinas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lula-deve-fazer-exames-gerais-em-sp-antes-de-viajar-a-turquia-e-as-filipinas.shtml)_
 
+- **[2026-11-17 15:40 UTC]** Polícia Civil de SP investiga suspeita de golpe contra filho caçula de Lula
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/polcia-civil-de-sp-investiga-suspeita-de-golpe-de-r-800-mil-contra-filho-caula-de-lula.ghtml)_
+
