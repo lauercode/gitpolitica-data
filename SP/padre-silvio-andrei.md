@@ -68,3 +68,6 @@
 - **[2026-11-17 12:30 UTC]** Senador vê interferência de Andrei contra delegados e tentativa de acobertamento na PF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/senador-ve-interferencia-de-andrei-contra-delegados-e-tentativa-de-acobertamento-na-pf.shtml)_
 
+- **[2026-11-17 17:27 UTC]** Andrei Rodrigues envia relatórios sobre seis ministros do STF ao ministro Fachin
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-rodrigues-envia-relatorios-sobre-seis-ministros-do-stf-ao-ministro-fachin/)_
+
