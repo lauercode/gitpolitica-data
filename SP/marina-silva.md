@@ -89,3 +89,6 @@
 - **[2026-11-03 20:29 UTC]** Planta descoberta no Tocantins recebe nome em homenagem à ex-ministra Marina Silva
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/03/planta-descoberta-no-tocantins-recebe-nome-em-homenagem-a-ex-ministra-marina-silva.ghtml)_
 
+- **[2026-11-17 05:00 UTC]** 'Lula tem que ficar em paz para fazer a escolha dele', diz Marina Silva sobre ministério
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/lula-tem-que-ficar-em-paz-para-fazer-a-escolha-dele-diz-marina-silva-sobre-ministerio.shtml)_
+
