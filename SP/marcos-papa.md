@@ -35,3 +35,6 @@
 - **[2026-11-12 15:52 UTC]** Papa pede reparação diante dos abusos cometidos na Igreja
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/papa-pede-reparacao-diante-dos-abusos-cometidos-na-igreja/)_
 
+- **[2026-11-16 17:02 UTC]** Papa é atingido no rosto por terço lançado da multidão durante visita ao Peru
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/papa-e-atingido-no-rosto-por-terco-lancado-da-multidao-durante-visita-ao-peru.shtml)_
+
