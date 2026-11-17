@@ -26,3 +26,6 @@
 - **[2026-11-13 06:00 UTC]** Gato é abandonado em caixa na calçada com trauma craniano, fraturas e lesões e morre após dias internado no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/13/gato-abandonado-caixa-trauma-fraturas-lesoes-morre-internado-rs.ghtml)_
 
+- **[2026-11-17 12:19 UTC]** Gato-maracajá é visto andando sobre muros de casas em Imperatriz no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/11/17/gato-maracaja-e-visto-andando-sobre-muros-de-casas-em-imperatriz-no-ma.ghtml)_
+
