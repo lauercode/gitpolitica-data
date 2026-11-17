@@ -779,3 +779,6 @@
 - **[2026-11-16 12:00 UTC]** Senadores fazem fila na residência oficial para discutir gabinetes com Alcolumbre
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/senadores-fazem-fila-na-residencia-oficial-para-discutir-gabinetes-com-alcolumbre.shtml)_
 
+- **[2026-11-16 16:45 UTC]** Marinho diz que Senado está “subalterno” e “rendido” sob Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marinho-diz-que-senado-esta-subalterno-e-rendido-sob-alcolumbre/)_
+
