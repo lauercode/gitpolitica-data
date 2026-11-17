@@ -59,3 +59,6 @@
 - **[2026-11-16 18:12 UTC]** Ao Ministério da Justiça, Andrei nega interferência e diz que relatórios 'extrapolaram caráter descritivo'
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/16/ao-ministerio-da-justica-andrei-nega-interferencia-e-diz-que-relatorios-extrapolaram-carater-descritivo.ghtml)_
 
+- **[2026-11-16 18:03 UTC]** Andrei Rodrigues nega crise na PF, mas diz ser alvo de ataques
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/andrei-rodrigues-nega-crise-na-pf-mas-diz-ser-alvo-de-ataques/)_
+
