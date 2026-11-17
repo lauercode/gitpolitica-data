@@ -284,3 +284,6 @@
 - **[2026-11-16 17:48 UTC]** Sánchez e Lula conversam sobre a ameaça da extrema direita antes das eleições na Espanha
   _fonte: [G1 - Política:](https://g1.globo.com/mundo/noticia/2026/11/16/sanchez-e-lula-conversam-sobre-a-ameaca-da-extrema-direita-antes-das-eleicoes-na-espanha.ghtml)_
 
+- **[2026-11-17 15:05 UTC]** Caos criado pelo Socialismo Gen-Z na Espanha aponta para possível futuro de Lula 4
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/caos-socialismo-gen-z-espanha-possivel-futuro-lula-4/)_
+
