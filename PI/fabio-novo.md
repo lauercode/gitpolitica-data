@@ -134,3 +134,6 @@
 - **[2026-11-16 10:05 UTC]** Novo bolso-golpismo à vista: apelo internacional cristianizado ao novo golpismo político
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/opiniao/novo-bolso-golpismo-a-vista-apelo-internacional-cristianizado-ao-novo-golpismo-politico/)_
 
+- **[2026-11-17 13:00 UTC]** Novo filme da saga 'Jogos Vorazes' repete fórmula e força um final feliz
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/novo-filme-da-saga-jogos-vorazes-repete-formula-e-forca-um-final-feliz.shtml)_
+
