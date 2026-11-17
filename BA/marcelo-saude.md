@@ -122,3 +122,6 @@
 - **[2026-11-17 11:11 UTC]** Semana da Saúde leva serviços gratuitos à população do Rio
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-11/semana-da-saude-leva-servicos-gratuitos-populacao-do-rio)_
 
+- **[2026-11-17 15:25 UTC]** Com medidas do governo, Saúde pode deixar de receber R$ 9 bilhões em 2027 e ter alta limitada até 2030; organizações sociais reagem
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/17/com-medidas-do-governo-saude-pode-deixar-de-receber-r-9-bilhoes-em-2027-e-ter-alta-limitada-ate-2030-organizacoes-sociais-reagem.ghtml)_
+
