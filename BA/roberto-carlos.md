@@ -50,3 +50,6 @@
 - **[2026-11-10 18:37 UTC]** Roberto Carlos é vivido por Victor Medeiros em nova cinebiografia; veja foto
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/roberto-carlos-e-vivido-por-victor-medeiros-em-nova-cinebiografia-veja-foto.shtml)_
 
+- **[2026-11-17 14:56 UTC]** Davi Assayag e padre Mauro Maia fazem show com sucessos de Roberto Carlos em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/17/davi-assayag-e-padre-mauro-maia-fazem-show-com-sucessos-de-roberto-carlos-em-boa-vista.ghtml)_
+
