@@ -56,3 +56,6 @@
 - **[2026-11-16 17:43 UTC]** Moretti criticou teto e defendeu expansão de gastos em 2022
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/moretti-criticou-teto-e-defendeu-expansao-de-gastos-em-2022.shtml)_
 
+- **[2026-11-16 14:27 UTC]** Maiores centrais descartam ir a ato contra 'plano Moretti' e priorizam protesto contra juros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/centrais-descartam-ir-a-ato-contra-plano-moretti-e-priorizam-protesto-contra-juros.shtml)_
+
