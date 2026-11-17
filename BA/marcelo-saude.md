@@ -128,3 +128,6 @@
 - **[2026-11-17 14:34 UTC]** Ex-servidor é preso suspeito de "vender" falsas vagas de emprego na Secretaria da Saúde da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/17/ex-servidor-e-preso-suspeito-de-vender-falsas-vagas-de-emprego-na-secretaria-da-saude-da-paraiba.ghtml)_
 
+- **[2026-11-17 12:57 UTC]** PF apura fraude na manutenção de veículos da Secretaria da Saúde de Aceguá
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/17/pf-apura-fraude-na-manutencao-de-veiculos-da-secretaria-da-saude-de-acegua.ghtml)_
+
