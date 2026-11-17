@@ -11077,3 +11077,6 @@
 - **[2026-11-17 11:51 UTC]** Direita espanhola critica visita de Lula a Sánchez e questiona vitória do petista sobre Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/direita-espanhola-critica-visita-lula-sanchez-questiona-vitoria-petista-sobre-flavio/)_
 
+- **[2026-11-17 13:22 UTC]** Maioria desaprova fuga de Flávio Bolsonaro e rejeita justificativa de perseguição política
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/maioria-desaprova-fuga-de-flavio-bolsonaro-e-rejeita-justificativa-de-perseguicao-politica/)_
+
