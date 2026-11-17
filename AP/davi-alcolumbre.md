@@ -785,3 +785,6 @@
 - **[2026-11-16 16:43 UTC]** Lula busca acordo com Alcolumbre para evitar nova derrota na indicação ao STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lula-busca-acordo-com-alcolumbre-para-evitar-nova-derrota-na-indicacao-ao-stf/)_
 
+- **[2026-11-17 17:29 UTC]** Alcolumbre e Motta cobram de Moraes julgamento da lei da dosimetria
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/17/alcolumbre-e-motta-cobram-de-moraes-julgamento-da-lei-da-dosimetria.ghtml)_
+
