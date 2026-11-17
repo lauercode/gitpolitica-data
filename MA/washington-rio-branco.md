@@ -140,3 +140,6 @@
 - **[2026-11-15 04:01 UTC]** Previsão do tempo hoje para Rio Branco (AC): sol e muitas nuvens à tarde; à noite ocorrem pancadas de chuva
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-rio-branco-ac-sol-e-muitas-nuvens-a-tarde-a-noite-ocorrem-pancadas-de-chuva.ghtml)_
 
+- **[2026-11-17 08:00 UTC]** Tratado de Petrópolis: Como a diplomacia de Barão do Rio Branco mudou destino do Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/17/tratado-de-petropolis-como-a-diplomacia-de-barao-do-rio-branco-mudou-destino-do-acre.ghtml)_
+
