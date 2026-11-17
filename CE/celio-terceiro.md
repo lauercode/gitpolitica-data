@@ -53,3 +53,6 @@
 - **[2026-11-12 15:10 UTC]** 'Terceiro turno', eleição do Senado definirá rumos do próximo governo; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/terceiro-turno-eleicao-do-senado-definira-rumos-do-proximo-governo-veja-video.shtml)_
 
+- **[2026-11-17 00:30 UTC]** Terceiro mandato de Lula termina com dívida maior, juros elevados e economia desacelerando
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/lula-3-economia-2023-2026/)_
+
