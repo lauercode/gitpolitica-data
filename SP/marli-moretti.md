@@ -50,3 +50,6 @@
 - **[2026-11-16 05:00 UTC]** Podcast explica 'plano Moretti', pacote de ajuste fiscal para o governo Lula 4
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-plano-moretti-pacote-de-ajuste-fiscal-para-o-governo-lula-4.shtml)_
 
+- **[2026-11-16 18:39 UTC]** PT deve declarar apoio a 'plano Moretti' apesar de críticas da sigla a ajuste
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/pt-deve-declarar-apoio-a-plano-moretti-apesar-de-criticas-da-sigla-a-ajuste.shtml)_
+
