@@ -11065,3 +11065,6 @@
 - **[2026-11-16 11:56 UTC]** Juiz condena candidata por vídeo que liga Flávio Bolsonaro a rachadinha, milicianos e Master
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/juiz-condena-candidata-por-video-que-liga-flavio-bolsonaro-a-rachadinha-milicianos-e-master/)_
 
+- **[2026-11-16 18:19 UTC]** Deputado do PT e Prerrogativas pedem ao STF bloqueio de salário de Flávio e verbas como senador
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/deputado-do-pt-e-prerrogativas-pedem-ao-stf-bloqueio-de-salario-de-flavio-e-verbas-como-senador.shtml)_
+
