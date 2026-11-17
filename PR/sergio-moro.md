@@ -170,3 +170,6 @@
 - **[2026-11-13 11:24 UTC]** Sergio Moro critica projeto que prevê perda de R$ 604 milhões para o Paraná
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/parana/sergio-moro-critica-projeto-que-preve-perda-de-r-604-milhoes-para-o-parana/)_
 
+- **[2026-11-16 23:06 UTC]** Paulo Gomes (PL) será líder do governo de Sergio Moro na Assembleia Legislativa do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/16/paulo-gomes-pl-sera-lider-do-governo-de-sergio-moro-na-assembleia-legislativa-do-parana.ghtml)_
+
