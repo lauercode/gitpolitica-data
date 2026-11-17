@@ -14,3 +14,6 @@
 - **[2026-11-17 11:11 UTC]** STJ dá 90 dias para Marco Buzzi desocupar apartamento funcional em Brasília
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/stj-da-90-dias-para-marco-buzzi-desocupar-apartamento-funcional-em-brasilia.shtml)_
 
+- **[2026-11-17 14:06 UTC]** STJ dá 90 dias para Buzzi desocupar imóvel funcional em Brasília
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/stj-da-90-dias-para-buzzi-desocupar-imovel-funcional-em-brasilia/)_
+
