@@ -86,3 +86,6 @@
 - **[2026-11-14 07:00 UTC]** Cobra asiática se move como roda, dando cambalhotas, diz estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2026/11/cobra-asiatica-se-move-como-roda-dando-cambalhotas-diz-estudo.shtml)_
 
+- **[2026-11-17 15:59 UTC]** Cobra aparece perto de centro cirúrgico em hospital de RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/11/17/cobra-e-encontrada-em-corredor-de-hospital-proximo-ao-centro-cirurgico-em-ro.ghtml)_
+
