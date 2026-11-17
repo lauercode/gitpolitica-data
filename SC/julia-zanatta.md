@@ -26,3 +26,6 @@
 - **[2026-10-13 15:53 UTC]** Manifestantes açoitam boneco de Zanatta em ato pró-Lula após ela celebrar reeleição com chicote
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/manifestantes-acoitam-boneco-de-zanatta-em-ato-pro-lula-apos-ela-celebrar-reeleicao-com-chicote.shtml)_
 
+- **[2026-11-17 11:27 UTC]** Júlia Zanatta propõe reconhecer a ‘Festa dos Atiradores’ como manifestação da cultura nacional
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/julia-zanatta-propoe-reconhecer-a-festa-dos-atiradores-como-manifestacao-da-cultura-nacional/)_
+
