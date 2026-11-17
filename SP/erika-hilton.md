@@ -149,3 +149,6 @@
 - **[2026-11-16 15:45 UTC]** Erika Hilton deve se filiar ao PT e já admite disputar a prefeitura de SP em 2028
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/erika-hilton-deve-se-filiar-ao-pt-e-ja-admite-disputar-a-prefeitura-de-sp-em-2028.shtml)_
 
+- **[2026-11-17 12:06 UTC]** Justiça bloqueia R$ 180 mil da Meta por não excluir vídeo com críticas a Erika Hilton
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-bloqueia-r-180-mil-da-meta-por-nao-excluir-video-com-criticas-a-erika-hilton/)_
+
