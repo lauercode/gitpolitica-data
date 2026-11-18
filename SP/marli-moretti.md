@@ -68,3 +68,6 @@
 - **[2026-11-17 09:48 UTC]** Dólar chega a R$ 5,81 à espera de votação do plano Moretti no Senado; Bolsa sobe
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-chega-a-r-579-com-mercado-a-espera-de-votacao-de-projeto-fiscal-no-senado.shtml)_
 
+- **[2026-11-17 18:02 UTC]** Lula vai às redes defender que 'plano Moretti' não terá cortes para conter insatisfação na esquerda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-vai-as-redes-defender-que-plano-moretti-nao-tera-cortes-para-conter-insatisfacao-na-esquerda.shtml)_
+
