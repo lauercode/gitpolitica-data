@@ -2750,3 +2750,6 @@
 - **[2026-11-17 11:51 UTC]** Direita espanhola critica visita de Lula a Sánchez e questiona vitória do petista sobre Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/direita-espanhola-critica-visita-lula-sanchez-questiona-vitoria-petista-sobre-flavio/)_
 
+- **[2026-11-17 20:35 UTC]** Moraes barra articulação de Bolsonaro com rigor não aplicado pela Justiça a Lula preso em 2018
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-barra-articulacao-de-bolsonaro-com-rigor-nao-aplicado-pela-justica-a-lula-preso-em-2018/)_
+
