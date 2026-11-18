@@ -137,3 +137,6 @@
 - **[2026-11-17 14:34 UTC]** Ex-servidor é preso suspeito de 'vender' falsas vagas de emprego na Secretaria da Saúde da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/17/ex-servidor-e-preso-suspeito-de-vender-falsas-vagas-de-emprego-na-secretaria-da-saude-da-paraiba.ghtml)_
 
+- **[2026-11-17 19:32 UTC]** Ministério da Saúde vai selecionar 300 temporários com salário inicial superior a R$ 10 mil
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/concursos-publicos/post/2026/11/ministerio-da-saude-vai-selecionar-300-temporarios-com-salario-inicial-superior-a-r-10-mil.ghtml)_
+
