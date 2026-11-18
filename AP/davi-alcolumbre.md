@@ -794,3 +794,6 @@
 - **[2026-11-17 17:48 UTC]** Alcolumbre e Motta pedem a Moraes que libere julgamento da Lei da Dosimetria
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-e-motta-pedem-a-moraes-que-libere-julgamento-da-lei-da-dosimetria/)_
 
+- **[2026-11-17 17:29 UTC]** Alcolumbre e Motta cobram de Moraes que libere julgamento da lei da dosimetria no plenário do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/17/alcolumbre-e-motta-cobram-de-moraes-julgamento-da-lei-da-dosimetria.ghtml)_
+
