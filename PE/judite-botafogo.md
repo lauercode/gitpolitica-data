@@ -62,3 +62,6 @@
 - **[2026-11-16 22:47 UTC]** Atacante do Botafogo completa quase um turno sem marcar gols
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/atacante-do-botafogo-completa-quase-um-turno-sem-marcar-gols/)_
 
+- **[2026-11-18 00:57 UTC]** Corinthians encara o Botafogo em duelo decisivo: vencer pode significar o início da fuga do rebaixamento
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/corinthians-encara-o-botafogo-em-duelo-decisivo-vencer-pode-significar-o-inicio-da-fuga-do-rebaixamento/)_
+
