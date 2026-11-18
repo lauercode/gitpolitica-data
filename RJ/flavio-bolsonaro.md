@@ -11080,3 +11080,6 @@
 - **[2026-11-17 13:22 UTC]** Maioria desaprova fuga de Flávio Bolsonaro e rejeita justificativa de perseguição política
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/maioria-desaprova-fuga-de-flavio-bolsonaro-e-rejeita-justificativa-de-perseguicao-politica/)_
 
+- **[2026-11-17 20:35 UTC]** Moraes barra articulação de Bolsonaro com rigor não aplicado pela Justiça a Lula preso em 2018
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-barra-articulacao-de-bolsonaro-com-rigor-nao-aplicado-pela-justica-a-lula-preso-em-2018/)_
+
