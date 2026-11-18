@@ -17,3 +17,6 @@
 - **[2026-10-05 00:35 UTC]** Cid Gomes (PSB) e Luizianne Lins (Rede) são eleitos senadores pelo Ceará
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/cid-gomes-psb-e-luizianne-lins-rede-sao-eleitos-senadores-pelo-ceara.ghtml)_
 
+- **[2026-11-18 10:49 UTC]** Cid Gomes promete relatório do novo Desenrola para início de dezembro
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1320466-cid-gomes-promete-relatorio-do-novo-desenrola-para-inicio-de-dezembro)_
+
