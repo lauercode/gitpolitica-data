@@ -83,3 +83,6 @@
 - **[2026-11-18 04:00 UTC]** Durigan se distancia das negociações enquanto Alckmin sai em defesa de 'plano Moretti'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/durigan-se-distancia-das-negociacoes-enquanto-alckmin-sai-em-defesa-de-plano-moretti.shtml)_
 
+- **[2026-11-17 21:42 UTC]** Moretti e Lindbergh fazem as pazes após atritos por causa de ajuste fiscal e posam juntos para foto
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/moretti-e-lindbergh-fazem-as-pazes-apos-atritos-por-causa-de-ajuste-fiscal-e-posam-juntos-para-foto.shtml)_
+
