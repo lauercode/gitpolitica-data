@@ -290,3 +290,6 @@
 - **[2026-11-17 13:24 UTC]** Não serei refém da direita ou do mercado, mas do povo brasileiro, diz Lula na Espanha
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/economia/nao-serei-refem-da-direita-ou-do-mercado-mas-do-povo-brasileiro-diz-lula-na-espanha/)_
 
+- **[2026-11-17 19:06 UTC]** Crise econômica na Espanha alerta governo brasileiro sobre riscos do estatismo
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-economica-na-espanha-alerta-governo-brasileiro-sobre-riscos-do-estatismo/)_
+
