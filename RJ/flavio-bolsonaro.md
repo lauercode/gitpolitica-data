@@ -11086,3 +11086,6 @@
 - **[2026-11-17 18:31 UTC]** Eleições entre turnos: Lula e os Bolsonaro nas grandes cidades em 2022 e 2026
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/opiniao/eleicoes-entre-turnos-lula-e-os-bolsonaro-nas-grandes-cidades-em-2022-e-2026/)_
 
+- **[2026-11-18 03:00 UTC]** Campanha de Lula atingiu limite de gastos; gastos de Flávio Bolsonaro ficaram R$ 18,6 milhões abaixo do teto
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/18/gastos-campanha-de-lula-e-flavio-bolsonaro.ghtml)_
+
