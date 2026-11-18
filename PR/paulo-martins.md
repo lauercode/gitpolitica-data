@@ -11,3 +11,6 @@
 - **[2026-10-05 22:54 UTC]** Curitiba deve ficar sem vice-prefeito pelos próximos dois anos, após eleição de Paulo Martins como deputado federal
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/05/curitiba-deve-ficar-sem-vice-prefeito-pelos-proximos-dois-anos-apos-eleicao-de-paulo-martins-como-deputado-federal.ghtml)_
 
+- **[2026-11-18 01:02 UTC]** Novo lançará Paulo Martins à presidência da Câmara dos Deputado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-lancara-paulo-martins-a-presidencia-da-camara-dos-deputado/)_
+
