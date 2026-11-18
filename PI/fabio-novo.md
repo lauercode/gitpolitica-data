@@ -140,3 +140,6 @@
 - **[2026-11-17 17:00 UTC]** Novo exame de sangue diz detectar mais de 50 tipos de câncer, mas não reduz risco de morte
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/novo-exame-de-sangue-diz-detectar-mais-de-50-tipos-de-cancer-mas-nao-reduz-risco-de-morte.shtml)_
 
+- **[2026-11-18 01:02 UTC]** Novo lançará Paulo Martins à presidência da Câmara dos Deputado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-lancara-paulo-martins-a-presidencia-da-camara-dos-deputado/)_
+
