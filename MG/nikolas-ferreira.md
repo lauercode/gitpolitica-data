@@ -128,3 +128,6 @@
 - **[2026-11-09 10:14 UTC]** Eduardo Cunha culpa Nikolas Ferreira por derrota de Flávio
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-cunha-culpa-nikolas-ferreira-por-derrota-de-flavio/)_
 
+- **[2026-11-17 19:25 UTC]** Nikolas Ferreira ameaça sair do PL caso partido se alie a Hugo Motta
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-ferreira-ameaca-sair-do-pl-caso-partido-se-aliie-a-hugo-motta/)_
+
