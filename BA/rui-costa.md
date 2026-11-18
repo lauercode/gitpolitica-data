@@ -41,3 +41,6 @@
 - **[2026-11-17 10:40 UTC]** Lula faz reunião com Camilo, Rui Costa e Fonteles para retomar conversas sobre formação de governo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-faz-reuniao-com-camilo-rui-costa-e-fonteles-para-retomar-conversas-sobre-formacao-de-governo.shtml)_
 
+- **[2026-11-17 17:46 UTC]** PF conclui inquérito sobre respiradores para Covid não entregues e exclui Rui Costa e esposa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-conclui-inquerito-sobre-respiradores-para-covid-nao-entregues-e-exclui-rui-costa-e-esposa.shtml)_
+
