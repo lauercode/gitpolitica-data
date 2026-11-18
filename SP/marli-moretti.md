@@ -77,3 +77,6 @@
 - **[2026-11-17 16:04 UTC]** Governo tira urgência de veto a bets para acelerar 'plano Moretti' na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-tira-urgencia-de-veto-a-bets-para-votar-plano-moretti-na-camara-e-relator-mantera-texto-do-senado.shtml)_
 
+- **[2026-11-17 22:59 UTC]** Moretti tenta acordo para assegurar aprovação do projeto de ajuste fiscal
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/moretti-tenta-acordo-para-assegurar-aprovacao-do-projeto-de-ajuste-fiscal.ghtml)_
+
