@@ -131,3 +131,6 @@
 - **[2026-11-17 12:57 UTC]** PF apura fraude na manutenção de veículos da Secretaria da Saúde de Aceguá
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/17/pf-apura-fraude-na-manutencao-de-veiculos-da-secretaria-da-saude-de-acegua.ghtml)_
 
+- **[2026-11-17 15:25 UTC]** Com medidas do governo, projeções apontam que Saúde pode deixar de receber até R$ 9 bi em 2027; Planejamento nega
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/17/com-medidas-do-governo-saude-pode-deixar-de-receber-r-9-bilhoes-em-2027-e-ter-alta-limitada-ate-2030-organizacoes-sociais-reagem.ghtml)_
+
