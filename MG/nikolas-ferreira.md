@@ -131,3 +131,6 @@
 - **[2026-11-17 19:25 UTC]** Nikolas Ferreira ameaça sair do PL caso partido se alie a Hugo Motta
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-ferreira-ameaca-sair-do-pl-caso-partido-se-aliie-a-hugo-motta/)_
 
+- **[2026-11-17 21:35 UTC]** Nikolas Ferreira diz que pode deixar PL se partido apoiar reeleição de Motta na Câmara
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/nikolas-ferreira-diz-que-pode-deixar-pl-se-partido-apoiar-reeleicao-de-motta-na-camara.ghtml)_
+
