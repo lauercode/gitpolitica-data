@@ -143,3 +143,6 @@
 - **[2026-11-17 08:00 UTC]** Tratado de Petrópolis: Como a diplomacia de Barão do Rio Branco mudou destino do Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/17/tratado-de-petropolis-como-a-diplomacia-de-barao-do-rio-branco-mudou-destino-do-acre.ghtml)_
 
+- **[2026-11-17 21:00 UTC]** Corpo é encontrado debaixo de ponte seca no Rio Branco em Boa Vista
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/17/corpo-e-encontrado-debaixo-de-ponte-seca-no-rio-branco-em-boa-vista.ghtml)_
+
