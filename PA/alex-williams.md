@@ -14,3 +14,6 @@
 - **[2026-11-13 09:42 UTC]** Williams, do Fed, diz que inflação está muito alta e que ainda há trabalho a ser feito
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/13/williams-do-fed-diz-que-inflacao-esta-muito-alta-e-que-ainda-ha-trabalho-a-ser-feito.ghtml)_
 
+- **[2026-11-17 20:37 UTC]** Ainda temos trabalho a fazer para levar a inflação de volta a 2% em tempo hábil, diz Williams, do Fed
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/17/ainda-temos-trabalho-a-fazer-para-levar-a-inflacao-de-volta-a-2percent-em-tempo-habil-diz-williams-do-fed.ghtml)_
+
