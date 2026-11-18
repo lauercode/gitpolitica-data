@@ -221,3 +221,6 @@
 - **[2026-11-16 20:20 UTC]** Tarcísio cobra plano de ação da ViaMobilidade após falhas em linhas de trem de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/tarcisio-cobra-plano-de-acao-da-viamobilidade-apos-falhas-em-linhas-de-trem-de-sp.shtml)_
 
+- **[2026-11-17 22:48 UTC]** Ex-secretário de Paulo Guedes assume secretaria de Tarcísio em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/ex-secretrio-de-paulo-guedes-assume-secretaria-de-tarcsio-em-sp.ghtml)_
+
