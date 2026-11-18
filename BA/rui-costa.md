@@ -44,3 +44,6 @@
 - **[2026-11-17 17:46 UTC]** PF conclui inquérito sobre respiradores para Covid não entregues e exclui Rui Costa e esposa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-conclui-inquerito-sobre-respiradores-para-covid-nao-entregues-e-exclui-rui-costa-e-esposa.shtml)_
 
+- **[2026-11-18 00:02 UTC]** PF indicia 17 por compra irregular respiradores, mas exclui Rui Costa
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-indicia-17-por-compra-irregular-respiradores-mas-exclui-rui-costa/)_
+
