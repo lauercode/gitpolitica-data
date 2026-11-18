@@ -797,3 +797,6 @@
 - **[2026-11-17 17:29 UTC]** Alcolumbre e Motta cobram de Moraes que libere julgamento da lei da dosimetria no plenário do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/17/alcolumbre-e-motta-cobram-de-moraes-julgamento-da-lei-da-dosimetria.ghtml)_
 
+- **[2026-11-17 21:38 UTC]** Marinho x Alcolumbre: a brecha que pode definir eleição no Senado
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/ultima-analise/marinho-x-alcolumbre-brecha-pode-definir-eleicao-no-senado/)_
+
