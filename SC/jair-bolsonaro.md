@@ -203,3 +203,6 @@
 - **[2026-11-12 23:04 UTC]** PGR defende rejeição de novo pedido de revisão criminal que poderia anular a condenação de Jair Bolsonaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/12/pgr-diz-se-contra-revisao-criminal-que-poderia-anular-a-condenacao-de-jair-bolsonaro.ghtml)_
 
+- **[2026-11-18 00:36 UTC]** Alexandre de Moraes impede conversa de Jair Bolsonaro com senadores
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-impede-conversa-de-jair-bolsonaro-com-senadores/)_
+
