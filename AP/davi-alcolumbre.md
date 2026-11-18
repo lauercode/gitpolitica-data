@@ -800,3 +800,6 @@
 - **[2026-11-17 21:38 UTC]** Marinho x Alcolumbre: a brecha que pode definir eleição no Senado
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/ultima-analise/marinho-x-alcolumbre-brecha-pode-definir-eleicao-no-senado/)_
 
+- **[2026-11-17 20:30 UTC]** Alcolumbre adia votação dos destaques do PLP do ajuste fiscal
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/alcolumbre-adia-votacao-dos-destaques-do-plp-do-ajuste-fiscal.ghtml)_
+
