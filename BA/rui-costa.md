@@ -47,3 +47,6 @@
 - **[2026-11-18 00:02 UTC]** PF indicia 17 por compra irregular respiradores, mas exclui Rui Costa
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-indicia-17-por-compra-irregular-respiradores-mas-exclui-rui-costa/)_
 
+- **[2026-11-17 19:14 UTC]** PF indicia 17 por fraude em compra de respiradores na pandemia; Rui Costa fica fora
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/pf-indicia-17-pessoas-por-fraude-em-compra-de-respiradores-na-pandemia-mas-poupa-rui-costa.ghtml)_
+
