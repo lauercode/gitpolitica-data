@@ -71,3 +71,6 @@
 - **[2026-11-17 18:02 UTC]** Lula vai às redes defender que 'plano Moretti' não terá cortes para conter insatisfação na esquerda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-vai-as-redes-defender-que-plano-moretti-nao-tera-cortes-para-conter-insatisfacao-na-esquerda.shtml)_
 
+- **[2026-11-17 17:28 UTC]** Em revés para governo Lula, Senado adia votação final de medidas de ajuste do 'plano Moretti'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/senado-adia-votacao-de-destaques-do-plano-moretti-de-ajuste-nas-contas.shtml)_
+
