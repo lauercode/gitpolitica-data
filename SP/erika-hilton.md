@@ -152,3 +152,6 @@
 - **[2026-11-17 12:06 UTC]** Justiça bloqueia R$ 180 mil da Meta por não excluir vídeo com críticas a Erika Hilton
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-bloqueia-r-180-mil-da-meta-por-nao-excluir-video-com-criticas-a-erika-hilton/)_
 
+- **[2026-11-18 06:00 UTC]** Petistas reagem a Erika Hilton e jogam decisão sobre Prefeitura de SP em 2028 para Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/petistas-reagem-a-erika-hilton-e-jogam-decisao-sobre-prefeitura-de-sp-em-2028-para-lula.shtml)_
+
