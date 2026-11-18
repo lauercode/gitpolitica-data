@@ -23,3 +23,6 @@
 - **[2026-10-29 18:39 UTC]** Ex-ministro Paulo Guedes é citado em processo contra empresa ‘cripto’
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/10/29/ex-ministro-paulo-guedes-investigado-pela-pf-por-suspeita-de-crime-contra-o-sistema-financeiro-nacional.ghtml)_
 
+- **[2026-11-17 22:48 UTC]** Ex-secretário de Paulo Guedes assume secretaria de Tarcísio em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/ex-secretrio-de-paulo-guedes-assume-secretaria-de-tarcsio-em-sp.ghtml)_
+
