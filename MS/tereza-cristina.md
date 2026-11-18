@@ -77,3 +77,6 @@
 - **[2026-11-16 20:11 UTC]** Tereza Cristina critica Moraes por impedir visita a Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tereza-cristina-critica-moraes-por-impedir-visita-a-bolsonaro/)_
 
+- **[2026-11-17 21:15 UTC]** Marinho mobiliza senadoras e busca novos apoios para conter dissidência pró-Tereza Cristina
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marinho-mobiliza-senadoras-e-busca-apoios-para-conter-dissidencia-pro-tereza-cristina/)_
+
