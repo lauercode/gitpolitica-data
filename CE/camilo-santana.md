@@ -23,3 +23,6 @@
 - **[2026-11-12 12:30 UTC]** Ala do PT quer barrar Camilo Santana na Casa Civil após racha sobre redução da maioridade penal
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ala-do-pt-quer-barrar-camilo-santana-na-casa-civil-apos-racha-sobre-reducao-da-maioridade-penal.shtml)_
 
+- **[2026-11-17 22:09 UTC]** Camilo Santana diz que governo não tinha votos para barrar desidratação do pacote fiscal
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/17/camilo-santana-diz-que-governo-nao-tinha-votos-para-barrar-desidratacao-do-pacote-fiscal.ghtml)_
+
