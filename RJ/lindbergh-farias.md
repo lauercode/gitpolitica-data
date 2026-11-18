@@ -11,3 +11,6 @@
 - **[2026-11-05 01:29 UTC]** Lindbergh Farias diz que manutenção da Selic é ‘vergonha’ e chama mercado de ‘barões da Faria Lima’
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/04/lindbergh-farias-diz-que-manuteno-da-selic-vergonha-e-chama-mercado-de-bares-da-faria-lima.ghtml)_
 
+- **[2026-11-17 23:53 UTC]** Lindbergh Farias alerta que pacote fiscal pode causar recessão no Brasil
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lindbergh-farias-alerta-que-pacote-fiscal-pode-causar-recessao-no-brasil/)_
+
