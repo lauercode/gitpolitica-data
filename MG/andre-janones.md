@@ -347,3 +347,6 @@
 - **[2026-11-17 08:00 UTC]** O que Janones e Nikolas ensinam à propaganda
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/coluna/o-que-janones-e-nikolas-ensinam-a-propaganda.ghtml)_
 
+- **[2026-11-17 20:51 UTC]** CCJ da Câmara de Salvador barra título de cidadão soteropolitano para André Janones
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/ccj-da-camara-de-salvador-barra-titulo-de-cidadao-soteropolitano-para-andre-janones/)_
+
