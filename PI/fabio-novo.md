@@ -137,3 +137,6 @@
 - **[2026-11-17 13:00 UTC]** Novo filme da saga 'Jogos Vorazes' repete fórmula e força um final feliz
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/novo-filme-da-saga-jogos-vorazes-repete-formula-e-forca-um-final-feliz.shtml)_
 
+- **[2026-11-17 17:00 UTC]** Novo exame de sangue diz detectar mais de 50 tipos de câncer, mas não reduz risco de morte
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/novo-exame-de-sangue-diz-detectar-mais-de-50-tipos-de-cancer-mas-nao-reduz-risco-de-morte.shtml)_
+
