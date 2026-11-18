@@ -35,3 +35,6 @@
 - **[2026-11-10 17:34 UTC]** Pastor é levado para delegacia com 4 mil pares de sandálias falsificadas no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/10/apreensao-de-mais-4-mil-pares-de-sandalias-falsificadas-no-acre.ghtml)_
 
+- **[2026-11-17 22:24 UTC]** Pastor influencer fez pregações em cidades do TO antes de ser preso em operação contra o tráfico
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/17/pastor-influencer-fez-pregacoes-em-cidades-do-to-antes-de-ser-preso-em-operacao-contra-o-trafico.ghtml)_
+
