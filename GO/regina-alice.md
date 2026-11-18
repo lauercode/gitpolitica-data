@@ -17,3 +17,6 @@
 - **[2026-10-22 18:00 UTC]** Alice Wegmann e André Lamoglia vão a jantar da Bvlgari na Pinacoteca de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/alice-wegmann-e-andre-lamoglia-vao-a-jantar-da-bvlgari-na-pinacoteca-de-sp.shtml)_
 
+- **[2026-11-17 15:40 UTC]** Faith No More anuncia shows no Brasil em 2027 com abertura de Alice in Chains
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/11/faith-no-more-anuncia-shows-no-brasil-em-2027-com-abertura-de-alice-in-chains.shtml)_
+
