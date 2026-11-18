@@ -86,3 +86,6 @@
 - **[2026-11-17 08:00 UTC]** Zucco define desenho do próximo governo do RS com corte de 10 secretarias
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/11/17/zucco-define-desenho-proximo-governo-rs.ghtml)_
 
+- **[2026-11-17 22:58 UTC]** 'Queremos homicídio zero', afirma delegado escolhido por Zucco para ser o novo chefe de Polícia do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/11/17/delegado-escolhido-zucco-novo-chefe-de-policia.ghtml)_
+
