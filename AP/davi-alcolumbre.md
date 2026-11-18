@@ -803,3 +803,6 @@
 - **[2026-11-17 20:30 UTC]** Alcolumbre adia votação dos destaques do PLP do ajuste fiscal
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/alcolumbre-adia-votacao-dos-destaques-do-plp-do-ajuste-fiscal.ghtml)_
 
+- **[2026-11-17 20:10 UTC]** Alcolumbre diz que senadores buscam acordo para encerrar votação do PLP do ajuste fiscal
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/alcolumbre-diz-que-senadores-buscam-acordo-para-encerrar-votacao-do-plp-do-ajuste-fiscal.ghtml)_
+
