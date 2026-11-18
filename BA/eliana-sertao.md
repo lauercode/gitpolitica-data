@@ -50,3 +50,6 @@
 - **[2026-11-16 14:38 UTC]** Inmet emite alerta para queda de granizo em cidades do Sertão da Paraíba; veja quais
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/16/inmet-emite-alerta-para-queda-de-granizo-em-cidades-do-sertao-da-paraiba-veja-quais.ghtml)_
 
+- **[2026-11-17 19:47 UTC]** Mulher tem cabelo arrancado pelo namorado após briga no Sertão da Paraíba; Suspeito do crime é preso
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/17/mulher-tem-cabelo-arrancado-pelo-namorado-apos-briga-no-sertao-da-paraiba-homem-e-preso.ghtml)_
+
