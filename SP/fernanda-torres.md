@@ -14,3 +14,6 @@
 - **[2026-11-05 17:42 UTC]** Sarah Paulson diz que votou em Fernanda Torres no Oscar: 'Atuação do ano'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/sarah-paulson-diz-que-votou-em-fernanda-torres-no-oscar-atuacao-do-ano.shtml)_
 
+- **[2026-11-17 16:40 UTC]** Onde está Platão? Fernanda Torres pede ajuda para encontrar cachorro da família
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/onde-esta-platao-fernanda-torres-pede-ajuda-para-encontrar-cachorro-da-familia.shtml)_
+
