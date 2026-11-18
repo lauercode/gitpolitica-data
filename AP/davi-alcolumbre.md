@@ -809,3 +809,6 @@
 - **[2026-11-17 18:01 UTC]** Alcolumbre e Motta pedem que Moraes libere julgamento sobre Lei da Dosimetria
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/alcolumbre-e-motta-pedem-a-alexandre-de-moraes-julgamento-da-lei-da-dosimetria.ghtml)_
 
+- **[2026-11-18 10:38 UTC]** Análise: Por que Alcolumbre pressiona Moraes pelo julgamento da Lei da Dosimetria?
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/18/analise-alcolumbre-moraes-dosimetria.ghtml)_
+
