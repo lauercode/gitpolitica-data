@@ -80,3 +80,6 @@
 - **[2026-11-17 22:59 UTC]** Moretti tenta acordo para assegurar aprovação do projeto de ajuste fiscal
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/moretti-tenta-acordo-para-assegurar-aprovacao-do-projeto-de-ajuste-fiscal.ghtml)_
 
+- **[2026-11-18 04:00 UTC]** Durigan se distancia das negociações enquanto Alckmin sai em defesa de 'plano Moretti'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/durigan-se-distancia-das-negociacoes-enquanto-alckmin-sai-em-defesa-de-plano-moretti.shtml)_
+
