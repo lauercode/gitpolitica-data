@@ -92,3 +92,6 @@
 - **[2026-11-17 05:00 UTC]** 'Lula tem que ficar em paz para fazer a escolha dele', diz Marina Silva sobre ministério
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/lula-tem-que-ficar-em-paz-para-fazer-a-escolha-dele-diz-marina-silva-sobre-ministerio.shtml)_
 
+- **[2026-11-17 17:13 UTC]** Marina Silva e advogadas pressionam Lula por ministra negra no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/marina-silva-e-advogadas-pressionam-lula-por-ministra-negra-no-stf.shtml)_
+
