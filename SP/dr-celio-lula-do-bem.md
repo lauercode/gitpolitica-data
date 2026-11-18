@@ -197,3 +197,6 @@
 - **[2026-11-17 15:40 UTC]** Polícia Civil de SP investiga suspeita de golpe contra filho caçula de Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/polcia-civil-de-sp-investiga-suspeita-de-golpe-de-r-800-mil-contra-filho-caula-de-lula.ghtml)_
 
+- **[2026-11-18 06:00 UTC]** Petistas reagem a Erika Hilton e jogam decisão sobre Prefeitura de SP em 2028 para Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/petistas-reagem-a-erika-hilton-e-jogam-decisao-sobre-prefeitura-de-sp-em-2028-para-lula.shtml)_
+
