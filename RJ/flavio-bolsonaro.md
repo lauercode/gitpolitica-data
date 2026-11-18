@@ -11083,3 +11083,6 @@
 - **[2026-11-17 20:35 UTC]** Moraes barra articulação de Bolsonaro com rigor não aplicado pela Justiça a Lula preso em 2018
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-barra-articulacao-de-bolsonaro-com-rigor-nao-aplicado-pela-justica-a-lula-preso-em-2018/)_
 
+- **[2026-11-17 18:31 UTC]** Eleições entre turnos: Lula e os Bolsonaro nas grandes cidades em 2022 e 2026
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/opiniao/eleicoes-entre-turnos-lula-e-os-bolsonaro-nas-grandes-cidades-em-2022-e-2026/)_
+
