@@ -17,3 +17,6 @@
 - **[2026-10-08 12:00 UTC]** Dandara Couto foi encontrada. Redes celebram, mas pedem explicações
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/10/dandara-couto-foi-encontrada-redes-celebram-mas-pedem-explicacoes.shtml)_
 
+- **[2026-11-19 13:38 UTC]** Rio homenageia Dandara dos Palmares com escultura em Padre Miguel
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-11/rio-homenageia-dandara-dos-palmares-com-escultura-em-padre-miguel)_
+
