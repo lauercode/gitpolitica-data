@@ -89,3 +89,6 @@
 - **[2026-11-12 23:24 UTC]** PF intima Jaques Wagner e Rui Costa para depor em investigação do caso Master
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/12/pf-intima-jaques-wagner-e-rui-costa-para-depor-em-investigao-do-caso-master.ghtml)_
 
+- **[2026-11-19 10:15 UTC]** Gonet defende prorrogação de investigações do caso Master contra Jaques Wagner
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gonet-defende-prorrogacao-de-investigacoes-do-caso-master-contra-jaques-wagner/)_
+
