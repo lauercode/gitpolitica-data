@@ -812,3 +812,6 @@
 - **[2026-11-18 10:38 UTC]** Análise: Por que Alcolumbre pressiona Moraes pelo julgamento da Lei da Dosimetria?
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/18/analise-alcolumbre-moraes-dosimetria.ghtml)_
 
+- **[2026-11-19 14:11 UTC]** Alcolumbre vai se reunir com Lula nos próximos dias para debater indicação ao STF e montagem do novo governo
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/alcolumbre-vai-se-reunir-com-lula-nos-proximos-dias-para-debater-indicacao-ao-stf-e-montagem-do-novo-governo.ghtml)_
+
