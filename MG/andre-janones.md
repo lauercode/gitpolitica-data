@@ -350,3 +350,6 @@
 - **[2026-11-17 20:51 UTC]** CCJ da Câmara de Salvador barra título de cidadão soteropolitano para André Janones
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/ccj-da-camara-de-salvador-barra-titulo-de-cidadao-soteropolitano-para-andre-janones/)_
 
+- **[2026-11-19 13:52 UTC]** Janones perde seguidores com crise no 'Exército' e vê engajamento despencar 63% em uma semana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/janones-perde-seguidores-com-crise-no-exercito-e-ve-engajamento-despencar-63-em-uma-semana.shtml)_
+
