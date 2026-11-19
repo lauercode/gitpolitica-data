@@ -134,3 +134,6 @@
 - **[2026-11-17 21:35 UTC]** Nikolas Ferreira diz que pode deixar PL se partido apoiar reeleição de Motta na Câmara
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/nikolas-ferreira-diz-que-pode-deixar-pl-se-partido-apoiar-reeleicao-de-motta-na-camara.ghtml)_
 
+- **[2026-11-18 14:45 UTC]** Juiz federal atende Nikolas Ferreira e suspende licitação de iPhones do Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiz-federal-atende-nikolas-ferreira-e-suspende-licitacao-de-iphones-do-senado/)_
+
