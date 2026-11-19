@@ -146,3 +146,6 @@
 - **[2026-11-19 00:33 UTC]** Equipes passam por quarentena antes de atender indígenas isolados no MA, diz Ministério da Saúde
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/18/equipes-passam-por-quarentena-antes-de-atender-indigenas-isolados-no-ma-diz-ministerio-da-saude.ghtml)_
 
+- **[2026-11-18 13:38 UTC]** Ministério da Saúde abre processo seletivo com vagas em Belém e salários de até R$ 10,3 mil
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/11/18/ministerio-da-saude-abre-processo-seletivo-com-vagas-em-belem-e-salarios-de-ate-r-103-mil.ghtml)_
+
