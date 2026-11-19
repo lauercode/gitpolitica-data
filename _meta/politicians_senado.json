@@ -450,7 +450,7 @@
   {
     "slug": "jussara-lima",
     "name": "Jussara Lima",
-    "role": "Senador(a) (PI)",
+    "role": "Senador(a)",
     "party": "PSD",
     "aliases": [
       "Jussara Lima",
@@ -828,6 +828,16 @@
       "Rêgo"
     ],
     "senado_id": "5748"
+  },
+  {
+    "slug": "wellington-dias",
+    "name": "Wellington Dias",
+    "role": "Senador(a) (PI)",
+    "party": "PT",
+    "aliases": [
+      "Wellington Dias"
+    ],
+    "senado_id": "5016"
   },
   {
     "slug": "wellington-fagundes",
