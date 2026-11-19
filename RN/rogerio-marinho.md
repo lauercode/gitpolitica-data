@@ -160,3 +160,6 @@
 - **[2026-11-16 14:06 UTC]** Moraes barra visita de Rogério Marinho e Tereza Cristina a Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-barra-visita-de-rogerio-marinho-e-tereza-cristina-a-bolsonaro/)_
 
+- **[2026-11-19 21:18 UTC]** Tereza Cristina admite possibilidade de deixar disputa pelo Senado para apoiar Rogério Marinho
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tereza-cristina-admite-deixar-disputa-pelo-senado-para-apoiar-rogerio-marinho/)_
+
