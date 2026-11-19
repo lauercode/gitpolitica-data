@@ -89,3 +89,6 @@
 - **[2026-11-19 03:00 UTC]** Ajuste fiscal: Moretti diz que texto aprovado pelo Senado preserva políticas sociais essenciais em 2027
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/19/ajuste-fiscal-moretti-diz-que-texto-aprovado-pelo-senado-preserva-politicas-sociais-essenciais-em-2027.ghtml)_
 
+- **[2026-11-19 11:56 UTC]** Lula diz que parte de seus aliados não entendeu plano Moretti de ajuste nas contas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-diz-que-parte-de-seus-aliados-nao-entendeu-plano-moretti-de-ajuste-nas-contas.shtml)_
+
