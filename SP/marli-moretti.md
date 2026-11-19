@@ -95,3 +95,6 @@
 - **[2026-11-19 10:14 UTC]** Moretti diz que ainda não é o momento de tratar de medidas fiscais adicionais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/moretti-diz-que-ainda-nao-e-o-momento-de-tratar-de-medidas-fiscais-adicionais.shtml)_
 
+- **[2026-11-18 15:40 UTC]** Lindbergh e Moretti posam juntos para foto após atritos por ajuste fiscal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lindbergh-e-moretti-posam-juntos-para-foto-apos-atritos-por-ajuste-fiscal/)_
+
