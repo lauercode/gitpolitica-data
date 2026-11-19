@@ -80,3 +80,6 @@
 - **[2026-11-18 18:24 UTC]** Andrei Rodrigues diz que vai entregar HD com mensagens e relatórios dos delegados para presidente do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/18/andrei-rodrigues-diz-que-vai-enviar-hd-com-mensagens-e-relatorios-dos-delegados-para-fachin.ghtml)_
 
+- **[2026-11-18 18:21 UTC]** Revisão dos relatórios foi necessária porque pedido de Fachin foi feito à direção da PF, diz Andrei
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/18/revisao-dos-relatorios-foi-necessaria-porque-pedido-de-fachin-foi-feito-a-direcao-da-pf-diz-andrei.ghtml)_
+
