@@ -377,3 +377,6 @@
 - **[2026-11-18 18:48 UTC]** Incêndios e seca levam governo do PA a decretar situação de emergência em Vitória do Xingu e Bom Jesus do Tocantins
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/11/18/incendios-e-seca-levam-governo-do-pa-a-decretar-situacao-de-emergencia-em-vitoria-do-xingu-e-bom-jesus-do-tocantins.ghtml)_
 
+- **[2026-11-19 10:00 UTC]** Quem é o pastor influenciador preso no Tocantins suspeito de integrar facção criminosa
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/19/quem-e-o-pastor-influenciador-preso-no-tocantins-suspeito-de-integrar-faccao-criminosa.ghtml)_
+
