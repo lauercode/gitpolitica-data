@@ -374,3 +374,6 @@
 - **[2026-11-16 23:57 UTC]** Governo do Tocantins contrata Cebraspe para concurso da Polícia Civil com 452 vagas e salários de até R$ 21,9 mil
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/16/governo-do-tocantins-contrata-cebraspe-para-concurso-da-policia-civil-com-452-vagas-e-salarios-de-ate-r-219-mil.ghtml)_
 
+- **[2026-11-18 18:48 UTC]** Incêndios e seca levam governo do PA a decretar situação de emergência em Vitória do Xingu e Bom Jesus do Tocantins
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/11/18/incendios-e-seca-levam-governo-do-pa-a-decretar-situacao-de-emergencia-em-vitoria-do-xingu-e-bom-jesus-do-tocantins.ghtml)_
+
