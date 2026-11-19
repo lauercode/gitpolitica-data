@@ -11098,3 +11098,6 @@
 - **[2026-11-18 22:38 UTC]** PGR denuncia Flávio Bolsonaro por calúnia contra Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/18/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula.ghtml)_
 
+- **[2026-11-18 23:30 UTC]** PGR denuncia Flávio Bolsonaro por suposta calúnia contra Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-denuncia-flavio-bolsonaro-por-suposta-calunia-contra-lula/)_
+
