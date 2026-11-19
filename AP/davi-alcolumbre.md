@@ -821,3 +821,6 @@
 - **[2026-11-19 14:38 UTC]** Senado encomenda novo retrato de Davi Alcolumbre por R$ 11,4 mil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/senado-encomenda-novo-retrato-de-davi-alcolumbre-por-r-114-mil.shtml)_
 
+- **[2026-11-19 16:30 UTC]** Senado encomenda pintura de Davi Alcolumbre por mais de R$ 11 mil
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/senado-encomenda-pintura-de-davi-alcolumbre-por-mais-de-r-11-mil/)_
+
