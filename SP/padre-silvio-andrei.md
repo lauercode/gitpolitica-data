@@ -71,3 +71,6 @@
 - **[2026-11-17 17:27 UTC]** Andrei Rodrigues envia relatórios sobre seis ministros do STF ao ministro Fachin
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-rodrigues-envia-relatorios-sobre-seis-ministros-do-stf-ao-ministro-fachin/)_
 
+- **[2026-11-18 22:26 UTC]** Andrei entrega a Fachin relatórios sobre ministros citados em mensagens de Vorcaro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/18/andrei-fachin-relatorios-ministros-mensagens-vorcaro.ghtml)_
+
