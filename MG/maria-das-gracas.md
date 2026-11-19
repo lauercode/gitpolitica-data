@@ -11,3 +11,6 @@
 - **[2026-11-10 13:41 UTC]** Teto de capela desaba e imagem de Nossa Senhora das Graças permanece intacta no PI
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/10/teto-capela-desaba.ghtml)_
 
+- **[2026-11-18 21:48 UTC]** Círio de Nossa Senhora das Graças: veja programação, horários e percursos em Ananindeua e Icoaraci
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/11/18/cirio-de-nossa-senhora-das-gracas-veja-programacao-horarios-e-percursos-em-ananindeua-e-icoaraci.ghtml)_
+
