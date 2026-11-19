@@ -86,3 +86,6 @@
 - **[2026-11-18 19:09 UTC]** Rafael Fonteles explica como conseguiu confirmar vitória de Lula com menos de 2% das urnas apuradas
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/18/rafael-fonteles-vitoria-lula.ghtml)_
 
+- **[2026-11-18 11:55 UTC]** Terras raras: Rafael Fonteles anuncia autorização de investimento de R$ 13 milhões para confirmar potencial de exploração mineral
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/18/governo-do-piaui-pesquisa.ghtml)_
+
