@@ -359,3 +359,6 @@
 - **[2026-11-18 14:47 UTC]** Janones reage a críticas em meio a racha no PT por ajuste fiscal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/janones-reage-a-criticas-em-meio-a-racha-no-pt-por-ajuste-fiscal/)_
 
+- **[2026-11-19 17:00 UTC]** Michelle Bolsonaro rejeita conciliação com Janones em ação no STF
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/michelle-bolsonaro-rejeita-conciliacao-com-janones-em-acao-no-stf/)_
+
