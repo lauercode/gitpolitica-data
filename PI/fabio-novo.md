@@ -146,3 +146,6 @@
 - **[2026-11-18 18:56 UTC]** Novo lança deputado eleito Paulo Martins candidato à presidência da Câmara dos Deputados
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/18/novo-lanca-deputado-eleito-paulo-martins-candidato-a-presidencia-da-camara-dos-deputados.ghtml)_
 
+- **[2026-11-19 08:25 UTC]** Novo filme de Brad Pitt terá apenas duas salas no Brasil após boicote de redes de cinema
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/11/novo-filme-de-brad-pitt-tera-apenas-duas-salas-no-brasil-apos-boicote-de-redes-de-cinema.shtml)_
+
