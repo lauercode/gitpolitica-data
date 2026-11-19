@@ -152,3 +152,6 @@
 - **[2026-11-19 14:58 UTC]** Novo plano de recuperação judicial da Fictor propõe pagar credores com cotas de fundo
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/19/novo-plano-de-recuperao-judicial-da-fictor-prope-pagar-credores-com-cotas-de-fundo.ghtml)_
 
+- **[2026-11-19 19:59 UTC]** Novo portal de leis do Planalto apresenta falhas de acesso e perde indexação no Google
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-portal-de-leis-do-planalto-apresenta-falhas-de-acesso-e-perde-indexacao-no-google/)_
+
