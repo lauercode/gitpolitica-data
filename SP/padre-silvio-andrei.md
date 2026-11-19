@@ -83,3 +83,6 @@
 - **[2026-11-18 18:21 UTC]** Revisão dos relatórios foi necessária porque pedido de Fachin foi feito à direção da PF, diz Andrei
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/18/revisao-dos-relatorios-foi-necessaria-porque-pedido-de-fachin-foi-feito-a-direcao-da-pf-diz-andrei.ghtml)_
 
+- **[2026-11-18 14:02 UTC]** Conversa com Lula faz Andrei mudar de posição e confirmar presença no Senado
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/11/18/conversa-com-lula-faz-andrei-mudar-de-posicao-e-confirmar-presenca-no-senado.ghtml)_
+
