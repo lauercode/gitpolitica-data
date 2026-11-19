@@ -92,3 +92,6 @@
 - **[2026-11-18 22:06 UTC]** Andrei diz que delegados afastados do caso Master descumpriram ordem da direção da PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-diz-que-delegados-afastados-do-caso-master-descumpriram-ordem-da-direcao-da-pf/)_
 
+- **[2026-11-18 12:39 UTC]** Andrei percorre os três Poderes em meio à crise na PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-percorre-os-tres-poderes-em-meio-a-crise-na-pf/)_
+
