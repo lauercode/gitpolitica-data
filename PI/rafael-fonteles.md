@@ -89,3 +89,6 @@
 - **[2026-11-18 11:55 UTC]** Terras raras: Rafael Fonteles anuncia autorização de investimento de R$ 13 milhões para confirmar potencial de exploração mineral
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/18/governo-do-piaui-pesquisa.ghtml)_
 
+- **[2026-11-19 20:01 UTC]** Rafael Fonteles anuncia permanência de mais três secretários no governo; veja quais
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/19/fonteles-permanencia-secretarios-governo.ghtml)_
+
