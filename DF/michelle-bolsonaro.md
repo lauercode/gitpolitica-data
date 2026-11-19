@@ -71,3 +71,6 @@
 - **[2026-11-06 10:46 UTC]** Justiça do DF rejeita ação contra Bolsonaro e Wal do Açaí por funcionária fantasma
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/justica-do-df-rejeita-acao-contra-bolsonaro-e-wal-do-acai-por-funcionaria-fantasma.ghtml)_
 
+- **[2026-11-19 17:00 UTC]** Michelle Bolsonaro rejeita conciliação com Janones em ação no STF
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/michelle-bolsonaro-rejeita-conciliacao-com-janones-em-acao-no-stf/)_
+
