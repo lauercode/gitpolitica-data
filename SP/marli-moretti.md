@@ -98,3 +98,6 @@
 - **[2026-11-18 15:40 UTC]** Lindbergh e Moretti posam juntos para foto após atritos por ajuste fiscal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lindbergh-e-moretti-posam-juntos-para-foto-apos-atritos-por-ajuste-fiscal/)_
 
+- **[2026-11-19 21:26 UTC]** Medidas adicionais de ajuste fiscal serão apresentadas ao Congresso, se for necessário, diz Moretti
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/19/medidas-adicionais-de-ajuste-fiscal-serao-apresentadas-ao-congresso-se-for-necessario-diz-moretti.ghtml)_
+
