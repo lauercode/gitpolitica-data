@@ -380,3 +380,6 @@
 - **[2026-11-19 10:00 UTC]** Quem é o pastor influenciador preso no Tocantins suspeito de integrar facção criminosa
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/19/quem-e-o-pastor-influenciador-preso-no-tocantins-suspeito-de-integrar-faccao-criminosa.ghtml)_
 
+- **[2026-11-19 08:00 UTC]** Tocantins registra 4,5 milhões de raios em 2026; especialistas alertam para cuidados dentro e fora de casa
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/19/tocantins-registra-45-milhoes-de-raios-em-2026-especialistas-alertam-para-cuidados-dentro-e-fora-de-casa.ghtml)_
+
