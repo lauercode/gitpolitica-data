@@ -95,3 +95,6 @@
 - **[2026-11-17 17:13 UTC]** Marina Silva e advogadas pressionam Lula por ministra negra no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/marina-silva-e-advogadas-pressionam-lula-por-ministra-negra-no-stf.shtml)_
 
+- **[2026-11-18 16:44 UTC]** Marina Silva integra vídeo cobrando Lula por mulher negra no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marina-silva-integra-video-cobrando-lula-por-mulher-negra-no-stf/)_
+
