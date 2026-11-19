@@ -77,3 +77,6 @@
 - **[2026-11-18 19:29 UTC]** Diretor-geral da PF Andrei Rodrigues fala ao Senado sobre troca de delegados
   _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml)_
 
+- **[2026-11-18 18:24 UTC]** Andrei Rodrigues diz que vai entregar HD com mensagens e relatórios dos delegados para presidente do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/18/andrei-rodrigues-diz-que-vai-enviar-hd-com-mensagens-e-relatorios-dos-delegados-para-fachin.ghtml)_
+
