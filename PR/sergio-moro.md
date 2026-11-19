@@ -173,3 +173,6 @@
 - **[2026-11-16 23:06 UTC]** Paulo Gomes (PL) será líder do governo de Sergio Moro na Assembleia Legislativa do Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/16/paulo-gomes-pl-sera-lider-do-governo-de-sergio-moro-na-assembleia-legislativa-do-parana.ghtml)_
 
+- **[2026-11-18 20:02 UTC]** Sergio Moro anuncia ex-procurador da Lava Jato como secretário Anticorrupção do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/18/sergio-moro-anuncia-ex-procurador-da-lava-jato-como-secretario-anticorrupcao-do-parana.ghtml)_
+
