@@ -38,3 +38,6 @@
 - **[2026-11-17 22:24 UTC]** Pastor influencer fez pregações em cidades do TO antes de ser preso em operação contra o tráfico
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/17/pastor-influencer-fez-pregacoes-em-cidades-do-to-antes-de-ser-preso-em-operacao-contra-o-trafico.ghtml)_
 
+- **[2026-11-18 13:02 UTC]** VÍDEO: Pastor influenciador preso no TO é levado à delegacia segurando Bíblia
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/18/video-mostra-momento-da-prisao-de-pastor-influenciador-suspeito-de-integrar-faccao-criminosa.ghtml)_
+
