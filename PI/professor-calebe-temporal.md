@@ -26,3 +26,6 @@
 - **[2026-11-16 08:29 UTC]** Temporal causa alagamentos, quedas de árvores e deixa desalojados no interior de SP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/temporal-causa-alagamentos-quedas-de-arvores-e-deixa-desalojados-no-interior-de-sp.shtml)_
 
+- **[2026-11-19 18:24 UTC]** Temporal com granizo atinge cidades do Litoral Norte do RS e causa transtornos
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/19/temporal-chuva-granizo-rs.ghtml)_
+
