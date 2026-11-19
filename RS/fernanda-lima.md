@@ -14,3 +14,6 @@
 - **[2026-11-10 12:20 UTC]** Fernanda Lima e Rodrigo Hilbert preparam festa com tema de spa para filha de 7 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/fernanda-lima-e-rodrigo-hilbert-preparam-festa-com-tema-de-spa-a-filha-de-7-anos.shtml)_
 
+- **[2026-11-19 11:20 UTC]** Fernanda Lima questiona pressão para se manter jovem: 'Por que não podemos viver cada fase?'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/fernanda-lima-questiona-pressao-para-envelhecer-por-que-nao-podemos-viver-cada-fase.shtml)_
+
