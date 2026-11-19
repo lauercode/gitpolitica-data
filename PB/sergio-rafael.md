@@ -14,3 +14,6 @@
 - **[2026-09-06 22:44 UTC]** Rafael Vitti diz que pode voltar às novelas em trama escrita por Tatá Werneck na Globo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/09/rafael-vitti-diz-que-pode-voltar-as-novelas-em-trama-escrita-por-tata-werneck-na-globo.shtml)_
 
+- **[2026-11-19 17:26 UTC]** 'Quem Ama Cuida': Adriana expulsa Pilar, Ingrid e Rafael do apartamento de Arthur
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post468063)_
+
