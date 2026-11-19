@@ -149,3 +149,6 @@
 - **[2026-11-18 13:38 UTC]** Ministério da Saúde abre processo seletivo com vagas em Belém e salários de até R$ 10,3 mil
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/11/18/ministerio-da-saude-abre-processo-seletivo-com-vagas-em-belem-e-salarios-de-ate-r-103-mil.ghtml)_
 
+- **[2026-11-19 15:09 UTC]** Saúde de Roraima fecha contrato de R$ 54,6 milhões com empresa alvo do MP de Contas
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/19/saude-de-roraima-fecha-contrato-de-r-546-milhoes-com-empresa-alvo-do-mp-de-contas.ghtml)_
+
