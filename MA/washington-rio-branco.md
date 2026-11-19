@@ -152,3 +152,6 @@
 - **[2026-11-19 21:35 UTC]** Estreia em Rio Branco espetáculo que discute banalidade do mal; saiba mais
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/19/estreia-em-rio-branco-espetaculo-que-discute-banalidade-do-mal-saiba-mais.ghtml)_
 
+- **[2026-11-19 20:35 UTC]** Aplicativo para localizar ônibus em tempo real é lançado após 12 anos de app descontinuado em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/19/aplicativo-para-localizar-onibus-em-tempo-real-e-lancado-apos-12-anos-de-app-descontinuado-em-rio-branco.ghtml)_
+
