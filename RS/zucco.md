@@ -89,3 +89,6 @@
 - **[2026-11-17 22:58 UTC]** 'Queremos homicídio zero', afirma delegado escolhido por Zucco para ser o novo chefe de Polícia do RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/11/17/delegado-escolhido-zucco-novo-chefe-de-policia.ghtml)_
 
+- **[2026-11-19 17:34 UTC]** Zucco anuncia novos nomes para o próximo governo do RS; secretariado tem 13 titulares divulgados
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/11/19/zucco-novos-secretarios-governo-rs.ghtml)_
+
