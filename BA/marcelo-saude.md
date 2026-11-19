@@ -152,3 +152,6 @@
 - **[2026-11-19 15:09 UTC]** Saúde de Roraima fecha contrato de R$ 54,6 milhões com empresa alvo do MP de Contas
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/19/saude-de-roraima-fecha-contrato-de-r-546-milhoes-com-empresa-alvo-do-mp-de-contas.ghtml)_
 
+- **[2026-11-19 18:21 UTC]** Comissão de Saúde debate roubos e furtos de canetas emagrecedoras
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1320979-comissao-de-saude-debate-roubos-e-furtos-de-canetas-emagrecedoras)_
+
