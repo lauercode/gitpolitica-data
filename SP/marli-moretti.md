@@ -92,3 +92,6 @@
 - **[2026-11-19 11:56 UTC]** Lula diz que parte de seus aliados não entendeu plano Moretti de ajuste nas contas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-diz-que-parte-de-seus-aliados-nao-entendeu-plano-moretti-de-ajuste-nas-contas.shtml)_
 
+- **[2026-11-19 10:14 UTC]** Moretti diz que ainda não é o momento de tratar de medidas fiscais adicionais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/moretti-diz-que-ainda-nao-e-o-momento-de-tratar-de-medidas-fiscais-adicionais.shtml)_
+
