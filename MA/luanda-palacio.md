@@ -44,3 +44,6 @@
 - **[2026-11-16 23:00 UTC]** Thriller no Palácio de Justiça da Colômbia faz espectador se sentir dentro da tragédia
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/thriller-no-palacio-de-justica-da-colombia-faz-espectador-se-sentir-dentro-da-tragedia.shtml)_
 
+- **[2026-11-18 12:42 UTC]** Preso durante força-tarefa após ataques com oito mortos em Porto Alegre foge do Palácio da Polícia
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/18/preso-durante-forca-tarefa-apos-ataques-porto-alegre.ghtml)_
+
