@@ -818,3 +818,6 @@
 - **[2026-11-18 14:32 UTC]** Aliados de Alcolumbre dão como certo julgamento da Lei da Dosimetria depois de encontro com Moraes
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/18/aliados-de-alcolumbre-dao-como-certo-julgamento-da-lei-da-dosimetria-depois-de-encontro-com-moraes.ghtml)_
 
+- **[2026-11-19 14:38 UTC]** Senado encomenda novo retrato de Davi Alcolumbre por R$ 11,4 mil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/senado-encomenda-novo-retrato-de-davi-alcolumbre-por-r-114-mil.shtml)_
+
