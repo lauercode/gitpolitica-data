@@ -74,3 +74,6 @@
 - **[2026-11-18 22:26 UTC]** Andrei entrega a Fachin relatórios sobre ministros citados em mensagens de Vorcaro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/18/andrei-fachin-relatorios-ministros-mensagens-vorcaro.ghtml)_
 
+- **[2026-11-18 19:29 UTC]** Diretor-geral da PF Andrei Rodrigues fala ao Senado sobre troca de delegados
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml)_
+
