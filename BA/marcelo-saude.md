@@ -140,3 +140,6 @@
 - **[2026-11-17 19:32 UTC]** Ministério da Saúde vai selecionar 300 temporários com salário inicial superior a R$ 10 mil
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/concursos-publicos/post/2026/11/ministerio-da-saude-vai-selecionar-300-temporarios-com-salario-inicial-superior-a-r-10-mil.ghtml)_
 
+- **[2026-11-18 23:55 UTC]** Bebê peruano que teve sarampo segue internado em UTI no Acre após complicações, diz Saúde
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/18/bebe-peruano-que-teve-sarampo-segue-internado-em-uti-no-acre-apos-complicacoes-diz-saude.ghtml)_
+
