@@ -149,3 +149,6 @@
 - **[2026-11-19 08:25 UTC]** Novo filme de Brad Pitt terá apenas duas salas no Brasil após boicote de redes de cinema
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/11/novo-filme-de-brad-pitt-tera-apenas-duas-salas-no-brasil-apos-boicote-de-redes-de-cinema.shtml)_
 
+- **[2026-11-19 14:58 UTC]** Novo plano de recuperação judicial da Fictor propõe pagar credores com cotas de fundo
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/19/novo-plano-de-recuperao-judicial-da-fictor-prope-pagar-credores-com-cotas-de-fundo.ghtml)_
+
