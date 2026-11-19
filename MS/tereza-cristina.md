@@ -80,3 +80,6 @@
 - **[2026-11-17 21:15 UTC]** Marinho mobiliza senadoras e busca novos apoios para conter dissidência pró-Tereza Cristina
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marinho-mobiliza-senadoras-e-busca-apoios-para-conter-dissidencia-pro-tereza-cristina/)_
 
+- **[2026-11-19 12:34 UTC]** Não quero ir embora do Brasil, quero trabalhar pelo país, diz Tereza Cristina sobre futuro da direita
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nao-quero-ir-embora-do-brasil-quero-trabalhar-pelo-pais-diz-tereza-cristina-sobre-futuro-da-direita.shtml)_
+
