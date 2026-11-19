@@ -41,3 +41,6 @@
 - **[2026-11-07 13:18 UTC]** Moraes barra visitas de Gayer, Van Hattem e Jordy a Filipe Martins
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-barra-visitas-de-gayer-van-hattem-e-jordy-a-filipe-martins/)_
 
+- **[2026-11-19 21:46 UTC]** Primeira Turma do STF decide se torna Marcel van Hattem réu por calúnia e injúria
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/19/primeira-turma-do-stf-decide-se-torna-marcel-van-hattem-reu-por-calunia-e-injuria.ghtml)_
+
