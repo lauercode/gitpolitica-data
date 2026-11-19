@@ -89,3 +89,6 @@
 - **[2026-11-19 00:20 UTC]** Senadores veem interferência de Andrei no caso Master para poupar ministros do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senadores-veem-interferencia-cupula-pf-relatorios-blindar-ministros-stf/)_
 
+- **[2026-11-18 22:06 UTC]** Andrei diz que delegados afastados do caso Master descumpriram ordem da direção da PF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-diz-que-delegados-afastados-do-caso-master-descumpriram-ordem-da-direcao-da-pf/)_
+
