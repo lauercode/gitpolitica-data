@@ -2774,3 +2774,6 @@
 - **[2026-11-18 14:39 UTC]** Após criticar “tesouraço” de Flávio, Lula se empenha em ajuste fiscal no modelo “tributaço”
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/lula-ajuste-fiscal-tributaco-aumento-impostos/)_
 
+- **[2026-11-19 13:01 UTC]** Acordo com a PGR pode encerrar processo sobre calúnia de Flávio Bolsonaro contra Lula
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/acordo-com-a-pgr-pode-encerrar-processo-sobre-calunia-de-flavio-bolsonaro-contra-lula/)_
+
