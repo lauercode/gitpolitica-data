@@ -155,3 +155,6 @@
 - **[2026-11-19 19:59 UTC]** Novo portal de leis do Planalto apresenta falhas de acesso e perde indexação no Google
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-portal-de-leis-do-planalto-apresenta-falhas-de-acesso-e-perde-indexacao-no-google/)_
 
+- **[2026-11-18 01:02 UTC]** Novo lançará Paulo Martins à presidência da Câmara dos Deputados
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-lancara-paulo-martins-a-presidencia-da-camara-dos-deputado/)_
+
