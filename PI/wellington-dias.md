@@ -11,3 +11,6 @@
 - **[2026-11-19 17:32 UTC]** Lula exonera Wellington Dias, ministro do Desenvolvimento Social
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/19/lula-exonera-wellington-dias-ministro-do-desenvolvimento-social.ghtml)_
 
+- **[2026-11-19 18:23 UTC]** Lula exonera Wellington Dias para votar no Senado projeto relacionado às emendas parlamentares
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/19/lula-exonera-wellington-dias-para-votar-no-senado-projeto-relacionado-as-emendas-parlamentares.ghtml)_
+
