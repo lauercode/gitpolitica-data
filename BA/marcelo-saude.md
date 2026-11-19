@@ -155,3 +155,6 @@
 - **[2026-11-19 18:21 UTC]** Comissão de Saúde debate roubos e furtos de canetas emagrecedoras
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1320979-comissao-de-saude-debate-roubos-e-furtos-de-canetas-emagrecedoras)_
 
+- **[2026-11-19 19:02 UTC]** Ministério da Saúde abre consulta pública para PPP de Manguinhos e Inca orçadas em R$ 10 bilhões
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/19/ministrio-da-sade-abre-consulta-pblica-para-ppp-de-manguinhos-e-inca-oradas-em-r-10-bilhes.ghtml)_
+
