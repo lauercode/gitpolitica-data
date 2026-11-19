@@ -149,3 +149,6 @@
 - **[2026-11-17 21:00 UTC]** Corpo decapitado é encontrado debaixo de ponte seca no Rio Branco em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/17/corpo-e-encontrado-debaixo-de-ponte-seca-no-rio-branco-em-boa-vista.ghtml)_
 
+- **[2026-11-19 21:35 UTC]** Estreia em Rio Branco espetáculo que discute banalidade do mal; saiba mais
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/19/estreia-em-rio-branco-espetaculo-que-discute-banalidade-do-mal-saiba-mais.ghtml)_
+
