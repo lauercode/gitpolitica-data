@@ -14,3 +14,6 @@
 - **[2026-11-12 18:35 UTC]** 'Lá Na Minha Terra': Rosenda entra no avião para São Paulo, tensa
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/11/09/6569-la-na-minha-terra-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post468046)_
 
+- **[2026-11-19 17:14 UTC]** 'Lá na Minha Terra': Lourdes acolhe Rosenda em sua casa
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/11/09/6569-la-na-minha-terra-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post468061)_
+
