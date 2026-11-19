@@ -20,3 +20,6 @@
 - **[2026-10-24 19:03 UTC]** Primeira Turma do STF torna Oswaldo Eustáquio réu por associação criminosa
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/10/24/primeira-turma-do-stf-torna-oswaldo-eustaquio-reu-por-associacao-criminosa.ghtml)_
 
+- **[2026-11-19 13:34 UTC]** Oswaldo Eustáquio apela a Moraes para se livrar de processo no STF
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/oswaldo-eustaquio-apela-a-moraes-para-se-livrar-de-processo-no-stf/)_
+
