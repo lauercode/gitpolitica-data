@@ -17,3 +17,6 @@
 - **[2026-10-25 11:03 UTC]** 'Quem Ama Cuida': Pilar manda Ingrid seduzir Heitor para não ir morar na rua
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/quem-ama-cuida-pilar-manda-ingrid-seduzir-heitor-para-nao-ir-morar-na-rua.shtml)_
 
+- **[2026-11-19 17:26 UTC]** 'Quem Ama Cuida': Adriana expulsa Pilar, Ingrid e Rafael do apartamento de Arthur
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post468063)_
+
