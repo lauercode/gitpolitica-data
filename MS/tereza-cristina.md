@@ -83,3 +83,6 @@
 - **[2026-11-19 12:34 UTC]** Não quero ir embora do Brasil, quero trabalhar pelo país, diz Tereza Cristina sobre futuro da direita
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nao-quero-ir-embora-do-brasil-quero-trabalhar-pelo-pais-diz-tereza-cristina-sobre-futuro-da-direita.shtml)_
 
+- **[2026-11-19 21:18 UTC]** Tereza Cristina admite possibilidade de deixar disputa pelo Senado para apoiar Rogério Marinho
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tereza-cristina-admite-deixar-disputa-pelo-senado-para-apoiar-rogerio-marinho/)_
+
