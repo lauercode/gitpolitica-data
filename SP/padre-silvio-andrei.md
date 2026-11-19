@@ -86,3 +86,6 @@
 - **[2026-11-18 14:02 UTC]** Conversa com Lula faz Andrei mudar de posição e confirmar presença no Senado
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/11/18/conversa-com-lula-faz-andrei-mudar-de-posicao-e-confirmar-presenca-no-senado.ghtml)_
 
+- **[2026-11-19 00:20 UTC]** Senadores veem interferência de Andrei no caso Master para poupar ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/senadores-veem-interferencia-cupula-pf-relatorios-blindar-ministros-stf/)_
+
