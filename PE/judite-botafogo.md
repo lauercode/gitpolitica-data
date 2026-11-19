@@ -65,3 +65,6 @@
 - **[2026-11-18 00:57 UTC]** Corinthians encara o Botafogo em duelo decisivo: vencer pode significar o início da fuga do rebaixamento
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/corinthians-encara-o-botafogo-em-duelo-decisivo-vencer-pode-significar-o-inicio-da-fuga-do-rebaixamento/)_
 
+- **[2026-11-19 10:53 UTC]** Corinthians goleia Botafogo e deixa a zona de rebaixamento do Brasileirão
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/corinthians-goleia-botafogo-e-deixa-a-zona-de-rebaixamento-do-brasileirao/)_
+
