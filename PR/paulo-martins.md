@@ -17,3 +17,6 @@
 - **[2026-11-18 18:56 UTC]** Novo lança deputado eleito Paulo Martins candidato à presidência da Câmara dos Deputados
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/18/novo-lanca-deputado-eleito-paulo-martins-candidato-a-presidencia-da-camara-dos-deputados.ghtml)_
 
+- **[2026-11-18 01:02 UTC]** Novo lançará Paulo Martins à presidência da Câmara dos Deputados
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-lancara-paulo-martins-a-presidencia-da-camara-dos-deputado/)_
+
