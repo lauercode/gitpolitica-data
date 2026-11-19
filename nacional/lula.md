@@ -2777,3 +2777,6 @@
 - **[2026-11-19 13:01 UTC]** Acordo com a PGR pode encerrar processo sobre calúnia de Flávio Bolsonaro contra Lula
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/acordo-com-a-pgr-pode-encerrar-processo-sobre-calunia-de-flavio-bolsonaro-contra-lula/)_
 
+- **[2026-11-19 17:41 UTC]** Presidente do PSOL diz que partido está unido contra pressão do mercado sobre Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-psol-diz-que-partido-esta-unido-contra-pressao-do-mercado-sobre-lula.shtml)_
+
