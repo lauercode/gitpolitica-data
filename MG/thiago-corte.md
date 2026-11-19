@@ -98,3 +98,6 @@
 - **[2026-11-19 12:19 UTC]** Condenação da Corte de Haia sobre genocídio dos rohingyas inaugura precedente internacional
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/condenacao-da-corte-de-haia-sobre-genocidio-dos-rohingya-inaugura-precedente-internacional.shtml)_
 
+- **[2026-11-19 13:58 UTC]** STF recebe relatórios da PF sobre Daniel Vorcaro e menções a ministros da Corte
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-recebe-relatorios-da-pf-sobre-daniel-vorcaro-e-mencoes-a-ministros-da-corte/)_
+
