@@ -11101,3 +11101,6 @@
 - **[2026-11-18 23:30 UTC]** PGR denuncia Flávio Bolsonaro por suposta calúnia contra Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-denuncia-flavio-bolsonaro-por-suposta-calunia-contra-lula/)_
 
+- **[2026-11-18 14:39 UTC]** Após criticar “tesouraço” de Flávio, Lula se empenha em ajuste fiscal no modelo “tributaço”
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/lula-ajuste-fiscal-tributaco-aumento-impostos/)_
+
