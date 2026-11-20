@@ -101,3 +101,6 @@
 - **[2026-11-19 21:26 UTC]** Medidas adicionais de ajuste fiscal serão apresentadas ao Congresso, se for necessário, diz Moretti
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/19/medidas-adicionais-de-ajuste-fiscal-serao-apresentadas-ao-congresso-se-for-necessario-diz-moretti.ghtml)_
 
+- **[2026-11-19 19:43 UTC]** PCdoB deve votar a favor do plano Moretti, mas apresenta projeto alternativo para reduzir juros
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pcdob-deve-votar-a-favor-do-plano-moretti-mas-apresenta-projeto-alternativo-para-reduzir-juros.shtml)_
+
