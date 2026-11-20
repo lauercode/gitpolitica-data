@@ -155,3 +155,6 @@
 - **[2026-11-18 06:00 UTC]** Petistas reagem a Erika Hilton e jogam decisão sobre Prefeitura de SP em 2028 para Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/petistas-reagem-a-erika-hilton-e-jogam-decisao-sobre-prefeitura-de-sp-em-2028-para-lula.shtml)_
 
+- **[2026-11-20 03:00 UTC]** Marina Silva, Fachin e Erika Hilton ampliam pressão sobre Lula por ministra negra no STF: 'Abismo social e estrutural'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/20/marina-silva-fachin-e-erika-hilton-lula-ministra-negra-no-stf.ghtml)_
+
