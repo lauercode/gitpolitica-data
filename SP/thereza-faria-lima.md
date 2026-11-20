@@ -41,3 +41,6 @@
 - **[2026-11-14 15:00 UTC]** A 'Faria Lima' não conhece a Faria Lima
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mauro-calliari/2026/11/a-faria-lima-nao-conhece-a-faria-lima.shtml)_
 
+- **[2026-11-20 10:02 UTC]** Moretti e o temor crescente da Faria Lima com a próxima Fazenda
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/11/moretti-e-o-temor-crescente-da-faria-lima-com-a-proxima-fazenda.ghtml)_
+
