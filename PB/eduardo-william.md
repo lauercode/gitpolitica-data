@@ -32,3 +32,6 @@
 - **[2026-11-16 05:45 UTC]** Kate Middleton acompanha príncipe William em viagem à Índia após tratamento contra câncer
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/16/kate-middleton-acompanha-prncipe-william-em-viagem-ndia-aps-tratamento-contra-cncer.ghtml)_
 
+- **[2026-11-19 22:51 UTC]** Príncipe Harry acusa William de afastar o pai de uma tentativa de reconciliação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/principe-harry-acusa-william-de-afastar-o-pai-de-uma-tentativa-de-reconciliacao.shtml)_
+
