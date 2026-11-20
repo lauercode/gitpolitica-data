@@ -11,3 +11,6 @@
 - **[2026-11-03 21:14 UTC]** Gabriel de Alba marca presença no Nilton Santos e lidera “corrente de união” para blindar elenco do Botafogo
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/gabriel-de-alba-marca-presenca-no-nilton-santos-e-lidera-corrente-de-uniao-para-blindar-elenco-do-botafogo/)_
 
+- **[2026-11-19 21:35 UTC]** Jogo das Estrelas, de Zico, deixa o Maracanã após 13 anos e será realizado no Nilton Santos
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/jogo-das-estrelas-de-zico-deixa-o-maracana-apos-13-anos-e-sera-realizado-no-nilton-santos/)_
+
