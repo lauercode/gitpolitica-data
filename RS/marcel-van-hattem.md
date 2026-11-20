@@ -50,3 +50,6 @@
 - **[2026-11-19 21:52 UTC]** Na mira de Moraes: Van Hattem sob risco de censura
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/na-mira-de-moraes-van-hattem-sob-risco-de-censura/)_
 
+- **[2026-11-20 09:59 UTC]** “Vamos fazer impeachment de ministros”, diz van Hattem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vamos-fazer-impeachment-de-ministros-diz-van-hattem/)_
+
