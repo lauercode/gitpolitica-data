@@ -196,6 +196,17 @@
     "camara_id": 178972
   },
   {
+    "slug": "alex-santana",
+    "name": "Alex Santana",
+    "role": "Deputado(a) Federal (BA)",
+    "party": "REPUBLICANOS",
+    "aliases": [
+      "Alex Santana",
+      "Santana"
+    ],
+    "camara_id": 204571
+  },
+  {
     "slug": "alexandre-guimaraes",
     "name": "Alexandre Guimarães",
     "role": "Deputado(a) Federal (TO)",
@@ -3529,17 +3540,6 @@
       "Marcelo Moraes"
     ],
     "camara_id": 133810
-  },
-  {
-    "slug": "marcelo-nilo",
-    "name": "Marcelo Nilo",
-    "role": "Deputado(a) Federal (BA)",
-    "party": "REPUBLICANOS",
-    "aliases": [
-      "Marcelo Nilo",
-      "Nilo"
-    ],
-    "camara_id": 204558
   },
   {
     "slug": "marcelo-queiroz",
