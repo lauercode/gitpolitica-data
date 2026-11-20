@@ -56,3 +56,6 @@
 - **[2026-11-20 02:45 UTC]** OAB pede que julgamento de Marcel van Hattem no STF seja presencial
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/oab-pede-que-julgamento-de-marcel-van-hattem-no-stf-seja-presencial/)_
 
+- **[2026-11-20 14:21 UTC]** Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml)_
+
