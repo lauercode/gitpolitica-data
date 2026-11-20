@@ -242,3 +242,6 @@
 - **[2026-11-20 01:02 UTC]** Cleitinho diz que vai se reunir com Lula ‘quantas vezes precisar’ para discutir dívida de MG
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/19/cleitinho-diz-que-vai-se-reunir-com-lula-quantas-vezes-precisar-para-discutir-dvida-de-mg.ghtml)_
 
+- **[2026-11-19 23:18 UTC]** Em encontro com Tarcísio em SP, Cleitinho defende união entre Estados
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/19/em-encontro-com-tarcisio-em-sp-cleitinho-defende-uniao-entre-estados.ghtml)_
+
