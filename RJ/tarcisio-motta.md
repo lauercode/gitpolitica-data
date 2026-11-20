@@ -26,3 +26,6 @@
 - **[2026-11-15 10:00 UTC]** Governo Tarcísio estuda recriar pasta do Planejamento para acomodar aliada
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-tarcisio-estuda-recriar-pasta-do-planejamento-para-acomodar-aliada.shtml)_
 
+- **[2026-11-20 07:45 UTC]** Governo Tarcísio chega a 161 convênios com cidades da região de São José dos Campos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-tarcisio-chega-a-161-convenios-com-cidades-da-regiao-de-sao-jose-dos-campos.shtml)_
+
