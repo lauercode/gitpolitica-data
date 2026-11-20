@@ -158,3 +158,6 @@
 - **[2026-11-18 01:02 UTC]** Novo lançará Paulo Martins à presidência da Câmara dos Deputados
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-lancara-paulo-martins-a-presidencia-da-camara-dos-deputado/)_
 
+- **[2026-11-20 15:30 UTC]** Novo documentário sobre Ted Bundy expõe cartas que ele escreveu para a prima na prisão
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/11/novo-documentario-sobre-ted-bundy-expoe-cartas-que-ele-escreveu-para-a-prima-na-prisao.shtml)_
+
