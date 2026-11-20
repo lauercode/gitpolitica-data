@@ -74,3 +74,6 @@
 - **[2026-11-19 17:00 UTC]** Michelle Bolsonaro rejeita conciliação com Janones em ação no STF
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/michelle-bolsonaro-rejeita-conciliacao-com-janones-em-acao-no-stf/)_
 
+- **[2026-11-20 13:37 UTC]** Michelle Bolsonaro disse ficar feliz por ter uma mulher candidata no Senado, afirma Tereza Cristina
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/michelle-bolsonaro-disse-ficar-feliz-por-ter-uma-mulher-candidata-no-senado-afirma-tereza-cristina.shtml)_
+
