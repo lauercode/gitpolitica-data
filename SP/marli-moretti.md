@@ -107,3 +107,6 @@
 - **[2026-11-19 19:11 UTC]** Debate sobre plano Moretti é só o aperitivo da disputa da esquerda no Lula 4; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/debate-sobre-plano-moretti-e-so-o-aperitivo-da-disputa-da-esquerda-no-lula-4-veja-video.shtml)_
 
+- **[2026-11-20 10:02 UTC]** Moretti e o temor crescente da Faria Lima com a próxima Fazenda
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/11/moretti-e-o-temor-crescente-da-faria-lima-com-a-proxima-fazenda.ghtml)_
+
