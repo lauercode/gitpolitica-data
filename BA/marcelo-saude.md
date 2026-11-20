@@ -158,3 +158,6 @@
 - **[2026-11-19 19:02 UTC]** Ministério da Saúde abre consulta pública para PPP de Manguinhos e Inca orçadas em R$ 10 bilhões
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/19/ministrio-da-sade-abre-consulta-pblica-para-ppp-de-manguinhos-e-inca-oradas-em-r-10-bilhes.ghtml)_
 
+- **[2026-11-19 21:36 UTC]** Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/reporter-da-agencia-brasil-vence-premio-sbim-de-jornalismo-em-saude)_
+
