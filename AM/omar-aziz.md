@@ -218,3 +218,6 @@
 - **[2026-11-11 14:42 UTC]** Após depor, Professora Maria do Carmo diz que não conhecia conteúdo de vídeo contra Omar Aziz: 'Não vi até hoje'
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/11/professora-maria-do-carmo-presta-depoimento-em-investigacao-sobre-imagens-de-filha-de-omar-aziz.ghtml)_
 
+- **[2026-11-20 13:07 UTC]** Professora Maria do Carmo é indiciada por uso de imagem da filha de Omar Aziz em material de campanha
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/20/professora-maria-do-carmo-e-indiciada-por-uso-de-imagem-da-filha-de-omar-aziz-em-material-de-campanha.ghtml)_
+
