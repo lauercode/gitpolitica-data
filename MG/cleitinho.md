@@ -239,3 +239,6 @@
 - **[2026-11-16 18:40 UTC]** Ex-prefeito que teve conversa exposta por Cleitinho diz que vai processá-lo e que vem sendo atacado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ex-prefeito-que-teve-conversa-exposta-por-cleitinho-diz-que-vai-processa-lo-e-que-vem-sendo-atacado.shtml)_
 
+- **[2026-11-20 01:02 UTC]** Cleitinho diz que vai se reunir com Lula ‘quantas vezes precisar’ para discutir dívida de MG
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/19/cleitinho-diz-que-vai-se-reunir-com-lula-quantas-vezes-precisar-para-discutir-dvida-de-mg.ghtml)_
+
