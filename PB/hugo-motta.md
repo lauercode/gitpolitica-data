@@ -122,3 +122,6 @@
 - **[2026-11-17 19:25 UTC]** Nikolas Ferreira ameaça sair do PL caso partido se alie a Hugo Motta
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/nikolas-ferreira-ameaca-sair-do-pl-caso-partido-se-aliie-a-hugo-motta/)_
 
+- **[2026-11-20 04:54 UTC]** Paulo Martins e Luiz Philippe desafiam favoritismo de Hugo Motta na Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/paulo-martins-e-luiz-philippe-desafiam-favoritismo-de-hugo-motta-na-camara/)_
+
