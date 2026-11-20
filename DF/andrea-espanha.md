@@ -293,3 +293,6 @@
 - **[2026-11-17 19:06 UTC]** Crise econômica na Espanha alerta governo brasileiro sobre riscos do estatismo
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/crise-economica-na-espanha-alerta-governo-brasileiro-sobre-riscos-do-estatismo/)_
 
+- **[2026-11-20 12:43 UTC]** Espanha e França vão se enfrentar nas quartas da Liga das Nações
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/espanha-e-franca-vao-se-enfrentar-nas-quartas-da-liga-das-nacoes.shtml)_
+
