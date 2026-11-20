@@ -104,3 +104,6 @@
 - **[2026-11-19 19:43 UTC]** PCdoB deve votar a favor do plano Moretti, mas apresenta projeto alternativo para reduzir juros
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pcdob-deve-votar-a-favor-do-plano-moretti-mas-apresenta-projeto-alternativo-para-reduzir-juros.shtml)_
 
+- **[2026-11-19 19:11 UTC]** Debate sobre plano Moretti é só o aperitivo da disputa da esquerda no Lula 4; veja vídeo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/debate-sobre-plano-moretti-e-so-o-aperitivo-da-disputa-da-esquerda-no-lula-4-veja-video.shtml)_
+
