@@ -155,3 +155,6 @@
 - **[2026-11-19 20:35 UTC]** Aplicativo para localizar ônibus em tempo real é lançado após 12 anos de app descontinuado em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/19/aplicativo-para-localizar-onibus-em-tempo-real-e-lancado-apos-12-anos-de-app-descontinuado-em-rio-branco.ghtml)_
 
+- **[2026-11-20 04:01 UTC]** Previsão do tempo hoje para Rio Branco (AC): muitas nuvens o dia todo, com aberturas de sol
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-muitas-nuvens-e-pancadas-de-chuva-a-tarde-a-noite-ocorre-temporal.ghtml)_
+
