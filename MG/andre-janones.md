@@ -362,3 +362,6 @@
 - **[2026-11-19 17:00 UTC]** Michelle Bolsonaro rejeita conciliação com Janones em ação no STF
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/michelle-bolsonaro-rejeita-conciliacao-com-janones-em-acao-no-stf/)_
 
+- **[2026-11-19 22:27 UTC]** Justiça mantém condenação de Janones por falsa acusação contra Carlos Vereza
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-mantem-condenacao-de-janones-por-falsa-acusacao-contra-carlos-vereza/)_
+
