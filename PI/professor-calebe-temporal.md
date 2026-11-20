@@ -32,3 +32,6 @@
 - **[2026-11-19 18:24 UTC]** Temporal com granizo causa transtornos com estragos e destelhamentos em cidades do RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/19/temporal-chuva-granizo-rs.ghtml)_
 
+- **[2026-11-20 12:18 UTC]** Temporal causa uma morte e destrói 93% das casas de município do RS
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-11/temporal-causa-uma-morte-e-destroi-93-das-casas-de-municipio-do-rs)_
+
