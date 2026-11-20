@@ -20,3 +20,6 @@
 - **[2026-11-18 01:02 UTC]** Novo lançará Paulo Martins à presidência da Câmara dos Deputados
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-lancara-paulo-martins-a-presidencia-da-camara-dos-deputado/)_
 
+- **[2026-11-20 00:53 UTC]** Paulo Martins e Luiz Philippe: quem são os deputados que tentam desbancar Motta na Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/paulo-martins-e-luiz-philippe-quem-sao-os-deputados-que-tentam-desbancar-motta-na-camara/)_
+
