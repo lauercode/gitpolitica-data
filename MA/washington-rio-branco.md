@@ -158,3 +158,6 @@
 - **[2026-11-20 04:01 UTC]** Previsão do tempo hoje para Rio Branco (AC): muitas nuvens o dia todo, com aberturas de sol
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-muitas-nuvens-e-pancadas-de-chuva-a-tarde-a-noite-ocorre-temporal.ghtml)_
 
+- **[2026-11-20 12:00 UTC]** Com árvore de 22 metros, decoração natalina de Rio Branco deve ser inaugurada em dezembro
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/20/decoracao-natalina-de-rio-branco-dever-ser-inaugurada-em-dezembro.ghtml)_
+
