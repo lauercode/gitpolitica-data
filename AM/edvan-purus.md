@@ -11,3 +11,6 @@
 - **[2026-10-26 12:07 UTC]** 3ª zona eleitoral de Santa Rosa do Purus (AC): votos por local de votação no 2º turno
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/26/3a-zona-eleitoral-de-santa-rosa-do-purus-ac-votos-por-local-de-votacao-no-2o-turno-1.ghtml)_
 
+- **[2026-11-20 12:53 UTC]** Mais de uma tonelada de pescado é apreendida na Reserva Piagaçu-Purus, no Amazonas
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/20/mais-de-uma-tonelada-de-pescado-e-apreendida-na-reserva-piagacu-purus-no-amazonas.ghtml)_
+
