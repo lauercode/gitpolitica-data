@@ -41,3 +41,6 @@
 - **[2026-11-18 13:02 UTC]** VÍDEO: Pastor influenciador preso no TO é levado à delegacia segurando Bíblia
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/18/video-mostra-momento-da-prisao-de-pastor-influenciador-suspeito-de-integrar-faccao-criminosa.ghtml)_
 
+- **[2026-11-20 11:50 UTC]** Pastor que matou ex-mulher com 38 facadas é condenado a 52 anos de prisão no MA
+  _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/20/pastor-condenado-feminicidio-38-facadas-riachao-ma.ghtml)_
+
