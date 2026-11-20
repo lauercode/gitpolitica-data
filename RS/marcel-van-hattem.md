@@ -47,3 +47,6 @@
 - **[2026-11-20 00:10 UTC]** Caso Van Hattem testa terreno para radicalização autoritária do STF contra parlamentares
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/caso-van-hattem-testa-terreno-para-radicalizacao-autoritaria-do-stf-contra-parlamentares/)_
 
+- **[2026-11-19 21:52 UTC]** Na mira de Moraes: Van Hattem sob risco de censura
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/ultima-analise/na-mira-de-moraes-van-hattem-sob-risco-de-censura/)_
+
