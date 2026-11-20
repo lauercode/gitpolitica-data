@@ -824,3 +824,6 @@
 - **[2026-11-19 16:30 UTC]** Senado encomenda pintura de Davi Alcolumbre por mais de R$ 11 mil
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/senado-encomenda-pintura-de-davi-alcolumbre-por-mais-de-r-11-mil/)_
 
+- **[2026-11-19 18:42 UTC]** Após pressão de Motta e Alcolumbre, STF marca julgamento da Lei da Dosimetria
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/apos-pressao-de-motta-e-alcolumbre-stf-marca-julgamento-da-lei-da-dosimetria/)_
+
