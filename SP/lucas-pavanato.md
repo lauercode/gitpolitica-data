@@ -53,3 +53,6 @@
 - **[2026-10-27 19:00 UTC]** MPSP vai investigar Lucas Pavanato por possível discriminação
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/mpsp-vai-investigar-lucas-pavanato-por-possivel-discriminacao)_
 
+- **[2026-11-20 07:18 UTC]** Após embates, Nunes e Pavanato trocam elogios e se aproximam
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/apos-embates-nunes-e-pavanato-trocam-elogios-e-se-aproximam.shtml)_
+
