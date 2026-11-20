@@ -14,3 +14,6 @@
 - **[2026-09-11 11:34 UTC]** Quem era a família que morreu soterrada enquanto dormia após barranco desabar em cima de casa durante temporal, no Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/09/11/quem-era-a-familia-que-morreu-soterrada-enquanto-dormia-apos-barranco-desabar-em-cima-de-casa-durante-temporal-no-parana.ghtml)_
 
+- **[2026-11-20 15:29 UTC]** Do samba ao coco de umbigada: Quilombo Urbano do Barranco celebra ancestralidade negra e diversidade com festival gratuito em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/20/do-samba-ao-coco-de-umbigada-quilombo-urbano-do-barranco-celebra-ancestralidade-negra-e-diversidade-com-festival-gratuito-em-manaus.ghtml)_
+
