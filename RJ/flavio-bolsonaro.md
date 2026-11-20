@@ -11113,3 +11113,6 @@
 - **[2026-11-20 12:42 UTC]** Moraes vota no STF para manter passaportes de Flávio Bolsonaro cancelados
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-vota-no-stf-para-manter-passaportes-de-flavio-bolsonaro-cancelados.shtml)_
 
+- **[2026-11-20 16:15 UTC]** Flávio Bolsonaro questiona STF e defende imunidade parlamentar de Van Hattem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-questiona-stf-e-defende-imunidade-parlamentar-de-van-hattem/)_
+
