@@ -11116,3 +11116,6 @@
 - **[2026-11-20 16:15 UTC]** Flávio Bolsonaro questiona STF e defende imunidade parlamentar de Van Hattem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-questiona-stf-e-defende-imunidade-parlamentar-de-van-hattem/)_
 
+- **[2026-11-20 15:31 UTC]** Moraes vota para manter passaportes cancelados e restrições a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-vota-para-manter-passaportes-cancelados-e-restricoes-a-flavio-bolsonaro/)_
+
