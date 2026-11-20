@@ -53,3 +53,6 @@
 - **[2026-11-20 09:59 UTC]** “Vamos fazer impeachment de ministros”, diz van Hattem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/vamos-fazer-impeachment-de-ministros-diz-van-hattem/)_
 
+- **[2026-11-20 02:45 UTC]** OAB pede que julgamento de Marcel van Hattem no STF seja presencial
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/oab-pede-que-julgamento-de-marcel-van-hattem-no-stf-seja-presencial/)_
+
