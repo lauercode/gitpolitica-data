@@ -20,3 +20,6 @@
 - **[2026-11-19 13:38 UTC]** Rio homenageia Dandara dos Palmares com escultura em Padre Miguel
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-11/rio-homenageia-dandara-dos-palmares-com-escultura-em-padre-miguel)_
 
+- **[2026-11-19 23:00 UTC]** Samba de Dandara questiona machismo com lógica quilombola
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/11/samba-de-dandara-questiona-machismo-com-logica-quilombola.shtml)_
+
