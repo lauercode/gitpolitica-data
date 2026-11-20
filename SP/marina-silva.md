@@ -98,3 +98,6 @@
 - **[2026-11-18 16:44 UTC]** Marina Silva integra vídeo cobrando Lula por mulher negra no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/marina-silva-integra-video-cobrando-lula-por-mulher-negra-no-stf/)_
 
+- **[2026-11-20 03:00 UTC]** Marina Silva, Fachin e Erika Hilton ampliam pressão sobre Lula por ministra negra no STF: 'Abismo social e estrutural'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/20/marina-silva-fachin-e-erika-hilton-lula-ministra-negra-no-stf.ghtml)_
+
