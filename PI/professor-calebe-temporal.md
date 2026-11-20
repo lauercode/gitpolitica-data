@@ -29,3 +29,6 @@
 - **[2026-11-19 18:24 UTC]** Temporal com granizo atinge cidades do Litoral Norte do RS e causa transtornos
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/19/temporal-chuva-granizo-rs.ghtml)_
 
+- **[2026-11-19 18:24 UTC]** Temporal com granizo causa transtornos com estragos e destelhamentos em cidades do RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/19/temporal-chuva-granizo-rs.ghtml)_
+
