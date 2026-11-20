@@ -11110,3 +11110,6 @@
 - **[2026-11-20 14:17 UTC]** Moraes diz que fuga de Flávio para os EUA é tentativa de obstruir investigações e vota para manter restrições a senador
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/20/moraes-diz-que-fuga-de-flavio-para-os-eua-e-tentativa-de-obstruir-investigacao-e-vota-para-manter-restricoes-a-senador.ghtml)_
 
+- **[2026-11-20 12:42 UTC]** Moraes vota no STF para manter passaportes de Flávio Bolsonaro cancelados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/moraes-vota-no-stf-para-manter-passaportes-de-flavio-bolsonaro-cancelados.shtml)_
+
