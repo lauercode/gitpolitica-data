@@ -11107,3 +11107,6 @@
 - **[2026-11-19 13:01 UTC]** Acordo com a PGR pode encerrar processo sobre calúnia de Flávio Bolsonaro contra Lula
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/acordo-com-a-pgr-pode-encerrar-processo-sobre-calunia-de-flavio-bolsonaro-contra-lula/)_
 
+- **[2026-11-20 14:17 UTC]** Moraes diz que fuga de Flávio para os EUA é tentativa de obstruir investigações e vota para manter restrições a senador
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/20/moraes-diz-que-fuga-de-flavio-para-os-eua-e-tentativa-de-obstruir-investigacao-e-vota-para-manter-restricoes-a-senador.ghtml)_
+
