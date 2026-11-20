@@ -44,3 +44,6 @@
 - **[2026-11-12 15:52 UTC]** Papa pede reparação diante dos abusos cometidos na Igreja
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/papa-pede-reparacao-diante-dos-abusos-cometidos-na-igreja/)_
 
+- **[2026-11-20 15:48 UTC]** Igreja dos Pretos tem mais de 300 anos de história e preserva memória da população negra em Natal
+  _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/20/igreja-dos-pretos-em-natal-tem-mais-de-300-anos-de-historia.ghtml)_
+
