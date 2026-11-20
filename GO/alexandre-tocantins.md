@@ -386,3 +386,6 @@
 - **[2026-11-20 00:57 UTC]** Cabeleireiro é encontrado morto com marcas de faca dentro de casa no interior do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/19/cabeleireiro-e-encontrado-morto-com-marcas-de-faca-dentro-de-casa-no-interior-do-tocantins.ghtml)_
 
+- **[2026-11-20 09:30 UTC]** Tocantins tem 78 processos de pesquisa por terras raras em 17 municípios
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/20/tocantins-tem-78-processos-de-pesquisa-por-terras-raras-em-17-municipios.ghtml)_
+
