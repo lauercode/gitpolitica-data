@@ -11119,3 +11119,6 @@
 - **[2026-11-20 15:31 UTC]** Moraes vota para manter passaportes cancelados e restrições a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-vota-para-manter-passaportes-cancelados-e-restricoes-a-flavio-bolsonaro/)_
 
+- **[2026-11-20 17:56 UTC]** Moraes cita fuga de Flávio Bolsonaro e vota para manter medidas cautelares
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/20/moraes-cita-saida-do-brasil-e-vota-para-manter-medidas-cautelares-contra-flavio-bolsonaro.ghtml)_
+
