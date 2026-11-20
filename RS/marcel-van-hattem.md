@@ -62,3 +62,6 @@
 - **[2026-11-20 17:25 UTC]** Zanin paralisa julgamento sobre Van Hattem e denúncia será analisada em sessão presencial
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-paralisa-julgamento-sobre-van-hattem-e-denuncia-sera-analisada-em-sessao-presencial/)_
 
+- **[2026-11-20 16:15 UTC]** Flávio Bolsonaro questiona STF e defende imunidade parlamentar de Van Hattem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-questiona-stf-e-defende-imunidade-parlamentar-de-van-hattem/)_
+
