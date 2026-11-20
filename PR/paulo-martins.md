@@ -23,3 +23,6 @@
 - **[2026-11-20 00:53 UTC]** Paulo Martins e Luiz Philippe: quem são os deputados que tentam desbancar Motta na Câmara
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/paulo-martins-e-luiz-philippe-quem-sao-os-deputados-que-tentam-desbancar-motta-na-camara/)_
 
+- **[2026-11-20 04:54 UTC]** Paulo Martins e Luiz Philippe desafiam favoritismo de Hugo Motta na Câmara
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/paulo-martins-e-luiz-philippe-desafiam-favoritismo-de-hugo-motta-na-camara/)_
+
