@@ -59,3 +59,6 @@
 - **[2026-11-20 14:21 UTC]** Dino vota para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml)_
 
+- **[2026-11-20 17:25 UTC]** Zanin paralisa julgamento sobre Van Hattem e denúncia será analisada em sessão presencial
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-paralisa-julgamento-sobre-van-hattem-e-denuncia-sera-analisada-em-sessao-presencial/)_
+
