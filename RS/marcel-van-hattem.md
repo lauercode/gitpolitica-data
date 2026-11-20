@@ -44,3 +44,6 @@
 - **[2026-11-19 21:46 UTC]** Primeira Turma do STF decide se torna Marcel van Hattem réu por calúnia e injúria
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/19/primeira-turma-do-stf-decide-se-torna-marcel-van-hattem-reu-por-calunia-e-injuria.ghtml)_
 
+- **[2026-11-20 00:10 UTC]** Caso Van Hattem testa terreno para radicalização autoritária do STF contra parlamentares
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/caso-van-hattem-testa-terreno-para-radicalizacao-autoritaria-do-stf-contra-parlamentares/)_
+
