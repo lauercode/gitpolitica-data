@@ -65,3 +65,6 @@
 - **[2026-11-20 16:15 UTC]** Flávio Bolsonaro questiona STF e defende imunidade parlamentar de Van Hattem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-questiona-stf-e-defende-imunidade-parlamentar-de-van-hattem/)_
 
+- **[2026-11-20 15:49 UTC]** Dino vota por tornar Marcel Van Hattem réu por calúnia contra Fábio Shor
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-vota-por-tornar-marcel-van-hattem-reu-por-calunia-contra-fabio-shor/)_
+
