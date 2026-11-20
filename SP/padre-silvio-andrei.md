@@ -95,3 +95,6 @@
 - **[2026-11-18 12:39 UTC]** Andrei percorre os três Poderes em meio à crise na PF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/andrei-percorre-os-tres-poderes-em-meio-a-crise-na-pf/)_
 
+- **[2026-11-20 02:11 UTC]** PF inclui Mendonça em apuração sobre Vorcaro após Andrei pedir novos relatórios, diz jornal
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-inclui-mendonca-em-pedido-de-apuracao-sobre-vorcaro-apos-andrei-pedir-novos-relatorios-diz-jornal/)_
+
