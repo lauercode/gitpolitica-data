@@ -224,3 +224,6 @@
 - **[2026-11-17 22:48 UTC]** Ex-secretário de Paulo Guedes assume secretaria de Tarcísio em SP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/ex-secretrio-de-paulo-guedes-assume-secretaria-de-tarcsio-em-sp.ghtml)_
 
+- **[2026-11-19 23:18 UTC]** Em encontro com Tarcísio em SP, Cleitinho defende união entre Estados
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/19/em-encontro-com-tarcisio-em-sp-cleitinho-defende-uniao-entre-estados.ghtml)_
+
