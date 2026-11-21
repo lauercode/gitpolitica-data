@@ -74,3 +74,6 @@
 - **[2026-11-20 18:46 UTC]** Dino vota para tornar Van Hattem réu por calúnia, mas julgamento é suspenso após pedido de Zanin
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/dino-vota-para-tornar-van-hattem-reu-por-calunia-mas-julgamento-e-suspenso-apos-pedido-de-zanin.shtml)_
 
+- **[2026-11-20 17:13 UTC]** Presidente do Novo condena voto de Dino contra Van Hattem: 'anormalidade democrática'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-novo-condena-voto-de-dino-contra-van-hattem-anormalidade-democratica.shtml)_
+
