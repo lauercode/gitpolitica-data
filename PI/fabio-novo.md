@@ -161,3 +161,6 @@
 - **[2026-11-20 15:30 UTC]** Novo documentário sobre Ted Bundy expõe cartas que ele escreveu para a prima na prisão
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2026/11/novo-documentario-sobre-ted-bundy-expoe-cartas-que-ele-escreveu-para-a-prima-na-prisao.shtml)_
 
+- **[2026-11-20 17:13 UTC]** Presidente do Novo condena voto de Dino contra Van Hattem: 'anormalidade democrática'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-novo-condena-voto-de-dino-contra-van-hattem-anormalidade-democratica.shtml)_
+
