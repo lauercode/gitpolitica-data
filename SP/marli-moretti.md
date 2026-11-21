@@ -110,3 +110,6 @@
 - **[2026-11-20 10:02 UTC]** Moretti e o temor crescente da Faria Lima com a próxima Fazenda
   _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/11/moretti-e-o-temor-crescente-da-faria-lima-com-a-proxima-fazenda.ghtml)_
 
+- **[2026-11-21 15:07 UTC]** Lula rebate críticas ao ajuste fiscal, diz que não fará cortes em educação e saúde e elogia Moretti
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/21/lula-rebate-crticas-ao-ajuste-fiscal-diz-que-no-far-cortes-em-educao-e-sade-e-elogia-moretti.ghtml)_
+
