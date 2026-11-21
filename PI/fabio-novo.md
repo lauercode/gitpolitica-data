@@ -164,3 +164,6 @@
 - **[2026-11-20 17:13 UTC]** Presidente do Novo condena voto de Dino contra Van Hattem: 'anormalidade democrática'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-novo-condena-voto-de-dino-contra-van-hattem-anormalidade-democratica.shtml)_
 
+- **[2026-11-21 17:24 UTC]** Novo 'Jogos Vorazes' estreia com US$ 56 milhões e lidera as bilheterias americanas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/novo-jogos-vorazes-estreia-com-us-56-milhoes-e-lidera-as-bilheterias-americanas.shtml)_
+
