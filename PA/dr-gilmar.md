@@ -188,3 +188,6 @@
 - **[2026-11-20 19:15 UTC]** Não vejo problema, mas não resolve a questão, diz Gilmar sobre abertura de sigilo do STF no caso Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nao-vejo-problema-mas-nao-resolve-a-questao-diz-gilmar-sobre-abertura-de-sigilo-do-stf-no-caso-master.shtml)_
 
+- **[2026-11-20 23:00 UTC]** Não resolve a questão, diz Gilmar sobre abertura de sigilo do STF no caso Master
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/20/no-resolve-a-questo-diz-gilmar-sobre-abertura-de-sigilo-do-stf-no-caso-master.ghtml)_
+
