@@ -104,3 +104,6 @@
 - **[2026-11-20 22:04 UTC]** Entenda o papel de cada indiciado por uso de imagem da filha de Omar Aziz em material de campanha de Maria do Carmo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/20/entenda-o-papel-de-cada-indiciado-por-uso-de-imagem-da-filha-de-omar-aziz-em-material-de-campanha-de-maria-do-carmo.ghtml)_
 
+- **[2026-11-21 08:19 UTC]** Entenda como marqueteiro do PL articulou disparo de conteúdo que levou a indiciamento de Maria do Carmo e integrantes da campanha
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/21/entenda-como-marqueteiro-do-pl-articulou-disparo-de-conteudo-que-levou-a-indiciamento-de-maria-do-carmo-e-integrantes-da-campanha.ghtml)_
+
