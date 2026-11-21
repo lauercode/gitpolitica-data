@@ -23,3 +23,6 @@
 - **[2026-11-07 21:33 UTC]** Grêmio avança à final da Copa do Brasil após empate com Atlético-MG
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/gremio-avanca-final-da-copa-do-brasil-apos-empate-com-atletico-mg)_
 
+- **[2026-11-21 09:00 UTC]** Brasil x Argentina: Atlético-MG e Boca Juniors fazem duelo histórico pela taça da Sul-Americana
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/brasil-x-argentina-atletico-mg-e-boca-juniors-fazem-duelo-historico-pela-taca-da-sul-americana/)_
+
