@@ -11140,3 +11140,6 @@
 - **[2026-11-21 20:09 UTC]** Alexandre de Moraes ordena apreensão do passaporte de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-ordena-apreensao-do-passaporte-de-flavio-bolsonaro/)_
 
+- **[2026-11-21 16:08 UTC]** Fala de Flávio contra resultado da eleição motivou Moraes a apreender passaporte
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fala-de-flavio-contra-resultado-da-eleicao-motivou-moraes-a-apreender-passaporte/)_
+
