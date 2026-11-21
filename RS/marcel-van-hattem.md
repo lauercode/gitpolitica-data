@@ -98,3 +98,6 @@
 - **[2026-11-21 14:22 UTC]** Moraes antecipa voto no STF para tornar Van Hattem réu por calúnia contra Shor
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-antecipa-voto-no-stf-para-tornar-van-hattem-reu-por-calunia-contra-shor/)_
 
+- **[2026-11-21 20:28 UTC]** Lexum aponta contradição e parcialidade em julgamento de Van Hattem no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lexum-aponta-contradicao-parcialidade-julgamento-van-hattem-stf/)_
+
