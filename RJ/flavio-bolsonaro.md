@@ -11128,3 +11128,6 @@
 - **[2026-11-20 17:55 UTC]** Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro)_
 
+- **[2026-11-20 18:43 UTC]** Moraes vota para manter restrições impostas a Flávio Bolsonaro
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-11/moraes-vota-para-manter-restricoes-impostas-flavio-bolsonaro)_
+
