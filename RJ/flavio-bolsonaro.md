@@ -11125,3 +11125,6 @@
 - **[2026-11-20 13:03 UTC]** Moraes vota para manter passaportes de Flávio Bolsonaro cancelados
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/moraes-vota-para-manter-passaportes-de-flavio-bolsonaro-cancelados/)_
 
+- **[2026-11-20 17:55 UTC]** Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro)_
+
