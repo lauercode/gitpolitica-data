@@ -11,3 +11,6 @@
 - **[2026-10-03 07:50 UTC]** Vice de Nunes se descola de Flávio e faz campanhas para candidatos do Novo e padre Kelmon
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/vice-de-nunes-se-descola-de-flavio-e-faz-campanhas-para-candidatos-do-novo-e-padre-kelmon.shtml)_
 
+- **[2026-11-21 18:39 UTC]** Padre Kelmon é barrado em hospital ao tentar dar unção dos enfermos a Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/padre-kelmon-e-barrado-em-hospital-ao-tentar-dar-uncao-dos-enfermos-a-bolsonaro/)_
+
