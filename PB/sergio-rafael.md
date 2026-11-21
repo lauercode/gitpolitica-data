@@ -17,3 +17,6 @@
 - **[2026-11-19 17:26 UTC]** 'Quem Ama Cuida': Adriana expulsa Pilar, Ingrid e Rafael do apartamento de Arthur
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://aovivo.folha.uol.com.br/f5/2026/05/14/6448-quem-ama-cuida-acompanhe-aqui-todos-os-resumos-da-novela.shtml#post468063)_
 
+- **[2026-11-21 10:07 UTC]** Tati Machado dá à luz Rafael: 'Bem-vindo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/tati-machado-da-a-luz-rafael-bem-vindo.shtml)_
+
