@@ -212,3 +212,6 @@
 - **[2026-11-20 17:18 UTC]** Jair Bolsonaro é levado para hospital após sentir dores abdominais
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/jair-bolsonaro-e-levado-para-hospital-apos-sentir-dores-abdominais-diz-filho/)_
 
+- **[2026-11-21 14:55 UTC]** Ex-presidente Jair Bolsonaro está internado em UTI no Distrito Federal
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ex-presidente-jair-bolsonaro-esta-internado-em-uti-no-distrito-federal)_
+
