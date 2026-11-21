@@ -77,3 +77,6 @@
 - **[2026-11-20 17:13 UTC]** Presidente do Novo condena voto de Dino contra Van Hattem: 'anormalidade democrática'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-novo-condena-voto-de-dino-contra-van-hattem-anormalidade-democratica.shtml)_
 
+- **[2026-11-20 23:24 UTC]** “Zanin fez o correto”, diz Van Hattem sobre julgamento no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-fez-correto-diz-van-hattem-julgamento-stf/)_
+
