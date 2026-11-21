@@ -71,3 +71,6 @@
 - **[2026-11-20 14:21 UTC]** Dino e Moraes votam para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml)_
 
+- **[2026-11-20 18:46 UTC]** Dino vota para tornar Van Hattem réu por calúnia, mas julgamento é suspenso após pedido de Zanin
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/dino-vota-para-tornar-van-hattem-reu-por-calunia-mas-julgamento-e-suspenso-apos-pedido-de-zanin.shtml)_
+
