@@ -86,3 +86,6 @@
 - **[2026-11-20 21:08 UTC]** Entidades manifestam preocupação e perplexidade com julgamento de Van Hattem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/entidades-preocupacao-julgamento-van-hattem/)_
 
+- **[2026-11-20 19:50 UTC]** Flávio Dino apresenta voto para transformar Marcel van Hattem em réu no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-apresenta-voto-para-transformar-marcel-van-hattem-em-reu-no-stf/)_
+
