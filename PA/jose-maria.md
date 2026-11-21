@@ -17,3 +17,6 @@
 - **[2026-10-30 03:49 UTC]** Escola Municipal José Maria Pinheiro 5ª Quadra da B-4, 80ª zona eleitoral: resultado da votação em Nova Olinda do Maranhão (MA) no 1º turno
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/30/escola-municipal-jose-maria-pinheiro-5a-quadra-da-b-4-80a-zona-eleitoral-resultado-da-votacao-em-nova-olinda-do-maranhao-ma-no-1o-turno.ghtml)_
 
+- **[2026-11-21 14:42 UTC]** Cabo Verde reelege José Maria Neves como presidente
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/cabo-verde-reelege-jose-maria-neves-como-presidente/)_
+
