@@ -89,3 +89,6 @@
 - **[2026-11-20 19:50 UTC]** Flávio Dino apresenta voto para transformar Marcel van Hattem em réu no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/flavio-dino-apresenta-voto-para-transformar-marcel-van-hattem-em-reu-no-stf/)_
 
+- **[2026-11-20 19:55 UTC]** Dino vota para tornar Van Hattem réu por calúnia; Zanin suspende julgamento
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-zanin-suspende-julgamento.ghtml)_
+
