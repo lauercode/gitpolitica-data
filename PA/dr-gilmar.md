@@ -191,3 +191,6 @@
 - **[2026-11-20 23:00 UTC]** Não resolve a questão, diz Gilmar sobre abertura de sigilo do STF no caso Master
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/20/no-resolve-a-questo-diz-gilmar-sobre-abertura-de-sigilo-do-stf-no-caso-master.ghtml)_
 
+- **[2026-11-21 18:08 UTC]** Gilmar minimiza gesto de Mendonça e defende levar caso Master ao plenário do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-minimiza-gesto-de-mendonca-e-defende-levar-caso-master-ao-plenario-do-stf/)_
+
