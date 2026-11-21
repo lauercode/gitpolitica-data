@@ -389,3 +389,6 @@
 - **[2026-11-20 09:30 UTC]** Tocantins tem 78 processos de pesquisa por terras raras em 17 municípios
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/20/tocantins-tem-78-processos-de-pesquisa-por-terras-raras-em-17-municipios.ghtml)_
 
+- **[2026-11-21 10:00 UTC]** Conheça a Caverna 'Vão da Zuada' e saiba como chegar ao atrativo turístico no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/21/conheca-a-caverna-vao-da-zuada-e-saiba-como-chegar-ao-atrativo-turistico-no-tocantins.ghtml)_
+
