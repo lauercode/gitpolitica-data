@@ -47,3 +47,6 @@
 - **[2026-11-21 14:27 UTC]** Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml)_
 
+- **[2026-11-21 12:14 UTC]** Lula ataca 'yuppies da Faria Lima' e diz que mercado financeiro não vai ensiná-lo a governar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-ataca-yuppies-da-faria-lima-e-diz-que-mercado-financeiro-nao-vai-ensina-lo-a-governar.shtml)_
+
