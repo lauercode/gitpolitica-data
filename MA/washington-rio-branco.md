@@ -161,3 +161,6 @@
 - **[2026-11-20 12:00 UTC]** Com árvore de 22 metros, decoração natalina de Rio Branco deve ser inaugurada em dezembro
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/20/decoracao-natalina-de-rio-branco-dever-ser-inaugurada-em-dezembro.ghtml)_
 
+- **[2026-11-20 21:31 UTC]** Incêndio atinge padaria e destrói equipamentos em Rio Branco; ninguém se feriu
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/20/incendio-atinge-padaria-e-destroi-equipamentos-em-rio-branco-ninguem-se-feriu.ghtml)_
+
