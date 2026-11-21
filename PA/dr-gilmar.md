@@ -182,3 +182,6 @@
 - **[2026-11-16 17:57 UTC]** Defesa de Vorcaro faz novo pedido para que Gilmar decida sobre relatoria do caso Master
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-vorcaro-faz-novo-pedido-para-que-gilmar-decida-sobre-relatoria-do-caso-master.shtml)_
 
+- **[2026-11-20 23:56 UTC]** Gilmar diz não ver problema em abertura de sigilo de relatório da PF sobre outros ministros, mas que medida não resolve questão
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/20/gilmar-mendes-diz-nao-ver-problema-em-abertura-de-sigilo-de-relatorio-da-pf-sobre-outros-ministros-do-supremo.ghtml)_
+
