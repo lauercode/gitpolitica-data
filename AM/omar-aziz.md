@@ -221,3 +221,6 @@
 - **[2026-11-20 13:07 UTC]** Professora Maria do Carmo é indiciada por uso de imagem da filha de Omar Aziz em material de campanha
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/20/professora-maria-do-carmo-e-indiciada-por-uso-de-imagem-da-filha-de-omar-aziz-em-material-de-campanha.ghtml)_
 
+- **[2026-11-20 22:04 UTC]** Entenda o papel de cada indiciado por uso de imagem da filha de Omar Aziz em material de campanha de Maria do Carmo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/20/entenda-o-papel-de-cada-indiciado-por-uso-de-imagem-da-filha-de-omar-aziz-em-material-de-campanha-de-maria-do-carmo.ghtml)_
+
