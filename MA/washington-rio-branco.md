@@ -167,3 +167,6 @@
 - **[2026-11-21 00:41 UTC]** Tremor de terra é sentido no Acre e assusta moradores de Rio Branco e Cruzeiro do Sul
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/20/tremor-de-terra-e-sentido-e-assusta-moradores-no-acre.ghtml)_
 
+- **[2026-11-21 18:53 UTC]** Papai Noel chega com cortejo e atrações musicais neste sábado (21) em shopping de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/21/papai-noel-chega-com-cortejo-e-atracoes-musicais-neste-sabado-21-em-shopping-de-rio-branco.ghtml)_
+
