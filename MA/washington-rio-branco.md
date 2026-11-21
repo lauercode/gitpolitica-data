@@ -170,3 +170,6 @@
 - **[2026-11-21 18:53 UTC]** Papai Noel chega com cortejo e atrações musicais neste sábado (21) em shopping de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/21/papai-noel-chega-com-cortejo-e-atracoes-musicais-neste-sabado-21-em-shopping-de-rio-branco.ghtml)_
 
+- **[2026-11-21 15:57 UTC]** Após mais de 10 mortes violentas, Segurança faz operação no Segundo Distrito de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/21/apos-mais-de-10-mortes-violentas-seguranca-faz-operacao-no-segundo-distrito-de-rio-branco.ghtml)_
+
