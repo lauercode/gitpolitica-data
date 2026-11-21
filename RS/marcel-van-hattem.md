@@ -83,3 +83,6 @@
 - **[2026-11-20 21:26 UTC]** Cristiano Zanin interrompe julgamento de Marcel van Hattem no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cristiano-zanin-interrompe-julgamento-de-marcel-van-hattem-no-stf/)_
 
+- **[2026-11-20 21:08 UTC]** Entidades manifestam preocupação e perplexidade com julgamento de Van Hattem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/entidades-preocupacao-julgamento-van-hattem/)_
+
