@@ -68,3 +68,6 @@
 - **[2026-11-19 10:53 UTC]** Corinthians goleia Botafogo e deixa a zona de rebaixamento do Brasileirão
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/corinthians-goleia-botafogo-e-deixa-a-zona-de-rebaixamento-do-brasileirao/)_
 
+- **[2026-11-20 21:22 UTC]** Mesmo sem assumir a SAF do Botafogo, investidor desembolsa milhões
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/mesmo-sem-assumir-a-saf-do-botafogo-investidor-desembolsa-milhoes/)_
+
