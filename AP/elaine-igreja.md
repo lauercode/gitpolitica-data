@@ -47,3 +47,6 @@
 - **[2026-11-20 15:48 UTC]** Igreja dos Pretos tem mais de 300 anos de história e preserva memória da população negra em Natal
   _fonte: [G1 - Regiões: Rio Grande do Norte](https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/20/igreja-dos-pretos-em-natal-tem-mais-de-300-anos-de-historia.ghtml)_
 
+- **[2026-11-20 17:00 UTC]** 1926: Papa Pio 11 fala de perseguições do governo do México à Igreja
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/11/1926-papa-pio-11-fala-de-perseguicoes-do-governo-do-mexico-a-igreja.shtml)_
+
