@@ -101,3 +101,6 @@
 - **[2026-10-24 19:53 UTC]** Quaest: Omar Aziz (PSD) tem 59% no Amazonas, ante 41% de Maria do Carmo (PL)
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quaest-omar-aziz-psd-tem-59-no-amazonas-ante-41-de-maria-do-carmo-pl.shtml)_
 
+- **[2026-11-20 22:04 UTC]** Entenda o papel de cada indiciado por uso de imagem da filha de Omar Aziz em material de campanha de Maria do Carmo
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/20/entenda-o-papel-de-cada-indiciado-por-uso-de-imagem-da-filha-de-omar-aziz-em-material-de-campanha-de-maria-do-carmo.ghtml)_
+
