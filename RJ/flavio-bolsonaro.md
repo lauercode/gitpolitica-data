@@ -11134,3 +11134,6 @@
 - **[2026-11-20 19:31 UTC]** Moraes mantém retenção de passaportes e proibições impostas a Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-mantem-retencao-de-passaportes-e-proibicoes-impostas-a-flavio-bolsonaro/)_
 
+- **[2026-11-20 23:00 UTC]** Engajamento de Flávio Bolsonaro no Instagram cai 81% em dez dias, aponta estudo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/engajamento-de-flavio-bolsonaro-no-instagram-cai-81-em-dez-dias-aponta-estudo.shtml)_
+
