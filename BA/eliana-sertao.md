@@ -53,3 +53,6 @@
 - **[2026-11-17 19:47 UTC]** Mulher tem cabelo arrancado pelo namorado após briga no Sertão da Paraíba; Suspeito do crime é preso
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/17/mulher-tem-cabelo-arrancado-pelo-namorado-apos-briga-no-sertao-da-paraiba-homem-e-preso.ghtml)_
 
+- **[2026-11-21 20:14 UTC]** Incêndio destrói cinco ônibus escolares em garagem de prefeitura do Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/21/incendio-destroi-cinco-onibus-escolares-em-garagem-de-prefeitura-do-sertao-da-paraiba.ghtml)_
+
