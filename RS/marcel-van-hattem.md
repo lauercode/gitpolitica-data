@@ -80,3 +80,6 @@
 - **[2026-11-20 23:24 UTC]** “Zanin fez o correto”, diz Van Hattem sobre julgamento no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/zanin-fez-correto-diz-van-hattem-julgamento-stf/)_
 
+- **[2026-11-20 21:26 UTC]** Cristiano Zanin interrompe julgamento de Marcel van Hattem no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cristiano-zanin-interrompe-julgamento-de-marcel-van-hattem-no-stf/)_
+
