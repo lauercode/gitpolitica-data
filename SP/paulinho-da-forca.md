@@ -188,3 +188,6 @@
 - **[2026-11-04 18:21 UTC]** Força da água 'rasga' trecho da BR-282 ao meio e forma cachoeira durante chuva intensa em SC; VÍDEO
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/11/04/forca-agua-corta-trecho-br-282-ao-meio-durante-chuva-sc-video.ghtml)_
 
+- **[2026-11-20 23:16 UTC]** Força do vento derruba árvore gigante de Natal em cartão-postal de Maringá
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/20/forca-do-vento-derruba-arvore-gigante-de-natal-em-cartao-postal-de-maringa.ghtml)_
+
