@@ -35,3 +35,6 @@
 - **[2026-11-20 12:18 UTC]** Temporal causa uma morte e destrói 93% das casas de município do RS
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-11/temporal-causa-uma-morte-e-destroi-93-das-casas-de-municipio-do-rs)_
 
+- **[2026-11-20 16:28 UTC]** Temporal no RS: governo envia equipes da Defesa Civil para Tupanciretã
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/temporal-no-rs-governo-envia-equipes-da-defesa-civil-para-tupancireta)_
+
