@@ -101,3 +101,6 @@
 - **[2026-11-21 20:28 UTC]** Lexum aponta contradição e parcialidade em julgamento de Van Hattem no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/lexum-aponta-contradicao-parcialidade-julgamento-van-hattem-stf/)_
 
+- **[2026-11-21 18:23 UTC]** Alexandre de Moraes vota para transformar Marcel Van Hattem em réu no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-vota-para-transformar-marcel-van-hattem-em-reu-no-stf/)_
+
