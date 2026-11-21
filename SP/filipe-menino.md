@@ -122,3 +122,6 @@
 - **[2026-11-10 15:52 UTC]** Menino de 1 ano se engasga com bala de chiclete e é socorrido por policial militar em Bonfim
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/10/menino-de-1-ano-se-engasga-com-bala-de-chiclete-e-e-socorrido-por-policial-militar-em-bonfim.ghtml)_
 
+- **[2026-11-21 18:04 UTC]** Menino de 2 anos morre após cair em caixa d'água no interior do Acre: 'Foi coisa rápida'
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/21/menino-de-2-anos-morre-apos-cair-em-caixa-dagua-no-interior-do-acre.ghtml)_
+
