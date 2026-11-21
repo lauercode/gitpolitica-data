@@ -23,3 +23,6 @@
 - **[2026-10-26 17:00 UTC]** Cortes no Medicaid pressionam rede de saúde pública nos Estados Unidos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/cortes-no-medicaid-pressionam-rede-de-saude-publica-nos-estados-unidos.shtml)_
 
+- **[2026-11-20 16:02 UTC]** Cortes na pele: veja erros comuns que podem dificultar a recuperação
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/bem-estar/cortes-na-pele-veja-erros-comuns-que-podem-dificultar-a-recuperacao/)_
+
