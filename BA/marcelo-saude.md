@@ -161,3 +161,6 @@
 - **[2026-11-19 21:36 UTC]** Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/reporter-da-agencia-brasil-vence-premio-sbim-de-jornalismo-em-saude)_
 
+- **[2026-11-20 21:13 UTC]** Ministério da Saúde envia Força Nacional do SUS para o RS após tragédia deixar 3 mortos e ao menos 60 feridos
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/ministerio-da-saude-envia-forca-nacional-do-sus-para-o-rs.ghtml)_
+
