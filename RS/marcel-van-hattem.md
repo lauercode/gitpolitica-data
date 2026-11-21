@@ -92,3 +92,6 @@
 - **[2026-11-20 19:55 UTC]** Dino vota para tornar Van Hattem réu por calúnia; Zanin suspende julgamento
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-zanin-suspende-julgamento.ghtml)_
 
+- **[2026-11-20 15:56 UTC]** Zanin suspende julgamento virtual e leva caso de Van Hattem à sessão presencial
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/zanin-suspende-julgamento-virtual-e-leva-caso-de-van-hattem-a-sessao-presencial/)_
+
