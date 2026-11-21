@@ -164,3 +164,6 @@
 - **[2026-11-20 21:31 UTC]** Incêndio atinge padaria e destrói equipamentos em Rio Branco; ninguém se feriu
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/20/incendio-atinge-padaria-e-destroi-equipamentos-em-rio-branco-ninguem-se-feriu.ghtml)_
 
+- **[2026-11-21 00:41 UTC]** Tremor de terra é sentido no Acre e assusta moradores de Rio Branco e Cruzeiro do Sul
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/20/tremor-de-terra-e-sentido-e-assusta-moradores-no-acre.ghtml)_
+
