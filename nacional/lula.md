@@ -2780,3 +2780,6 @@
 - **[2026-11-19 17:41 UTC]** Presidente do PSOL diz que partido está unido contra pressão do mercado sobre Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/presidente-do-psol-diz-que-partido-esta-unido-contra-pressao-do-mercado-sobre-lula.shtml)_
 
+- **[2026-11-20 23:00 UTC]** Equipe econômica vai levar a Lula nomes para substituir presidente do Banco do Brasil
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/equipe-economica-vai-levar-a-lula-nomes-para-substituir-presidente-do-banco-do-brasil.shtml)_
+
