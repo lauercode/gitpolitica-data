@@ -68,3 +68,6 @@
 - **[2026-11-20 15:49 UTC]** Dino vota por tornar Marcel Van Hattem réu por calúnia contra Fábio Shor
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-vota-por-tornar-marcel-van-hattem-reu-por-calunia-contra-fabio-shor/)_
 
+- **[2026-11-20 14:21 UTC]** Dino e Moraes votam para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml)_
+
