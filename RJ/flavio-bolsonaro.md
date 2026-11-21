@@ -11137,3 +11137,6 @@
 - **[2026-11-20 23:00 UTC]** Engajamento de Flávio Bolsonaro no Instagram cai 81% em dez dias, aponta estudo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/engajamento-de-flavio-bolsonaro-no-instagram-cai-81-em-dez-dias-aponta-estudo.shtml)_
 
+- **[2026-11-21 20:09 UTC]** Alexandre de Moraes ordena apreensão do passaporte de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-ordena-apreensao-do-passaporte-de-flavio-bolsonaro/)_
+
