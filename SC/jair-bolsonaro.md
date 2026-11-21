@@ -209,3 +209,6 @@
 - **[2026-11-20 20:46 UTC]** Jair Bolsonaro é levado ao hospital após sentir dores abdominais
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-11/jair-bolsonaro-e-levado-ao-hospital-apos-sentir-dores-abdominais)_
 
+- **[2026-11-20 17:18 UTC]** Jair Bolsonaro é levado para hospital após sentir dores abdominais
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/jair-bolsonaro-e-levado-para-hospital-apos-sentir-dores-abdominais-diz-filho/)_
+
