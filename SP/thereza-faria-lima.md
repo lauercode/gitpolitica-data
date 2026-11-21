@@ -50,3 +50,6 @@
 - **[2026-11-21 12:14 UTC]** Lula ataca 'yuppies da Faria Lima' e diz que mercado financeiro não vai ensiná-lo a governar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-ataca-yuppies-da-faria-lima-e-diz-que-mercado-financeiro-nao-vai-ensina-lo-a-governar.shtml)_
 
+- **[2026-11-21 15:31 UTC]** Lula reage a críticas da esquerda ao ajuste fiscal e ataca “yuppies da Faria Lima”
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/lula-reage-a-criticas-da-esquerda-ao-ajuste-fiscal-e-ataca-yuppies-da-faria-lima/)_
+
