@@ -206,3 +206,6 @@
 - **[2026-11-18 00:36 UTC]** Alexandre de Moraes impede conversa de Jair Bolsonaro com senadores
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-impede-conversa-de-jair-bolsonaro-com-senadores/)_
 
+- **[2026-11-20 20:46 UTC]** Jair Bolsonaro é levado ao hospital após sentir dores abdominais
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-11/jair-bolsonaro-e-levado-ao-hospital-apos-sentir-dores-abdominais)_
+
