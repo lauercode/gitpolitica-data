@@ -11131,3 +11131,6 @@
 - **[2026-11-20 18:43 UTC]** Moraes vota para manter restrições impostas a Flávio Bolsonaro
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-11/moraes-vota-para-manter-restricoes-impostas-flavio-bolsonaro)_
 
+- **[2026-11-20 19:31 UTC]** Moraes mantém retenção de passaportes e proibições impostas a Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-mantem-retencao-de-passaportes-e-proibicoes-impostas-a-flavio-bolsonaro/)_
+
