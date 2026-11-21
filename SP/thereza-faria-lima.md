@@ -44,3 +44,6 @@
 - **[2026-11-20 10:02 UTC]** Moretti e o temor crescente da Faria Lima com a próxima Fazenda
   _fonte: [Valor Econômico](https://valor.globo.com/financas/intraday/post/2026/11/moretti-e-o-temor-crescente-da-faria-lima-com-a-proxima-fazenda.ghtml)_
 
+- **[2026-11-21 14:27 UTC]** Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml)_
+
