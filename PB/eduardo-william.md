@@ -35,3 +35,6 @@
 - **[2026-11-19 22:51 UTC]** Príncipe Harry acusa William de afastar o pai de uma tentativa de reconciliação
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/principe-harry-acusa-william-de-afastar-o-pai-de-uma-tentativa-de-reconciliacao.shtml)_
 
+- **[2026-11-22 07:30 UTC]** Paranaense representa América Latina e discursa ao lado do príncipe William em premiação ambiental na Índia
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/22/paranaense-representa-america-latina-e-discursa-ao-lado-do-principe.ghtml)_
+
