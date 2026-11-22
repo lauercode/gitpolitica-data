@@ -101,3 +101,6 @@
 - **[2026-11-22 16:34 UTC]** Michelle diz que ex-presidente está sem dor e caminhou pelo quarto
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-atualiza-estado-de-saude-de-bolsonaro-e-diz-que-ex-presidente-esta-sem-febre/)_
 
+- **[2026-11-22 16:18 UTC]** Michelle diz que Bolsonaro passou a noite sem dores
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/22/michelle-diz-que-bolsonaro-passou-a-noite-sem-dores.ghtml)_
+
