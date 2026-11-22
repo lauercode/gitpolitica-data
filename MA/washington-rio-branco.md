@@ -173,3 +173,6 @@
 - **[2026-11-21 15:57 UTC]** Após mais de 10 mortes violentas, Segurança faz operação no Segundo Distrito de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/21/apos-mais-de-10-mortes-violentas-seguranca-faz-operacao-no-segundo-distrito-de-rio-branco.ghtml)_
 
+- **[2026-11-22 04:06 UTC]** Previsão do tempo hoje para Rio Branco (AC): sol com muitas nuvens de manhã passando a nublado, com possibilidade de garoa, à noite; à noite o tempo ainda não abre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/22/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-muitas-nuvens-de-manha-passando-a-nublado-com-possibilidade-de-garoa-a-noite-a-noite-o-tempo-ainda-nao-abre.ghtml)_
+
