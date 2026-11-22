@@ -89,3 +89,6 @@
 - **[2026-11-16 01:15 UTC]** Michelle rebate críticas e diz que viagem a Israel tem aval de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-rebate-criticas-e-diz-que-viagem-a-israel-tem-aval-de-bolsonaro/)_
 
+- **[2026-11-21 22:40 UTC]** Michelle retorna ao Brasil após internação de Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-antecipa-retorno-ao-brasil-apos-internacao-de-bolsonaro/)_
+
