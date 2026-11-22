@@ -95,3 +95,6 @@
 - **[2026-11-22 01:39 UTC]** Michelle chega a Brasília para visitar Bolsonaro no hospital
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/21/michelle-chega-a-braslia-para-visitar-bolsonaro-no-hospital.ghtml)_
 
+- **[2026-11-22 13:37 UTC]** Jair Bolsonaro está com 'uma cara boa', diz Michelle ao visitá-lo na UTI
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/22/jair-bolsonaro-esta-com-uma-cara-boa-diz-michelle-ao-visita-lo-na-uti.ghtml)_
+
