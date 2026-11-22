@@ -89,3 +89,6 @@
 - **[2026-11-17 15:59 UTC]** Cobra aparece perto de centro cirúrgico em hospital de RO
   _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/11/17/cobra-e-encontrada-em-corredor-de-hospital-proximo-ao-centro-cirurgico-em-ro.ghtml)_
 
+- **[2026-11-22 10:00 UTC]** Cobra que deu bote em cão em praia de Palmas é da espécie sucuri-verde, diz biólogo
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/22/cobra-que-deu-bote-em-cao-em-praia-de-palmas-e-da-especie-sucuri-verde-diz-biologo.ghtml)_
+
