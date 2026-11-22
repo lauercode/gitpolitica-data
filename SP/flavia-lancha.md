@@ -20,3 +20,6 @@
 - **[2026-11-06 20:44 UTC]** Lancha colide com barranco no Amazonas; passageiros foram resgatados
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/06/lancha-colide-com-barranco-no-amazonas-passageiros-foram-resgatados.ghtml)_
 
+- **[2026-11-22 15:03 UTC]** Lancha avaliada em mais de meio milhão de reais e 22 pneus são apreendidos durante fiscalização no Pará
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/11/22/lancha-avaliada-em-mais-de-meio-milhao-de-reais-e-22-pneus-sao-apreendidos-durante-fiscalizacao-no-para.ghtml)_
+
