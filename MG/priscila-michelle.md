@@ -98,3 +98,6 @@
 - **[2026-11-22 13:37 UTC]** Jair Bolsonaro está com 'uma cara boa', diz Michelle ao visitá-lo na UTI
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/22/jair-bolsonaro-esta-com-uma-cara-boa-diz-michelle-ao-visita-lo-na-uti.ghtml)_
 
+- **[2026-11-22 16:34 UTC]** Michelle diz que ex-presidente está sem dor e caminhou pelo quarto
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-atualiza-estado-de-saude-de-bolsonaro-e-diz-que-ex-presidente-esta-sem-febre/)_
+
