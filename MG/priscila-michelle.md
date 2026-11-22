@@ -104,3 +104,6 @@
 - **[2026-11-22 16:18 UTC]** Michelle diz que Bolsonaro passou a noite sem dores
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/22/michelle-diz-que-bolsonaro-passou-a-noite-sem-dores.ghtml)_
 
+- **[2026-11-22 14:01 UTC]** Após dias em Israel, Michelle retorna ao Brasil e visita Bolsonaro na UTI
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-dias-em-israel-michelle-retorna-ao-brasil-e-visita-bolsonaro-na-uti/)_
+
