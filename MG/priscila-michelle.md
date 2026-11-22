@@ -92,3 +92,6 @@
 - **[2026-11-21 22:40 UTC]** Michelle retorna ao Brasil após internação de Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/michelle-antecipa-retorno-ao-brasil-apos-internacao-de-bolsonaro/)_
 
+- **[2026-11-22 01:39 UTC]** Michelle chega a Brasília para visitar Bolsonaro no hospital
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/21/michelle-chega-a-braslia-para-visitar-bolsonaro-no-hospital.ghtml)_
+
