@@ -113,3 +113,6 @@
 - **[2026-11-21 15:07 UTC]** Lula rebate críticas ao ajuste fiscal, diz que não fará cortes em educação e saúde e elogia Moretti
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/21/lula-rebate-crticas-ao-ajuste-fiscal-diz-que-no-far-cortes-em-educao-e-sade-e-elogia-moretti.ghtml)_
 
+- **[2026-11-21 23:00 UTC]** Prorrogação do IPI será prioridade da equipe econômica após avanço do plano Moretti
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/prorrogacao-do-ipi-sera-prioridade-da-equipe-economica-apos-avanco-do-plano-moretti.shtml)_
+
