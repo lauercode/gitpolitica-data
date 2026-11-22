@@ -245,3 +245,6 @@
 - **[2026-11-19 23:18 UTC]** Em encontro com Tarcísio em SP, Cleitinho defende união entre Estados
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/19/em-encontro-com-tarcisio-em-sp-cleitinho-defende-uniao-entre-estados.ghtml)_
 
+- **[2026-11-22 15:04 UTC]** Cleitinho elogia Ana Elisa e diz ter orgulho da deputada petista
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/cleitinho-elogia-ana-elisa-e-diz-ter-orgulho-da-deputada-petista.shtml)_
+
