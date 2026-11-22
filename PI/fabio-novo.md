@@ -167,3 +167,6 @@
 - **[2026-11-21 17:24 UTC]** Novo 'Jogos Vorazes' estreia com US$ 56 milhões e lidera as bilheterias americanas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/novo-jogos-vorazes-estreia-com-us-56-milhoes-e-lidera-as-bilheterias-americanas.shtml)_
 
+- **[2026-11-22 11:07 UTC]** Novo plano da Petrobras ronda os US$ 115 bilhões, com dividendos no radar
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/22/novo-plano-da-petrobras-ronda-os-us-115-bilhoes-com-dividendos-no-radar.ghtml)_
+
