@@ -395,3 +395,6 @@
 - **[2026-11-21 14:08 UTC]** Tocantins deve registrar chuva e trovoadas durante o fim de semana; veja a previsão
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/21/tocantins-deve-registrar-chuva-e-trovoadas-durante-o-fim-de-semana-veja-a-previsao.ghtml)_
 
+- **[2026-11-22 13:33 UTC]** Homem é esfaqueado durante festa de aniversário e morre em hospital no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/22/homem-e-esfaqueado-durante-festa-de-aniversario-e-morre-em-hospital-no-interior-do-tocantins.ghtml)_
+
