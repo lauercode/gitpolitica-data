@@ -47,3 +47,6 @@
 - **[2026-11-18 12:42 UTC]** Preso durante força-tarefa após ataques com oito mortos em Porto Alegre foge do Palácio da Polícia
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/18/preso-durante-forca-tarefa-apos-ataques-porto-alegre.ghtml)_
 
+- **[2026-11-21 18:00 UTC]** Secretário de Tarcísio troca Palácio dos Bandeirantes por salas de Oxford por uma semana
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/secretario-de-tarcisio-troca-palacio-dos-bandeirantes-por-salas-de-oxford-por-uma-semana.shtml)_
+
