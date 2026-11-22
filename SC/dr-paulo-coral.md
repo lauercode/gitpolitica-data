@@ -14,3 +14,6 @@
 - **[2026-09-11 14:22 UTC]** Falha elétrica e queda de árvores afetam linhas 7-rubi e 11-coral em São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/falha-eletrica-e-queda-de-arvores-afetam-linhas-7-rubi-e-11-coral-em-sao-paulo.shtml)_
 
+- **[2026-11-22 19:29 UTC]** Coral da Sefaz comemora 20 anos com missa em ação de graças em Manaus
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/22/coral-da-sefaz-comemora-20-anos-com-missa-em-acao-de-gracas-em-manaus.ghtml)_
+
