@@ -98,3 +98,6 @@
 - **[2026-11-20 02:11 UTC]** PF inclui Mendonça em apuração sobre Vorcaro após Andrei pedir novos relatórios, diz jornal
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pf-inclui-mendonca-em-pedido-de-apuracao-sobre-vorcaro-apos-andrei-pedir-novos-relatorios-diz-jornal/)_
 
+- **[2026-11-23 17:08 UTC]** Novo volta a pedir afastamento de Andrei e o acusa de interferir no caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-volta-a-pedir-afastamento-de-andrei-e-o-acusa-de-interferir-no-caso-master/)_
+
