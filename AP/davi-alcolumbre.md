@@ -830,3 +830,6 @@
 - **[2026-11-23 13:00 UTC]** Alcolumbre promete crédito de emendas a senadores novatos e diz que facilitará liberação se reeleito
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-vincula-emendas-a-relacao-com-lula-em-busca-de-votos-no-senado-dizem-aliados.shtml)_
 
+- **[2026-11-23 18:38 UTC]** Hugo Motta e Davi Alcolumbre usam pauta jurídica para atrair apoio da direita
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-e-davi-alcolumbre-usam-pauta-juridica-para-atrair-apoio-da-direita/)_
+
