@@ -59,3 +59,6 @@
 - **[2026-11-21 20:59 UTC]** PM apreende quase 40 hidrômetros em terreno em Patos, no Sertão da PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/21/pm-apreende-quase-40-hidrometros-em-terreno-em-patos-no-sertao-da-pb.ghtml)_
 
+- **[2026-11-23 11:21 UTC]** Homem é preso suspeito de estuprar sobrinha de 14 anos em motel, no Sertão da PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/23/homem-e-preso-suspeito-de-estuprar-sobrinha-de-14-anos-em-motel-no-sertao-da-pb.ghtml)_
+
