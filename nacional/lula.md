@@ -2792,3 +2792,6 @@
 - **[2026-11-23 17:12 UTC]** Flávio será citado por edital em acusação de calúnia contra Lula
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-11/flavio-sera-citado-por-edital-em-acusacao-de-calunia-contra-lula)_
 
+- **[2026-11-23 18:04 UTC]** Moraes volta a dispensar carta aos EUA e intima Flávio por edital em ação por crítica a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-volta-a-dispensar-carta-aos-eua-e-intima-flavio-por-edital-em-acao-por-critica-a-lula/)_
+
