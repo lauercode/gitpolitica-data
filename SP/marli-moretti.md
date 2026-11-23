@@ -122,3 +122,6 @@
 - **[2026-11-23 08:31 UTC]** Câmara começa a votar plano Moretti em sessão extraordinária nesta segunda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-comeca-a-votar-plano-moretti-em-sessao-extraordinaria-nesta-segunda.shtml)_
 
+- **[2026-11-23 06:00 UTC]** Relator do plano Moretti vai sugerir novas medidas fiscais ao governo após votação na Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/relator-do-plano-moretti-vai-sugerir-novas-medidas-fiscais-ao-governo-apos-votacao-na-camara.shtml)_
+
