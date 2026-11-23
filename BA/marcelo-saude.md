@@ -167,3 +167,6 @@
 - **[2026-11-22 20:00 UTC]** PT quer manter comando sobre Saúde e Educação e disputa outros ministérios robustos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/pt-quer-manter-comando-sobre-saude-e-educacao-e-disputa-outros-ministerios-robustos.shtml)_
 
+- **[2026-11-23 14:32 UTC]** Comissão debate atuação e perspectivas futuras da Fundação Nacional de Saúde
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1321191-comissao-debate-atuacao-e-perspectivas-futuras-da-fundacao-nacional-de-saude)_
+
