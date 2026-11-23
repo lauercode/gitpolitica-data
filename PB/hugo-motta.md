@@ -125,3 +125,6 @@
 - **[2026-11-20 04:54 UTC]** Paulo Martins e Luiz Philippe desafiam favoritismo de Hugo Motta na Câmara
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/paulo-martins-e-luiz-philippe-desafiam-favoritismo-de-hugo-motta-na-camara/)_
 
+- **[2026-11-23 18:38 UTC]** Hugo Motta e Davi Alcolumbre usam pauta jurídica para atrair apoio da direita
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-e-davi-alcolumbre-usam-pauta-juridica-para-atrair-apoio-da-direita/)_
+
