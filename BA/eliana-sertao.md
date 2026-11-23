@@ -62,3 +62,6 @@
 - **[2026-11-23 11:21 UTC]** Homem é preso suspeito de estuprar sobrinha de 14 anos em motel, no Sertão da PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/23/homem-e-preso-suspeito-de-estuprar-sobrinha-de-14-anos-em-motel-no-sertao-da-pb.ghtml)_
 
+- **[2026-11-23 18:56 UTC]** Seis pessoas são presas suspeitas de matar homem e esconder corpo em vala, no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/23/seis-pessoas-sao-presas-suspeitas-de-matar-homem-e-esconder-corpo-em-vala-no-sertao-da-paraiba.ghtml)_
+
