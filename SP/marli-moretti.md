@@ -125,3 +125,6 @@
 - **[2026-11-23 06:00 UTC]** Relator do plano Moretti vai sugerir novas medidas fiscais ao governo após votação na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/relator-do-plano-moretti-vai-sugerir-novas-medidas-fiscais-ao-governo-apos-votacao-na-camara.shtml)_
 
+- **[2026-11-23 17:34 UTC]** Tarcísio critica plano Moretti e diz que ajuste fiscal do governo Lula não 'ataca a raiz do problema'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-diz-que-ajuste-fiscal-do-governo-lula-nao-ataca-a-raiz-do-problema.shtml)_
+
