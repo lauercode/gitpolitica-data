@@ -176,3 +176,6 @@
 - **[2026-11-23 08:00 UTC]** Novo plano da Petrobras ronda os US$ 115 bi, com dividendos no radar
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/23/novo-plano-da-petrobras-ronda-os-us-115-bi-com-dividendos-no-radar.ghtml)_
 
+- **[2026-11-23 17:08 UTC]** Novo volta a pedir afastamento de Andrei e o acusa de interferir no caso Master
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-volta-a-pedir-afastamento-de-andrei-e-o-acusa-de-interferir-no-caso-master/)_
+
