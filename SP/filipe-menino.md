@@ -131,3 +131,6 @@
 - **[2026-11-23 09:42 UTC]** Menino de 3 anos morre após ser baleado enquanto dormia durante conflito em terra indígena no RS; PF investiga
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/23/menino-morre-tiro-terra-indigena-charrua.ghtml)_
 
+- **[2026-11-23 18:30 UTC]** Menino de 3 anos morre baleado durante conflito em terra indígena no RS
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/menino-de-3-anos-morre-baleado-durante-conflito-em-terra-indigena-no-rs.shtml)_
+
