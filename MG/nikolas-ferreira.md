@@ -137,3 +137,6 @@
 - **[2026-11-18 14:45 UTC]** Juiz federal atende Nikolas Ferreira e suspende licitação de iPhones do Senado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/juiz-federal-atende-nikolas-ferreira-e-suspende-licitacao-de-iphones-do-senado/)_
 
+- **[2026-11-23 15:19 UTC]** Juiz rejeita ação contra Nikolas Ferreira por vídeo de suplente de vereadora com Lula
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/juiz-rejeita-acao-contra-nikolas-ferreira-por-video-de-suplente-de-vereadora-com-lula/)_
+
