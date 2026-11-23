@@ -134,3 +134,6 @@
 - **[2026-11-23 18:30 UTC]** Menino de 3 anos morre baleado durante conflito em terra indígena no RS
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/menino-de-3-anos-morre-baleado-durante-conflito-em-terra-indigena-no-rs.shtml)_
 
+- **[2026-11-23 21:44 UTC]** Menino denuncia abuso sexual do próprio pai após palestra na escola em AL; homem é preso
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/23/menino-denuncia-abuso-sexual-do-proprio-pai-apos-palestra-na-escola-em-al-homem-e-preso.ghtml)_
+
