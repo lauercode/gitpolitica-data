@@ -833,3 +833,6 @@
 - **[2026-11-23 18:38 UTC]** Hugo Motta e Davi Alcolumbre usam pauta jurídica para atrair apoio da direita
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-e-davi-alcolumbre-usam-pauta-juridica-para-atrair-apoio-da-direita/)_
 
+- **[2026-11-23 14:37 UTC]** Dosimetria expõe cálculo político de Motta e Alcolumbre diante da disputa com a direita
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dosimetria-expoe-calculo-politico-de-motta-e-alcolumbre-diante-da-disputa-com-a-direita/)_
+
