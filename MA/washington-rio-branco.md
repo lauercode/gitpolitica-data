@@ -188,3 +188,6 @@
 - **[2026-11-23 14:06 UTC]** Homem em situação de rua é encontrado morto com sinais de violência em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/23/homem-em-situacao-de-rua-e-encontrado-morto-com-sinais-de-violencia-em-rio-branco.ghtml)_
 
+- **[2026-11-23 13:00 UTC]** Prova do concurso da Câmara de Rio Branco deve ser reaplicada após erro em questões
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/23/concurso-da-camara-de-rio-branco-tera-reaplicacao-de-prova-apos-erro-em-questoes.ghtml)_
+
