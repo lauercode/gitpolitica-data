@@ -191,3 +191,6 @@
 - **[2026-11-20 23:16 UTC]** Força do vento derruba árvore gigante de Natal em cartão-postal de Maringá
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/20/forca-do-vento-derruba-arvore-gigante-de-natal-em-cartao-postal-de-maringa.ghtml)_
 
+- **[2026-11-23 11:30 UTC]** Força do dólar ante moedas emergentes e falas de Galípolo e David devem marcar sessão
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml)_
+
