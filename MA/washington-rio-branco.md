@@ -185,3 +185,6 @@
 - **[2026-11-23 14:37 UTC]** Incêndio destrói quatro casas de madeira em Rio Branco; VÍDEO
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/23/incendio-destroi-quatro-casas-de-madeira-em-rio-branco-video.ghtml)_
 
+- **[2026-11-23 14:06 UTC]** Homem em situação de rua é encontrado morto com sinais de violência em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/23/homem-em-situacao-de-rua-e-encontrado-morto-com-sinais-de-violencia-em-rio-branco.ghtml)_
+
