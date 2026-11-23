@@ -11152,3 +11152,6 @@
 - **[2026-11-23 15:18 UTC]** Moraes determina citação de Flávio sobre calúnia contra Lula
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-determina-citacao-de-flavio-sobre-calunia-contra-lula)_
 
+- **[2026-11-23 17:12 UTC]** Flávio será citado por edital em acusação de calúnia contra Lula
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-11/flavio-sera-citado-por-edital-em-acusacao-de-calunia-contra-lula)_
+
