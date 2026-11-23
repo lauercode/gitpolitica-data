@@ -11170,3 +11170,6 @@
 - **[2026-11-23 18:05 UTC]** O argumento de Moraes para intimar Flávio Bolsonaro por edital
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/o-argumento-de-moraes-para-intimar-flavio-bolsonaro-por-edital/)_
 
+- **[2026-11-23 14:44 UTC]** Moraes manda intimar Flávio Bolsonaro por edital em caso de suposta calúnia contra Lula
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/moraes-manda-intimar-flavio-bolsonaro-por-edital-em-caso-de-suposta-calunia-contra-lula/)_
+
