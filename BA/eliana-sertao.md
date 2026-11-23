@@ -65,3 +65,6 @@
 - **[2026-11-23 18:56 UTC]** Seis pessoas são presas suspeitas de matar homem e esconder corpo em vala, no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/23/seis-pessoas-sao-presas-suspeitas-de-matar-homem-e-esconder-corpo-em-vala-no-sertao-da-paraiba.ghtml)_
 
+- **[2026-11-23 14:13 UTC]** Pai é preso após agredir filha de 4 anos, no Sertão da PB; criança sofreu fratura no fêmur
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/23/pai-e-preso-apos-agredir-filha-de-4-anos-no-sertao-da-pb-crianca-sofreu-fratura-no-femur.ghtml)_
+
