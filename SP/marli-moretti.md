@@ -137,3 +137,6 @@
 - **[2026-11-23 12:46 UTC]** Plano de Moretti é um 'primeiro passo', e governo Lula pode fazer outros ajustes fiscais no futuro, afirma Laura Carvalho
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-23 20:46 UTC]** Moretti intensifica articulação com Psol e PCdoB para diminuir resistência ao PLP do ajuste
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/23/moretti-intensifica-articulao-com-psol-e-pcdob-para-diminuir-resistncia-ao-plp-do-ajuste.ghtml)_
+
