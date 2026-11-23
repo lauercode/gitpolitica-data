@@ -2798,3 +2798,6 @@
 - **[2026-11-23 15:18 UTC]** Cúpula do Congresso pressiona Lula a indicar Pacheco ao STF, mas presidente insiste em Messias
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/cupula-do-congresso-pressiona-lula-a-indicar-pacheco-ao-stf-mas-presidente-insiste-em-messias/)_
 
+- **[2026-11-23 14:44 UTC]** Moraes manda intimar Flávio Bolsonaro por edital em caso de suposta calúnia contra Lula
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/moraes-manda-intimar-flavio-bolsonaro-por-edital-em-caso-de-suposta-calunia-contra-lula/)_
+
