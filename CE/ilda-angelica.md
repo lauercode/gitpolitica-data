@@ -17,3 +17,6 @@
 - **[2026-10-23 21:50 UTC]** Angélica, Xuxa e Eliana se posicionam a favor de Lula nas eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/angelica-xuxa-e-eliana-se-posicionam-a-favor-de-lula-nas-eleicoes.shtml)_
 
+- **[2026-11-23 12:43 UTC]** Eva, filha de Angélica e Luciano Huck, estreia no teatro musical aos 14 anos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/eva-filha-de-angelica-e-luciano-huck-estreia-no-teatro-musical-aos-14-anos.shtml)_
+
