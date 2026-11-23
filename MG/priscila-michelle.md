@@ -107,3 +107,6 @@
 - **[2026-11-22 14:01 UTC]** Após dias em Israel, Michelle retorna ao Brasil e visita Bolsonaro na UTI
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-dias-em-israel-michelle-retorna-ao-brasil-e-visita-bolsonaro-na-uti/)_
 
+- **[2026-11-23 07:53 UTC]** Michelle diz que endoscopia de Bolsonaro teve resultado ‘muito positivo’
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/michelle-diz-que-endoscopia-de-bolsonaro-teve-resultado-muito-positivo/)_
+
