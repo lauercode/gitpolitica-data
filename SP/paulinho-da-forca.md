@@ -194,3 +194,6 @@
 - **[2026-11-23 11:30 UTC]** Força do dólar ante moedas emergentes e falas de Galípolo e David devem marcar sessão
   _fonte: [Valor Econômico](https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml)_
 
+- **[2026-11-23 15:46 UTC]** Força-tarefa inicia retirada de aguapés do Rio Poti; operação deve durar cerca de 45 dias
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/23/forca-tarefa-aguapes-rio.ghtml)_
+
