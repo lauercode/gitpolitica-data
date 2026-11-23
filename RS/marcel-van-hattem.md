@@ -104,3 +104,6 @@
 - **[2026-11-21 18:23 UTC]** Alexandre de Moraes vota para transformar Marcel Van Hattem em réu no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-vota-para-transformar-marcel-van-hattem-em-reu-no-stf/)_
 
+- **[2026-11-23 15:31 UTC]** Imunidade parlamentar pode estar em jogo em disputa no STF que envolve Marcel van Hattem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/imunidade-parlamentar-pode-estar-em-jogo-em-disputa-no-stf-que-envolve-marcel-van-hattem/)_
+
