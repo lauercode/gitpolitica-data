@@ -125,3 +125,6 @@
 - **[2026-11-21 18:04 UTC]** Menino de 2 anos morre após cair em caixa d'água no interior do Acre: 'Foi coisa rápida'
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/21/menino-de-2-anos-morre-apos-cair-em-caixa-dagua-no-interior-do-acre.ghtml)_
 
+- **[2026-11-22 19:55 UTC]** Xuxa confirma sexo do primeiro neto ao vivo no Domingão: 'Menino!'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/xuxa-confirma-sexo-do-primeiro-neto-ao-vivo-no-domingao-menino.shtml)_
+
