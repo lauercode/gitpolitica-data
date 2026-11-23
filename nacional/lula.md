@@ -2783,3 +2783,6 @@
 - **[2026-11-20 23:00 UTC]** Equipe econômica vai levar a Lula nomes para substituir presidente do Banco do Brasil
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/equipe-economica-vai-levar-a-lula-nomes-para-substituir-presidente-do-banco-do-brasil.shtml)_
 
+- **[2026-11-23 04:00 UTC]** Lula e Flávio acionaram TSE quase mil vezes durante campanha, mostra levantamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-e-flavio-acionaram-tse-quase-mil-vezes-durante-campanha-mostra-levantamento.shtml)_
+
