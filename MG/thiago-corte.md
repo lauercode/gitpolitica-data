@@ -101,3 +101,6 @@
 - **[2026-11-19 13:58 UTC]** STF recebe relatórios da PF sobre Daniel Vorcaro e menções a ministros da Corte
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/stf-recebe-relatorios-da-pf-sobre-daniel-vorcaro-e-mencoes-a-ministros-da-corte/)_
 
+- **[2026-11-22 21:49 UTC]** Gilmar Mendes cita caso Master, diz que STF é “poderoso”, mas fala em falta de “autocontenção” à Corte
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-cita-caso-master-diz-que-stf-e-poderoso-mas-fala-em-falta-de-autocontencao-a-corte/)_
+
