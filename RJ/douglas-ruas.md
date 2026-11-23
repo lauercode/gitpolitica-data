@@ -188,3 +188,6 @@
 - **[2026-11-16 18:23 UTC]** Douglas Ruas anuncia para a Educação do RJ secretário pró-privatização
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/educacao/douglas-ruas-anuncia-para-a-educacao-do-rj-secretario-pro-privatizacao/)_
 
+- **[2026-11-23 18:30 UTC]** Douglas Ruas nem assumiu e já desaponta população
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/11/douglas-ruas-nem-assumiu-e-ja-desaponta-populacao.shtml)_
+
