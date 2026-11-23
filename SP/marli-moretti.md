@@ -128,3 +128,6 @@
 - **[2026-11-23 17:34 UTC]** Tarcísio critica plano Moretti e diz que ajuste fiscal do governo Lula não 'ataca a raiz do problema'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-diz-que-ajuste-fiscal-do-governo-lula-nao-ataca-a-raiz-do-problema.shtml)_
 
+- **[2026-11-23 17:31 UTC]** Economistas veem risco de estagflação e pedem ajuste fiscal além do plano Moretti
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-veem-risco-de-estagflacao-e-pedem-ajuste-fiscal-alem-do-plano-moretti.shtml)_
+
