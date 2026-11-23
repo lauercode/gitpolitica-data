@@ -119,3 +119,6 @@
 - **[2026-11-23 08:55 UTC]** Plano de Moretti é só 'primeiro passo', e governo Lula deve fazer outros ajustes fiscais no futuro, afirma Laura Carvalho
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-23 08:31 UTC]** Câmara começa a votar plano Moretti em sessão extraordinária nesta segunda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-comeca-a-votar-plano-moretti-em-sessao-extraordinaria-nesta-segunda.shtml)_
+
