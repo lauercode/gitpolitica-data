@@ -179,3 +179,6 @@
 - **[2026-11-23 20:55 UTC]** Mais da metade dos moradores de Rio Branco não pretende gastar na Black Friday, diz Fecomércio
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/23/mais-da-metade-dos-moradores-de-rio-branco-nao-pretende-gastar-na-black-friday-diz-fecomercio.ghtml)_
 
+- **[2026-11-23 19:37 UTC]** Como funciona um sobrevoo policial? Helicóptero amplia monitoramento durante operação em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/23/como-funciona-um-sobrevoo-policial-helicoptero-amplia-monitoramento-durante-operacao-em-rio-branco.ghtml)_
+
