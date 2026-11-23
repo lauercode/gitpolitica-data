@@ -128,3 +128,6 @@
 - **[2026-11-22 19:55 UTC]** Xuxa confirma sexo do primeiro neto ao vivo no Domingão: 'Menino!'
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/xuxa-confirma-sexo-do-primeiro-neto-ao-vivo-no-domingao-menino.shtml)_
 
+- **[2026-11-23 09:42 UTC]** Menino de 3 anos morre após ser baleado enquanto dormia durante conflito em terra indígena no RS; PF investiga
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/23/menino-morre-tiro-terra-indigena-charrua.ghtml)_
+
