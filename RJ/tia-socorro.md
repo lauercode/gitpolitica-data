@@ -56,3 +56,6 @@
 - **[2026-09-11 20:04 UTC]** Lula diz que socorro na enchente do RS será padrão para 'qualquer desastre' no Brasil
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/11/lula-diz-que-socorro-na-enchente-do-rs-sera-padrao-para-qualquer-desastre-no-brasil.ghtml)_
 
+- **[2026-11-23 16:10 UTC]** Homem é morto a tiros em área de pontes do bairro Perpétuo Socorro, em Macapá
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/11/23/homem-e-morto-a-tiros-em-area-de-pontes-do-bairro-perpetuo-socorro-em-macapa.ghtml)_
+
