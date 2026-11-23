@@ -11143,3 +11143,6 @@
 - **[2026-11-21 16:08 UTC]** Fala de Flávio contra resultado da eleição motivou Moraes a apreender passaporte
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/fala-de-flavio-contra-resultado-da-eleicao-motivou-moraes-a-apreender-passaporte/)_
 
+- **[2026-11-23 04:00 UTC]** Lula e Flávio acionaram TSE quase mil vezes durante campanha, mostra levantamento
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-e-flavio-acionaram-tse-quase-mil-vezes-durante-campanha-mostra-levantamento.shtml)_
+
