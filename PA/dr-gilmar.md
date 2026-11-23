@@ -194,3 +194,6 @@
 - **[2026-11-21 18:08 UTC]** Gilmar minimiza gesto de Mendonça e defende levar caso Master ao plenário do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-minimiza-gesto-de-mendonca-e-defende-levar-caso-master-ao-plenario-do-stf/)_
 
+- **[2026-11-23 00:16 UTC]** Ato de Fachin abre brecha para Gilmar assumir caso Master no lugar de Mendonça
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ato-de-fachin-abre-brecha-para-gilmar-assumir-caso-master-no-lugar-de-mendonca/)_
+
