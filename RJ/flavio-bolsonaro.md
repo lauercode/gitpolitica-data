@@ -11161,3 +11161,6 @@
 - **[2026-11-23 18:04 UTC]** Moraes volta a dispensar carta aos EUA e intima Flávio por edital em ação por crítica a Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-volta-a-dispensar-carta-aos-eua-e-intima-flavio-por-edital-em-acao-por-critica-a-lula/)_
 
+- **[2026-11-23 15:50 UTC]** Deputada americana diz que democratas vão investigar se governo Trump ajudou na ida de Flávio aos EUA
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/deputada-americana-diz-democratas-vao-investigar-se-governo-trump-ajudou-ida-flavio-eua/)_
+
