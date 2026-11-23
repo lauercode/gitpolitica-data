@@ -176,3 +176,6 @@
 - **[2026-11-18 20:02 UTC]** Sergio Moro anuncia ex-procurador da Lava Jato como secretário Anticorrupção do Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/18/sergio-moro-anuncia-ex-procurador-da-lava-jato-como-secretario-anticorrupcao-do-parana.ghtml)_
 
+- **[2026-11-23 14:28 UTC]** Sergio Moro anuncia chefias das polícias Militar e Civil, dos Bombeiros e da Casa Militar do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/23/sergio-moro-anuncia-chefias-das-policias-militar-e-civil-dos-bombeiros-e-da-casa-militar-do-parana.ghtml)_
+
