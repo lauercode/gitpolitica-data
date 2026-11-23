@@ -2795,3 +2795,6 @@
 - **[2026-11-23 18:04 UTC]** Moraes volta a dispensar carta aos EUA e intima Flávio por edital em ação por crítica a Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-volta-a-dispensar-carta-aos-eua-e-intima-flavio-por-edital-em-acao-por-critica-a-lula/)_
 
+- **[2026-11-23 15:18 UTC]** Cúpula do Congresso pressiona Lula a indicar Pacheco ao STF, mas presidente insiste em Messias
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/cupula-do-congresso-pressiona-lula-a-indicar-pacheco-ao-stf-mas-presidente-insiste-em-messias/)_
+
