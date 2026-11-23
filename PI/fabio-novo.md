@@ -173,3 +173,6 @@
 - **[2026-11-22 17:00 UTC]** 1926: Novo prefeito do Rio de Janeiro vai tentar embelezar a cidade
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/banco-de-dados/2026/11/1926-novo-prefeito-do-rio-de-janeiro-vai-tentar-embelezar-a-cidade.shtml)_
 
+- **[2026-11-23 08:00 UTC]** Novo plano da Petrobras ronda os US$ 115 bi, com dividendos no radar
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/23/novo-plano-da-petrobras-ronda-os-us-115-bi-com-dividendos-no-radar.ghtml)_
+
