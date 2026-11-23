@@ -20,3 +20,6 @@
 - **[2026-09-10 20:11 UTC]** MPF dá 30 dias para governo federal comprar remédio contra bicho-de-pé para Terra Yanomami
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/09/10/mpf-da-30-dias-para-governo-federal-comprar-remedio-contra-bicho-de-pe-para-terra-yanomami.ghtml)_
 
+- **[2026-11-23 15:59 UTC]** Bicho-preguiça é flagrado em poste de condomínio em Manaus e acaba resgatado e devolvido à natureza; VÍDEO
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/23/bicho-preguica-e-flagrado-em-poste-de-condominio-em-manaus-e-acaba-resgatado-e-devolvido-a-natureza-video.ghtml)_
+
