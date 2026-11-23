@@ -176,3 +176,6 @@
 - **[2026-11-22 04:06 UTC]** Previsão do tempo hoje para Rio Branco (AC): sol com muitas nuvens de manhã passando a nublado, com possibilidade de garoa, à noite; à noite o tempo ainda não abre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/previsao-do-tempo/noticia/2026/11/22/previsao-do-tempo-hoje-para-rio-branco-ac-sol-com-muitas-nuvens-de-manha-passando-a-nublado-com-possibilidade-de-garoa-a-noite-a-noite-o-tempo-ainda-nao-abre.ghtml)_
 
+- **[2026-11-23 20:55 UTC]** Mais da metade dos moradores de Rio Branco não pretende gastar na Black Friday, diz Fecomércio
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/23/mais-da-metade-dos-moradores-de-rio-branco-nao-pretende-gastar-na-black-friday-diz-fecomercio.ghtml)_
+
