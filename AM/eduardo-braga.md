@@ -44,3 +44,6 @@
 - **[2026-11-04 02:06 UTC]** Senador Eduardo Braga será o relator do Orçamento de 2027
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/senador-eduardo-braga-sera-o-relator-geral-do-projeto-de-lei-do-orcamento-2027/)_
 
+- **[2026-11-23 08:00 UTC]** Governo precisa enviar PEC com novas medidas de ajuste fiscal nesta semana, diz Eduardo Braga
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/23/governo-precisa-enviar-pec-com-novo-ajuste-fiscal-diz-braga.ghtml)_
+
