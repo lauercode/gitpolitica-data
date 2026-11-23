@@ -197,3 +197,6 @@
 - **[2026-11-23 00:16 UTC]** Ato de Fachin abre brecha para Gilmar assumir caso Master no lugar de Mendonça
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/ato-de-fachin-abre-brecha-para-gilmar-assumir-caso-master-no-lugar-de-mendonca/)_
 
+- **[2026-11-23 09:37 UTC]** Gilmar admite falta de “autocontenção” do STF em “Gilmarpalooza da Argentina” e Bolsonaro segue internado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-admite-falta-de-autocontencao-do-stf-em-gilmarpalooza-da-argentina-e-bolsonaro-segue-internado/)_
+
