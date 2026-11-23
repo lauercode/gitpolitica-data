@@ -32,3 +32,6 @@
 - **[2026-10-31 03:11 UTC]** Raia gigante é resgatada por pescadores após ficar presa em rede em Arraial do Cabo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/raia-gigante-e-resgatada-por-pescadores-apos-ficar-presa-em-rede-em-arraial-do-cabo.shtml)_
 
+- **[2026-11-23 12:41 UTC]** Cabo de ponte rompe, derruba estudantes da UFRGS em rio e deixa vítima pendurada em SC; VÍDEO
+  _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/11/23/cabo-de-ponte-rompe-derruba-estudantes-da-ufrgs-em-rio-e-deixa-vitima-pendurada-em-sc-video.ghtml)_
+
