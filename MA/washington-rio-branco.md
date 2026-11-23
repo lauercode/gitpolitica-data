@@ -191,3 +191,6 @@
 - **[2026-11-23 13:00 UTC]** Prova do concurso da Câmara de Rio Branco deve ser reaplicada após erro em questões
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/23/concurso-da-camara-de-rio-branco-tera-reaplicacao-de-prova-apos-erro-em-questoes.ghtml)_
 
+- **[2026-11-21 18:53 UTC]** Papai Noel chega com cortejo e atrações musicais em shopping de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/21/papai-noel-chega-com-cortejo-e-atracoes-musicais-neste-sabado-21-em-shopping-de-rio-branco.ghtml)_
+
