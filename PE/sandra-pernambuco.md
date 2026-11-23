@@ -80,3 +80,6 @@
 - **[2026-11-15 21:43 UTC]** Morre Claudionor Germano, aos 94, ídolo do frevo e patrimônio de Pernambuco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/morre-claudionor-germano-aos-94-idolo-do-frevo-e-patrimonio-de-pernambuco.shtml)_
 
+- **[2026-11-23 10:59 UTC]** Alagoanos mortos em acidente em Pernambuco são velados em Maceió e Atalaia
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/23/alagoanos-mortos-em-acidente-em-pernambuco-sao-velados-em-maceio-e-atalaia.ghtml)_
+
