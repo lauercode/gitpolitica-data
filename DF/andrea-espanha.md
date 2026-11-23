@@ -296,3 +296,6 @@
 - **[2026-11-20 12:43 UTC]** Espanha e França vão se enfrentar nas quartas da Liga das Nações
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/espanha-e-franca-vao-se-enfrentar-nas-quartas-da-liga-das-nacoes.shtml)_
 
+- **[2026-11-23 18:07 UTC]** Justiça da Espanha anistia líder separatista catalão a uma semana das eleições
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/justica-da-espanha-anistia-lider-separatista-catalao-a-uma-semana-das-eleicoes.shtml)_
+
