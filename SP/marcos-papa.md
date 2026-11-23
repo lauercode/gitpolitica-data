@@ -41,3 +41,6 @@
 - **[2026-11-17 09:12 UTC]** Papa diz que jornalistas parecem mais cansados do que ele após viagem de 12 dias pela América do Sul
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/papa-diz-que-jornalistas-parecem-mais-cansados-do-que-ele-apos-viagem-de-12-dias-pela-america-do-sul.shtml)_
 
+- **[2026-11-23 17:59 UTC]** Papa destaca os benefícios espirituais do ciclismo em encontro com campeões
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/papa-leao-destaca-os-beneficios-espirituais-do-ciclismo-em-encontro-com-campeoes.shtml)_
+
