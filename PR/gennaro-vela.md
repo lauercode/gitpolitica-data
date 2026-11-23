@@ -14,3 +14,6 @@
 - **[2026-11-15 19:18 UTC]** Copa do Mundo da Vela define últimas três seleções após virada de Cuba e domínio do Uruguai no Rio
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/copa-do-mundo-da-vela-define-ultimas-tres-selecoes-apos-virada-de-cuba-e-dominio-do-uruguai-no-rio/)_
 
+- **[2026-11-22 23:31 UTC]** Portugal, Uruguai e mais seis seleções avançam na Copa do Mundo da Vela, a SSL Gold Cup Rio 2026
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/portugal-uruguai-e-mais-seis-selecoes-avancam-na-copa-do-mundo-da-vela-a-ssl-gold-cup-rio-2026/)_
+
