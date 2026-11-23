@@ -182,3 +182,6 @@
 - **[2026-11-23 19:37 UTC]** Como funciona um sobrevoo policial? Helicóptero amplia monitoramento durante operação em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/23/como-funciona-um-sobrevoo-policial-helicoptero-amplia-monitoramento-durante-operacao-em-rio-branco.ghtml)_
 
+- **[2026-11-23 14:37 UTC]** Incêndio destrói quatro casas de madeira em Rio Branco; VÍDEO
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/23/incendio-destroi-quatro-casas-de-madeira-em-rio-branco-video.ghtml)_
+
