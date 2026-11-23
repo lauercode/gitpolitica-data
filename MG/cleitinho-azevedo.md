@@ -23,3 +23,6 @@
 - **[2026-11-04 12:53 UTC]** Cleitinho Azevedo suspende patrocínios milionários para Atlético-MG e Cruzeiro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/cleitinho-azevedo-suspende-patrocinios-milionarios-para-atletico-mg-e-cruzeiro/)_
 
+- **[2026-11-23 13:05 UTC]** Cleitinho Azevedo monta time para governar Minas diante de desconfiança política
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/brasil/cleitinho-azevedo-secretariado-governo-minas-gerais/)_
+
