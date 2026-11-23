@@ -50,3 +50,6 @@
 - **[2026-10-26 10:49 UTC]** E. M. Luz do Saber, 4ª zona eleitoral: resultado da votação em Parintins (AM) no 2º turno
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/e-m-luz-do-saber-4a-zona-eleitoral-resultado-da-votacao-em-parintins-am-no-2o-turno.ghtml)_
 
+- **[2026-11-23 17:24 UTC]** Saber formular perguntas é tarefa humana, não das máquinas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/deirdre-nansen-mccloskey/2026/11/saber-formular-perguntas-e-tarefa-humana-nao-das-maquinas.shtml)_
+
