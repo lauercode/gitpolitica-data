@@ -11149,3 +11149,6 @@
 - **[2026-11-23 01:50 UTC]** Flávio acusa Moraes de interferir na eleição e diz que perdeu para o “sistema”, não para Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/flavio-acusa-moraes-de-interferir-na-eleicao-e-diz-que-perdeu-para-o-sistema-nao-para-lula/)_
 
+- **[2026-11-23 15:18 UTC]** Moraes determina citação de Flávio sobre calúnia contra Lula
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-determina-citacao-de-flavio-sobre-calunia-contra-lula)_
+
