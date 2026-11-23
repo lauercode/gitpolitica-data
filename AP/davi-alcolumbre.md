@@ -827,3 +827,6 @@
 - **[2026-11-19 18:42 UTC]** Após pressão de Motta e Alcolumbre, STF marca julgamento da Lei da Dosimetria
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/apos-pressao-de-motta-e-alcolumbre-stf-marca-julgamento-da-lei-da-dosimetria/)_
 
+- **[2026-11-23 13:00 UTC]** Alcolumbre promete crédito de emendas a senadores novatos e diz que facilitará liberação se reeleito
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-vincula-emendas-a-relacao-com-lula-em-busca-de-votos-no-senado-dizem-aliados.shtml)_
+
