@@ -11167,3 +11167,6 @@
 - **[2026-11-23 19:05 UTC]** Moraes diz que Flávio Bolsonaro está em local 'não sabido' e determina notificação por edital em caso de suposta calúnia a Lula
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/23/moraes-diz-que-flavio-bolsonaro-esta-em-local-nao-sabido-e-determina-notificacao-por-edital-em-caso-sobre-suposta-calunia-a-lula.ghtml)_
 
+- **[2026-11-23 18:05 UTC]** O argumento de Moraes para intimar Flávio Bolsonaro por edital
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/o-argumento-de-moraes-para-intimar-flavio-bolsonaro-por-edital/)_
+
