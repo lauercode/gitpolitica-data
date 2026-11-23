@@ -170,3 +170,6 @@
 - **[2026-11-23 14:32 UTC]** Comissão debate atuação e perspectivas futuras da Fundação Nacional de Saúde
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1321191-comissao-debate-atuacao-e-perspectivas-futuras-da-fundacao-nacional-de-saude)_
 
+- **[2026-11-23 18:54 UTC]** Defensoria investiga Saúde de Roraima após relatos de falta de médicos, remédios e comida
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/23/defensoria-investiga-saude-de-roraima-apos-relatos-de-falta-de-medicos-remedios-e-comida.ghtml)_
+
