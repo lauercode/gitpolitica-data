@@ -137,3 +137,6 @@
 - **[2026-11-23 21:44 UTC]** Menino denuncia abuso sexual do próprio pai após palestra na escola em AL; homem é preso
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/23/menino-denuncia-abuso-sexual-do-proprio-pai-apos-palestra-na-escola-em-al-homem-e-preso.ghtml)_
 
+- **[2026-11-23 15:24 UTC]** Menino realiza sonho de comemorar aniversário com garis no TO: 'Amo eles pelo trabalho que fazem'
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/23/menino-realiza-sonho-de-comemorar-aniversario-com-garis-no-to-amo-eles-pelo-trabalho-que-fazem.ghtml)_
+
