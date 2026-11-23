@@ -104,3 +104,6 @@
 - **[2026-11-22 21:49 UTC]** Gilmar Mendes cita caso Master, diz que STF é “poderoso”, mas fala em falta de “autocontenção” à Corte
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-mendes-cita-caso-master-diz-que-stf-e-poderoso-mas-fala-em-falta-de-autocontencao-a-corte/)_
 
+- **[2026-11-23 17:07 UTC]** Lula reafirma Messias para vaga no STF em jantar com ministros da Corte e cúpula do Congresso
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/23/lula-reafirma-messias-em-jantar-com-ministros-do-stf-e-cpula-do-congresso-mas-deixa-em-aberto-indicar-mulheres.ghtml)_
+
