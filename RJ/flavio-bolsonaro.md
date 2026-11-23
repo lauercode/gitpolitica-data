@@ -11146,3 +11146,6 @@
 - **[2026-11-23 04:00 UTC]** Lula e Flávio acionaram TSE quase mil vezes durante campanha, mostra levantamento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-e-flavio-acionaram-tse-quase-mil-vezes-durante-campanha-mostra-levantamento.shtml)_
 
+- **[2026-11-23 01:50 UTC]** Flávio acusa Moraes de interferir na eleição e diz que perdeu para o “sistema”, não para Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/flavio-acusa-moraes-de-interferir-na-eleicao-e-diz-que-perdeu-para-o-sistema-nao-para-lula/)_
+
