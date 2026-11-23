@@ -11155,3 +11155,6 @@
 - **[2026-11-23 17:12 UTC]** Flávio será citado por edital em acusação de calúnia contra Lula
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-11/flavio-sera-citado-por-edital-em-acusacao-de-calunia-contra-lula)_
 
+- **[2026-11-23 17:03 UTC]** Moraes diz que Flávio está em 'local incerto' e determina citação por edital para resposta de senador a denúncia por calúnia contra Lula
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/23/moraes-diz-que-flavio-esta-em-local-incerto-e-determina-citacao-por-edital-para-resposta-de-senador-a-denuncia-por-calunia-contra-lula.ghtml)_
+
