@@ -11158,3 +11158,6 @@
 - **[2026-11-23 17:03 UTC]** Moraes diz que Flávio está em 'local incerto' e determina citação por edital para resposta de senador a denúncia por calúnia contra Lula
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/23/moraes-diz-que-flavio-esta-em-local-incerto-e-determina-citacao-por-edital-para-resposta-de-senador-a-denuncia-por-calunia-contra-lula.ghtml)_
 
+- **[2026-11-23 18:04 UTC]** Moraes volta a dispensar carta aos EUA e intima Flávio por edital em ação por crítica a Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/moraes-volta-a-dispensar-carta-aos-eua-e-intima-flavio-por-edital-em-acao-por-critica-a-lula/)_
+
