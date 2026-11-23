@@ -131,3 +131,6 @@
 - **[2026-11-23 17:31 UTC]** Economistas veem risco de estagflação e pedem ajuste fiscal além do plano Moretti
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/economistas-veem-risco-de-estagflacao-e-pedem-ajuste-fiscal-alem-do-plano-moretti.shtml)_
 
+- **[2026-11-23 13:10 UTC]** Moretti garante às centrais sindicais que ajuste fiscal preserva direitos sociais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/moretti-garante-as-centrais-sindicais-que-ajuste-fiscal-preserva-direitos-sociais.shtml)_
+
