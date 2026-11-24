@@ -140,3 +140,6 @@
 - **[2026-11-23 20:46 UTC]** Moretti intensifica articulação com Psol e PCdoB para diminuir resistência ao PLP do ajuste
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/23/moretti-intensifica-articulao-com-psol-e-pcdob-para-diminuir-resistncia-ao-plp-do-ajuste.ghtml)_
 
+- **[2026-11-24 03:35 UTC]** Ajuste fiscal de Lula teve Moretti como criador e principal articulador; ministro enfrentou resistência de ala governista
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/24/ajuste-fiscal-de-lula-teve-moretti-como-criador-e-principal-articulador-ministro-enfrentou-resistencia-de-ala-governista.ghtml)_
+
