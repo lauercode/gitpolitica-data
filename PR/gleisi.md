@@ -23,3 +23,6 @@
 - **[2026-11-24 14:38 UTC]** De Marina a Gleisi: as acusações de parlamentares contra a PF antes do caso Van Hattem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/de-marina-a-gleisi-as-acusacoes-de-parlamentar-contra-a-pf-antes-do-caso-van-hattem/)_
 
+- **[2026-11-24 14:36 UTC]** Gleisi acusa mercado financeiro de agir com “faca apontada” contra Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gleisi-acusa-mercado-financeiro-agir-faca-apontada-lula/)_
+
