@@ -2804,3 +2804,6 @@
 - **[2026-11-24 11:28 UTC]** Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-24 14:44 UTC]** Conheça a Terra Indígena do cacique Raoni, que teve posse reconhecida pelo presidente Lula
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/mt/mato-grosso/noticia/2026/11/24/conheca-a-terra-indigena-do-cacique-raoni-que-teve-posse-reconhecida-pelo-presidente-lula.ghtml)_
+
