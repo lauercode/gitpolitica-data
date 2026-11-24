@@ -131,3 +131,6 @@
 - **[2026-11-23 23:38 UTC]** Hugo Motta destaca pluralidade e independência do Legislativo ao receber novos deputados
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1322114-hugo-motta-destaca-pluralidade-e-independencia-do-legislativo-ao-receber-novos-deputados)_
 
+- **[2026-11-24 03:49 UTC]** Após Câmara aprovar ajuste fiscal de Lula, Hugo Motta defende novas medidas ainda em 2026
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/24/apos-camara-aprovar-ajuste-de-lula-hugo-motta-defende-novas-medidas-fiscais-ainda-em-2026.ghtml)_
+
