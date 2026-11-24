@@ -47,3 +47,6 @@
 - **[2026-10-31 20:35 UTC]** É preciso seguir regra do notável saber jurídico, diz leitora sobre Simone Tebet no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/e-preciso-seguir-regra-do-notavel-saber-juridico-diz-leitora-sobre-simone-tebet-no-stf.shtml)_
 
+- **[2026-11-24 12:59 UTC]** Em busca de alternativas para o STF, Lula pode analisar Tebet e nomes de ministras do STM e do STJ para vaga de Barroso
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/24/em-busca-de-alternativas-para-o-stf-lula-pode-analisar-tebet-e-nomes-de-ministras-do-stm-e-do-stj-para-vaga-de-barroso.ghtml)_
+
