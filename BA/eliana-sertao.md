@@ -68,3 +68,6 @@
 - **[2026-11-23 14:13 UTC]** Pai é preso após agredir filha de 4 anos, no Sertão da PB; criança sofreu fratura no fêmur
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/23/pai-e-preso-apos-agredir-filha-de-4-anos-no-sertao-da-pb-crianca-sofreu-fratura-no-femur.ghtml)_
 
+- **[2026-11-24 13:06 UTC]** Mulher morre em acidente entre duas motocicletas em Patos, no Sertão da PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/24/mulher-morre-em-acidente-entre-duas-motocicletas-em-patos-no-sertao-da-pb.ghtml)_
+
