@@ -173,3 +173,6 @@
 - **[2026-11-23 18:54 UTC]** Defensoria investiga Saúde de Roraima após relatos de falta de médicos, remédios e comida
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/23/defensoria-investiga-saude-de-roraima-apos-relatos-de-falta-de-medicos-remedios-e-comida.ghtml)_
 
+- **[2026-11-23 19:50 UTC]** Saúde repassa R$ 200 milhões para maternidades filantrópicas
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/saude-repassa-r-200-milhoes-para-maternidades-filantropicas)_
+
