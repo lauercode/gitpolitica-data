@@ -92,3 +92,6 @@
 - **[2026-11-19 20:01 UTC]** Rafael Fonteles anuncia permanência de mais três secretários no governo; veja quais
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/19/fonteles-permanencia-secretarios-governo.ghtml)_
 
+- **[2026-11-24 16:16 UTC]** Rafael Fonteles define comando de três secretarias e coordenadoria para próximo mandato no Piauí; veja
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/24/rafael-fonteles-secretarias.ghtml)_
+
