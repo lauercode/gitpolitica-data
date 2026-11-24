@@ -149,3 +149,6 @@
 - **[2026-11-23 19:16 UTC]** Câmara aprova plano Moretti, com medidas para conter gastos e elevar receitas
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-comeca-sessao-para-votar-plano-moretti-com-medidas-para-conter-gastos-e-elevar-receitas.shtml)_
 
+- **[2026-11-24 11:21 UTC]** Entenda o plano Moretti, o ajuste fiscal aprovado pela Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/24/entenda-o-plano-moretti-o-ajuste-fiscal-aprovado-pela-camara.ghtml)_
+
