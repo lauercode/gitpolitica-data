@@ -86,3 +86,6 @@
 - **[2026-11-23 10:59 UTC]** Alagoanos mortos em acidente em Pernambuco são sepultados em Maceió e Atalaia
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/23/alagoanos-mortos-em-acidente-em-pernambuco-sao-velados-em-maceio-e-atalaia.ghtml)_
 
+- **[2026-11-24 12:23 UTC]** Explosão atinge quatro imóveis e deixa um morto no interior de Pernambuco
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/explosao-atinge-quatro-imoveis-e-deixa-um-morto-no-interior-de-pernambuco.shtml)_
+
