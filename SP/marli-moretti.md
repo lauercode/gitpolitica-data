@@ -146,3 +146,6 @@
 - **[2026-11-23 22:50 UTC]** Veja como votou cada deputado no plano Moretti, aprovado pela Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-como-votou-cada-deputado-no-plano-moretti-aprovado-pela-camara.shtml)_
 
+- **[2026-11-23 19:16 UTC]** Câmara aprova plano Moretti, com medidas para conter gastos e elevar receitas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/camara-comeca-sessao-para-votar-plano-moretti-com-medidas-para-conter-gastos-e-elevar-receitas.shtml)_
+
