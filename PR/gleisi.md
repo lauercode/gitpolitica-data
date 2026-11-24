@@ -20,3 +20,6 @@
 - **[2026-11-08 20:57 UTC]** Gleisi acusa Folha de 'terrorismo fiscal' e de querer recessão ao criticar reportagem
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/gleisi-acusa-folha-de-terrorismo-fiscal-e-de-querer-recessao-ao-criticar-reportagem.shtml)_
 
+- **[2026-11-24 14:38 UTC]** De Marina a Gleisi: as acusações de parlamentares contra a PF antes do caso Van Hattem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/de-marina-a-gleisi-as-acusacoes-de-parlamentar-contra-a-pf-antes-do-caso-van-hattem/)_
+
