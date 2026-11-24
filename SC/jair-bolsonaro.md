@@ -221,3 +221,6 @@
 - **[2026-11-23 20:38 UTC]** Jair Bolsonaro na UTI: entenda o que aconteceu com a saúde do ex-presidente
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/23/jair-bolsonaro-na-uti-entenda-o-que-aconteceu-com-a-saude-do-ex-presidente.ghtml)_
 
+- **[2026-11-23 20:38 UTC]** Jair Bolsonaro com pneumonia na UTI: entenda o que aconteceu com a saúde do ex-presidente
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/23/jair-bolsonaro-na-uti-entenda-o-que-aconteceu-com-a-saude-do-ex-presidente.ghtml)_
+
