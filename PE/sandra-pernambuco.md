@@ -83,3 +83,6 @@
 - **[2026-11-23 10:59 UTC]** Alagoanos mortos em acidente em Pernambuco são velados em Maceió e Atalaia
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/23/alagoanos-mortos-em-acidente-em-pernambuco-sao-velados-em-maceio-e-atalaia.ghtml)_
 
+- **[2026-11-23 10:59 UTC]** Alagoanos mortos em acidente em Pernambuco são sepultados em Maceió e Atalaia
+  _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/noticia/2026/11/23/alagoanos-mortos-em-acidente-em-pernambuco-sao-velados-em-maceio-e-atalaia.ghtml)_
+
