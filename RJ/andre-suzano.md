@@ -23,3 +23,6 @@
 - **[2026-11-16 06:00 UTC]** Suzano consegue financiamento de R$ 98 milhões junto ao BNDES
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/suzano-consegue-financiamento-de-r-98-milhoes-junto-ao-bndes.shtml)_
 
+- **[2026-11-24 13:58 UTC]** BTG Pactual eleva preço-alvo para Suzano de R$ 65 para R$ 70 e mantém recomendação de compra
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/24/btg-pactual-eleva-preo-alvo-para-suzano-de-r-65-para-r-70-e-mantm-recomendao-de-compra.ghtml)_
+
