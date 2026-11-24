@@ -107,3 +107,6 @@
 - **[2026-11-23 15:31 UTC]** Imunidade parlamentar pode estar em jogo em disputa no STF que envolve Marcel van Hattem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/imunidade-parlamentar-pode-estar-em-jogo-em-disputa-no-stf-que-envolve-marcel-van-hattem/)_
 
+- **[2026-11-24 14:38 UTC]** De Marina a Gleisi: as acusações de parlamentares contra a PF antes do caso Van Hattem
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/de-marina-a-gleisi-as-acusacoes-de-parlamentar-contra-a-pf-antes-do-caso-van-hattem/)_
+
