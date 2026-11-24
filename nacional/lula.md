@@ -2807,3 +2807,6 @@
 - **[2026-11-24 14:44 UTC]** Conheça a Terra Indígena do cacique Raoni, que teve posse reconhecida pelo presidente Lula
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/mt/mato-grosso/noticia/2026/11/24/conheca-a-terra-indigena-do-cacique-raoni-que-teve-posse-reconhecida-pelo-presidente-lula.ghtml)_
 
+- **[2026-11-23 14:44 UTC]** Moraes manda intimar Flávio Bolsonaro por edital sobre caso de calúnia contra Lula
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/moraes-manda-intimar-flavio-bolsonaro-por-edital-em-caso-de-suposta-calunia-contra-lula/)_
+
