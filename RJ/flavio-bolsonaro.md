@@ -11176,3 +11176,6 @@
 - **[2026-11-24 11:28 UTC]** Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-23 14:44 UTC]** Moraes manda intimar Flávio Bolsonaro por edital sobre caso de calúnia contra Lula
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/moraes-manda-intimar-flavio-bolsonaro-por-edital-em-caso-de-suposta-calunia-contra-lula/)_
+
