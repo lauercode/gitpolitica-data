@@ -17,3 +17,6 @@
 - **[2026-11-24 11:41 UTC]** Quem é MC Ryan SP, o funkeiro paulista alvo de operação da PF contra lavagem de dinheiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/quem-e-mc-ryan-o-funkeiro-paulista-alvo-de-operacao-da-pf-contra-lavagem-de-dinheiro.shtml)_
 
+- **[2026-11-24 08:05 UTC]** PF faz operação contra lavagem de dinheiro com criptomoedas e R$ 4 bi são bloqueados; MC Ryan SP é alvo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/pf-faz-operacao-contra-suspeitos-de-movimentarem-r-4-bi-em-esquema-com-golpes-e-criptomoedas.shtml)_
+
