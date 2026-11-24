@@ -53,3 +53,6 @@
 - **[2026-11-21 15:31 UTC]** Lula reage a críticas da esquerda ao ajuste fiscal e ataca “yuppies da Faria Lima”
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/lula-reage-a-criticas-da-esquerda-ao-ajuste-fiscal-e-ataca-yuppies-da-faria-lima/)_
 
+- **[2026-11-24 08:00 UTC]** Esquerda tem mais a oferecer ao governo do que briga com a Faria Lima
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/11/esquerda-tem-mais-a-oferecer-ao-governo-do-que-briga-com-a-faria-lima.shtml)_
+
