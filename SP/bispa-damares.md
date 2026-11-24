@@ -20,3 +20,6 @@
 - **[2026-11-12 12:51 UTC]** A justificativa de Augusto Heleno para rejeitar visita de Damares e Magno Malta
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/a-justificativa-de-augusto-heleno-para-rejeitar-visita-de-damares-e-magno-malta/)_
 
+- **[2026-11-23 23:07 UTC]** Damares pede a Fachin autorização para visitar Vorcaro na Papudinha
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/damares-pede-a-fachin-autorizacao-para-visitar-vorcaro-na-papudinha/)_
+
