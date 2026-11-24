@@ -38,3 +38,6 @@
 - **[2026-11-06 11:22 UTC]** Comissão aprova dispensa de custas processuais para medidas protetivas da Lei Maria da Penha
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1316669-comissao-aprova-dispensa-de-custas-processuais-para-medidas-protetivas-da-lei-maria-da-penha)_
 
+- **[2026-11-24 14:12 UTC]** Piauí tem mais de 50 pedidos para Benefício Lei Maria da Penha, do INSS; veja quem pode solicitar
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/24/piaui-beneficio-inss.ghtml)_
+
