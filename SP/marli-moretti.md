@@ -143,3 +143,6 @@
 - **[2026-11-24 03:35 UTC]** Ajuste fiscal de Lula teve Moretti como criador e principal articulador; ministro enfrentou resistência de ala governista
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/24/ajuste-fiscal-de-lula-teve-moretti-como-criador-e-principal-articulador-ministro-enfrentou-resistencia-de-ala-governista.ghtml)_
 
+- **[2026-11-23 22:50 UTC]** Veja como votou cada deputado no plano Moretti, aprovado pela Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-como-votou-cada-deputado-no-plano-moretti-aprovado-pela-camara.shtml)_
+
