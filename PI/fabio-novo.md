@@ -179,3 +179,6 @@
 - **[2026-11-23 17:08 UTC]** Novo volta a pedir afastamento de Andrei e o acusa de interferir no caso Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-volta-a-pedir-afastamento-de-andrei-e-o-acusa-de-interferir-no-caso-master/)_
 
+- **[2026-11-24 15:13 UTC]** Novo preço de OPA ainda não reflete valor estratégico da Unifique, diz BTG
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/24/novo-preo-de-opa-ainda-no-reflete-valor-estratgico-da-unifique-diz-btg.ghtml)_
+
