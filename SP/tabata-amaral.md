@@ -23,3 +23,6 @@
 - **[2026-10-04 14:48 UTC]** Mãe de Tabata Amaral é internada em estado grave após acidente em agenda de campanha da filha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/mae-de-tabata-amaral-e-internada-em-estado-grave-apos-acidente-em-agenda-de-campanha-da-filha.ghtml)_
 
+- **[2026-11-24 03:14 UTC]** Eduardo Bolsonaro recorre de condenação por suposta difamação a Tabata Amaral
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/eduardo-bolsonaro-recorre-de-condenacao-por-suposta-difamacao-a-tabata-amaral/)_
+
