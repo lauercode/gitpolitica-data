@@ -38,3 +38,6 @@
 - **[2026-11-22 07:30 UTC]** Paranaense representa América Latina e discursa ao lado do príncipe William em premiação ambiental na Índia
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/22/paranaense-representa-america-latina-e-discursa-ao-lado-do-principe.ghtml)_
 
+- **[2026-11-24 11:05 UTC]** Casa de campo de William e Kate Middleton é invadida; dois homens são presos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/casa-de-campo-de-william-e-kate-middleton-e-invadida-dois-homens-sao-presos.shtml)_
+
