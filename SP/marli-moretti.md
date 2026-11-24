@@ -152,3 +152,6 @@
 - **[2026-11-24 11:21 UTC]** Entenda o plano Moretti, o ajuste fiscal aprovado pela Câmara
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/24/entenda-o-plano-moretti-o-ajuste-fiscal-aprovado-pela-camara.ghtml)_
 
+- **[2026-11-24 09:51 UTC]** Dólar abre em queda após aprovação do plano Moretti pela Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-apos-aprovacao-do-plano-moretti-pela-camara.shtml)_
+
