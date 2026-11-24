@@ -128,3 +128,6 @@
 - **[2026-11-23 18:38 UTC]** Hugo Motta e Davi Alcolumbre usam pauta jurídica para atrair apoio da direita
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/hugo-motta-e-davi-alcolumbre-usam-pauta-juridica-para-atrair-apoio-da-direita/)_
 
+- **[2026-11-23 23:38 UTC]** Hugo Motta destaca pluralidade e independência do Legislativo ao receber novos deputados
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1322114-hugo-motta-destaca-pluralidade-e-independencia-do-legislativo-ao-receber-novos-deputados)_
+
