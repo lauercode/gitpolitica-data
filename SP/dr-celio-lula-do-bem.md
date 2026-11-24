@@ -200,3 +200,6 @@
 - **[2026-11-18 06:00 UTC]** Petistas reagem a Erika Hilton e jogam decisão sobre Prefeitura de SP em 2028 para Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/petistas-reagem-a-erika-hilton-e-jogam-decisao-sobre-prefeitura-de-sp-em-2028-para-lula.shtml)_
 
+- **[2026-11-24 15:32 UTC]** Lula irá ao velório do jurista Fábio Konder Comparato em SP
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/24/lula-ir-ao-velrio-do-jurista-fbio-konder-comparato-em-sp.ghtml)_
+
