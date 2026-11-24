@@ -71,3 +71,6 @@
 - **[2026-11-20 21:22 UTC]** Mesmo sem assumir a SAF do Botafogo, investidor desembolsa milhões
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/mesmo-sem-assumir-a-saf-do-botafogo-investidor-desembolsa-milhoes/)_
 
+- **[2026-11-23 22:27 UTC]** São Paulo cede empate ao Botafogo e alcança marca que derrubou Crespo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/sao-paulo-cede-empate-ao-botafogo-e-alcanca-marca-que-derrubou-crespo.shtml)_
+
