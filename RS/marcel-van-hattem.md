@@ -110,3 +110,6 @@
 - **[2026-11-24 14:38 UTC]** De Marina a Gleisi: as acusações de parlamentares contra a PF antes do caso Van Hattem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/de-marina-a-gleisi-as-acusacoes-de-parlamentar-contra-a-pf-antes-do-caso-van-hattem/)_
 
+- **[2026-11-24 19:35 UTC]** Alcolumbre diz que Congresso defenderá prerrogativas de Van Hattem em ação no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/alcolumbre-diz-que-congresso-defendera-prerrogativas-de-van-hattem-em-acao-no-stf-contra-deputado.shtml)_
+
