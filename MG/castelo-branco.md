@@ -50,3 +50,6 @@
 - **[2026-11-05 11:56 UTC]** Motoristas enfrentam congestionamento após vazamento de água na Avenida Barão de Castelo Branco, em Teresina
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/05/motoristas-vazamento-agua-teresina.ghtml)_
 
+- **[2026-11-25 10:20 UTC]** Cabine de caminhão cai no rio Tietê após acidente na rodovia Castelo Branco em Barueri (SP)
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/cabine-de-caminhao-cai-no-rio-tiete-apos-acidente-em-barueri-motorista-esta-desaparecido.shtml)_
+
