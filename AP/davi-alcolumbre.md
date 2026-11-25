@@ -839,3 +839,6 @@
 - **[2026-11-24 21:47 UTC]** Em campanha, Alcolumbre recebe bancada feminina e Marinho convida colegas para aniversário
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/em-campanha-alcolumbre-recebe-bancada-feminina-e-marinho-convida-colegas-para-aniversario.shtml)_
 
+- **[2026-11-24 19:35 UTC]** Alcolumbre diz que Congresso defenderá prerrogativas de Van Hattem em ação no STF
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/alcolumbre-diz-que-congresso-defendera-prerrogativas-de-van-hattem-em-acao-no-stf-contra-deputado.shtml)_
+
