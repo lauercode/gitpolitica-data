@@ -407,3 +407,6 @@
 - **[2026-11-25 01:28 UTC]** Criança morre após ser esquecida em carro no interior do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/24/crianca-morre-apos-ser-esquecida-em-carro-no-interior-do-tocantins.ghtml)_
 
+- **[2026-11-25 19:31 UTC]** Jovem morre após ser atingido por raio em fazenda no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/25/jovem-morre-apos-ser-atingido-por-raio-em-fazenda-no-interior-do-tocantins.ghtml)_
+
