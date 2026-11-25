@@ -197,3 +197,6 @@
 - **[2026-11-24 22:30 UTC]** Protesto após morte de motorista de app bloqueia trânsito no Centro de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/24/protesto-apos-morte-de-motorista-de-app-bloqueia-transito-no-centro-de-rio-branco.ghtml)_
 
+- **[2026-11-24 19:43 UTC]** Motorista perde controle de carro e morre após capotar próximo ao Aeroporto de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/24/motorista-perde-controle-de-carro-e-morre-apos-capotar-proximo-ao-aeroporto-de-rio-branco.ghtml)_
+
