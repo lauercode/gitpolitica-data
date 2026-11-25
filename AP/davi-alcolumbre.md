@@ -860,3 +860,6 @@
 - **[2026-11-24 19:39 UTC]** Alcolumbre diz que acordo de líderes pode permitir votação de PEC de ajuste fiscal ainda neste ano
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/24/alcolumbre-diz-que-acordo-de-lderes-pode-permitir-votao-de-pec-de-ajuste-fiscal-ainda-neste-ano.ghtml)_
 
+- **[2026-11-24 20:48 UTC]** Senado pode votar novo ajuste fiscal ainda este ano, diz Alcolumbre
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/senado-pode-votar-novo-ajuste-fiscal-ainda-este-ano-diz-alcolumbre/)_
+
