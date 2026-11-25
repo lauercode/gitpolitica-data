@@ -62,3 +62,6 @@
 - **[2026-11-24 17:05 UTC]** Campopiano tem sangue nas mãos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/11/campopiano-tem-sangue-nas-maos.shtml)_
 
+- **[2026-11-25 05:28 UTC]** Câmara do Rio entrega medalha a Eduarda Campopiano após polêmica
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/11/camara-do-rio-entrega-medalha-a-eduarda-campopiano-apos-polemica.shtml)_
+
