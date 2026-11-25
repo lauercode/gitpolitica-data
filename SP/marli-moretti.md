@@ -173,3 +173,6 @@
 - **[2026-11-25 15:04 UTC]** Governo já tem cardápio de medidas suficiente para fechar a Lei Orçamentária, diz Moretti
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/25/governo-ja-tem-cardapio-de-medidas-suficiente-para-fechar-a-lei-orcamentaria-diz-moretti.ghtml)_
 
+- **[2026-11-25 14:37 UTC]** Moretti diz que não há decisão sobre PEC que revê gastos obrigatórios: 'não tem Dia D, não tem bala de prata'
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/25/moretti-diz-que-no-h-deciso-sobre-pec-que-rev-gastos-obrigatrios.ghtml)_
+
