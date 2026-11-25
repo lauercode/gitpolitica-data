@@ -29,3 +29,6 @@
 - **[2026-10-10 07:00 UTC]** Após 32 anos de Renan Calheiros no Senado, derrotas nas urnas colocam futuro político da família em dúvida
   _fonte: [G1 - Regiões: Alagoas](https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/10/apos-32-anos-de-renan-calheiros-no-senado-derrotas-nas-urnas-colocam-futuro-politico-da-familia-em-duvida.ghtml)_
 
+- **[2026-11-24 18:31 UTC]** Senador há 32 anos, Calheiros apela ao TSE após perder eleição para ex-primeira-dama de Maceió
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/brasil/renan-calheiros-apela-tse-apos-perder-eleicao/)_
+
