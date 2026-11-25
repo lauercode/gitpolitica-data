@@ -161,3 +161,6 @@
 - **[2026-11-24 15:59 UTC]** Lula sanciona plano Moretti um dia após aprovação na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-sanciona-plano-moretti-um-dia-apos-aprovacao-na-camara.shtml)_
 
+- **[2026-11-25 04:00 UTC]** Mercado vê avanço no plano Moretti, mas espera novas medidas para conter gastos de forma estrutural
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/mercado-ve-avanco-no-plano-moretti-mas-espera-novas-medidas-para-conter-gastos-de-forma-estrutual.shtml)_
+
