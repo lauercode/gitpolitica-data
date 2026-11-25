@@ -38,3 +38,6 @@
 - **[2026-10-09 23:22 UTC]** Flores, fé e fogos: homenagens marcam traslado para Ananindeua e Marituba no Círio 2026
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/09/flores-fe-e-papeis-coloridos-homenagens-marcam-o-traslado-para-ananindeua-e-marituba-do-cirio-2026.ghtml)_
 
+- **[2026-11-25 12:51 UTC]** Deputado federal Thiago Flores sofre acidente na BR-364 em RO
+  _fonte: [G1 - Regiões: Rondônia](https://g1.globo.com/ro/rondonia/noticia/2026/11/25/deputado-federal-thiago-flores-sofre-acidente-na-br-364-em-ro.ghtml)_
+
