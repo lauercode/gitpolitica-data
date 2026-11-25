@@ -851,3 +851,6 @@
 - **[2026-11-24 21:43 UTC]** Alcolumbre autoriza Advocacia do Senado a atuar em defesa de Van Hattem
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/alcolumbre-autoriza-advocacia-do-senado-a-atuar-em-defesa-de-marcel-van-hattem/)_
 
+- **[2026-11-24 21:52 UTC]** Oposição cobra atuação de Motta e Alcolumbre em defesa de Marcel Van Hattem no STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/oposicao-cobra-atuacao-de-motta-e-alcolumbre-em-defesa-de-marcel-van-hattem-stf/)_
+
