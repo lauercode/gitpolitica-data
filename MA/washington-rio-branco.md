@@ -194,3 +194,6 @@
 - **[2026-11-21 18:53 UTC]** Papai Noel chega com cortejo e atrações musicais em shopping de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/21/papai-noel-chega-com-cortejo-e-atracoes-musicais-neste-sabado-21-em-shopping-de-rio-branco.ghtml)_
 
+- **[2026-11-24 22:30 UTC]** Protesto após morte de motorista de app bloqueia trânsito no Centro de Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/24/protesto-apos-morte-de-motorista-de-app-bloqueia-transito-no-centro-de-rio-branco.ghtml)_
+
