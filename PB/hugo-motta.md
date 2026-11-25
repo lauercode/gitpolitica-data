@@ -134,3 +134,6 @@
 - **[2026-11-24 03:49 UTC]** Após Câmara aprovar ajuste fiscal de Lula, Hugo Motta defende novas medidas ainda em 2026
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/24/apos-camara-aprovar-ajuste-de-lula-hugo-motta-defende-novas-medidas-fiscais-ainda-em-2026.ghtml)_
 
+- **[2026-11-24 23:35 UTC]** Derrotado para o Senado, pai de Hugo Motta assume cargo no governo da PB
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/24/derrotado-para-o-senado-pai-de-hugo-motta-assume-cargo-no-governo-da-pb.ghtml)_
+
