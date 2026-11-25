@@ -857,3 +857,6 @@
 - **[2026-11-24 21:15 UTC]** Alcolumbre autoriza advocacia do Senado a entrar como interessada em caso de denúncia contra Van Hattem
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/24/alcolumbre-autoriza-advocacia-do-senado-a-entrar-como-interessada-em-caso-de-denncia-contra-van-hattem.ghtml)_
 
+- **[2026-11-24 19:39 UTC]** Alcolumbre diz que acordo de líderes pode permitir votação de PEC de ajuste fiscal ainda neste ano
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/24/alcolumbre-diz-que-acordo-de-lderes-pode-permitir-votao-de-pec-de-ajuste-fiscal-ainda-neste-ano.ghtml)_
+
