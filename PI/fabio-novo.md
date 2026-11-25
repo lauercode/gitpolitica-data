@@ -191,3 +191,6 @@
 - **[2026-11-25 10:11 UTC]** Novo sítio rupestre no Piauí tem gravuras ameaçadas por pichações e avanço de plantações
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/25/novo-sitio-rupestre-piaui-tem-gravuras-ameacadas.ghtml)_
 
+- **[2026-11-25 10:14 UTC]** Novo pacote de Lula vai mirar emendas, gastos tributários e supersalários, diz chefe da secretaria-geral
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/novo-pacote-de-lula-vai-mirar-emendas-gastos-tributarios-e-supersalarios-diz-chefe-da-secretaria-geral.shtml)_
+
