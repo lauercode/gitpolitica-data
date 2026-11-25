@@ -95,3 +95,6 @@
 - **[2026-11-24 16:16 UTC]** Rafael Fonteles define comando de três secretarias e coordenadoria para próximo mandato no Piauí; veja
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/24/rafael-fonteles-secretarias.ghtml)_
 
+- **[2026-11-25 11:19 UTC]** Rafael Fonteles anuncia mais 12 nomes para secretarias e órgãos do Piauí no próximo mandato; veja
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/25/rafael-fonteles-anuncia-nomes-secretarias.ghtml)_
+
