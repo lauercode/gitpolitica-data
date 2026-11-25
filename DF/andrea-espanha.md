@@ -299,3 +299,6 @@
 - **[2026-11-23 18:07 UTC]** Justiça da Espanha anistia líder separatista catalão a uma semana das eleições
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/justica-da-espanha-anistia-lider-separatista-catalao-a-uma-semana-das-eleicoes.shtml)_
 
+- **[2026-11-25 08:41 UTC]** Líder independentista catalão Puigdemont anuncia que retornará à Espanha em 12 de dezembro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/lider-independentista-catalao-puigdemont-anuncia-que-retornara-a-espanha-em-12-de-dezembro/)_
+
