@@ -20,3 +20,6 @@
 - **[2026-11-17 15:40 UTC]** Faith No More anuncia shows no Brasil em 2027 com abertura de Alice in Chains
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2026/11/faith-no-more-anuncia-shows-no-brasil-em-2027-com-abertura-de-alice-in-chains.shtml)_
 
+- **[2026-11-25 18:15 UTC]** NYT: Oficiais dos EUA dizem que não há evidências de que vínculo entre Alice e Jensen Huang foi ato de inteligência chinesa
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/25/nyt-oficiais-dos-eua-dizem-que-nao-ha-evidencias-de-que-vinculo-entre-alice-e-jensen-huang-foi-ato-de-inteligencia-chinesa.ghtml)_
+
