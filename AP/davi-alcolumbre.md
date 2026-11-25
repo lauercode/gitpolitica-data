@@ -863,3 +863,6 @@
 - **[2026-11-24 20:48 UTC]** Senado pode votar novo ajuste fiscal ainda este ano, diz Alcolumbre
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/senado-pode-votar-novo-ajuste-fiscal-ainda-este-ano-diz-alcolumbre/)_
 
+- **[2026-11-24 18:33 UTC]** Após pressão do PL, Alcolumbre aciona Advocacia do Senado para defender Van Hattem no STF
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-pressao-do-pl-alcolumbre-aciona-advocacia-do-senado-para-defender-van-hattem-no-stf/)_
+
