@@ -188,3 +188,6 @@
 - **[2026-11-24 18:57 UTC]** Novo sítio rupestre no Piauí reúne gravuras de lagartos, figuras humanas e símbolos misteriosos
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/24/novo-sitio-rupestre.ghtml)_
 
+- **[2026-11-25 10:11 UTC]** Novo sítio rupestre no Piauí tem gravuras ameaçadas por pichações e avanço de plantações
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/25/novo-sitio-rupestre-piaui-tem-gravuras-ameacadas.ghtml)_
+
