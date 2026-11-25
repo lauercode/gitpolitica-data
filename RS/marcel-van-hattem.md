@@ -128,3 +128,6 @@
 - **[2026-11-25 08:44 UTC]** Julgamento de Van Hattem no STF é o primeiro round da guerra entre Senado e Supremo em 2027?
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqdr13l5e830o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-25 16:00 UTC]** Como a Câmara pode defender a imunidade de Marcel van Hattem da ofensiva do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-a-camara-pode-defender-a-imunidade-de-marcel-van-hattem-da-ofensiva-do-stf/)_
+
