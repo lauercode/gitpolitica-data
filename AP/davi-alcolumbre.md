@@ -878,3 +878,6 @@
 - **[2026-11-25 12:10 UTC]** Alcolumbre admite votar novo pacote de ajuste fiscal de Lula ainda em 2026
   _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/alcolumbre-admite-votar-novo-pacote-fiscal-de-lula-ainda-em-2026/)_
 
+- **[2026-11-25 16:51 UTC]** Alcolumbre reúne senadoras e ouve pedidos por mais espaço da bancada feminina
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/25/alcolumbre-rene-senadoras-e-ouve-pedidos-por-mais-espao-da-bancada-feminina.ghtml)_
+
