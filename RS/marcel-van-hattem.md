@@ -125,3 +125,6 @@
 - **[2026-11-24 18:33 UTC]** Após pressão do PL, Alcolumbre aciona Advocacia do Senado para defender Van Hattem no STF
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-pressao-do-pl-alcolumbre-aciona-advocacia-do-senado-para-defender-van-hattem-no-stf/)_
 
+- **[2026-11-25 08:44 UTC]** Julgamento de Van Hattem no STF é o primeiro round da guerra entre Senado e Supremo em 2027?
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cqdr13l5e830o?at_medium=RSS&at_campaign=rss)_
+
