@@ -62,3 +62,6 @@
 - **[2026-10-30 08:00 UTC]** RN reconhece ação de Paulo Freire como patrimônio cultural imaterial
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-10/rn-reconhece-acao-de-paulo-freire-como-patrimonio-cultural-imaterial)_
 
+- **[2026-11-25 08:00 UTC]** Inspirado em Paulo Freire, projeto de escola pública da Maré, no RJ, vence prêmio internacional
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/inspirado-em-paulo-freire-projeto-de-escola-publica-da-mare-no-rj-vence-premio-internacional.shtml)_
+
