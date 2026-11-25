@@ -20,3 +20,6 @@
 - **[2026-10-04 04:00 UTC]** Qual é o número de Fernando Haddad, candidato a governador de São Paulo em 2026?
   _fonte: [Valor Econômico](https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/04/qual-e-o-numero-de-fernando-haddad-candidato-a-governador-de-sao-paulo-em-2026.ghtml)_
 
+- **[2026-11-25 14:50 UTC]** O futuro de Fernando Haddad
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/o-futuro-de-fernando-haddad/)_
+
