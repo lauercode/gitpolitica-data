@@ -464,3 +464,6 @@
 - **[2026-10-26 12:27 UTC]** Estudante agredido em ato pró-Lula em Santos está em estado gravíssimo e é transferido para São Paulo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/estudante-agredido-em-ato-pro-lula-em-santos-esta-em-estado-gravissimo-e-e-transferido-para-sao-paulo.shtml)_
 
+- **[2026-11-25 07:57 UTC]** MBL promove festival com sabatina de Renan Santos e debate sobre psicoativos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/mbl-promove-festival-com-sabatina-de-renan-santos-e-debate-sobre-psicoativos.shtml)_
+
