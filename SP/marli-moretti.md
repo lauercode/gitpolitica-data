@@ -167,3 +167,6 @@
 - **[2026-11-25 13:42 UTC]** Subvenção do diesel deve ser prorrogada por um mês, diz Moretti
   _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/subvencao-do-diesel-deve-ser-prorrogada-por-um-mes-diz-moretti)_
 
+- **[2026-11-25 15:08 UTC]** Moretti: Ajuste fiscal sancionado acrescenta R$ 70 bi à base de despesas contingenciáveis
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/25/moretti-ajuste-fiscal-sancionado-acrescenta-r-70-bi-base-de-despesas-contingenciveis.ghtml)_
+
