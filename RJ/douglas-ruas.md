@@ -191,3 +191,6 @@
 - **[2026-11-23 18:30 UTC]** Douglas Ruas nem assumiu e já desaponta população
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/11/douglas-ruas-nem-assumiu-e-ja-desaponta-populacao.shtml)_
 
+- **[2026-11-25 16:35 UTC]** Assembleia do RJ articula aumento de salário para Douglas Ruas e secretários
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/assembleia-do-rj-articula-aumento-de-salario-para-douglas-ruas-e-secretarios.shtml)_
+
