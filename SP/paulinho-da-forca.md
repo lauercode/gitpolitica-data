@@ -200,3 +200,6 @@
 - **[2026-11-25 17:09 UTC]** Paulinho da Força diz que se reuniu com Moraes e que espera apoio unânime do STF a lei que reduz penas do 8 de janeiro
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/25/paulinho-da-forca-dosimetria-moraes.ghtml)_
 
+- **[2026-11-25 18:55 UTC]** Paulinho da Força diz ter se reunido com Moraes e espera aprovação unânime da Lei da Dosimetria no STF
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/25/paulinho-da-forca-diz-ter-se-reunido-com-moraes-apos-eleicoes-e-espera-aprovacao-unanime-da-lei-da-dosimetria-no-stf.ghtml)_
+
