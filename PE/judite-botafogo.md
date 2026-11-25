@@ -74,3 +74,6 @@
 - **[2026-11-23 22:27 UTC]** São Paulo cede empate ao Botafogo e alcança marca que derrubou Crespo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/sao-paulo-cede-empate-ao-botafogo-e-alcanca-marca-que-derrubou-crespo.shtml)_
 
+- **[2026-11-25 13:37 UTC]** Botafogo aposta na união e confia em Tite na reta final do Brasileirão
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/botafogo-aposta-na-uniao-e-confia-em-tite-na-reta-final-do-brasileirao/)_
+
