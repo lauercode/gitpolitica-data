@@ -875,3 +875,6 @@
 - **[2026-11-25 15:27 UTC]** Alcolumbre se reúne com bancada feminina e faz aceno para candidata rival
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/alcolumbre-se-reune-com-bancada-feminina-e-faz-aceno-para-candidata-rival.shtml)_
 
+- **[2026-11-25 12:10 UTC]** Alcolumbre admite votar novo pacote de ajuste fiscal de Lula ainda em 2026
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/economia/alcolumbre-admite-votar-novo-pacote-fiscal-de-lula-ainda-em-2026/)_
+
