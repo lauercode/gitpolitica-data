@@ -53,3 +53,6 @@
 - **[2026-11-17 14:56 UTC]** Davi Assayag e padre Mauro Maia fazem show com sucessos de Roberto Carlos em Boa Vista
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/17/davi-assayag-e-padre-mauro-maia-fazem-show-com-sucessos-de-roberto-carlos-em-boa-vista.ghtml)_
 
+- **[2026-11-25 17:57 UTC]** Após chuvas no RS, Roberto Carlos adia show em Porto Alegre para junho
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/25/apos-chuvas-no-rs-roberto-carlos-adia-show-em-porto-alegre-para-junho.ghtml)_
+
