@@ -59,3 +59,6 @@
 - **[2026-11-16 11:32 UTC]** Câmara do Rio rejeita suspensão e mantém honraria à deputada Eduarda Campopiano
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/camara-do-rio-rejeita-suspensao-e-mantem-honraria-a-deputada-eduarda-campopiano/)_
 
+- **[2026-11-24 17:05 UTC]** Campopiano tem sangue nas mãos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/11/campopiano-tem-sangue-nas-maos.shtml)_
+
