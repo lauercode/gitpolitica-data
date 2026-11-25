@@ -26,3 +26,6 @@
 - **[2026-11-23 13:05 UTC]** Cleitinho Azevedo monta time para governar Minas diante de desconfiança política
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/brasil/cleitinho-azevedo-secretariado-governo-minas-gerais/)_
 
+- **[2026-11-25 04:11 UTC]** Cleitinho Azevedo busca aproximação com o governo federal para negociar dívida
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-azevedo-busca-aproximacao-com-o-governo-federal-para-negociar-divida/)_
+
