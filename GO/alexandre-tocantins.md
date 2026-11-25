@@ -404,3 +404,6 @@
 - **[2026-11-23 22:03 UTC]** Carro cai de ponte e deixa dois mortos no interior do Tocantins, diz polícia
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/23/carro-cai-de-ponte-e-deixa-dois-mortos-no-interior-do-tocantins-diz-policia.ghtml)_
 
+- **[2026-11-25 01:28 UTC]** Criança morre após ser esquecida em carro no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/24/crianca-morre-apos-ser-esquecida-em-carro-no-interior-do-tocantins.ghtml)_
+
