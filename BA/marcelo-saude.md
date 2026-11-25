@@ -182,3 +182,6 @@
 - **[2026-11-24 21:34 UTC]** Secretário de Saúde de Juarez Távora, PB, morre após grave acidente entre carro e caminhão na BR-230, no Agreste
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/24/secretario-de-saude-de-juarez-tavora-pb-morre-apos-grave-acidente-entre-carro-e-caminhao-na-br-230-no-agreste.ghtml)_
 
+- **[2026-11-24 18:49 UTC]** Governador eleito anuncia ex-secretário municipal para a Saúde de Roraima
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/24/governador-eleito-anuncia-ex-secretario-municipal-para-a-saude-de-roraima.ghtml)_
+
