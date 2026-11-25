@@ -176,3 +176,6 @@
 - **[2026-11-23 19:50 UTC]** Saúde repassa R$ 200 milhões para maternidades filantrópicas
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/saude-repassa-r-200-milhoes-para-maternidades-filantropicas)_
 
+- **[2026-11-24 18:23 UTC]** Estado de São Paulo encerra surto de sarampo, diz Secretaria da Saúde
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/estado-de-sao-paulo-encerra-surto-de-sarampo-diz-secretaria-da-saude.shtml)_
+
