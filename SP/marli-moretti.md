@@ -158,3 +158,6 @@
 - **[2026-11-24 09:51 UTC]** Dólar despenca após sinalização para diretoria do BC, PEC de gastos obrigatórios e plano Moretti; Bolsa sobe
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-apos-aprovacao-do-plano-moretti-pela-camara.shtml)_
 
+- **[2026-11-24 15:59 UTC]** Lula sanciona plano Moretti um dia após aprovação na Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-sanciona-plano-moretti-um-dia-apos-aprovacao-na-camara.shtml)_
+
