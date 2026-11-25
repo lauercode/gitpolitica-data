@@ -11,3 +11,6 @@
 - **[2026-11-14 14:41 UTC]** Romário detona Ancelotti após derrota: ‘Manda ele pra casa do c***’
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/romario-detona-ancelotti-apos-derrota-manda-ele-pra-casa-do-c/)_
 
+- **[2026-11-25 06:56 UTC]** Em papo com Romário, Guardiola sai em defesa de Ancelotti na Seleção: “É preciso tempo”
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/em-papo-com-romario-guardiola-sai-em-defesa-de-ancelotti-na-selecao-e-preciso-tempo/)_
+
