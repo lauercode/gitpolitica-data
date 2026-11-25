@@ -164,3 +164,6 @@
 - **[2026-11-25 04:00 UTC]** Mercado vê avanço no plano Moretti, mas espera novas medidas para conter gastos de forma estrutural
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/mercado-ve-avanco-no-plano-moretti-mas-espera-novas-medidas-para-conter-gastos-de-forma-estrutual.shtml)_
 
+- **[2026-11-25 13:42 UTC]** Subvenção do diesel deve ser prorrogada por um mês, diz Moretti
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/subvencao-do-diesel-deve-ser-prorrogada-por-um-mes-diz-moretti)_
+
