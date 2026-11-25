@@ -179,3 +179,6 @@
 - **[2026-11-24 18:23 UTC]** Estado de São Paulo encerra surto de sarampo, diz Secretaria da Saúde
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/estado-de-sao-paulo-encerra-surto-de-sarampo-diz-secretaria-da-saude.shtml)_
 
+- **[2026-11-24 21:34 UTC]** Secretário de Saúde de Juarez Távora, PB, morre após grave acidente entre carro e caminhão na BR-230, no Agreste
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/24/secretario-de-saude-de-juarez-tavora-pb-morre-apos-grave-acidente-entre-carro-e-caminhao-na-br-230-no-agreste.ghtml)_
+
