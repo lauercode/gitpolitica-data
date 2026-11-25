@@ -197,3 +197,6 @@
 - **[2026-11-23 15:46 UTC]** Força-tarefa inicia retirada de aguapés do Rio Poti; operação deve durar cerca de 45 dias
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/23/forca-tarefa-aguapes-rio.ghtml)_
 
+- **[2026-11-25 17:09 UTC]** Paulinho da Força diz que se reuniu com Moraes e que espera apoio unânime do STF a lei que reduz penas do 8 de janeiro
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/25/paulinho-da-forca-dosimetria-moraes.ghtml)_
+
