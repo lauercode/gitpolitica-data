@@ -11,3 +11,6 @@
 - **[2026-11-20 14:55 UTC]** Dino vota para tornar ex-ministro Juscelino Filho réu por desvio de emendas
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/dino-vota-para-tornar-ex-ministro-juscelino-filho-reu-por-desvio-de-emendas/)_
 
+- **[2026-11-24 18:38 UTC]** Cristiano Zanin interrompe julgamento de Juscelino Filho no plenário do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cristiano-zanin-interrompe-julgamento-de-juscelino-filho-no-plenario-do-stf/)_
+
