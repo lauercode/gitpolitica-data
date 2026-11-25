@@ -32,3 +32,6 @@
 - **[2026-11-25 08:00 UTC]** ‘Gato solar’ tem custo de até R$ 4 bilhões
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/mercado-ilegal/noticia/2026/11/25/gato-solar-tem-custo-de-ate-r-4-bilhoes.ghtml)_
 
+- **[2026-11-25 14:45 UTC]** Gato embarca sozinho em trem, viaja 119 km e é levado de volta para casa por funcionários
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/bichos/2026/11/gato-embarca-sozinho-em-trem-viaja-119-km-e-e-levado-de-volta-para-casa-por-funcionarios.shtml)_
+
