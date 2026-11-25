@@ -869,3 +869,6 @@
 - **[2026-11-24 23:00 UTC]** Alcolumbre ameaça anular voto do senador que quebrar sigilo de cédula na eleição do Senado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-ameaca-anular-voto-do-senador-que-quebrar-sigilo-de-cedula-na-eleicao-do-senado.shtml)_
 
+- **[2026-11-25 15:36 UTC]** Em busca da reeleição, Alcolumbre recebe senadoras e se compromete com propostas para ampliar presença feminina na política
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/25/em-busca-da-reeleicao-alcolumbre-recebe-senadoras-e-se-compromete-com-propostas-para-ampliar-presenca-feminina-na-politica.ghtml)_
+
