@@ -170,3 +170,6 @@
 - **[2026-11-25 15:08 UTC]** Moretti: Ajuste fiscal sancionado acrescenta R$ 70 bi à base de despesas contingenciáveis
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/25/moretti-ajuste-fiscal-sancionado-acrescenta-r-70-bi-base-de-despesas-contingenciveis.ghtml)_
 
+- **[2026-11-25 15:04 UTC]** Governo já tem cardápio de medidas suficiente para fechar a Lei Orçamentária, diz Moretti
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/25/governo-ja-tem-cardapio-de-medidas-suficiente-para-fechar-a-lei-orcamentaria-diz-moretti.ghtml)_
+
