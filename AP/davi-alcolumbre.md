@@ -866,3 +866,6 @@
 - **[2026-11-24 18:33 UTC]** Após pressão do PL, Alcolumbre aciona Advocacia do Senado para defender Van Hattem no STF
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-pressao-do-pl-alcolumbre-aciona-advocacia-do-senado-para-defender-van-hattem-no-stf/)_
 
+- **[2026-11-24 23:00 UTC]** Alcolumbre ameaça anular voto do senador que quebrar sigilo de cédula na eleição do Senado
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-ameaca-anular-voto-do-senador-que-quebrar-sigilo-de-cedula-na-eleicao-do-senado.shtml)_
+
