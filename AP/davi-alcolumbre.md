@@ -842,3 +842,6 @@
 - **[2026-11-24 19:35 UTC]** Alcolumbre diz que Congresso defenderá prerrogativas de Van Hattem em ação no STF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/alcolumbre-diz-que-congresso-defendera-prerrogativas-de-van-hattem-em-acao-no-stf-contra-deputado.shtml)_
 
+- **[2026-11-24 18:03 UTC]** Alcolumbre diz que Senado pode votar novo ajuste fiscal neste ano se houver apoio
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/alcolumbre-diz-que-senado-pode-votar-novo-ajuste-fiscal-neste-ano-se-houver-apoio.shtml)_
+
