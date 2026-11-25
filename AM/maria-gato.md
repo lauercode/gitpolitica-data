@@ -29,3 +29,6 @@
 - **[2026-11-17 12:19 UTC]** Gato-maracajá é visto andando sobre muros de casas em Imperatriz no MA
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/11/17/gato-maracaja-e-visto-andando-sobre-muros-de-casas-em-imperatriz-no-ma.ghtml)_
 
+- **[2026-11-25 08:00 UTC]** ‘Gato solar’ tem custo de até R$ 4 bilhões
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/mercado-ilegal/noticia/2026/11/25/gato-solar-tem-custo-de-ate-r-4-bilhoes.ghtml)_
+
