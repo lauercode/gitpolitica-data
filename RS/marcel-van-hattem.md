@@ -119,3 +119,6 @@
 - **[2026-11-24 21:52 UTC]** Oposição cobra atuação de Motta e Alcolumbre em defesa de Marcel Van Hattem no STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/oposicao-cobra-atuacao-de-motta-e-alcolumbre-em-defesa-de-marcel-van-hattem-stf/)_
 
+- **[2026-11-24 21:15 UTC]** Alcolumbre autoriza advocacia do Senado a entrar como interessada em caso de denúncia contra Van Hattem
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/24/alcolumbre-autoriza-advocacia-do-senado-a-entrar-como-interessada-em-caso-de-denncia-contra-van-hattem.ghtml)_
+
