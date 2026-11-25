@@ -185,3 +185,6 @@
 - **[2026-11-24 18:49 UTC]** Governador eleito anuncia ex-secretário municipal para a Saúde de Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/24/governador-eleito-anuncia-ex-secretario-municipal-para-a-saude-de-roraima.ghtml)_
 
+- **[2026-11-25 13:02 UTC]** Saúde masculina: 10 hábitos que ajudam a reduzir fatores de risco para o câncer de próstata
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/bem-estar/saude-masculina-10-habitos-que-ajudam-a-reduzir-fatores-de-risco-para-o-cancer-de-prostata/)_
+
