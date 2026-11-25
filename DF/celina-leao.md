@@ -182,3 +182,6 @@
 - **[2026-11-05 19:08 UTC]** Lula e Celina Leão faltam a audiência de conciliação na Justiça em processo por falas sobre BRB
   _fonte: [G1 - Política:](https://g1.globo.com/df/distrito-federal/noticia/2026/11/05/lula-e-celina-leao-faltam-a-audiencia-de-conciliacao-na-justica-em-processo-por-falas-sobre-brb.ghtml)_
 
+- **[2026-11-25 17:03 UTC]** Celina Leão diz que caso BRB será solucionado em 2 semanas com ‘possível’ socorro da Caixa
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/25/celina-leo-diz-que-caso-brb-ser-solucionado-em-duas-semanas-com-possvel-socorro-da-caixa.ghtml)_
+
