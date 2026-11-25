@@ -134,3 +134,6 @@
 - **[2026-11-14 23:00 UTC]** Deltan Dallagnol chegará ao Senado com o pé esquerdo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/11/deltan-dallagnol-chegara-ao-senado-com-o-pe-esquerdo.shtml)_
 
+- **[2026-11-25 04:00 UTC]** Partidos defendem que TSE julgue caso de Deltan Dallagnol antes da diplomação
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/partidos-defendem-que-tse-julgue-caso-de-deltan-dallagnol-antes-da-diplomacao.shtml)_
+
