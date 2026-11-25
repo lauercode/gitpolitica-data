@@ -80,3 +80,6 @@
 - **[2026-11-25 15:18 UTC]** Operação da PF investiga organização criminosa por comércio ilegal de armas e crimes patrimoniais no Sertão da PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/25/operacao-da-pf-investiga-organizacao-criminosa-por-comercio-ilegal-de-armas-e-crimes-patrimoniais-no-sertao-da-pb.ghtml)_
 
+- **[2026-11-25 13:37 UTC]** Operação Argos prende suspeitos de tráfico e acha dinheiro queimado no Sertão de PE
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/25/operacao-argos-prende-suspeitos-de-trafico-e-acha-dinheiro-queimado-no-sertao-de-pe.ghtml)_
+
