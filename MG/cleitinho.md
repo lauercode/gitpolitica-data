@@ -251,3 +251,6 @@
 - **[2026-11-22 16:50 UTC]** Cleitinho elogia e diz ter orgulho de Ana Elisa, deputada eleita do PT
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/cleitinho-elogia-e-diz-ter-orgulho-de-ana-elisa-deputada-eleita-do-pt/)_
 
+- **[2026-11-25 00:10 UTC]** Diálogo com o PT faz de Cleitinho a versão moderna do velho centrismo mineiro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dialogo-com-o-pt-faz-de-cleitinho-a-versao-moderna-do-velho-centrismo-mineiro/)_
+
