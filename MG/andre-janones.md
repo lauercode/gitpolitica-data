@@ -365,3 +365,6 @@
 - **[2026-11-19 22:27 UTC]** Justiça mantém condenação de Janones por falsa acusação contra Carlos Vereza
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/justica-mantem-condenacao-de-janones-por-falsa-acusacao-contra-carlos-vereza/)_
 
+- **[2026-11-25 12:33 UTC]** Cotado para a Secom elogia Janones e diz que PT equilibrou disputa digital em 2026
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/11/cotado-para-a-secom-elogia-janones-e-diz-que-pt-equilibrou-disputa-digital-em-2026.shtml)_
+
