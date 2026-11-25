@@ -182,3 +182,6 @@
 - **[2026-11-24 15:13 UTC]** Novo preço de OPA ainda não reflete valor estratégico da Unifique, diz BTG
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/24/novo-preo-de-opa-ainda-no-reflete-valor-estratgico-da-unifique-diz-btg.ghtml)_
 
+- **[2026-11-24 18:59 UTC]** Deputado do Novo aciona TCE contra compra de carros de R$ 5,8 milhões pelo TJSP
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/deputado-do-novo-aciona-tce-contra-compra-de-carros-de-r-58-milhoes-pelo-tjsp.shtml)_
+
