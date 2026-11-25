@@ -122,3 +122,6 @@
 - **[2026-11-24 21:15 UTC]** Alcolumbre autoriza advocacia do Senado a entrar como interessada em caso de denúncia contra Van Hattem
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/24/alcolumbre-autoriza-advocacia-do-senado-a-entrar-como-interessada-em-caso-de-denncia-contra-van-hattem.ghtml)_
 
+- **[2026-11-24 18:33 UTC]** Após pressão do PL, Alcolumbre aciona Advocacia do Senado para defender Van Hattem no STF
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/apos-pressao-do-pl-alcolumbre-aciona-advocacia-do-senado-para-defender-van-hattem-no-stf/)_
+
