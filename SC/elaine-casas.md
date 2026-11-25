@@ -23,3 +23,6 @@
 - **[2026-11-10 15:03 UTC]** Comissão aprova projeto que regulamenta atuação das Casas da Mulher Brasileira
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1317665-comissao-aprova-projeto-que-regulamenta-atuacao-das-casas-da-mulher-brasileira)_
 
+- **[2026-11-25 09:32 UTC]** Casas destelhadas por supercélula que devastou Tupanciretã são alagadas novamente após temporal
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/25/chuva-volta-alagar-tupancireta-apos-temporal.ghtml)_
+
