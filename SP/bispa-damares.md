@@ -23,3 +23,6 @@
 - **[2026-11-23 23:07 UTC]** Damares pede a Fachin autorização para visitar Vorcaro na Papudinha
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/damares-pede-a-fachin-autorizacao-para-visitar-vorcaro-na-papudinha/)_
 
+- **[2026-11-24 17:44 UTC]** Damares pede afastamento de diretor-geral da PF por relatórios sobre ministros do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/damares-afastamento-diretor-pf-relatorios-ministros-stf/)_
+
