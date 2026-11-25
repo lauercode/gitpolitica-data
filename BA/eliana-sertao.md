@@ -71,3 +71,6 @@
 - **[2026-11-24 13:06 UTC]** Mulher morre em acidente entre duas motocicletas em Patos, no Sertão da PB
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/24/mulher-morre-em-acidente-entre-duas-motocicletas-em-patos-no-sertao-da-pb.ghtml)_
 
+- **[2026-11-25 11:22 UTC]** Incêndio destrói laboratório de escola estadual em Itaporanga, no Sertão da PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/25/incendio-destroi-laboratorio-de-escola-estadual-em-itaporanga-no-sertao-da-pb.ghtml)_
+
