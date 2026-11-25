@@ -836,3 +836,6 @@
 - **[2026-11-23 14:37 UTC]** Dosimetria expõe cálculo político de Motta e Alcolumbre diante da disputa com a direita
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dosimetria-expoe-calculo-politico-de-motta-e-alcolumbre-diante-da-disputa-com-a-direita/)_
 
+- **[2026-11-24 21:47 UTC]** Em campanha, Alcolumbre recebe bancada feminina e Marinho convida colegas para aniversário
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/em-campanha-alcolumbre-recebe-bancada-feminina-e-marinho-convida-colegas-para-aniversario.shtml)_
+
