@@ -845,3 +845,6 @@
 - **[2026-11-24 18:03 UTC]** Alcolumbre diz que Senado pode votar novo ajuste fiscal neste ano se houver apoio
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/alcolumbre-diz-que-senado-pode-votar-novo-ajuste-fiscal-neste-ano-se-houver-apoio.shtml)_
 
+- **[2026-11-25 00:30 UTC]** Como Gonet pode socorrer Moraes e favorecer Alcolumbre no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vozes/renan-ramalho/como-gonet-pode-socorrer-moraes-e-favorecer-alcolumbre-no-senado/)_
+
