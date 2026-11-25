@@ -185,3 +185,6 @@
 - **[2026-11-24 18:59 UTC]** Deputado do Novo aciona TCE contra compra de carros de R$ 5,8 milhões pelo TJSP
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/deputado-do-novo-aciona-tce-contra-compra-de-carros-de-r-58-milhoes-pelo-tjsp.shtml)_
 
+- **[2026-11-24 18:57 UTC]** Novo sítio rupestre no Piauí reúne gravuras de lagartos, figuras humanas e símbolos misteriosos
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/24/novo-sitio-rupestre.ghtml)_
+
