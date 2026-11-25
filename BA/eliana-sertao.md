@@ -77,3 +77,6 @@
 - **[2026-11-25 18:51 UTC]** Justiça mantém prisões de suspeitos de matar homem e esconder corpo em vala, no Sertão da Paraíba
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/25/justica-mantem-prisoes-de-suspeitos-de-matar-homem-e-esconder-corpo-em-vala-no-sertao-da-paraiba.ghtml)_
 
+- **[2026-11-25 15:18 UTC]** Operação da PF investiga organização criminosa por comércio ilegal de armas e crimes patrimoniais no Sertão da PB
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/25/operacao-da-pf-investiga-organizacao-criminosa-por-comercio-ilegal-de-armas-e-crimes-patrimoniais-no-sertao-da-pb.ghtml)_
+
