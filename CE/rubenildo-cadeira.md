@@ -17,3 +17,6 @@
 - **[2026-09-10 19:58 UTC]** Brasil continua sem vitória no mundial de basquete em cadeira de rodas
   _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-continua-sem-vitoria-no-mundial-de-basquete-em-cadeira-de-rodas)_
 
+- **[2026-11-26 18:10 UTC]** Cadeira 13 do STF bate seu próprio recorde de vacância após 132 anos; veja ranking
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cadeira-13-do-stf-bate-seu-proprio-recorde-de-vacancia-apos-132-anos/)_
+
