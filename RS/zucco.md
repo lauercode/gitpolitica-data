@@ -92,3 +92,6 @@
 - **[2026-11-19 17:34 UTC]** Zucco anuncia novos nomes para o próximo governo do RS; secretariado tem 13 titulares divulgados
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/11/19/zucco-novos-secretarios-governo-rs.ghtml)_
 
+- **[2026-11-25 20:14 UTC]** Zucco tem primeira troca no secretariado antes de início do governo no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/11/25/zucco-troca-secretariado.ghtml)_
+
