@@ -2810,3 +2810,6 @@
 - **[2026-11-23 14:44 UTC]** Moraes manda intimar Flávio Bolsonaro por edital sobre caso de calúnia contra Lula
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/moraes-manda-intimar-flavio-bolsonaro-por-edital-em-caso-de-suposta-calunia-contra-lula/)_
 
+- **[2026-11-26 10:40 UTC]** Como campanha de Lula inspirou até a direita na eleição da Espanha — e as críticas ao presidente por se envolver na disputa
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cv0l341l4yd1o?at_medium=RSS&at_campaign=rss)_
+
