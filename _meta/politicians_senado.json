@@ -448,6 +448,17 @@
     "senado_id": "6342"
   },
   {
+    "slug": "jussara-lima",
+    "name": "Jussara Lima",
+    "role": "Senador(a) (PI)",
+    "party": "PSD",
+    "aliases": [
+      "Jussara Lima",
+      "Lima"
+    ],
+    "senado_id": "6369"
+  },
+  {
     "slug": "laercio-oliveira",
     "name": "Laércio Oliveira",
     "role": "Senador(a) (SE)",
@@ -817,16 +828,6 @@
       "Rêgo"
     ],
     "senado_id": "5748"
-  },
-  {
-    "slug": "wellington-dias",
-    "name": "Wellington Dias",
-    "role": "Senador(a) (PI)",
-    "party": "PT",
-    "aliases": [
-      "Wellington Dias"
-    ],
-    "senado_id": "5016"
   },
   {
     "slug": "wellington-fagundes",
