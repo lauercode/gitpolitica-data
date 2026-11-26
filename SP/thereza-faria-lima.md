@@ -59,3 +59,6 @@
 - **[2026-11-26 16:01 UTC]** Faria Lima está no centro de grandes operações policiais desde o ano passado; relembre os casos
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/26/faria-lima-est-no-centro-de-grandes-operaes-policiais-desde-o-ano-passado-relembre-os-casos.ghtml)_
 
+- **[2026-11-26 14:38 UTC]** Flerte com a Faria Lima, fantasma de Levy e vontade de Lula: como o PT reage a Trabuco na Fazenda
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flerte-com-a-faria-lima-fantasma-de-levy-e-vontade-de-lula-como-o-pt-reage-a-trabuco-na-fazenda/)_
+
