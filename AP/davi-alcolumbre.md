@@ -884,3 +884,6 @@
 - **[2026-11-25 20:32 UTC]** Café de Alcolumbre com senadoras tem aceno a Tereza Cristina
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/25/cafe-de-alcolumbre-com-senadoras-tem-aceno-a-tereza-cristina-e-debate-de-pautas.ghtml)_
 
+- **[2026-11-26 08:00 UTC]** Alcolumbre, Tereza e Marinho intensificam campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/alcolumbre-tereza-e-marinho-intensificam-campanha.ghtml)_
+
