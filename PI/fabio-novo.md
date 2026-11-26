@@ -197,3 +197,6 @@
 - **[2026-11-26 19:46 UTC]** Novo assistente de IA da Connectly cria e gerencia campanhas
   _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/11/26/novo-assistente-de-ia-da-connectly-cria-e-gerencia-campanhas-1.ghtml)_
 
+- **[2026-11-26 15:10 UTC]** Novo acordo entre TIM Brasil e SBA deve proporcionar ganhos de eficiência em arrendamentos, diz Jefferies
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/26/novo-acordo-entre-tim-brasil-e-sba-deve-proporcionar-ganhos-de-eficincia-em-arrendamentos-diz-jefferies.ghtml)_
+
