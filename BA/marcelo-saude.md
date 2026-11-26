@@ -188,3 +188,6 @@
 - **[2026-11-25 13:02 UTC]** Saúde masculina: 10 hábitos que ajudam a reduzir fatores de risco para o câncer de próstata
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/bem-estar/saude-masculina-10-habitos-que-ajudam-a-reduzir-fatores-de-risco-para-o-cancer-de-prostata/)_
 
+- **[2026-11-25 19:46 UTC]** Saúde de Fazenda Rio Grande ganha reforço com quatro novas ambulâncias
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/prefeitura-de-fazenda-rio-grande/fazenda-bem-cuidada/noticia/2026/11/25/saude-de-fazenda-rio-grande-ganha-reforco-com-quatro-novas-ambulancias.ghtml)_
+
