@@ -17,3 +17,6 @@
 - **[2026-11-25 23:08 UTC]** PGR denuncia deputado Gustavo Gayer ao STF por esquema de desvio de cota parlamentar na Câmara
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/25/pgr-denuncia-deputado-gustavo-gayer-ao-stf-por-esquema-de-desvio-de-cota-parlamentar-na-camara.ghtml)_
 
+- **[2026-11-25 22:38 UTC]** PGR denuncia Gustavo Gayer e mais 24 pessoas por suposto desvio de verba parlamentar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-denuncia-gustavo-gayer-e-mais-24-pessoas-por-suposto-desvio-de-verba-parlamentar.shtml)_
+
