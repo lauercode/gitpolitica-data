@@ -11179,3 +11179,6 @@
 - **[2026-11-23 14:44 UTC]** Moraes manda intimar Flávio Bolsonaro por edital sobre caso de calúnia contra Lula
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/justica/moraes-manda-intimar-flavio-bolsonaro-por-edital-em-caso-de-suposta-calunia-contra-lula/)_
 
+- **[2026-11-26 15:12 UTC]** Democratas pedem que arquivos da Usaid sejam retirados de site; relatório abordou transição Bolsonaro-Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/democratas-pedem-arquivos-usaid-sejam-retirados-site/)_
+
