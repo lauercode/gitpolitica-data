@@ -179,3 +179,6 @@
 - **[2026-11-23 14:28 UTC]** Sergio Moro anuncia chefias das polícias Militar e Civil, dos Bombeiros e da Casa Militar do Paraná
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/23/sergio-moro-anuncia-chefias-das-policias-militar-e-civil-dos-bombeiros-e-da-casa-militar-do-parana.ghtml)_
 
+- **[2026-11-26 19:38 UTC]** Sergio Moro anuncia médico com participação na implementação do SUS para Saúde e nova Secretaria de Governo Digital e IA
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/26/sergio-moro-nova-secretaria-secretarios.ghtml)_
+
