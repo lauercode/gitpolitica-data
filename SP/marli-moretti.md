@@ -179,3 +179,6 @@
 - **[2026-11-25 22:37 UTC]** Bancada do PT na Câmara se reúne com Lara Resende e Moretti para debater propostas econômicas
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/25/bancada-do-pt-na-cmara-se-rene-com-lara-resende-e-moretti-para-debater-propostas-econmicas.ghtml)_
 
+- **[2026-11-26 08:00 UTC]** Moretti é cotado para permanecer ministro do Planejamento em Lula 4
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/moretti-e-cotado-para-continuar-no-cargo.ghtml)_
+
