@@ -257,3 +257,6 @@
 - **[2026-11-26 17:31 UTC]** Lula e Cleitinho debatem negociação de dívida de Minas Gerais
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-cleitinho-debatem-negociacao-de-divida-de-minas-gerais)_
 
+- **[2026-11-26 15:47 UTC]** Cleitinho se reúne com Lula, convida petista para posse e defende 'pacificação' do país
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/26/cleitinho-se-reune-com-lula-convida-petista-para-posse-e-defende-pacificacao-do-pais.ghtml)_
+
