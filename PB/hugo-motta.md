@@ -137,3 +137,6 @@
 - **[2026-11-24 23:35 UTC]** Derrotado para o Senado, pai de Hugo Motta assume cargo no governo da PB
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/24/derrotado-para-o-senado-pai-de-hugo-motta-assume-cargo-no-governo-da-pb.ghtml)_
 
+- **[2026-11-26 00:01 UTC]** Ala de Valdemar admite que PL deve romper com Hugo Motta e teme 'anos de seca' na Câmara
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ala-de-valdemar-admite-que-pl-deve-romper-com-hugo-motta-e-teme-anos-de-seca-na-camara.shtml)_
+
