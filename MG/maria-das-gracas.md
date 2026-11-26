@@ -17,3 +17,6 @@
 - **[2026-11-26 08:51 UTC]** Previsão de tempestade adia tradicional desfile de Ação de Graças de Nova York pela primeira vez em cem anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/previsao-de-tempestade-adia-tradicional-desfile-de-acao-de-gracas-de-nova-york-pela-primeira-vez-em-cem-anos.shtml)_
 
+- **[2026-11-26 20:26 UTC]** Tempestade provoca apagões e afeta voos no feriado de Ação de Graças dos EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/26/tempestade-provoca-apages-e-afeta-voos-no-feriado-de-ao-de-graas-dos-eua.ghtml)_
+
