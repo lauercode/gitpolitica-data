@@ -29,3 +29,6 @@
 - **[2026-11-25 22:00 UTC]** Missa na Catedral Nossa Senhora de Nazaré homenageia vítimas de feminicídios no Acre
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/25/missa-na-catedral-nossa-senhora-de-nazare-homenageia-vitimas-de-feminicidios-no-acre.ghtml)_
 
+- **[2026-11-25 22:00 UTC]** Missa na Catedral Nossa Senhora de Nazaré homenageia vítimas de feminicídio no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/25/missa-na-catedral-nossa-senhora-de-nazare-homenageia-vitimas-de-feminicidios-no-acre.ghtml)_
+
