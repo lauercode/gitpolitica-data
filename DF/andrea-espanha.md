@@ -311,3 +311,6 @@
 - **[2026-11-26 10:40 UTC]** Como campanha de Lula inspirou até a direita na eleição da Espanha — e as críticas ao presidente por se envolver na disputa
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cv0l341l4yd1o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-26 16:41 UTC]** Espanha tenta evitar desastre ambiental após naufrágio na costa de Ibiza
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/espanha-tenta-evitar-desastre-ambiental-apos-naufragio-na-costa-de-ibiza.shtml)_
+
