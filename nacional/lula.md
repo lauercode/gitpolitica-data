@@ -2813,3 +2813,6 @@
 - **[2026-11-26 10:40 UTC]** Como campanha de Lula inspirou até a direita na eleição da Espanha — e as críticas ao presidente por se envolver na disputa
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cv0l341l4yd1o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-26 15:00 UTC]** Cleitinho encontra Lula, convida presidente para posse e pede renegociação da dívida de Minas Gerais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/cleitinho-encontra-lula-convida-presidente-para-posse-e-pede-renegociacao-da-divida-de-minas-gerais.shtml)_
+
