@@ -17,3 +17,6 @@
 - **[2026-11-11 03:01 UTC]** Alcolumbre debocha do desempenho de Zema nas eleições
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/alcolumbre-debocha-do-desempenho-de-zema-nas-eleicoes/)_
 
+- **[2026-11-26 19:18 UTC]** Cleitinho responsabiliza Zema por dívida de MG e defende diálogo com Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-responsabiliza-zema-divida-mg-defende-dialogo-lula/)_
+
