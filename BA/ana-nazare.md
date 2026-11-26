@@ -26,3 +26,6 @@
 - **[2026-10-30 08:51 UTC]** Escola Municipal de 1º Grau Castro Alves (Nazaré), 50ª zona eleitoral: resultado da votação em Pocinhos (PB) no 1º turno
   _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/30/escola-municipal-de-1o-grau-castro-alves-nazare-50a-zona-eleitoral-resultado-da-votacao-em-pocinhos-pb-no-1o-turno.ghtml)_
 
+- **[2026-11-25 22:00 UTC]** Missa na Catedral Nossa Senhora de Nazaré homenageia vítimas de feminicídios no Acre
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/25/missa-na-catedral-nossa-senhora-de-nazare-homenageia-vitimas-de-feminicidios-no-acre.ghtml)_
+
