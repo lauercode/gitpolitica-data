@@ -26,3 +26,6 @@
 - **[2026-11-05 13:17 UTC]** Sobrinho é preso suspeito de envolvimento na morte do tio em Bacuri, no Maranhão
   _fonte: [G1 - Regiões: Maranhão](https://g1.globo.com/ma/maranhao/noticia/2026/11/05/sobrinho-e-preso-suspeito-de-envolvimento-na-morte-do-tio-em-bacuri-no-maranhao.ghtml)_
 
+- **[2026-11-26 19:29 UTC]** Sobrinho de Brilhante Ustra assumirá vaga de deputado na Câmara pelo RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/11/26/sobrinho-brilhante-ustra-vaga-deputado-camara.ghtml)_
+
