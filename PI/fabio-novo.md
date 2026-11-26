@@ -194,3 +194,6 @@
 - **[2026-11-25 10:14 UTC]** Novo pacote de Lula vai mirar emendas, gastos tributários e supersalários, diz chefe da secretaria-geral
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/novo-pacote-de-lula-vai-mirar-emendas-gastos-tributarios-e-supersalarios-diz-chefe-da-secretaria-geral.shtml)_
 
+- **[2026-11-26 19:46 UTC]** Novo assistente de IA da Connectly cria e gerencia campanhas
+  _fonte: [Valor Econômico](https://valor.globo.com/patrocinado/dino/noticia/2026/11/26/novo-assistente-de-ia-da-connectly-cria-e-gerencia-campanhas-1.ghtml)_
+
