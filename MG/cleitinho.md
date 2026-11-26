@@ -269,3 +269,6 @@
 - **[2026-11-26 17:01 UTC]** Cleitinho encontra Lula, pede renegociação da dívida de MG e critica Zema
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/cleitinho-encontra-lula-pede-renegociao-da-dvida-de-mg-e-critica-zema.ghtml)_
 
+- **[2026-11-26 15:44 UTC]** Lula recebe Cleitinho no Alvorada para debater dívida de Minas com a União
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/lula-recebe-cleitinho-no-alvorada-para-debater-dvida-de-minas-com-a-unio.ghtml)_
+
