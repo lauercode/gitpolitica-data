@@ -83,3 +83,6 @@
 - **[2026-11-25 13:37 UTC]** Operação Argos prende suspeitos de tráfico e acha dinheiro queimado no Sertão de PE
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/25/operacao-argos-prende-suspeitos-de-trafico-e-acha-dinheiro-queimado-no-sertao-de-pe.ghtml)_
 
+- **[2026-11-26 17:57 UTC]** Acidente entre duas motos deixa dois mortos na PB-386, no Sertão da Paraíba
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/26/acidente-entre-duas-motos-deixa-dois-mortos-na-pb-386-no-sertao-da-paraiba.ghtml)_
+
