@@ -26,3 +26,6 @@
 - **[2026-11-17 22:09 UTC]** Camilo Santana diz que governo não tinha votos para barrar desidratação do pacote fiscal
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/17/camilo-santana-diz-que-governo-nao-tinha-votos-para-barrar-desidratacao-do-pacote-fiscal.ghtml)_
 
+- **[2026-11-25 23:00 UTC]** Sem Haddad, Camilo Santana ganha força para assumir Casa Civil de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sem-haddad-camilo-santana-ganha-forca-para-assumir-casa-civil-de-lula.shtml)_
+
