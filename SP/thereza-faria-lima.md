@@ -56,3 +56,6 @@
 - **[2026-11-24 08:00 UTC]** Esquerda tem mais a oferecer ao governo do que briga com a Faria Lima
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/11/esquerda-tem-mais-a-oferecer-ao-governo-do-que-briga-com-a-faria-lima.shtml)_
 
+- **[2026-11-26 16:01 UTC]** Faria Lima está no centro de grandes operações policiais desde o ano passado; relembre os casos
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/26/faria-lima-est-no-centro-de-grandes-operaes-policiais-desde-o-ano-passado-relembre-os-casos.ghtml)_
+
