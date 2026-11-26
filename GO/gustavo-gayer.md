@@ -14,3 +14,6 @@
 - **[2026-10-03 22:46 UTC]** Quaest para o Senado em Goiás, votos válidos: Gracinha Caiado (UB), 30%; Gustavo Gayer (PL), 21%; e Zacharias Calil (MDB), 18%
   _fonte: [G1 - Política:](https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/03/quaest-goias-senado-3-outubro.ghtml)_
 
+- **[2026-11-25 23:08 UTC]** PGR denuncia deputado Gustavo Gayer ao STF por esquema de desvio de cota parlamentar na Câmara
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/25/pgr-denuncia-deputado-gustavo-gayer-ao-stf-por-esquema-de-desvio-de-cota-parlamentar-na-camara.ghtml)_
+
