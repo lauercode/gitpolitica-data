@@ -191,3 +191,6 @@
 - **[2026-11-25 19:46 UTC]** Saúde de Fazenda Rio Grande ganha reforço com quatro novas ambulâncias
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/especial-publicitario/prefeitura-de-fazenda-rio-grande/fazenda-bem-cuidada/noticia/2026/11/25/saude-de-fazenda-rio-grande-ganha-reforco-com-quatro-novas-ambulancias.ghtml)_
 
+- **[2026-11-26 19:38 UTC]** Sergio Moro anuncia médico com participação na implementação do SUS para Saúde e nova Secretaria de Governo Digital e IA
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/26/sergio-moro-nova-secretaria-secretarios.ghtml)_
+
