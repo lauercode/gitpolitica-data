@@ -302,3 +302,6 @@
 - **[2026-11-25 08:41 UTC]** Líder independentista catalão Puigdemont anuncia que retornará à Espanha em 12 de dezembro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/lider-independentista-catalao-puigdemont-anuncia-que-retornara-a-espanha-em-12-de-dezembro/)_
 
+- **[2026-11-25 23:00 UTC]** O que quer o Vox, partido de ultradireita que pode fazer parte do governo na Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/o-que-quer-o-vox-partido-de-ultradireita-que-pode-fazer-parte-do-governo-na-espanha.shtml)_
+
