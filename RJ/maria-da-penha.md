@@ -41,3 +41,6 @@
 - **[2026-11-24 14:12 UTC]** Piauí tem mais de 50 pedidos para Benefício Lei Maria da Penha, do INSS; veja quem pode solicitar
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/24/piaui-beneficio-inss.ghtml)_
 
+- **[2026-11-25 20:23 UTC]** Patrulha Maria da Penha tem falhas estruturais e falta de efetivo no Acre, aponta CGU
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/25/patrulha-maria-da-penha-tem-falhas-estruturais-e-falta-de-efetivo-no-acre-aponta-cgu.ghtml)_
+
