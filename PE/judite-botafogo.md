@@ -77,3 +77,6 @@
 - **[2026-11-25 13:37 UTC]** Botafogo aposta na união e confia em Tite na reta final do Brasileirão
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/botafogo-aposta-na-uniao-e-confia-em-tite-na-reta-final-do-brasileirao/)_
 
+- **[2026-11-26 06:45 UTC]** Copinha F: Internacional vence Botafogo no encerramento da 1ª rodada
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/copinha-f-internacional-vence-botafogo-no-encerramento-da-1a-rodada)_
+
