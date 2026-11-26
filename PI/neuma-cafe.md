@@ -20,3 +20,6 @@
 - **[2026-11-13 15:27 UTC]** Café produzido na Serra do Caparaó vence maior prêmio da cafeicultura feminina
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/cafe-na-prensa/2026/11/cafe-produzido-na-serra-do-caparao-vence-maior-premio-da-cafeicultura-feminina.shtml)_
 
+- **[2026-11-25 20:32 UTC]** Café de Alcolumbre com senadoras tem aceno a Tereza Cristina
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/25/cafe-de-alcolumbre-com-senadoras-tem-aceno-a-tereza-cristina-e-debate-de-pautas.ghtml)_
+
