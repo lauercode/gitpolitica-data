@@ -200,3 +200,6 @@
 - **[2026-11-23 09:37 UTC]** Gilmar admite falta de “autocontenção” do STF em “Gilmarpalooza da Argentina” e Bolsonaro segue internado
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/gilmar-admite-falta-de-autocontencao-do-stf-em-gilmarpalooza-da-argentina-e-bolsonaro-segue-internado/)_
 
+- **[2026-11-26 00:06 UTC]** Defesa de Vorcaro questiona distribuição de pedido sobre o Master a Nunes Marques e pede que análise fique com Gilmar
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/25/defesa-de-vorcaro-questiona-distribuio-de-pedido-sobre-o-master-a-nunes-marques-e-pede-que-anlise-fique-com-gilmar.ghtml)_
+
