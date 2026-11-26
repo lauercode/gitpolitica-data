@@ -11182,3 +11182,6 @@
 - **[2026-11-26 15:12 UTC]** Democratas pedem que arquivos da Usaid sejam retirados de site; relatório abordou transição Bolsonaro-Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/democratas-pedem-arquivos-usaid-sejam-retirados-site/)_
 
+- **[2026-11-26 14:58 UTC]** Flávio Bolsonaro tenta derrubar post que o chama de ‘traidor da Pátria’ e ‘Judas’, mas perde na Justiça
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/flavio-bolsonaro-tenta-derrubar-post-que-o-chama-de-traidor-da-patria-e-judas-mas-perde-na-justica/)_
+
