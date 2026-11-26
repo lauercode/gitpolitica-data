@@ -254,3 +254,6 @@
 - **[2026-11-25 00:10 UTC]** Diálogo com o PT faz de Cleitinho a versão moderna do velho centrismo mineiro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dialogo-com-o-pt-faz-de-cleitinho-a-versao-moderna-do-velho-centrismo-mineiro/)_
 
+- **[2026-11-26 17:31 UTC]** Lula e Cleitinho debatem negociação de dívida de Minas Gerais
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-cleitinho-debatem-negociacao-de-divida-de-minas-gerais)_
+
