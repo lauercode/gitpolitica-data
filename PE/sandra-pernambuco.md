@@ -89,3 +89,6 @@
 - **[2026-11-24 12:23 UTC]** Explosão atinge quatro imóveis e deixa um morto no interior de Pernambuco
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/explosao-atinge-quatro-imoveis-e-deixa-um-morto-no-interior-de-pernambuco.shtml)_
 
+- **[2026-11-26 18:50 UTC]** 'Não teve motivação', diz médica paraibana que foi agredida por homem com barra de ferro em unidade de saúde de Pernambuco
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/26/nao-teve-motivacao-diz-medica-paraibana-que-foi-agredida-por-homem-com-barra-de-ferro-em-unidade-de-saude-de-pernambuco.ghtml)_
+
