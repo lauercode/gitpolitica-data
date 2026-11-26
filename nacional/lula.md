@@ -2816,3 +2816,6 @@
 - **[2026-11-26 15:00 UTC]** Cleitinho encontra Lula, convida presidente para posse e pede renegociação da dívida de Minas Gerais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/cleitinho-encontra-lula-convida-presidente-para-posse-e-pede-renegociacao-da-divida-de-minas-gerais.shtml)_
 
+- **[2026-11-26 15:12 UTC]** Democratas pedem que arquivos da Usaid sejam retirados de site; relatório abordou transição Bolsonaro-Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/democratas-pedem-arquivos-usaid-sejam-retirados-site/)_
+
