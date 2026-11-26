@@ -266,3 +266,6 @@
 - **[2026-11-26 19:18 UTC]** Cleitinho responsabiliza Zema por dívida de MG e defende diálogo com Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-responsabiliza-zema-divida-mg-defende-dialogo-lula/)_
 
+- **[2026-11-26 17:01 UTC]** Cleitinho encontra Lula, pede renegociação da dívida de MG e critica Zema
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/cleitinho-encontra-lula-pede-renegociao-da-dvida-de-mg-e-critica-zema.ghtml)_
+
