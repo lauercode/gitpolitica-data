@@ -131,3 +131,6 @@
 - **[2026-11-25 16:00 UTC]** Como a Câmara pode defender a imunidade de Marcel van Hattem da ofensiva do STF
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/como-a-camara-pode-defender-a-imunidade-de-marcel-van-hattem-da-ofensiva-do-stf/)_
 
+- **[2026-11-25 20:00 UTC]** Câmara avalia medidas para proteger mandato de Marcel van Hattem após voto do STF
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/camara-avalia-medidas-para-proteger-mandato-de-marcel-van-hattem-apos-voto-do-stf/)_
+
