@@ -260,3 +260,6 @@
 - **[2026-11-26 15:47 UTC]** Cleitinho se reúne com Lula, convida petista para posse e defende 'pacificação' do país
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/26/cleitinho-se-reune-com-lula-convida-petista-para-posse-e-defende-pacificacao-do-pais.ghtml)_
 
+- **[2026-11-26 15:00 UTC]** Cleitinho encontra Lula, convida presidente para posse e pede renegociação da dívida de Minas Gerais
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/cleitinho-encontra-lula-convida-presidente-para-posse-e-pede-renegociacao-da-divida-de-minas-gerais.shtml)_
+
