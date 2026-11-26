@@ -305,3 +305,6 @@
 - **[2026-11-25 23:00 UTC]** O que quer o Vox, partido de ultradireita que pode fazer parte do governo na Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/o-que-quer-o-vox-partido-de-ultradireita-que-pode-fazer-parte-do-governo-na-espanha.shtml)_
 
+- **[2026-11-25 23:00 UTC]** Não renunciamos à nossa identidade ao fazer acordo com ultradireita, diz favorito a novo premiê da Espanha
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/nao-renunciamos-a-nossa-identidade-ao-fazer-acordo-com-ultradireita-diz-favorito-a-novo-premie-da-espanha.shtml)_
+
