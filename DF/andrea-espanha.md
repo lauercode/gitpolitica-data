@@ -314,3 +314,6 @@
 - **[2026-11-26 16:41 UTC]** Espanha tenta evitar desastre ambiental após naufrágio na costa de Ibiza
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/espanha-tenta-evitar-desastre-ambiental-apos-naufragio-na-costa-de-ibiza.shtml)_
 
+- **[2026-11-26 16:08 UTC]** Espanha avalia risco ambiental após navio-tanque com 7 mil toneladas de diesel virar perto de Ibiza
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c60ev94d02jlo?at_medium=RSS&at_campaign=rss)_
+
