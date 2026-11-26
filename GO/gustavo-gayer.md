@@ -26,3 +26,6 @@
 - **[2026-11-25 21:00 UTC]** PGR denuncia Gustavo Gayer por desvio de verba da Câmara
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pgr-denuncia-gustavo-gayer-por-desvio-de-verba-da-camara/)_
 
+- **[2026-11-26 06:35 UTC]** PGR acusa Gustavo Gayer de liderar grupo para desviar verbas públicas
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-acusa-gustavo-gayer-de-liderar-grupo-para-desviar-verbas-publicas/)_
+
