@@ -200,3 +200,6 @@
 - **[2026-11-24 19:43 UTC]** Motorista perde controle de carro e morre após capotar próximo ao Aeroporto de Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/24/motorista-perde-controle-de-carro-e-morre-apos-capotar-proximo-ao-aeroporto-de-rio-branco.ghtml)_
 
+- **[2026-11-26 14:08 UTC]** Secretária de Educação é exonerada após 7 meses no cargo em Rio Branco
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/26/secretaria-de-educacao-e-exonerada-apos-7-meses-no-cargo-em-rio-branco.ghtml)_
+
