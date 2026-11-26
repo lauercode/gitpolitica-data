@@ -101,3 +101,6 @@
 - **[2026-11-23 17:08 UTC]** Novo volta a pedir afastamento de Andrei e o acusa de interferir no caso Master
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/novo-volta-a-pedir-afastamento-de-andrei-e-o-acusa-de-interferir-no-caso-master/)_
 
+- **[2026-11-26 01:41 UTC]** PGR pode usar provas não incluídas em relatórios contra ministros do STF, diz Andrei
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/pgr-pode-usar-provas-nao-incluidas-em-relatorios-contra-ministros-do-stf-diz-andrei/)_
+
