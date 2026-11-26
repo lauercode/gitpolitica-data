@@ -140,3 +140,6 @@
 - **[2026-11-23 15:19 UTC]** Juiz rejeita ação contra Nikolas Ferreira por vídeo de suplente de vereadora com Lula
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/juiz-rejeita-acao-contra-nikolas-ferreira-por-video-de-suplente-de-vereadora-com-lula/)_
 
+- **[2026-11-26 16:04 UTC]** A ofensiva de Nikolas Ferreira contra o Ministério do Idoso — antes mesmo de sua criação
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/a-ofensiva-de-nikolas-ferreira-contra-o-ministerio-do-idoso-antes-mesmo-de-sua-criacao/)_
+
