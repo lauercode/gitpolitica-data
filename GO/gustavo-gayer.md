@@ -23,3 +23,6 @@
 - **[2026-11-26 00:20 UTC]** PGR denuncia Gustavo Gayer por suposto desvio de cota parlamentar
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/25/pgr-denuncia-gustavo-gayer-por-suposto-desvio-de-cota-parlamentar.ghtml)_
 
+- **[2026-11-25 21:00 UTC]** PGR denuncia Gustavo Gayer por desvio de verba da Câmara
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/pgr-denuncia-gustavo-gayer-por-desvio-de-verba-da-camara/)_
+
