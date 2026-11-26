@@ -176,3 +176,6 @@
 - **[2026-11-25 14:37 UTC]** Moretti diz que não há decisão sobre PEC que revê gastos obrigatórios: 'não tem Dia D, não tem bala de prata'
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/25/moretti-diz-que-no-h-deciso-sobre-pec-que-rev-gastos-obrigatrios.ghtml)_
 
+- **[2026-11-25 22:37 UTC]** Bancada do PT na Câmara se reúne com Lara Resende e Moretti para debater propostas econômicas
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/25/bancada-do-pt-na-cmara-se-rene-com-lara-resende-e-moretti-para-debater-propostas-econmicas.ghtml)_
+
