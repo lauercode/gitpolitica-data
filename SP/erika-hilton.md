@@ -158,3 +158,6 @@
 - **[2026-11-20 03:00 UTC]** Marina Silva, Fachin e Erika Hilton ampliam pressão sobre Lula por ministra negra no STF: 'Abismo social e estrutural'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/20/marina-silva-fachin-e-erika-hilton-lula-ministra-negra-no-stf.ghtml)_
 
+- **[2026-11-25 19:27 UTC]** PSOL se esforçará para manter Erika Hilton no partido, diz Juliano Medeiros
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/psol-se-esforcara-para-manter-erika-hilton-no-partido-diz-juliano-medeiros/)_
+
