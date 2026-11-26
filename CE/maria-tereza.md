@@ -23,3 +23,6 @@
 - **[2026-11-16 10:34 UTC]** Moraes barra visitas de Marinho, Tereza e Valdemar a Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/moraes-barra-visitas-de-marinho-tereza-e-valdemar-a-bolsonaro/)_
 
+- **[2026-11-26 08:00 UTC]** Alcolumbre, Tereza e Marinho intensificam campanha
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/alcolumbre-tereza-e-marinho-intensificam-campanha.ghtml)_
+
