@@ -308,3 +308,6 @@
 - **[2026-11-25 23:00 UTC]** Não renunciamos à nossa identidade ao fazer acordo com ultradireita, diz favorito a novo premiê da Espanha
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/nao-renunciamos-a-nossa-identidade-ao-fazer-acordo-com-ultradireita-diz-favorito-a-novo-premie-da-espanha.shtml)_
 
+- **[2026-11-26 10:40 UTC]** Como campanha de Lula inspirou até a direita na eleição da Espanha — e as críticas ao presidente por se envolver na disputa
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cv0l341l4yd1o?at_medium=RSS&at_campaign=rss)_
+
