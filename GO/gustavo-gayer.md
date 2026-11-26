@@ -20,3 +20,6 @@
 - **[2026-11-25 22:38 UTC]** PGR denuncia Gustavo Gayer e mais 24 pessoas por suposto desvio de verba parlamentar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-denuncia-gustavo-gayer-e-mais-24-pessoas-por-suposto-desvio-de-verba-parlamentar.shtml)_
 
+- **[2026-11-26 00:20 UTC]** PGR denuncia Gustavo Gayer por suposto desvio de cota parlamentar
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/25/pgr-denuncia-gustavo-gayer-por-suposto-desvio-de-cota-parlamentar.ghtml)_
+
