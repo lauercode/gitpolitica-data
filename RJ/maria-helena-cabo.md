@@ -35,3 +35,6 @@
 - **[2026-11-23 12:41 UTC]** Cabo de ponte rompe, derruba estudantes da UFRGS em rio e deixa vítima pendurada em SC; VÍDEO
   _fonte: [G1 - Regiões: Santa Catarina](https://g1.globo.com/sc/santa-catarina/noticia/2026/11/23/cabo-de-ponte-rompe-derruba-estudantes-da-ufrgs-em-rio-e-deixa-vitima-pendurada-em-sc-video.ghtml)_
 
+- **[2026-11-26 20:06 UTC]** Cabo de guerra entre Black Friday e El Niño segura IPCA-15 em novembro, mas não muda perspectiva, dizem economistas
+  _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/26/cabo-de-guerra-entre-black-friday-e-el-nio-segura-ipca-15-em-novembro-mas-no-muda-perspectiva-dizem-economistas.ghtml)_
+
