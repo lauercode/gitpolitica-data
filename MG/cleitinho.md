@@ -263,3 +263,6 @@
 - **[2026-11-26 15:00 UTC]** Cleitinho encontra Lula, convida presidente para posse e pede renegociação da dívida de Minas Gerais
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/cleitinho-encontra-lula-convida-presidente-para-posse-e-pede-renegociacao-da-divida-de-minas-gerais.shtml)_
 
+- **[2026-11-26 19:18 UTC]** Cleitinho responsabiliza Zema por dívida de MG e defende diálogo com Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/cleitinho-responsabiliza-zema-divida-mg-defende-dialogo-lula/)_
+
