@@ -8,3 +8,6 @@
 - **[2026-10-02 16:56 UTC]** Presidente da federação PSOL-Rede, Juliano Medeiros pede ao Itamaraty expulsão de diplomata dos EUA
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/presidente-da-federacao-psol-rede-juliano-medeiros-pede-ao-itamaraty-expulsao-de-diplomata-dos-eua.shtml)_
 
+- **[2026-11-25 19:27 UTC]** PSOL se esforçará para manter Erika Hilton no partido, diz Juliano Medeiros
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/psol-se-esforcara-para-manter-erika-hilton-no-partido-diz-juliano-medeiros/)_
+
