@@ -326,3 +326,6 @@
 - **[2026-11-27 09:39 UTC]** Inflação anual da Espanha desacelera para 4,1% em novembro
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/27/inflacao-anual-da-espanha-desacelera-para-41percent-em-novembro.ghtml)_
 
+- **[2026-11-27 08:00 UTC]** Eleição na Espanha testa Sánchez diante de ala direita fortalecida
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/27/eleicao-na-espanha-testa-sanchez-diante-de-ala-direita-fortalecida.ghtml)_
+
