@@ -203,3 +203,6 @@
 - **[2026-11-26 14:08 UTC]** Secretária de Educação é exonerada após 7 meses no cargo em Rio Branco
   _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/26/secretaria-de-educacao-e-exonerada-apos-7-meses-no-cargo-em-rio-branco.ghtml)_
 
+- **[2026-11-27 18:19 UTC]** Acusados de matar primo de ex candidato à Prefeitura de Rio Branco são condenados
+  _fonte: [G1 - Regiões: Acre](https://g1.globo.com/ac/acre/noticia/2026/11/27/seis-acusados-de-matar-primo-de-ex-candidato-a-prefeitura-de-rio-branco-vao-a-juri-no-ac.ghtml)_
+
