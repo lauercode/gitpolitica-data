@@ -329,3 +329,6 @@
 - **[2026-11-27 08:00 UTC]** Eleição na Espanha testa Sánchez diante de ala direita fortalecida
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/27/eleicao-na-espanha-testa-sanchez-diante-de-ala-direita-fortalecida.ghtml)_
 
+- **[2026-11-27 07:03 UTC]** Espanha encerra campanha eleitoral; Sánchez tenta frear a direita e a extrema-direita
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/espanha-encerra-campanha-eleitoral-sanchez-tenta-frear-a-direita-e-a-extrema-direita/)_
+
