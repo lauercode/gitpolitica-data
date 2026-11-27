@@ -320,3 +320,6 @@
 - **[2026-11-26 18:25 UTC]** Pedro Sánchez tenta frear ultradireita na Espanha; veja vídeo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/11/pedro-sanchez-tenta-frear-ultradireita-na-espanha-veja-video.shtml)_
 
+- **[2026-11-27 09:50 UTC]** Como a imigração transformou a Espanha na última década e passou a ser tema fundamental das eleições
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj62p7w0n2zgo?at_medium=RSS&at_campaign=rss)_
+
