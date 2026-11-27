@@ -104,3 +104,6 @@
 - **[2026-11-27 11:52 UTC]** Cotado para o Ministério da Fazenda, Rafael Fonteles elogia escolha de Lula por Trabuco
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/27/ministerio-da-fazenda-rafael-fonteles-trabuco.ghtml)_
 
+- **[2026-11-27 14:31 UTC]** Rafael Fonteles anuncia mais três nomes para o próximo mandato; veja
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/27/rafael-fonteles-mais-nomes.ghtml)_
+
