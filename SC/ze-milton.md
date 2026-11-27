@@ -26,3 +26,6 @@
 - **[2026-10-22 09:14 UTC]** Palco de resistência, Theatro São Pedro celebra o legado de Milton Nascimento
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musica-em-letras/2026/10/palco-de-resistencia-theatro-sao-pedro-celebra-o-legado-de-milton-nascimento.shtml)_
 
+- **[2026-11-27 13:36 UTC]** Chico, Milton e Lô entram em lista de cem melhores músicas de revista dos EUA
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/chico-milton-e-lo-entram-em-lista-de-cem-melhores-musicas-de-revista-dos-eua.shtml)_
+
