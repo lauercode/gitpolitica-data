@@ -113,3 +113,6 @@
 - **[2026-11-23 15:45 UTC]** Internação de Jair aprofunda fissura no clã Bolsonaro com disputa entre Carlos e Michelle
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/internacao-de-jair-aprofunda-fissura-no-cla-bolsonaro-com-disputa-entre-carlos-e-michelle.shtml)_
 
+- **[2026-11-26 20:50 UTC]** Michelle diz que Bolsonaro saiu do quarto de UTI para fisioterapia e se alimentou sem sonda
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/michelle-diz-que-bolsonaro-saiu-do-quarto-de-uti-para-fisioterapia-e-se-alimentou-sem-sonda.ghtml)_
+
