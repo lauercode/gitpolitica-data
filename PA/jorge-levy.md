@@ -20,3 +20,6 @@
 - **[2026-11-26 20:02 UTC]** Lindbergh compara escolha de Trabuco para a Fazenda à de Levy no governo Dilma
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lindbergh-compara-escolha-de-trabuco-para-a-fazenda-a-de-levy-no-governo-dilma.shtml)_
 
+- **[2026-11-27 20:00 UTC]** PT teme “efeito Levy” enquanto Lula tenta reeditar política econômica do 1º mandato
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/trabuco-pt-teme-efeito-levy-lula-tenta-reeditar-politica-economica-1-mandato/)_
+
