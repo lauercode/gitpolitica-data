@@ -95,3 +95,6 @@
 - **[2026-11-27 18:16 UTC]** Tereza Cristina gera desconfiança no PL após reunião com Davi Alcolumbre
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tereza-cristina-gera-desconfianca-no-pl-apos-reuniao-com-davi-alcolumbre/)_
 
+- **[2026-11-27 14:15 UTC]** Encontro de Tereza Cristina com Alcolumbre acende alerta no PL sobre disputa no Senado
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/encontro-de-tereza-cristina-com-alcolumbre-acende-alerta-no-pl-sobre-disputa-no-senado/)_
+
