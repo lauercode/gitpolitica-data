@@ -896,3 +896,6 @@
 - **[2026-11-26 23:38 UTC]** Alcolumbre diz receber ‘com muito otimismo’ confirmação de Trabuco para Fazenda
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/alcolumbre-diz-receber-com-muito-otimismo-confirmao-de-trabuco-para-fazenda.ghtml)_
 
+- **[2026-11-27 10:43 UTC]** Alcolumbre deve se reunir com Lula para bater martelo sobre ministro do STF
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/alcolumbre-deve-se-reunir-com-lula-para-bater-martelo-sobre-ministro-do-stf.ghtml)_
+
