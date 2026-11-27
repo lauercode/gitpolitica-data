@@ -323,3 +323,6 @@
 - **[2026-11-27 09:50 UTC]** Como a imigração transformou a Espanha na última década e passou a ser tema fundamental das eleições
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cj62p7w0n2zgo?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-27 09:39 UTC]** Inflação anual da Espanha desacelera para 4,1% em novembro
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/27/inflacao-anual-da-espanha-desacelera-para-41percent-em-novembro.ghtml)_
+
