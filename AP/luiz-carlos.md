@@ -32,3 +32,6 @@
 - **[2026-11-26 22:03 UTC]** Luiz Carlos Trabuco aceita convite de Lula e será o ministro da Fazenda
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/luiz-carlos-trabuco-aceita-convite-de-lula-e-sera-o-ministro-da-fazenda-dizem-fontes.ghtml)_
 
+- **[2026-11-26 19:53 UTC]** Quem é Luiz Carlos Trabuco, o banqueiro que comandará a Fazenda no Lula 4
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/quem-e-luiz-carlos-trabuco-o-banqueiro-que-comandara-a-fazenda-no-lula-4/)_
+
