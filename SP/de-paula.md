@@ -38,3 +38,6 @@
 - **[2026-11-11 23:00 UTC]** Festival da Folha tem debate com o chef Luiz Filipe Souza, do estrelado Evvai, e show de Paula Lima neste sábado
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/11/festival-da-folha-tem-debate-com-o-chef-luiz-filipe-souza-do-estrelado-evvai-e-show-de-paula-lima-neste-sabado.shtml)_
 
+- **[2026-11-26 21:04 UTC]** Com guitarrada, brega e beats eletrônicos, ex-The Voice Amanda de Paula lança primeiro álbum, 'Dengosa'
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/11/26/com-guitarrada-brega-e-beats-eletronicos-ex-the-voice-amanda-de-paula-lanca-primeiro-album-dengosa.ghtml)_
+
