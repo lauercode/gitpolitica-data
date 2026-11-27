@@ -338,3 +338,6 @@
 - **[2026-11-27 14:03 UTC]** Como a imigração transformou a Espanha na última década e passou a ser tema fundamental das eleições do país
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/como-a-imigracao-transformou-a-espanha-na-ultima-decada-e-passou-a-ser-tema-fundamental-das-eleicoes-do-pais.shtml)_
 
+- **[2026-11-27 15:23 UTC]** Sánchez desafia pesquisas e diz confiar em reeleição na Espanha
+  _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/27/snchez-desafia-pesquisas-e-diz-confiar-em-reeleio-na-espanha.ghtml)_
+
