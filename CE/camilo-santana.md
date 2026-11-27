@@ -29,3 +29,6 @@
 - **[2026-11-25 23:00 UTC]** Sem Haddad, Camilo Santana ganha força para assumir Casa Civil de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/sem-haddad-camilo-santana-ganha-forca-para-assumir-casa-civil-de-lula.shtml)_
 
+- **[2026-11-27 12:04 UTC]** Após 'sim' de Trabuco, Lula anunciará Camilo Santana na Casa Civil, Alckmin na Segurança e mais; veja próximos passos
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/27/apos-sim-de-trabuco-lula-anunciara-camilo-santana-na-casa-civil-alckmin-na-seguranca-e-mais-veja-proximos-passos.ghtml)_
+
