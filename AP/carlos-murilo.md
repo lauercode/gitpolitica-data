@@ -14,3 +14,6 @@
 - **[2026-11-11 00:10 UTC]** A Fazenda 18: Tina está na roça; Daniel, Fran e Murilo disputam Prova do Fazendeiro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-tina-calamba-esta-na-roca-daniel-erthal-fran-almeida-e-murilo-dias-disputam-prova-do-fazendeiro.shtml)_
 
+- **[2026-11-27 04:00 UTC]** Murilo e Piquerez seguem em tratamento de lesão antes da final
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/murilo-e-piquerez-seguem-em-tratamento-de-lesao-antes-da-final/)_
+
