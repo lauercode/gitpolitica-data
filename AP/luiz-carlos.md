@@ -17,3 +17,6 @@
 - **[2026-11-26 11:32 UTC]** Quem é Luiz Carlos Trabuco Cappi, convidado por Lula para o Ministério da Fazenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/quem-e-luiz-carlos-trabuco-cappi-convidado-por-lula-para-o-ministerio-da-fazenda.shtml)_
 
+- **[2026-11-26 23:00 UTC]** Veja dez desafios para Luiz Carlos Trabuco na Fazenda do governo Lula 4
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-dez-desafios-para-luiz-carlos-trabuco-na-fazenda-do-governo-lula-4.shtml)_
+
