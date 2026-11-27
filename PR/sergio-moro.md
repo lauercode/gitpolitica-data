@@ -182,3 +182,6 @@
 - **[2026-11-26 19:38 UTC]** Sergio Moro anuncia médico com participação na implementação do SUS para Saúde e nova Secretaria de Governo Digital e IA
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/26/sergio-moro-nova-secretaria-secretarios.ghtml)_
 
+- **[2026-11-27 13:16 UTC]** Sergio Moro anuncia nomes para a Casa Civil e a Procuradoria-Geral do Estado do Paraná
+  _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/27/moro-anuncio-casa-civil-procuradoria-geral-parana.ghtml)_
+
