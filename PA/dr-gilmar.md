@@ -203,3 +203,6 @@
 - **[2026-11-26 00:06 UTC]** Defesa de Vorcaro questiona distribuição de pedido sobre o Master a Nunes Marques e pede que análise fique com Gilmar
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/25/defesa-de-vorcaro-questiona-distribuio-de-pedido-sobre-o-master-a-nunes-marques-e-pede-que-anlise-fique-com-gilmar.ghtml)_
 
+- **[2026-11-26 23:00 UTC]** Vorcaro negociou compra de universidade, e parceiro diz ter falado com Gilmar, apontam mensagens
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/vorcaro-negociou-compra-de-universidade-e-parceiro-diz-ter-falado-com-gilmar-apontam-mensagens.shtml)_
+
