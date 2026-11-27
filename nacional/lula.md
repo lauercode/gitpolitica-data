@@ -2822,3 +2822,6 @@
 - **[2026-11-26 23:37 UTC]** Lula escolheu Trabuco porque não tem ideia do que fazer com a economia, diz Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-escolheu-trabuco-porque-nao-tem-ideia-do-que-fazer-com-a-economia-diz-flavio-bolsonaro.shtml)_
 
+- **[2026-11-26 22:46 UTC]** Lula pode convidar ex-presidentes da Argentina para a posse mesmo sem presença de Milei
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-pode-convidar-ex-presidentes-da-argentina-para-a-posse-mesmo-sem-presenca-de-milei.shtml)_
+
