@@ -11209,3 +11209,6 @@
 - **[2026-11-27 18:00 UTC]** Daniella Marques, economista de Flávio, e Sachsida, ex-ministro de Bolsonaro, integram conselho econômico do governo Zucco no RS
   _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/11/27/daniella-marques-economista-de-flavio-e-sachsida-ex-ministro-de-bolsonaro-integram-conselho-economico-do-governo-zucco-no-rs.ghtml)_
 
+- **[2026-11-27 19:44 UTC]** Dino manda suspender R$ 79 milhões em emendas indicadas por Flávio Bolsonaro após ele deixar Brasil
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/27/dino-manda-suspender-imediatamente-emendas-de-flavio-bolsonaro-indicadas-apos-ele-deixar-o-brasil.ghtml)_
+
