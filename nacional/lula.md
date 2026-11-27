@@ -2819,3 +2819,6 @@
 - **[2026-11-26 15:12 UTC]** Democratas pedem que arquivos da Usaid sejam retirados de site; relatório abordou transição Bolsonaro-Lula
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/mundo/democratas-pedem-arquivos-usaid-sejam-retirados-site/)_
 
+- **[2026-11-26 23:37 UTC]** Lula escolheu Trabuco porque não tem ideia do que fazer com a economia, diz Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-escolheu-trabuco-porque-nao-tem-ideia-do-que-fazer-com-a-economia-diz-flavio-bolsonaro.shtml)_
+
