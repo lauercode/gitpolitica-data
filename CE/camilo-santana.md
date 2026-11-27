@@ -32,3 +32,6 @@
 - **[2026-11-27 12:04 UTC]** Após 'sim' de Trabuco, Lula anunciará Camilo Santana na Casa Civil, Alckmin na Segurança e mais; veja próximos passos
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/27/apos-sim-de-trabuco-lula-anunciara-camilo-santana-na-casa-civil-alckmin-na-seguranca-e-mais-veja-proximos-passos.ghtml)_
 
+- **[2026-11-27 16:01 UTC]** Lula convida Camilo Santana para ser ministro da Casa Civil
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/11/27/lula-convida-camilo-santana-para-ser-ministro-da-casa-civil.ghtml)_
+
