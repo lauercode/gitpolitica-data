@@ -71,3 +71,6 @@
 - **[2026-11-11 14:03 UTC]** Áreas de lazer com churrasqueira e piscina improvisada às margens de canal são demolidas em Belém
   _fonte: [G1 - Regiões: Pará](https://g1.globo.com/pa/para/noticia/2026/11/11/estruturas-irregulares-as-margens-do-canal-da-antonio-baena-sao-demolidas-em-belem.ghtml)_
 
+- **[2026-11-26 19:41 UTC]** Áreas de restauração ambiental triplicaram nos últimos cinco anos
+  _fonte: [Radioagência Nacional - Últimas Notícias](https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-11/areas-de-restauracao-ambiental-triplicaram-nos-ultimos-cinco-anos)_
+
