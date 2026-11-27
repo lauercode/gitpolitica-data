@@ -893,3 +893,6 @@
 - **[2026-11-26 20:45 UTC]** Alcolumbre e Motta elogiam Trabuco na Fazenda e destacam busca por crescimento econômico
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/alcolumbre-elogia-trabuco-para-fazenda-e-fala-em-dialogo-para-avancar-com-responsabilidade-fiscal.shtml)_
 
+- **[2026-11-26 23:38 UTC]** Alcolumbre diz receber ‘com muito otimismo’ confirmação de Trabuco para Fazenda
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/alcolumbre-diz-receber-com-muito-otimismo-confirmao-de-trabuco-para-fazenda.ghtml)_
+
