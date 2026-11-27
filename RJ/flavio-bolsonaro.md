@@ -11203,3 +11203,6 @@
 - **[2026-11-27 16:30 UTC]** Dino determina suspensão imediata das emendas individuais de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/dino-determina-suspensao-imediata-das-emendas-individuais-de-flavio-bolsonaro.shtml)_
 
+- **[2026-11-27 20:12 UTC]** Dino suspende R$ 79,3 milhões em emendas de Flávio Bolsonaro
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-suspende-r-793-milhoes-em-emendas-de-flavio-bolsonaro/)_
+
