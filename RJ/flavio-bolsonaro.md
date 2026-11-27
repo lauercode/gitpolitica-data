@@ -11191,3 +11191,6 @@
 - **[2026-11-27 07:00 UTC]** Deputado do PT pede ao STF bloqueio de R$ 79,3 milhões em emendas de Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/deputado-do-pt-pede-ao-stf-bloqueio-de-r-793-milhoes-em-emendas-de-flavio-bolsonaro.shtml)_
 
+- **[2026-11-27 08:00 UTC]** Flávio desgasta-se e perde apoio um mês após fugir para EUA
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/27/flavio-desgasta-se-e-perde-apoio-um-mes-apos-fugir-para-eua.ghtml)_
+
