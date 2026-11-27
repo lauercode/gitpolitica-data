@@ -80,3 +80,6 @@
 - **[2026-11-26 15:13 UTC]** Michelle Bolsonaro reage a memes de sardinha à parmegiana
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/11/michelle-bolsonaro-reage-a-memes-de-sardinha-a-parmegiana.shtml)_
 
+- **[2026-11-27 17:05 UTC]** Bolsonaro melhora e tem 'funcionamento intestinal espontâneo', diz DF Star
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/bolsonaro-melhora-e-tem-funcionamento-intestinal-espontaneo-diz-df-star.shtml)_
+
