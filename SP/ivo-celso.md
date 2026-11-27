@@ -23,3 +23,6 @@
 - **[2026-10-28 19:49 UTC]** Apoio estrangeiro não confere mandato presidencial, diz Celso de Mello sobre Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/apoio-estrangeiro-nao-confere-mandato-presidencial-diz-celso-de-mello-sobre-flavio-bolsonaro/)_
 
+- **[2026-11-27 04:02 UTC]** Celso de Mello critica caravanas de juízes a convite de empresas
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2026/11/celso-de-mello-critica-caravanas-de-juizes-a-convite-de-empresas.shtml)_
+
