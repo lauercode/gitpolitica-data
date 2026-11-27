@@ -23,3 +23,6 @@
 - **[2026-11-25 20:32 UTC]** Café de Alcolumbre com senadoras tem aceno a Tereza Cristina
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/25/cafe-de-alcolumbre-com-senadoras-tem-aceno-a-tereza-cristina-e-debate-de-pautas.ghtml)_
 
+- **[2026-11-27 14:56 UTC]** SP lança 2ª edição da Rota do Café, com mais de cem atrativos para visitar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/11/sp-lanca-2a-edicao-da-rota-do-cafe-com-mais-de-cem-atrativos-para-visitar.shtml)_
+
