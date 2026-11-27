@@ -23,3 +23,6 @@
 - **[2026-11-26 18:58 UTC]** Luiz Carlos Trabuco, do Bradesco, aceita convite de Lula para assumir Ministério da Fazenda
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/luiz-carlos-trabuco-do-bradesco-aceita-convite-de-lula-para-assumir-ministerio-da-fazenda.shtml)_
 
+- **[2026-11-26 23:08 UTC]** Luiz Carlos Trabuco aceita convite de Lula para assumir o Ministério da Fazenda
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/luiz-carlos-trabuco-aceita-convite-de-lula-para-assumir-o-ministerio-da-fazenda/)_
+
