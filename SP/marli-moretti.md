@@ -182,3 +182,6 @@
 - **[2026-11-26 08:00 UTC]** Moretti é cotado para permanecer ministro do Planejamento em Lula 4
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/moretti-e-cotado-para-continuar-no-cargo.ghtml)_
 
+- **[2026-11-27 17:30 UTC]** Manutenção de Moretti no Ministério do Planejamento é vista como praticamente certa, em um aceno de Lula ao PT
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/manutencao-de-moretti-no-ministerio-do-planejamento-e-vista-como-praticamente-certa-em-um-aceno-de-lula-ao-pt.ghtml)_
+
