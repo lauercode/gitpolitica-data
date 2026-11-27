@@ -11,3 +11,6 @@
 - **[2026-11-02 21:32 UTC]** Mercado financeiro tem ‘DNA do autoritarismo’, diz Gleisi Hoffmann
   _fonte: [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/11/02/mercado-financeiro-tem-dna-do-autoritarismo-diz-gleisi-hoffmann.ghtml)_
 
+- **[2026-11-27 04:03 UTC]** Gleisi Hoffmann é cotada para voltar a ter cargo no Planalto após eleição de sacrifício no Paraná
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/gleisi-hoffmann-e-cotada-para-voltar-a-ter-cargo-no-planalto-apos-eleicao-de-sacrificio-no-parana.shtml)_
+
