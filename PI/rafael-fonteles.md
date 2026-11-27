@@ -98,3 +98,6 @@
 - **[2026-11-25 11:19 UTC]** Rafael Fonteles anuncia mais 12 nomes para secretarias e órgãos do Piauí no próximo mandato; veja
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/25/rafael-fonteles-anuncia-nomes-secretarias.ghtml)_
 
+- **[2026-11-27 00:12 UTC]** TRE-PI aprova com ressalvas contas de campanha de Rafael Fonteles; relatora apontou R$ 511 mil em irregularidades
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/11/26/contas-de-campanha-rafael-fonteles.ghtml)_
+
