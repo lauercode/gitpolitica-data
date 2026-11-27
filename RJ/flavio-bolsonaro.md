@@ -11185,3 +11185,6 @@
 - **[2026-11-26 14:58 UTC]** Flávio Bolsonaro tenta derrubar post que o chama de ‘traidor da Pátria’ e ‘Judas’, mas perde na Justiça
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/cartaexpressa/flavio-bolsonaro-tenta-derrubar-post-que-o-chama-de-traidor-da-patria-e-judas-mas-perde-na-justica/)_
 
+- **[2026-11-26 23:37 UTC]** Lula escolheu Trabuco porque não tem ideia do que fazer com a economia, diz Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-escolheu-trabuco-porque-nao-tem-ideia-do-que-fazer-com-a-economia-diz-flavio-bolsonaro.shtml)_
+
