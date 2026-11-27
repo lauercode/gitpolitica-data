@@ -20,3 +20,6 @@
 - **[2026-11-26 23:00 UTC]** Veja dez desafios para Luiz Carlos Trabuco na Fazenda do governo Lula 4
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-dez-desafios-para-luiz-carlos-trabuco-na-fazenda-do-governo-lula-4.shtml)_
 
+- **[2026-11-26 18:58 UTC]** Luiz Carlos Trabuco, do Bradesco, aceita convite de Lula para assumir Ministério da Fazenda
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/luiz-carlos-trabuco-do-bradesco-aceita-convite-de-lula-para-assumir-ministerio-da-fazenda.shtml)_
+
