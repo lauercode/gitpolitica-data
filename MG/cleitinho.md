@@ -272,3 +272,6 @@
 - **[2026-11-26 15:44 UTC]** Lula recebe Cleitinho no Alvorada para debater dívida de Minas com a União
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/lula-recebe-cleitinho-no-alvorada-para-debater-dvida-de-minas-com-a-unio.ghtml)_
 
+- **[2026-11-26 22:00 UTC]** Mourão diz que Cleitinho é pragmático ao se aproximar de Lula, mas que sua posição não é a do Republicanos
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/mourao-diz-que-cleitinho-e-pragmatico-ao-se-aproximar-de-lula-mas-que-sua-posicao-nao-e-a-do-republicanos.shtml)_
+
