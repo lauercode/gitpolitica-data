@@ -11200,3 +11200,6 @@
 - **[2026-11-27 19:27 UTC]** Dino suspende tramitação de emendas de Flávio Bolsonaro para 2027 e pede ao Senado explicações sobre atuação do senador
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/27/dino-suspende-tramitacao-de-emendas-de-flavio-bolsonaro-para-2027-ministro-pediu-que-senado-explique-atuacao-do-senador-de-fora-do-pais.ghtml)_
 
+- **[2026-11-27 16:30 UTC]** Dino determina suspensão imediata das emendas individuais de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/dino-determina-suspensao-imediata-das-emendas-individuais-de-flavio-bolsonaro.shtml)_
+
