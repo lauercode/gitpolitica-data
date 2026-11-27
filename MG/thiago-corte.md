@@ -107,3 +107,6 @@
 - **[2026-11-23 17:07 UTC]** Lula reafirma Messias para vaga no STF em jantar com ministros da Corte e cúpula do Congresso
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/23/lula-reafirma-messias-em-jantar-com-ministros-do-stf-e-cpula-do-congresso-mas-deixa-em-aberto-indicar-mulheres.ghtml)_
 
+- **[2026-11-27 08:00 UTC]** Lula enfrenta cobranças por ministra negra na Corte
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/27/lula-enfrenta-cobrancas-por-ministra-negra-na-corte.ghtml)_
+
