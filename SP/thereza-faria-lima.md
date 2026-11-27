@@ -62,3 +62,6 @@
 - **[2026-11-26 14:38 UTC]** Flerte com a Faria Lima, fantasma de Levy e vontade de Lula: como o PT reage a Trabuco na Fazenda
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/flerte-com-a-faria-lima-fantasma-de-levy-e-vontade-de-lula-como-o-pt-reage-a-trabuco-na-fazenda/)_
 
+- **[2026-11-27 00:18 UTC]** Nome de confiança da Faria Lima, executivo cultivou amizade com Lula à frente do Bradesco
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3n0lrq5kgd1o?at_medium=RSS&at_campaign=rss)_
+
