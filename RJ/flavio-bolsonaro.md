@@ -11194,3 +11194,6 @@
 - **[2026-11-27 08:00 UTC]** Flávio desgasta-se e perde apoio um mês após fugir para EUA
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/27/flavio-desgasta-se-e-perde-apoio-um-mes-apos-fugir-para-eua.ghtml)_
 
+- **[2026-11-27 17:41 UTC]** STF: Dino suspende emendas parlamentares de Flávio Bolsonaro
+  _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/stf-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro)_
+
