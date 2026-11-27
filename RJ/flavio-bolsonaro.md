@@ -11188,3 +11188,6 @@
 - **[2026-11-26 23:37 UTC]** Lula escolheu Trabuco porque não tem ideia do que fazer com a economia, diz Flávio Bolsonaro
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-escolheu-trabuco-porque-nao-tem-ideia-do-que-fazer-com-a-economia-diz-flavio-bolsonaro.shtml)_
 
+- **[2026-11-27 07:00 UTC]** Deputado do PT pede ao STF bloqueio de R$ 79,3 milhões em emendas de Flávio Bolsonaro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/deputado-do-pt-pede-ao-stf-bloqueio-de-r-793-milhoes-em-emendas-de-flavio-bolsonaro.shtml)_
+
