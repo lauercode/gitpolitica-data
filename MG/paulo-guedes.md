@@ -26,3 +26,6 @@
 - **[2026-11-17 22:48 UTC]** Ex-secretário de Paulo Guedes assume secretaria de Tarcísio em SP
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/17/ex-secretrio-de-paulo-guedes-assume-secretaria-de-tarcsio-em-sp.ghtml)_
 
+- **[2026-11-27 07:00 UTC]** Paulo Guedes, Haddad e Durigan: quem foram os últimos ministros da Fazenda do Brasil antes da escolha de Trabuco
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/27/paulo-guedes-haddad-e-durigan-quem-foram-os-ultimos-ministros-da-fazenda-do-brasil-antes-da-escolha-de-trabuco.ghtml)_
+
