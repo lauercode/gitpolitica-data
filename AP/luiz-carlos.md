@@ -38,3 +38,6 @@
 - **[2026-11-27 03:30 UTC]** Luiz Carlos Trabuco no Ministério da Fazenda - O Assunto #1854
   _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/11/27/luiz-carlos-trabuco-no-ministerio-da-fazenda-o-assunto-1854.ghtml)_
 
+- **[2026-11-27 06:16 UTC]** Governo Lula anuncia Luiz Carlos Trabuco para o Ministério da Fazenda
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-anuncia-luiz-carlos-trabuco-para-o-ministerio-da-fazenda/)_
+
