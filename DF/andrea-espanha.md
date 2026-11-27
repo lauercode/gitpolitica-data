@@ -332,3 +332,6 @@
 - **[2026-11-27 07:03 UTC]** Espanha encerra campanha eleitoral; Sánchez tenta frear a direita e a extrema-direita
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/mundo/espanha-encerra-campanha-eleitoral-sanchez-tenta-frear-a-direita-e-a-extrema-direita/)_
 
+- **[2026-11-27 15:54 UTC]** Oito migrantes morrem tentando chegar às ilhas Canárias; Espanha envia militares para conter fluxo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/oito-migrantes-morrem-tentando-chegar-as-ilhas-canarias-espanha-envia-militares-para-conter-fluxo.shtml)_
+
