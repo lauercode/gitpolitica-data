@@ -20,3 +20,6 @@
 - **[2026-11-23 12:43 UTC]** Eva, filha de Angélica e Luciano Huck, estreia no teatro musical aos 14 anos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/eva-filha-de-angelica-e-luciano-huck-estreia-no-teatro-musical-aos-14-anos.shtml)_
 
+- **[2026-11-26 21:42 UTC]** Filho de Luciano Huck e Angélica vira empresário do mercado financeiro
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/11/filho-de-luciano-huck-e-angelica-vira-empresario-do-mercado-financeiro.shtml)_
+
