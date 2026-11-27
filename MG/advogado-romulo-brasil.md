@@ -26,3 +26,6 @@
 - **[2026-11-21 09:00 UTC]** Brasil x Argentina: Atlético-MG e Boca Juniors fazem duelo histórico pela taça da Sul-Americana
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/brasil-x-argentina-atletico-mg-e-boca-juniors-fazem-duelo-historico-pela-taca-da-sul-americana/)_
 
+- **[2026-11-27 03:00 UTC]** Atlético-MG lidera o ranking dos clubes mais endividados do Brasil em 2026; veja a lista
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/27/atletico-mg-lidera-o-ranking-dos-clubes-mais-endividados-do-brasil-em-2026-veja-a-lista.ghtml)_
+
