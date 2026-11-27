@@ -194,3 +194,6 @@
 - **[2026-11-26 19:38 UTC]** Sergio Moro anuncia médico com participação na implementação do SUS para Saúde e nova Secretaria de Governo Digital e IA
   _fonte: [G1 - Regiões: Paraná](https://g1.globo.com/pr/parana/noticia/2026/11/26/sergio-moro-nova-secretaria-secretarios.ghtml)_
 
+- **[2026-11-26 21:32 UTC]** Mpox: Piauí chega a quatro casos confirmados em 2026, aponta Ministério da Saúde
+  _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/26/mpox-piaui-casos-confirmados.ghtml)_
+
