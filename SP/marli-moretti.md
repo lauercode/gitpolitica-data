@@ -185,3 +185,6 @@
 - **[2026-11-27 17:30 UTC]** Manutenção de Moretti no Ministério do Planejamento é vista como praticamente certa, em um aceno de Lula ao PT
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/manutencao-de-moretti-no-ministerio-do-planejamento-e-vista-como-praticamente-certa-em-um-aceno-de-lula-ao-pt.ghtml)_
 
+- **[2026-11-27 13:42 UTC]** Com presença incerta no Lula 4, Moretti classifica como 'excelente' indicação de Trabuco para Fazenda
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/27/com-presenca-incerta-no-lula-4-moretti-classifica-como-excelente-indicacao-de-trabuco-para-a-fazenda.ghtml)_
+
