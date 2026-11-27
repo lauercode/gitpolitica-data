@@ -83,3 +83,6 @@
 - **[2026-11-13 15:53 UTC]** Arthur Henrique anuncia empresário do agro e ex-secretário de Boa Vista para Agricultura de Roraima
   _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/13/arthur-henrique-anuncia-empresario-do-agro-e-ex-secretario-de-boa-vista-para-agricultura-de-roraima.ghtml)_
 
+- **[2026-11-27 18:34 UTC]** MP Eleitoral investiga se servidores da Prefeitura de Boa Vista foram ameaçados a ir em bandeiradas de Arthur Henrique
+  _fonte: [G1 - Regiões: Roraima](https://g1.globo.com/rr/roraima/noticia/2026/11/27/mp-eleitoral-investiga-se-servidores-da-prefeitura-de-boa-vista-foram-coagidos-a-ir-em-bandeiradas-de-arthur-henrique.ghtml)_
+
