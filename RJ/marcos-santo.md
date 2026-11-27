@@ -35,3 +35,6 @@
 - **[2026-11-26 14:58 UTC]** Médico é preso sob suspeita de torturar e obrigar namorada a comer o próprio cabelo no Espírito Santo
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/medico-e-preso-sob-suspeita-de-torturar-e-obrigar-namorada-a-comer-o-proprio-cabelo-no-espirito-santo.shtml)_
 
+- **[2026-11-27 12:55 UTC]** Arismar do Espírito Santo celebra 70 anos com 'Vim da Linda'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musica-em-letras/2026/11/arismar-do-espirito-santo-celebra-70-anos-com-vim-da-linda.shtml)_
+
