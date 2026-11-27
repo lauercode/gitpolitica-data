@@ -26,3 +26,6 @@
 - **[2026-11-27 14:56 UTC]** SP lança 2ª edição da Rota do Café, com mais de cem atrativos para visitar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/11/sp-lanca-2a-edicao-da-rota-do-cafe-com-mais-de-cem-atrativos-para-visitar.shtml)_
 
+- **[2026-11-27 19:26 UTC]** 'Café com as CEOs' reúne executivas em sua 9ª edição, em São Paulo
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/marketing/noticia/2026/11/27/cafe-com-as-ceos-reune-executivas-em-sua-9a-edicao-em-sao-paulo.ghtml)_
+
