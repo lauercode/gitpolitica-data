@@ -29,3 +29,6 @@
 - **[2026-11-20 07:45 UTC]** Governo Tarcísio chega a 161 convênios com cidades da região de São José dos Campos
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-tarcisio-chega-a-161-convenios-com-cidades-da-regiao-de-sao-jose-dos-campos.shtml)_
 
+- **[2026-11-27 04:06 UTC]** Governo Tarcísio corre para pagar emendas após insatisfação da base na Assembleia
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-tarcisio-corre-para-pagar-emendas-apos-insatisfacao-da-base-na-assembleia.shtml)_
+
