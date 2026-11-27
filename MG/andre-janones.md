@@ -368,3 +368,6 @@
 - **[2026-11-25 12:33 UTC]** Cotado para a Secom elogia Janones e diz que PT equilibrou disputa digital em 2026
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/11/cotado-para-a-secom-elogia-janones-e-diz-que-pt-equilibrou-disputa-digital-em-2026.shtml)_
 
+- **[2026-11-27 08:06 UTC]** Janones ganha 23 seguidores no Instagram para cada um de Nikolas após segundo turno
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/11/janones-ganha-23-seguidores-no-instagram-para-cada-um-de-nikolas-apos-segundo-turno.shtml)_
+
