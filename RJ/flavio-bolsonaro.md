@@ -11215,3 +11215,6 @@
 - **[2026-11-27 17:00 UTC]** Senado defende manutenção do salário de Flávio mesmo com político fora do país
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/27/senado-defende-manuteno-do-salrio-de-flvio-mesmo-com-poltico-fora-do-pas.ghtml)_
 
+- **[2026-11-27 16:41 UTC]** Dino suspende R$ 79,4 milhões em emendas de Flávio Bolsonaro
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/dino-suspende-r-794-milhoes-em-emendas-de-flavio-bolsonaro/)_
+
