@@ -11206,3 +11206,6 @@
 - **[2026-11-27 20:12 UTC]** Dino suspende R$ 79,3 milhões em emendas de Flávio Bolsonaro
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/dino-suspende-r-793-milhoes-em-emendas-de-flavio-bolsonaro/)_
 
+- **[2026-11-27 18:00 UTC]** Daniella Marques, economista de Flávio, e Sachsida, ex-ministro de Bolsonaro, integram conselho econômico do governo Zucco no RS
+  _fonte: [G1 - Regiões: Rio Grande do Sul](https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/11/27/daniella-marques-economista-de-flavio-e-sachsida-ex-ministro-de-bolsonaro-integram-conselho-economico-do-governo-zucco-no-rs.ghtml)_
+
