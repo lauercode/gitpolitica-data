@@ -140,3 +140,6 @@
 - **[2026-11-26 00:01 UTC]** Ala de Valdemar admite que PL deve romper com Hugo Motta e teme 'anos de seca' na Câmara
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ala-de-valdemar-admite-que-pl-deve-romper-com-hugo-motta-e-teme-anos-de-seca-na-camara.shtml)_
 
+- **[2026-11-26 20:47 UTC]** PL decide ficar fora de bloco de apoio a Hugo Motta e pode perder poder na Câmara
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/pl-decide-ficar-fora-de-bloco-de-apoio-a-hugo-motta-e-pode-perder-poder-na-camara.ghtml)_
+
