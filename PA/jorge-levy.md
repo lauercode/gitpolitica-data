@@ -17,3 +17,6 @@
 - **[2026-11-26 20:21 UTC]** Governo vê resistência a Trabuco na Fazenda menor que a enfrentada por Levy em 2014
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-ve-resistencia-a-trabuco-na-fazenda-menor-que-a-enfrentada-por-levy-em-2014.shtml)_
 
+- **[2026-11-26 20:02 UTC]** Lindbergh compara escolha de Trabuco para a Fazenda à de Levy no governo Dilma
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lindbergh-compara-escolha-de-trabuco-para-a-fazenda-a-de-levy-no-governo-dilma.shtml)_
+
