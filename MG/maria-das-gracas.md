@@ -20,3 +20,6 @@
 - **[2026-11-26 20:26 UTC]** Tempestade provoca apagões e afeta voos no feriado de Ação de Graças dos EUA
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/26/tempestade-provoca-apages-e-afeta-voos-no-feriado-de-ao-de-graas-dos-eua.ghtml)_
 
+- **[2026-11-26 18:46 UTC]** Em Dia de Ação de Graças, Trump agradece a assassinos e estupradores que deportou
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/em-dia-de-acao-de-gracas-trump-agradece-a-assassinos-e-estupradores-que-deportou.shtml)_
+
