@@ -44,3 +44,6 @@
 - **[2026-11-23 17:59 UTC]** Papa destaca os benefícios espirituais do ciclismo em encontro com campeões
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/11/papa-leao-destaca-os-beneficios-espirituais-do-ciclismo-em-encontro-com-campeoes.shtml)_
 
+- **[2026-11-27 11:13 UTC]** Agenda de empresas: Brava inicia produção em poço do Papa-Terra; CSN anuncia novo diretor financeiro
+  _fonte: [Valor Econômico](https://valor.globo.com/empresas/noticia/2026/11/27/agenda-de-empresas-brava-inicia-producao-em-poco-do-papa-terra-csn-anuncia-novo-diretor-financeiro.ghtml)_
+
