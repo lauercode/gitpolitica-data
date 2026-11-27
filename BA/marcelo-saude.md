@@ -197,3 +197,6 @@
 - **[2026-11-26 21:32 UTC]** Mpox: Piauí chega a quatro casos confirmados em 2026, aponta Ministério da Saúde
   _fonte: [G1 - Regiões: Piauí](https://g1.globo.com/pi/piaui/noticia/2026/11/26/mpox-piaui-casos-confirmados.ghtml)_
 
+- **[2026-11-27 17:09 UTC]** Músico é baleado e morto em tentativa de roubo na Vila da Saúde, zona sul de São Paulo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/musico-e-baleado-e-morto-em-tentativa-de-roubo-na-vila-da-saude-zona-sul-de-sao-paulo.shtml)_
+
