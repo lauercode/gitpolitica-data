@@ -44,3 +44,6 @@
 - **[2026-11-27 04:41 UTC]** Luiz Carlos Trabuco assume Ministério da Fazenda com foco em equilíbrio fiscal
   _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/luiz-carlos-trabuco-assume-ministerio-da-fazenda-com-foco-em-equilibrio-fiscal/)_
 
+- **[2026-11-27 11:52 UTC]** Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda
+  _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/27/nova-reforma-da-previdencia-e-ajuste-fiscal-civico-conheca-as-posicoes-de-luiz-carlos-trabuco-futuro-ministro-da-fazenda.ghtml)_
+
