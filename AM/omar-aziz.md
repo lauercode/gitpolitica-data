@@ -224,3 +224,6 @@
 - **[2026-11-20 22:04 UTC]** Entenda o papel de cada indiciado por uso de imagem da filha de Omar Aziz em material de campanha de Maria do Carmo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/20/entenda-o-papel-de-cada-indiciado-por-uso-de-imagem-da-filha-de-omar-aziz-em-material-de-campanha-de-maria-do-carmo.ghtml)_
 
+- **[2026-11-27 16:34 UTC]** Omar Aziz cobra recursos do Fundo Amazônia para combater queimadas no AM e alerta para cenário pior em 2027
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/27/omar-aziz-cobra-recursos-do-fundo-amazonia-para-combater-queimadas-no-am-e-alerta-para-cenario-pior-em-2027.ghtml)_
+
