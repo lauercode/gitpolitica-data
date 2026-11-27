@@ -899,3 +899,6 @@
 - **[2026-11-27 10:43 UTC]** Alcolumbre deve se reunir com Lula para bater martelo sobre ministro do STF
   _fonte: [G1 - Política:](https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/alcolumbre-deve-se-reunir-com-lula-para-bater-martelo-sobre-ministro-do-stf.ghtml)_
 
+- **[2026-11-27 18:16 UTC]** Tereza Cristina gera desconfiança no PL após reunião com Davi Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tereza-cristina-gera-desconfianca-no-pl-apos-reuniao-com-davi-alcolumbre/)_
+
