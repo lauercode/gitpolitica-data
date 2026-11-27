@@ -11212,3 +11212,6 @@
 - **[2026-11-27 19:44 UTC]** Dino manda suspender R$ 79 milhões em emendas indicadas por Flávio Bolsonaro após ele deixar Brasil
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/27/dino-manda-suspender-imediatamente-emendas-de-flavio-bolsonaro-indicadas-apos-ele-deixar-o-brasil.ghtml)_
 
+- **[2026-11-27 17:00 UTC]** Senado defende manutenção do salário de Flávio mesmo com político fora do país
+  _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/27/senado-defende-manuteno-do-salrio-de-flvio-mesmo-com-poltico-fora-do-pas.ghtml)_
+
