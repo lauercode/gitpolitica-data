@@ -416,3 +416,6 @@
 - **[2026-11-25 19:31 UTC]** Agropecuarista morre após ser atingido por raio em fazenda no interior do Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/25/jovem-morre-apos-ser-atingido-por-raio-em-fazenda-no-interior-do-tocantins.ghtml)_
 
+- **[2026-11-26 23:12 UTC]** Polícia prende um dos suspeitos de assassinar homem a tiros durante partida de sinuca no Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/26/policia-prende-um-dos-suspeitos-de-assassinar-homem-a-tiros-durante-partida-de-sinuca-no-tocantins.ghtml)_
+
