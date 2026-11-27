@@ -41,3 +41,6 @@
 - **[2026-11-27 06:16 UTC]** Governo Lula anuncia Luiz Carlos Trabuco para o Ministério da Fazenda
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/governo-lula-anuncia-luiz-carlos-trabuco-para-o-ministerio-da-fazenda/)_
 
+- **[2026-11-27 04:41 UTC]** Luiz Carlos Trabuco assume Ministério da Fazenda com foco em equilíbrio fiscal
+  _fonte: [Gazeta do Povo - Governo Federal](https://www.gazetadopovo.com.br/economia/luiz-carlos-trabuco-assume-ministerio-da-fazenda-com-foco-em-equilibrio-fiscal/)_
+
