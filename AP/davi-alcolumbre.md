@@ -887,3 +887,6 @@
 - **[2026-11-26 08:00 UTC]** Alcolumbre, Tereza e Marinho intensificam campanha
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/26/alcolumbre-tereza-e-marinho-intensificam-campanha.ghtml)_
 
+- **[2026-11-26 23:21 UTC]** Alcolumbre elogia escolha de Trabuco para o Ministério da Fazenda; Motta fala em construção de uma agenda econômica
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/26/alcolumbre-elogia-escolha-de-trabuco-para-o-ministerio-da-fazenda-e-destaca-habilidade-de-dialogo.ghtml)_
+
