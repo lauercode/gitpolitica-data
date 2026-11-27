@@ -203,3 +203,6 @@
 - **[2026-11-25 18:55 UTC]** Paulinho da Força diz ter se reunido com Moraes e espera aprovação unânime da Lei da Dosimetria no STF
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/25/paulinho-da-forca-diz-ter-se-reunido-com-moraes-apos-eleicoes-e-espera-aprovacao-unanime-da-lei-da-dosimetria-no-stf.ghtml)_
 
+- **[2026-11-27 15:02 UTC]** Força-tarefa internacional da PF identifica 112 crianças vítimas de abuso sexual virtual a partir de ação em SE
+  _fonte: [G1 - Regiões: Sergipe](https://g1.globo.com/se/sergipe/noticia/2026/11/27/forca-tarefa-pf-se-abuso-sexual.ghtml)_
+
