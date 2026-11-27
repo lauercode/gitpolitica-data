@@ -35,3 +35,6 @@
 - **[2026-11-27 16:01 UTC]** Lula convida Camilo Santana para ser ministro da Casa Civil
   _fonte: [G1 - Política:](https://g1.globo.com/economia/blog/ana-flor/post/2026/11/27/lula-convida-camilo-santana-para-ser-ministro-da-casa-civil.ghtml)_
 
+- **[2026-11-27 12:52 UTC]** Lula define Camilo Santana para comandar Casa Civil, dizem aliados
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-define-camilo-santana-para-comandar-casa-civil-dizem-aliados.shtml)_
+
