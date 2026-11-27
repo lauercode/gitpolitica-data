@@ -419,3 +419,6 @@
 - **[2026-11-26 23:12 UTC]** Polícia prende um dos suspeitos de assassinar homem a tiros durante partida de sinuca no Tocantins
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/26/policia-prende-um-dos-suspeitos-de-assassinar-homem-a-tiros-durante-partida-de-sinuca-no-tocantins.ghtml)_
 
+- **[2026-11-27 19:40 UTC]** Famílias do Tocantins gastam quase R$ 37 por mês com jogos e apostas, segundo IBGE
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/27/familias-do-tocantins-gastam-quase-r-37-por-mes-com-jogos-e-apostas-segundo-ibge.ghtml)_
+
