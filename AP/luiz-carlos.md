@@ -35,3 +35,6 @@
 - **[2026-11-26 19:53 UTC]** Quem é Luiz Carlos Trabuco, o banqueiro que comandará a Fazenda no Lula 4
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/quem-e-luiz-carlos-trabuco-o-banqueiro-que-comandara-a-fazenda-no-lula-4/)_
 
+- **[2026-11-27 03:30 UTC]** Luiz Carlos Trabuco no Ministério da Fazenda - O Assunto #1854
+  _fonte: [G1 - Política:](https://g1.globo.com/podcast/o-assunto/noticia/2026/11/27/luiz-carlos-trabuco-no-ministerio-da-fazenda-o-assunto-1854.ghtml)_
+
