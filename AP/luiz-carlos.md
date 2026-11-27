@@ -50,3 +50,6 @@
 - **[2026-11-27 11:00 UTC]** Motta elogia escolha de Luiz Carlos Trabuco para o Ministério da Fazenda
   _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1323682-motta-elogia-escolha-de-luiz-carlos-trabuco-para-o-ministerio-da-fazenda)_
 
+- **[2026-11-27 18:20 UTC]** O que Luiz Carlos Trabuco, futuro ministro da Fazenda, já disse sobre juros, ajuste fiscal e gastos sociais
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/27/o-que-luiz-carlos-trabuco-futuro-ministro-da-fazenda-ja-disse-sobre-juros-ajuste-fiscal-e-gastos-sociais.ghtml)_
+
