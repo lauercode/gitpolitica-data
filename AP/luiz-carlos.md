@@ -26,3 +26,6 @@
 - **[2026-11-26 23:08 UTC]** Luiz Carlos Trabuco aceita convite de Lula para assumir o Ministério da Fazenda
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/luiz-carlos-trabuco-aceita-convite-de-lula-para-assumir-o-ministerio-da-fazenda/)_
 
+- **[2026-11-26 22:17 UTC]** Quem é Luiz Carlos Trabuco, novo ministro da Fazenda de Lula
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/economia/quem-e-luiz-carlos-trabuco-cotado-para-assumir-o-ministerio-da-fazenda-no-governo-lula/)_
+
