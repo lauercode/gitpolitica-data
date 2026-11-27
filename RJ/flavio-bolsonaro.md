@@ -11197,3 +11197,6 @@
 - **[2026-11-27 17:41 UTC]** STF: Dino suspende emendas parlamentares de Flávio Bolsonaro
   _fonte: [Agência Brasil - Política](https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/stf-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro)_
 
+- **[2026-11-27 19:27 UTC]** Dino suspende tramitação de emendas de Flávio Bolsonaro para 2027 e pede ao Senado explicações sobre atuação do senador
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/27/dino-suspende-tramitacao-de-emendas-de-flavio-bolsonaro-para-2027-ministro-pediu-que-senado-explique-atuacao-do-senador-de-fora-do-pais.ghtml)_
+
