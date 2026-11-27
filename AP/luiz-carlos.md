@@ -47,3 +47,6 @@
 - **[2026-11-27 11:52 UTC]** Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda
   _fonte: [G1 - Política:](https://g1.globo.com/economia/noticia/2026/11/27/nova-reforma-da-previdencia-e-ajuste-fiscal-civico-conheca-as-posicoes-de-luiz-carlos-trabuco-futuro-ministro-da-fazenda.ghtml)_
 
+- **[2026-11-27 11:00 UTC]** Motta elogia escolha de Luiz Carlos Trabuco para o Ministério da Fazenda
+  _fonte: [Agência Câmara - Últimas Notícias](https://www.camara.leg.br/noticias/1323682-motta-elogia-escolha-de-luiz-carlos-trabuco-para-o-ministerio-da-fazenda)_
+
