@@ -50,3 +50,6 @@
 - **[2026-10-24 21:00 UTC]** Michelle Bolsonaro e Bia Kicis vão indicar secretários de novo governo Celina no DF
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/michelle-bolsonaro-e-bia-kicis-vao-indicar-secretarios-de-novo-governo-celina-no-df.shtml)_
 
+- **[2026-11-27 18:55 UTC]** Oposição não presidir Senado é ameaça à vida e à família, diz Bia Kicis
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/oposicao-nao-presidir-senado-e-ameaca-a-vida-e-a-familia-diz-bia-kicis/)_
+
