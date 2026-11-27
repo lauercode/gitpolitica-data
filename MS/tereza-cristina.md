@@ -92,3 +92,6 @@
 - **[2026-11-25 20:32 UTC]** Café de Alcolumbre com senadoras tem aceno a Tereza Cristina
   _fonte: [Valor Econômico](https://valor.globo.com/politica/noticia/2026/11/25/cafe-de-alcolumbre-com-senadoras-tem-aceno-a-tereza-cristina-e-debate-de-pautas.ghtml)_
 
+- **[2026-11-27 18:16 UTC]** Tereza Cristina gera desconfiança no PL após reunião com Davi Alcolumbre
+  _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/republica/tereza-cristina-gera-desconfianca-no-pl-apos-reuniao-com-davi-alcolumbre/)_
+
