@@ -11218,3 +11218,6 @@
 - **[2026-11-27 16:41 UTC]** Dino suspende R$ 79,4 milhões em emendas de Flávio Bolsonaro
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/politica/dino-suspende-r-794-milhoes-em-emendas-de-flavio-bolsonaro/)_
 
+- **[2026-11-27 19:23 UTC]** Flávio Dino suspende emendas parlamentares de Flávio Bolsonaro
+  _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/flavio-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro)_
+
