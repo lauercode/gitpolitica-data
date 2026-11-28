@@ -2825,3 +2825,6 @@
 - **[2026-11-26 22:46 UTC]** Lula pode convidar ex-presidentes da Argentina para a posse mesmo sem presença de Milei
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/lula-pode-convidar-ex-presidentes-da-argentina-para-a-posse-mesmo-sem-presenca-de-milei.shtml)_
 
+- **[2026-11-27 23:00 UTC]** Kassio atendeu a 68% dos pedidos de Flávio no TSE, e Estela Aranha, a 67% dos de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/kassio-atendeu-a-68-dos-pedidos-de-flavio-no-tse-e-estela-aranha-a-67-dos-de-lula.shtml)_
+
