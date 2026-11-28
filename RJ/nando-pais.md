@@ -89,3 +89,6 @@
 - **[2026-11-14 19:11 UTC]** Pais esquecem filho de 7 anos a bordo de avião após o desembarque, e piloto avisa torre de controle
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/pais-esquecem-filho-de-7-anos-a-bordo-de-aviao-apos-o-desembarque-e-piloto-avisa-torre-de-controle.shtml)_
 
+- **[2026-11-27 23:36 UTC]** Pais são presos suspeitos de manter filha em cárcere privado e sob tortura por 15 anos, em João Pessoa
+  _fonte: [G1 - Regiões: Paraíba](https://g1.globo.com/pb/paraiba/noticia/2026/11/27/policia-civil-investiga-suspeita-de-pais-manterem-filha-em-carcere-privado-em-joao-pessoa.ghtml)_
+
