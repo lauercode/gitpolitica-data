@@ -11221,3 +11221,6 @@
 - **[2026-11-27 19:23 UTC]** Flávio Dino suspende emendas parlamentares de Flávio Bolsonaro
   _fonte: [Radioagência Nacional - Política](https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/flavio-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro)_
 
+- **[2026-11-27 23:00 UTC]** Kassio atendeu a 68% dos pedidos de Flávio no TSE, e Estela Aranha, a 67% dos de Lula
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/kassio-atendeu-a-68-dos-pedidos-de-flavio-no-tse-e-estela-aranha-a-67-dos-de-lula.shtml)_
+
