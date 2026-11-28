@@ -68,3 +68,6 @@
 - **[2026-11-27 22:00 UTC]** 'Se a Faria Lima está comemorando, o povo vai chorar', diz leitor sobre queda do dólar
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/se-a-faria-lima-esta-comemorando-o-povo-vai-chorar-diz-leitor-sobre-queda-do-dolar.shtml)_
 
+- **[2026-11-28 11:00 UTC]** O que é a Faria Lima? Conheça por que avenida virou sinônimo do mercado financeiro brasileiro
+  _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/28/o-que-e-a-faria-lima-conheca-por-que-avenida-virou-sinonimo-do-mercado-financeiro-brasileiro.ghtml)_
+
