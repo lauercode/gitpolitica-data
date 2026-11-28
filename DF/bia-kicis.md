@@ -53,3 +53,6 @@
 - **[2026-11-27 18:55 UTC]** Oposição não presidir Senado é ameaça à vida e à família, diz Bia Kicis
   _fonte: [Gazeta do Povo - República](https://www.gazetadopovo.com.br/vida-e-cidadania/oposicao-nao-presidir-senado-e-ameaca-a-vida-e-a-familia-diz-bia-kicis/)_
 
+- **[2026-11-27 22:56 UTC]** Bia Kicis defende comando do Senado para blindar pautas conservadoras
+  _fonte: [Gazeta do Povo - Congresso Nacional](https://www.gazetadopovo.com.br/vida-e-cidadania/bia-kicis-defende-comando-do-senado-para-blindar-pautas-conservadoras/)_
+
