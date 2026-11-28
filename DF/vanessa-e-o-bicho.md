@@ -23,3 +23,6 @@
 - **[2026-11-23 15:59 UTC]** Bicho-preguiça é flagrado em poste de condomínio em Manaus e acaba resgatado e devolvido à natureza; VÍDEO
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/23/bicho-preguica-e-flagrado-em-poste-de-condominio-em-manaus-e-acaba-resgatado-e-devolvido-a-natureza-video.ghtml)_
 
+- **[2026-11-28 08:00 UTC]** Bicho-preguiça fêmea morre abraçada ao filhote no meio de queimada no Sul do AP
+  _fonte: [G1 - Regiões: Amapá](https://g1.globo.com/ap/amapa/noticia/2026/11/28/bicho-preguica-femea-morre-abracada-ao-filhote-no-meio-de-queimada-no-sul-do-ap.ghtml)_
+
