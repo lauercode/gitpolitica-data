@@ -53,3 +53,6 @@
 - **[2026-11-27 18:20 UTC]** O que Luiz Carlos Trabuco, futuro ministro da Fazenda, já disse sobre juros, ajuste fiscal e gastos sociais
   _fonte: [Valor Econômico](https://valor.globo.com/financas/noticia/2026/11/27/o-que-luiz-carlos-trabuco-futuro-ministro-da-fazenda-ja-disse-sobre-juros-ajuste-fiscal-e-gastos-sociais.ghtml)_
 
+- **[2026-11-28 07:02 UTC]** Luiz Carlos da Vila recebe homenagem no Cena Musical, da TV Brasil
+  _fonte: [Agência Brasil - Últimas Notícias](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/luiz-carlos-da-vila-recebe-homenagem-no-cena-musical-da-tv-brasil)_
+
