@@ -83,3 +83,6 @@
 - **[2026-11-04 22:22 UTC]** Delegado que prendeu ex-chefe de gabinete de David Almeida assume inquérito que investiga Professora Maria do Carmo
   _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/04/delegado-que-prendeu-ex-chefe-de-gabinete-de-david-almeida-assume-inquerito-que-investiga-professora-maria-do-carmo.ghtml)_
 
+- **[2026-11-27 22:32 UTC]** PF indicia genro de David Almeida por suspeita de compra de votos em 2024; ex-prefeito não foi indiciado
+  _fonte: [G1 - Regiões: Amazonas](https://g1.globo.com/am/amazonas/noticia/2026/11/27/pf-indicia-genro-de-david-almeida-por-suspeita-de-compra-de-votos-em-2024-ex-prefeito-nao-foi-indiciado.ghtml)_
+
