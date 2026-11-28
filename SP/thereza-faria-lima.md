@@ -65,3 +65,6 @@
 - **[2026-11-27 00:18 UTC]** Nome de confiança da Faria Lima, executivo cultivou amizade com Lula à frente do Bradesco
   _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/c3n0lrq5kgd1o?at_medium=RSS&at_campaign=rss)_
 
+- **[2026-11-27 22:00 UTC]** 'Se a Faria Lima está comemorando, o povo vai chorar', diz leitor sobre queda do dólar
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/se-a-faria-lima-esta-comemorando-o-povo-vai-chorar-diz-leitor-sobre-queda-do-dolar.shtml)_
+
