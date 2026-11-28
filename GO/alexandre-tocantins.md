@@ -422,3 +422,6 @@
 - **[2026-11-27 19:40 UTC]** Famílias do Tocantins gastam quase R$ 37 por mês com jogos e apostas, segundo IBGE
   _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/27/familias-do-tocantins-gastam-quase-r-37-por-mes-com-jogos-e-apostas-segundo-ibge.ghtml)_
 
+- **[2026-11-27 23:48 UTC]** Polícia encontra 27 kg de cocaína enterrados em área de mata no interior do Tocantins
+  _fonte: [G1 - Regiões: Tocantins](https://g1.globo.com/to/tocantins/noticia/2026/11/27/policia-encontra-27-kg-de-cocaina-enterrados-em-area-de-mata-no-interior-do-tocantins.ghtml)_
+
