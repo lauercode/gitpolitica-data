@@ -2828,3 +2828,6 @@
 - **[2026-11-27 23:00 UTC]** Kassio atendeu a 68% dos pedidos de Flávio no TSE, e Estela Aranha, a 67% dos de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/kassio-atendeu-a-68-dos-pedidos-de-flavio-no-tse-e-estela-aranha-a-67-dos-de-lula.shtml)_
 
+- **[2026-11-28 11:08 UTC]** Fundação FHC lamenta declaração de Lula, que chamou ex-presidente de 'morto-vivo'
+  _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/28/fundacao-fhc-lamenta-fala-de-lula-que-chamou-ex-presidente-de-morto-vivo.ghtml)_
+
