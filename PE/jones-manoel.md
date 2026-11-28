@@ -14,3 +14,6 @@
 - **[2026-10-06 14:33 UTC]** Quem é Jones Manoel, influenciador comunista eleito deputado que quer participar da campanha digital de Lula
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/quem-e-jones-manoel-influenciador-comunista-eleito-deputado-que-quer-participar-da-campanha-digital-de-lula.shtml)_
 
+- **[2026-11-28 10:21 UTC]** Lula está cometendo o mesmo erro de Dilma em 2015, diz Jones Manoel
+  _fonte: [BBC Brasil - Primeira Página](https://www.bbc.com/portuguese/articles/cmp3e7ke9epzo?at_medium=RSS&at_campaign=rss)_
+
