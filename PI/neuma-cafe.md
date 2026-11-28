@@ -29,3 +29,6 @@
 - **[2026-11-27 19:26 UTC]** 'Café com as CEOs' reúne executivas em sua 9ª edição, em São Paulo
   _fonte: [Valor Econômico](https://valor.globo.com/empresas/marketing/noticia/2026/11/27/cafe-com-as-ceos-reune-executivas-em-sua-9a-edicao-em-sao-paulo.ghtml)_
 
+- **[2026-11-28 08:00 UTC]** Café raro com árvores de 11 metros e sabor de chá-verde é estudado na Amazônia; conheça
+  _fonte: [G1 - Regiões: Pará](https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/28/cafe-raro-com-arvores-de-11-metros-e-sabor-de-cha-verde-e-estudado-na-amazonia-conheca.ghtml)_
+
