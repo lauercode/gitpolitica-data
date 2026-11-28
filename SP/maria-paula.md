@@ -8,3 +8,6 @@
 - **[2026-09-18 21:00 UTC]** Concerto gratuito pela paz reúne orquestra sinfônica e Maria Paula em Brasília
   _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/concerto-gratuito-pela-paz-reune-orquestra-sinfonica-e-maria-paula-em-brasilia.shtml)_
 
+- **[2026-11-27 19:02 UTC]** Maria Paula comemora aniversário com caminhada pela paz em Brasília
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/maria-paula-comemora-aniversario-com-caminhada-pela-paz-em-brasilia.shtml)_
+
