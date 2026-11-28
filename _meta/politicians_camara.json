@@ -2626,6 +2626,17 @@
     "camara_id": 204508
   },
   {
+    "slug": "inacio-arruda",
+    "name": "Inácio Arruda",
+    "role": "Deputado(a) Federal (CE)",
+    "party": "PCdoB",
+    "aliases": [
+      "Inácio Arruda",
+      "Arruda"
+    ],
+    "camara_id": 74295
+  },
+  {
     "slug": "ismael",
     "name": "Ismael",
     "role": "Deputado(a) Federal (SC)",
@@ -2864,17 +2875,6 @@
       "Cirilo"
     ],
     "camara_id": 141464
-  },
-  {
-    "slug": "jose-guimaraes",
-    "name": "José Guimarães",
-    "role": "Deputado(a) Federal (CE)",
-    "party": "PT",
-    "aliases": [
-      "José Guimarães",
-      "Guimarães"
-    ],
-    "camara_id": 141470
   },
   {
     "slug": "jose-medeiros",
