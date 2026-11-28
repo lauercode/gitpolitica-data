@@ -341,3 +341,6 @@
 - **[2026-11-27 15:23 UTC]** Sánchez desafia pesquisas e diz confiar em reeleição na Espanha
   _fonte: [Valor Econômico](https://valor.globo.com/mundo/noticia/2026/11/27/snchez-desafia-pesquisas-e-diz-confiar-em-reeleio-na-espanha.ghtml)_
 
+- **[2026-11-27 15:54 UTC]** Quinze migrantes morrem tentando chegar às ilhas Canárias; Espanha envia militares para conter fluxo
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/oito-migrantes-morrem-tentando-chegar-as-ilhas-canarias-espanha-envia-militares-para-conter-fluxo.shtml)_
+
