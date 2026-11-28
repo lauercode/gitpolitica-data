@@ -17,3 +17,6 @@
 - **[2026-11-22 23:31 UTC]** Portugal, Uruguai e mais seis seleções avançam na Copa do Mundo da Vela, a SSL Gold Cup Rio 2026
   _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/portugal-uruguai-e-mais-seis-selecoes-avancam-na-copa-do-mundo-da-vela-a-ssl-gold-cup-rio-2026/)_
 
+- **[2026-11-28 00:10 UTC]** Tripulante cai no mar, Hungria se recupera e vence regata na Copa do Mundo da Vela no Rio
+  _fonte: [Valor Econômico](https://www.cartacapital.com.br/esporte/tripulante-cai-no-mar-hungria-se-recupera-e-vence-regata-na-copa-do-mundo-da-vela-no-rio/)_
+
