@@ -2831,3 +2831,6 @@
 - **[2026-11-28 11:08 UTC]** Fundação FHC lamenta declaração de Lula, que chamou ex-presidente de 'morto-vivo'
   _fonte: [G1 - Política:](https://g1.globo.com/politica/noticia/2026/11/28/fundacao-fhc-lamenta-fala-de-lula-que-chamou-ex-presidente-de-morto-vivo.ghtml)_
 
+- **[2026-11-28 01:19 UTC]** Fundação FHC lamenta fala de Lula que chamou ex-presidente de 'morto-vivo'
+  _fonte: [Folha de S.Paulo - Em cima da hora](https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fundacao-fhc-lamenta-fala-de-lula-que-chamou-ex-presidente-de-morto-vivo.shtml)_
+
